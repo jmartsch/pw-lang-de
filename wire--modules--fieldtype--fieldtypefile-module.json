@@ -1,0 +1,42 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile-module",
+    "translations": {
+        "abc5c518b64936be795f070ed2adf84f": {
+            "text": "Erlaubte Dateiformate"
+        },
+        "b3f2fb9ff683cc6bb4e353a8c443260c": {
+            "text": "Alle erlaubten Dateiformate eintragen. Jedes Format mit einem Leerzeichen trennen. Keine Punkte oder Kommas. Es wird nicht wird zwischen Gro\u00df- und Kleinschreibung unterschieden."
+        },
+        "6231c154d164f467041abbb0151816dc": {
+            "text": "Maximale erlaubte Anzahl an Dateien"
+        },
+        "3fc82a72e38b059cea88dcfbdaeafff8": {
+            "text": "Tags verwenden?"
+        },
+        "3a37a820d95c0f598d6ea38f34716c31": {
+            "text": "Falls ausgew\u00e4hlt, enth\u00e4lt das Feld auch eine Option f\u00fcr Tags zus\u00e4tzlich zur Beschreibung."
+        },
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Eingabefeld Typ"
+        },
+        "23f8d89e38fb131310ab885bad04b966": {
+            "text": "Der genutzte Feldtyp zur Sammeleingabe."
+        },
+        "b07a8c03dba15d6e4c3ebf8c555c749a": {
+            "text": "Entities in Datei Beschreibungen und Tags kodieren? (empfohlen)"
+        },
+        "427422c500305acf3cb1d09967f3b5e3": {
+            "text": "F\u00fcr unbegrenzte Menge 0 eingeben. Wenn Sie 1 eingeben, wird die API dieses Feld als Einzeleingabe statt eines Arrays werten (wenn das Page's outputFormatting standardm\u00e4\u00dfig aktiv ist)."
+        },
+        "5a95a17c63903db6b24e1e8f2110a661": {
+            "text": "Falls ausgew\u00e4hlt, werden Entities im Feld der Dateibeschreibung kodiert (wenn das Page's outputFormatting standardm\u00e4\u00dfig aktiv ist)."
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Dateien"
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "Feld welches eine oder mehr Dateien speichert"
+        }
+    }
+}
