@@ -99,7 +99,7 @@
             "text": "Gesuchte(s) Feld(er) in der Admin Suche (Ajax) Modus"
         },
         "6cfd6f09104bdac467bb40624aae4e9c": {
-            "text": "Wenn mehr wie ein Feld angegeben, bitte mit Leerzeichen trennen."
+            "text": "Wenn mehr als ein Feld angegeben, bitte mit Leerzeichen trennen."
         },
         "bfe2201d3b973b0d8c3c5b0ea08e1736": {
             "text": "Namen f\u00fcr ein oder mehrere textbasierte Felder zur Suche eintragen. Mehrere Eintr\u00e4ge mit Leerzeichen trennen."
@@ -109,3 +109,4 @@
         }
     }
 }
+

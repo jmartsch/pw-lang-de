@@ -657,7 +657,7 @@
             "text": "**Bedingungen, welche f\u00fcr diese Funktion notwendig sind**"
         },
         "635a2459897d3f0072993713558c84b0": {
-            "text": "1. Sie m\u00fcssen ein Eltern-Template ausw\u00e4hlen (siehe oben: \"Zul\u00e4ssige(s) Template(s) f\u00fcr Elternseiten\"). Falls mehr wie 1 gew\u00e4hlt, wird nur das erste verwendet."
+            "text": "1. Sie m\u00fcssen ein Eltern-Template ausw\u00e4hlen (siehe oben: \"Zul\u00e4ssige(s) Template(s) f\u00fcr Elternseiten\"). Falls mehr als 1 gew\u00e4hlt, wird nur das erste verwendet."
         },
         "b14d306525e8d6e9927d577a59064048": {
             "text": "2. Das gew\u00e4hlte Eltern-Template muss dieses Template als ein f\u00fcr Unterseiten erlaubtes definiert haben."
@@ -679,3 +679,4 @@
         }
     }
 }
+
