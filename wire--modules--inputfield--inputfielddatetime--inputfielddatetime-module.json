@@ -75,10 +75,10 @@
             "text": "Zeitspanne in Jahren im Date-Picker"
         },
         "062e5153dad257d2a6a1560033719e9b": {
-            "text": "Falls der Date-Picker verwendet wird, bietet er eine ausw\u00e4hlbare Zeitspanne in Jahren plus\/minus 10 Jahre ausgehend vom aktuellen Jahr. Geben Sie die Anzahl Jahre vor und nach dem aktuellen, um die sie diese Auswahl erweitern oder reduzieren m\u00f6chten, an. Das Format ist \"-30:+20\", was zum Beispiel 30 Jahre vor und 20 Jahre nach diesem Jahr bedeuten w\u00fcrde."
+            "text": "Falls der Date-Picker verwendet wird, bietet er eine ausw\u00e4hlbare Zeitspanne in Jahren plus\/minus zehn Jahre ausgehend vom aktuellen Jahr. Geben Sie die Anzahl Jahre vor und nach dem aktuellen, um die sie diese Auswahl erweitern oder reduzieren m\u00f6chten, an. Das Format ist \"-30:+20\", was zum Beispiel 30 Jahre vor und 20 Jahre nach diesem Jahr bedeuten w\u00fcrde."
         },
         "26fe23eafa82406bc0d0cd216a734d73": {
-            "text": "Falls kein Wert angegeben wird, ist der Standardwert \"-10:+10\", es w\u00e4ren also im Date-Picker 10 Jahre vor und nach dem aktuellen Jahr eingestellt."
+            "text": "Falls kein Wert angegeben wird, ist der Standardwert \"-10:+10\", es w\u00e4ren also im Date-Picker zehn Jahre vor und nach dem aktuellen Jahr eingestellt."
         },
         "4dc865ad9218b271e212f2656a4415e4": {
             "text": "Format f\u00fcr Datum"
