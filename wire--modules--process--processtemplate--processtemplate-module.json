@@ -582,19 +582,19 @@
             "text": "Templates hinzuf\u00fcgen"
         },
         "adf92855ccc9fe04707fd12688a17c59": {
-            "text": "Dieses Template wird von 1 Seite verwendet"
+            "text": "Dieses Template wird von einer Seite verwendet"
         },
         "d26c2f7eb253b0202c2769f3dd232d96": {
             "text": "Dieses Template wird von %d Seiten verwendet"
         },
         "14bcc27345b2325a5e492384a734c1aa": {
-            "text": "Template wird von 1 Seite verwendet"
+            "text": "Template wird von einer Seite verwendet"
         },
         "957ba77c721f931f1ad38ed47b98fd0d": {
             "text": "Template wird von %d Seiten verwendet"
         },
         "65f037a0e08b94d9e42932b68c5eaf29": {
-            "text": "Die Feld-Gruppe dieses Templates wird von 1 weiteren Template verwendet"
+            "text": "Die Feld-Gruppe dieses Templates wird von einem weiteren Template verwendet"
         },
         "18dec3122ea08276dd94476904bcef7b": {
             "text": "Die Feld-Gruppe dieses Templates wird von %d weiteren Templates verwendet"
@@ -657,7 +657,7 @@
             "text": "**Bedingungen, welche f\u00fcr diese Funktion notwendig sind**"
         },
         "635a2459897d3f0072993713558c84b0": {
-            "text": "1. Sie m\u00fcssen ein Eltern-Template ausw\u00e4hlen (siehe oben: \"Zul\u00e4ssige(s) Template(s) f\u00fcr Elternseiten\"). Falls mehr wie 1 gew\u00e4hlt, wird nur das erste verwendet."
+            "text": "1. Sie m\u00fcssen ein Eltern-Template ausw\u00e4hlen (siehe oben: \"Zul\u00e4ssige(s) Template(s) f\u00fcr Elternseiten\"). Falls mehr als eins gew\u00e4hlt, wird nur das erste verwendet."
         },
         "b14d306525e8d6e9927d577a59064048": {
             "text": "2. Das gew\u00e4hlte Eltern-Template muss dieses Template als ein f\u00fcr Unterseiten erlaubtes definiert haben."
@@ -679,3 +679,4 @@
         }
     }
 }
+
