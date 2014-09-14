@@ -11,9 +11,6 @@
         "8ff1c082c6dbbbb942d86d0620b18aca": {
             "text": "Systemsprachen verwalten"
         },
-        "8f8c1687544a612bb0db27f2e24ab122": {
-            "text": "Neue Datei \u00fcbersetzen"
-        },
         "1514a1c310fe6db41aeda8f1b1006713": {
             "text": "Bearbeiten"
         },
@@ -25,6 +22,12 @@
         },
         "3a08e2e340ab29fd9263af48193cbf8e": {
             "text": "Sprachen"
+        },
+        "4b58cc72fab0b5fb596e9f02091ec0fe": {
+            "text": "Datei \u00fcbersetzen"
+        },
+        "9b73fd4d710e72a212bfc7dbe5692405": {
+            "text": "ZIP herunterladen"
         }
     }
 }

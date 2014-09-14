@@ -3,7 +3,10 @@
     "textdomain": "wire--modules--languagesupport--languagetabs-module",
     "translations": {
         "4ee6b922de4a3b1d79036b200520ee37": {
-            "text": "Sprachen Tabs erweitern"
+            "text": "Sprachen in Tabs erweitern"
+        },
+        "c667865dc18e9366c835d279c3192aea": {
+            "text": "Zusammenklappen\/\u00c4ndern auf Tabs"
         }
     }
 }

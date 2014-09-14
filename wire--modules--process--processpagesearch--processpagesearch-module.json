@@ -105,7 +105,7 @@
             "text": "Namen f\u00fcr ein oder mehrere textbasierte Felder zur Suche eintragen. Mehrere Eintr\u00e4ge mit Leerzeichen trennen."
         },
         "cc10d38a176ad7cde1228d2e22f1122b": {
-            "text": "Wir empfehlen dies auf h\u00f6chstens 1 oder 2 Felder zu begrenzen, da das Ergebnis ein autocomplete Feld live bef\u00fcllt. Typischerweise sucht man nur nach dem 'title'."
+            "text": "Wir empfehlen dies auf h\u00f6chstens ein oder zwei Felder zu begrenzen, da das Ergebnis ein autocomplete Feld live bef\u00fcllt. Typischerweise sucht man nur nach dem 'title'."
         }
     }
 }

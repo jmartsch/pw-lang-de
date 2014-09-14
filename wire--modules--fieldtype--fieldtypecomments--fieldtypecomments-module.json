@@ -109,6 +109,12 @@
         },
         "d856205677eeb676b9b04c173a231c6b": {
             "text": "E-Mail"
+        },
+        "e90234905413e689d67361b8f618b63f": {
+            "text": "Unauff\u00e4llig speichern?"
+        },
+        "d2c1e7bd67d4253ff76376ed718cf94f": {
+            "text": "Wenn markiert, wird beim hinzuf\u00fcgen eines Kommentars der Zeitpunkt der Seiten\u00e4nderung und der Benutzer nicht aktualisiert."
         }
     }
 }

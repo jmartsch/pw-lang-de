@@ -116,15 +116,6 @@
         "5975f55a2bcd254c58d9fe16d7a21417": {
             "text": "Falls Sie neue Module unter \/site\/modules\/ abgelegt haben, klicken sie diesen Button um sie zu finden."
         },
-        "ccb108ad977122d69f8bbc7758997ff2": {
-            "text": "Stellen Sie sicher, dass das Verzeichnis \/site\/assets\/cache\/ Schreibrechte f\u00fcr PHP hat."
-        },
-        "cfe1ee62b0efc597562d0b78c5196d47": {
-            "text": "Stellen Sie sicher, dass das Verzeichnis \/site\/modules\/ Schreibrechte f\u00fcr PHP hat."
-        },
-        "34484ec9b680d2670f6c0d0a6ea5cb5a": {
-            "text": "Die ZipArchive Klasse wird ben\u00f6tigt und ihr PHP hat dies nicht."
-        },
         "2b0c95ea68acdfcd4e4d995f89bf3b92": {
             "text": "Dieses Modul scheint nicht kompatibel mit der verwendeten ProcessWire Version zu sein. Es kann trotzdem funktionieren, aber Sie sollten den Modul-Autor kontaktieren."
         },
@@ -144,7 +135,7 @@
             "text": "Support Seite"
         },
         "baa2c21bbd137636014e8f357698761e": {
-            "text": "Bevor Sie fortfahren: stellen Sie sicher, ob Sie der Quelle dieser ZIP Datei vertrauen!"
+            "text": "Bevor Sie fortfahren: vergewissern Sie sich, ob diese ZIP-Datei von einer vertrauensvollen Quelle stammt!"
         },
         "2d30ce478ce5e77c288d80f804617331": {
             "text": "Dieses Modul hat keine festgelegte URL und muss manuell installiert werden:"
@@ -153,25 +144,7 @@
             "text": "Abbrechen"
         },
         "013ba726c842150ec33822c5a6fc6196": {
-            "text": "Download abgebrochen"
-        },
-        "99c204fe00415e2086d5a54dc4f9f388": {
-            "text": "Ziel-Verzeichnis existiert bereits und ist nicht schreibbar:"
-        },
-        "6d661071b2efa16ffc2a724ba033bb2f": {
-            "text": "Heruntergeladenene ZIP Datei:"
-        },
-        "2a3cd9a18eaf3b274b4fa40068fff003": {
-            "text": "Dateien erfolgreich in neues Verzeichnis kopiert:"
-        },
-        "5a3527463defe3c1e1ab721c4942f331": {
-            "text": "Kann Verzeichnis nicht erstellen:"
-        },
-        "6d1a22fe4861f1572d6d7f526e05ccf5": {
-            "text": "Kann heruntergeladene tempor\u00e4re Dateien nicht l\u00f6schen:"
-        },
-        "fe0b9036f4efed3a5dc0ce583b1ed5c1": {
-            "text": "Es gibt ein Problem mit dem herunterladen oder schreiben des Moduls."
+            "text": "Herunterladen abgebrochen"
         },
         "321a272463ceb9661e0951f1e3b639d5": {
             "text": "Heruntergeladen:"
@@ -239,9 +212,6 @@
         "8395847485c9a34007295da6a4f9d4cf": {
             "text": "Fehler bei Datenabfrage von Web Service URL"
         },
-        "575b3e4cd1c9acd455a58fc72f01ad44": {
-            "text": "Fehler beim decodieren des JSON vom Web Service"
-        },
         "8d68afb831b95c0dc23e1457385a983c": {
             "text": "Fehler ausgegeben von Web Service:"
         },
@@ -263,11 +233,83 @@
         "5ef031b334adbb931cf113da0bd6dcea": {
             "text": "Einstellungen"
         },
-        "ea6cee49cbd5313f532c8f213e820e63": {
-            "text": "Modul Web Service URL"
+        "76ff1156be021b9f8cc2597febd46133": {
+            "text": "Greift zu auf"
         },
-        "b815574829ed2efce1faef571bc8b22e": {
-            "text": "Modul Web Service API Schl\u00fcssel"
+        "cb4e8aca2c4d3f2f34a8019ac88458bd": {
+            "text": "Neu gefundene Module"
+        },
+        "844ced21eac449bca19cf378ae770720": {
+            "text": "Ung\u00fcltiger Modulname: %s"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Alle anzeigen"
+        },
+        "9e5fd09ae1c89e20aa28deee64d7f631": {
+            "text": "Module des Typs \"%s\" k\u00f6nnen leider nicht im Admin-Interface installiert werden."
+        },
+        "94e84ea867143991751f06bad2b5da30": {
+            "text": "Innerhalb der letzten Stunde"
+        },
+        "a0d5ca48d2aafbe0c044daeedc4ca0e5": {
+            "text": "Innerhalb des letzten Tages"
+        },
+        "dc52e914c681bc112d4a36ed38e37299": {
+            "text": "Innerhalb der letzten Woche"
+        },
+        "12db5f4485378bd2b028b8f67a61533e": {
+            "text": "Innerhalb des letzten Monats"
+        },
+        "21f29ba58fe9059dae498577efb26435": {
+            "text": "Vor kurzem gefundene und installierte Module"
+        },
+        "230420a05edcb2323c858d6c410d93cf": {
+            "text": "Keine Module gefunden."
+        },
+        "98dd43dfae05b11befe1f140e0ec787a": {
+            "text": "Installiert"
+        },
+        "5d695cc28c6a7ea955162fbdd0ae42b9": {
+            "text": "Gefunden"
+        },
+        "fadeae979278b23b0c0245fe143813ca": {
+            "text": "Modul aus Verzeichnis hinzuf\u00fcgen"
+        },
+        "91412465ea9169dfd901dd5e7c96dd99": {
+            "text": "Hochladen"
+        },
+        "a97f194fe643428c6e0e5b1d3ea79dbd": {
+            "text": "Hochgeladenes Modul hinzuf\u00fcgen"
+        },
+        "5e3f8e6adc33178f32cc7beb6ad19072": {
+            "text": "Modul von URL hinzuf\u00fcgen"
+        },
+        "dc975a9e6b0112228c42a6abbe82ae93": {
+            "text": "Vergewissern Sie sich, ob diese ZIP-Datei von einer vertrauensvollen Quelle stammt."
+        },
+        "d5f38db4e3d76c9a7cda57c660ac0dad": {
+            "text": "Modul ZIP-Datei URL"
+        },
+        "29b21610722fa13430132a8d4e757d1f": {
+            "text": "Herunterladen einer ZIP-Datei welche ein Modul enth\u00e4lt. Falls Sie ein bereits installiertes Modul herunterladen, wird die installierte Version mit der neu heruntergeladenen \u00fcberschrieben."
+        },
+        "e7aef889dd1b168dc269e9ddff6a57a5": {
+            "text": "Modul ZIP-Datei"
+        },
+        "6010e3962902142283df28e6d1a1d897": {
+            "text": "Hochladen eine ZIP-Datei welche Modul Datei(en) enth\u00e4lt. Falls Sie ein bereits installiertes Modul hochladen, wird dies durch das hochgeladene \u00fcberschrieben."
+        },
+        "822213aa38da92d8819e5c3b4ebe4c71": {
+            "text": "\u00e4lter als das bereits installierte!"
+        },
+        "f629d0ec5b19860b76ae88da3ea10273": {
+            "text": "Fehler beim decodieren des JSON vom Web Service"
+        },
+        "19d1a8e075651f072ba0771e6cbc831b": {
+            "text": "Schauen Sie sich im Modul-Verzeichnis unter %s um"
+        },
+        "67f02952b064d6064216f2639a516eca": {
+            "text": "Ben\u00f6tigt Modul \"%s\" bevor es installiert werden kann"
         }
     }
 }

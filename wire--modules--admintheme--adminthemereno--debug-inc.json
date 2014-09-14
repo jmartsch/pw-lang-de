@@ -1,21 +1,27 @@
 {
-    "file": "wire\/templates-admin\/debug.inc",
-    "textdomain": "wire--templates-admin--debug-inc",
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/debug.inc",
+    "textdomain": "wire--modules--admintheme--adminthemereno--debug-inc",
     "translations": {
         "7421d68c70dfc346497573bf4e08acc5": {
             "text": "Debug Modus Werkzeuge"
         },
         "b9a880607682d7ff74c39ef4cdefca90": {
-            "text": "Geladene Seiten"
+            "text": "Seiten geladen"
         },
         "dc62e13d18c4cec89567255a0bbd8a67": {
             "text": "API Variablen"
         },
         "f929d2763e272dc4669d972bae9708e0": {
-            "text": "Geladene Module"
+            "text": "Module geladen"
+        },
+        "554c5efaf6a3411ec0c56132825ce0f1": {
+            "text": "%d Module geladen"
+        },
+        "5e9171024adf23f0e7e7f298f251a935": {
+            "text": "%d nicht geladen"
         },
         "62483fbc1d13ed84612061e24f6e72fb": {
-            "text": "PDO Abfragen ($database)"
+            "text": "PDO Abfragen (%database)"
         },
         "951102c6edd76f552294869d42635888": {
             "text": "MySQLi Abfragen ($db) - Veraltet"
@@ -31,12 +37,6 @@
         },
         "e386ede4750a227397715b73b7727273": {
             "text": "Aktuelle Berechtigungen auf dieser Seite"
-        },
-        "554c5efaf6a3411ec0c56132825ce0f1": {
-            "text": "%d Module geladen"
-        },
-        "5e9171024adf23f0e7e7f298f251a935": {
-            "text": "%d nicht geladen"
         }
     }
 }
