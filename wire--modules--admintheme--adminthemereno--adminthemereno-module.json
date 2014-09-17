@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeReno.module",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemereno-module",
+    "translations": {
+        "f0a5fc96d36fdda66a2a10b79be6d7fb": {
+            "text": "Farbgebung"
+        },
+        "d35b51b639528d580362ca7042de6a0e": {
+            "text": "Klassisch"
+        },
+        "9594eec95be70e7b1710f730fdda33d9": {
+            "text": "Blau"
+        }
+    }
+}

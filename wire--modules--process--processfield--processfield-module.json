@@ -229,6 +229,63 @@
         },
         "817434295a673aed431435658b65d9a7": {
             "text": "Symbol"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Importieren"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Exportieren"
+        },
+        "8334c41e37dbbfb061177998028c6d0d": {
+            "text": "Unbekannte Eigenschaften"
+        },
+        "f173ffbd0f010d4e164484785d07b7c1": {
+            "text": "Ungenutzte Eigenschaft entfernt: %s"
+        },
+        "cb4e4304ce3fbf227cdae7fecc193fbf": {
+            "text": "Warnung"
+        },
+        "94f0fa1e6b7f766dc6432b4d8fd960ae": {
+            "text": "\u00dcberpr\u00fcfung des Feldes ergab:"
+        },
+        "64348e0f887e58c6002080b6153add90": {
+            "text": "%d verwaiste Tabellen-Zeilen gefunden"
+        },
+        "4fd5d5323fc3d2535f351e46ba740d3c": {
+            "text": "...und so weiter..."
+        },
+        "a90c3a6bf539d90c6016413cddd2178c": {
+            "text": "Bitte Feld %s \u00fcberpr\u00fcfen"
+        },
+        "bd5aef6293f875aa908466a69c08a14a": {
+            "text": "Keine Probleme zu Feld %s gefunden"
+        },
+        "50092a77c044bc5d91bb703429c29157": {
+            "text": "Die folgenden Eigenschaften wurden zu diesem Feld gefunden, werden aber offensichtlich nicht genutzt. Zum Entfernen markieren Sie die Box neben der jeweiligen Eigenschaft. Falls Sie nicht sicher sind, k\u00f6nnen diese auch ohne weiteres dort verbleiben."
+        },
+        "b2ab31c6f8fbc066d4840baa6c081821": {
+            "text": "In diesem Feld scheinen unbekannte Eigenschaften zu sein. Bitte den Tab \"Warnung\" beachten."
+        },
+        "292694f229d9162dd0a6510ff0745d4f": {
+            "text": "%d verwaiste Tabellen-Zeilen entfernen?"
+        },
+        "afb5272a55f7eb214fd004a5becf2bb7": {
+            "text": "Wir haben Datenzeilen in der Tabelle zu diesem Feld gefunden, welche zu keiner Seite passen."
+        },
+        "011e30aea1ad8c8e81405e295f032cc8": {
+            "text": "Daten des Feldes \u00fcberpr\u00fcfen"
+        },
+        "494bfa7cbe1a6aaf0e24e92c54664859": {
+            "text": "Das Feld auf ungenutzte Daten oder andere m\u00f6gliche Optimierungen \u00fcberpr\u00fcfen. Falls Probleme gefunden werden, haben Sie die M\u00f6glichkeit diese nach dem speichern \u00fcber den Tab Warnung zu korrigieren."
+        },
+        "1d44463bf74c66ac465f0f51cee9a827": {
+            "text": "%d verwaiste Zeilen gel\u00f6scht"
+        },
+        "58425be3f17ffb9574fd3e5947653330": {
+            "text": "Einstellungen des Feldes behalten?"
+        },
+        "7d912a6056deaad44add9eda5494d120": {
+            "text": "Diese Box markieren um alle eigenen Einstellungen zu diesem Feld (vom Details und Eingabe Tab) zu behalten. Dies ist empfehlenswert wenn der neue Feldtyp die gleichen oder \u00e4hnliche Eigenschaften zur Konfiguration wie der alte Feldtyp hat. Allerdings kann dies auch zu unn\u00f6tigen oder redundanten Konfig-Daten f\u00fchren, welche Platz im Feld beanspruchen. Sie k\u00f6nnen dies jederzeit sp\u00e4ter analysieren \u00fcber: Erweitert > Daten des Feldes \u00fcberpr\u00fcfen."
         }
     }
 }

@@ -201,7 +201,7 @@
             "text": "Dateiname des Templates falls unterschiedlich von: %s"
         },
         "217ca16c1e160b229a71c244512c3d4d": {
-            "text": "Template-Dateien werden erwartet im Verzeichnis: %s"
+            "text": "Template-Dateien werden in folgendem Verzeichnis erwartet: %s"
         },
         "043008c261f9d0e109c03ab63e047bcd": {
             "text": "Erwartetes Datei-Suffix von Template-Dateien ist: %s"
@@ -644,9 +644,6 @@
         "a90b5efafea041e94da7fffd2bd530a3": {
             "text": "Grundlagen"
         },
-        "857cec13e140d4bf4bb55c10e7878997": {
-            "text": "Sie k\u00f6nnen auch einen [Symbol-Name](http:\/\/http:\/\/fortawesome.github.io\/Font-Awesome\/icons\/) eintragen, zum Beispiel: fa-file"
-        },
         "de4914b2943f3cfce0232ae281a8b155": {
             "text": "Im \"Seite-hinzuf\u00fcgen\" Shortcut Men\u00fc anzeigen?"
         },
@@ -676,7 +673,84 @@
         },
         "ce74097d91e1181f033e39e38736dd5a": {
             "text": "Cache"
+        },
+        "75b29cfc6e6beeb50a4e6b005ee2cab1": {
+            "text": "Sie k\u00f6nnen auch einen [Symbol-Name](http:\/\/fontawesome.io\/cheatsheet\/) eintragen, zum Beispiel: icon-file oder fa-file (beide Formate funktionieren)."
+        },
+        "8a08c3b7f2922be4ad8e59744781b796": {
+            "text": "Format des Seiten-Name"
+        },
+        "8a396099e3eecefcbbbbac1715a464de": {
+            "text": "Legen Sie optional ein Format f\u00fcr die Seiten-Namen bei neu hinzugef\u00fcgten Seiten fest. Dies erm\u00f6glicht den Schritt \"Seite hinzuf\u00fcgen\" zu \u00fcberspringen. Voraussetzung ist, dass im Template der Elternseite(n) dieses Template (%s) als das einzige erlaubte f\u00fcr Unterseiten festgelegt ist (siehe Tab \"Familie\" im Template der Elternseite)."
+        },
+        "6058394e74833c97153b0edaec2fb369": {
+            "text": "Sie k\u00f6nnen hier beliebigen Text eintragen. Wenn eine neue Seite erstellt wurde und der Name ist bereits vorhanden, wird eine fortlaufende Zahl hinten angef\u00fcgt."
+        },
+        "026e4114c3bd578141d593edfdcba4b6": {
+            "text": "**Wenn Sie m\u00f6chten dass die Namen der Seiten die Eingabe aus dem Titel Feld \u00fcbernehmen:** unten \"title\" eintragen (ohne die Anf\u00fchrungszeichen)."
+        },
+        "cde43753349041653da0d29cc52a15fa": {
+            "text": "**Wenn Sie m\u00f6chten dass die Namen der Seiten das Erstellungsdatum\/-zeit wiedergeben:** oben ein [Datumsformat](http:\/\/www.php.net\/manual\/en\/function.date.php) eingeben. Das Format des Datums muss mindestens ein nicht-alphanumerisches Zeichen (z.B. Schr\u00e4gstrich \"\/\" oder Doppelpunkt \":\") enthalten, um als Datumsformat erkannt zu werden. Beispiel: \"Y\/m\/d H:i:s\" ergibt einen Seiten Name wie: \"2014-10-30-12-39-01\". Wie Sie sehen werden vorhandene nicht-alphanumerische Zeichen in einem formatierten Datum in Bindestriche umgewandelt."
+        },
+        "92fe79a8aa59b037f5f6e2b43f89fea8": {
+            "text": "Namensformat f\u00fcr Unterseiten"
+        },
+        "27dd547b53bb1b3c67c345f984747010": {
+            "text": "Zum deaktivieren leer lassen. Geben Sie \"title\" (ohne Anf\u00fchrungszeichen) ein zur automatischen Generierung des Namens vom Titel der Seite. Weitere Optionen mit Datumsformaten sind ebenfalls m\u00f6glich. [Mehr](http:\/\/processwire.com\/api\/modules\/process-template\/)"
+        },
+        "5cf485ae4559df60232a5ff0f87783cb": {
+            "text": "Legen Sie optional ein Format f\u00fcr die Seiten-Namen bei neu hinzugef\u00fcgten Unterseiten fest. Dies erm\u00f6glicht den Schritt \"Seite hinzuf\u00fcgen\" zu \u00fcberspringen. Voraussetzung ist, dass ein (1) einziges Template oben unter \"Erlaubte Template(s) f\u00fcr Unterseiten\" ausgew\u00e4hlt wird."
+        },
+        "0e2511c51c799246bc640afd3b4cc07b": {
+            "text": "Sie k\u00f6nnen mehrere Template-Namen, mit einem Leerzeichen getrennt, angeben."
+        },
+        "9aa8f6fc386e155886938a352548a81c": {
+            "text": "Ge\u00e4ndert"
+        },
+        "8f0944546d02e3fd7de73e9418494b3b": {
+            "text": "Template Umschalter"
+        },
+        "249d044ac9d6d23ba96d1515cc4717e4": {
+            "text": "Diesen Schalter generell nicht ausw\u00e4hlen, es sei denn Sie haben eine spezielle Verwendung daf\u00fcr."
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Exportieren"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Importieren"
+        },
+        "ac97a1ad01bd7b48508de449e229a73d": {
+            "text": "Importieren"
+        },
+        "52ca64db1f0ca50831b3af91db6cd643": {
+            "text": "Datei voranstellen"
+        },
+        "58a0dd4014386dd156c47a6d69cdd5f8": {
+            "text": "Datei welche dem Template w\u00e4hrend des Renderns vorangestellt werden soll. Muss relativ sein zu \/site\/templates\/."
+        },
+        "0f7b5e8d336c577672820ac8d848fb4f": {
+            "text": "Datei anh\u00e4ngen"
+        },
+        "9c33f36534809a059d32ae185a28ad0e": {
+            "text": "Datei welche dem Template w\u00e4hrend des Renderns angeh\u00e4ngt werden soll. Muss relativ sein zu \/site\/templates\/."
+        },
+        "ab6b38f8849f9837a2fbb24721ab5e99": {
+            "text": "Deaktiviere automatisches voranstellen von Datei: %s"
+        },
+        "07bbc1cae53fb8d26759b5564e6a5824": {
+            "text": "Diese Option deaktiviert die Einstellung $config->prependTemplateFile in \/site\/config.php nur f\u00fcr dieses Template."
+        },
+        "95dac43782405c335b194c4f4ff28436": {
+            "text": "Deaktiviere automatisches anh\u00e4ngen von Datei: %s"
+        },
+        "438f365e84607c69184559ff2e9d974b": {
+            "text": "Diese Option deaktiviert die Einstellung $config->appendTemplateFile in \/site\/config.php nur f\u00fcr dieses Template."
+        },
+        "f048d404737b6fafd4849b8cd850e983": {
+            "text": "Achtung, Datei nicht vorhanden"
+        },
+        "323686db2bb70f95c6bedc86d5c3387d": {
+            "text": "Dateien"
         }
     }
 }
-

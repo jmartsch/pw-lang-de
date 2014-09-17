@@ -1,4 +1,4 @@
-# German language pack for ProcessWire
+# German language pack for ProcessWire 2.5
 
 German (de_DE) language pack for [ProcessWire](http://processwire.com). Uses formal language ("Sie").
 
