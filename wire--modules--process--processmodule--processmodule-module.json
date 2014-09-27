@@ -236,9 +236,6 @@
         "76ff1156be021b9f8cc2597febd46133": {
             "text": "Greift zu auf"
         },
-        "cb4e8aca2c4d3f2f34a8019ac88458bd": {
-            "text": "Neu gefundene Module"
-        },
         "844ced21eac449bca19cf378ae770720": {
             "text": "Ung\u00fcltiger Modulname: %s"
         },
@@ -310,6 +307,27 @@
         },
         "67f02952b064d6064216f2639a516eca": {
             "text": "Ben\u00f6tigt Modul \"%s\" bevor es installiert werden kann"
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Konfigurieren"
+        },
+        "385accc7e6612e8dba4e99f22b6876b1": {
+            "text": "Module welche konfiguriert werden k\u00f6nnen"
+        },
+        "8c3466d7f1cc1dc4c01a040fe64573d5": {
+            "text": "Module im System welche zur Zeit nicht installiert sind"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Neu hinzuf\u00fcgen"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Aktualisieren"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Installieren"
+        },
+        "fd50b49603c0cfa8d50d7c2933cc052c": {
+            "text": "%s installieren?"
         }
     }
 }

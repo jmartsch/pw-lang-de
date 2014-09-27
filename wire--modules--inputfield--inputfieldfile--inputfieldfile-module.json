@@ -49,6 +49,15 @@
         },
         "004a10c5de4a2eea5fc8f15e97a8030c": {
             "text": "Keine Dateiendung f\u00fcr dieses Feld festgelegt."
+        },
+        "5d28dcd09c5073bb0e454aee16d9b349": {
+            "text": "Datei %s verworfen. Diese ist bereits im System vorhanden und geh\u00f6rt zu einem anderen Feld."
+        },
+        "4839f7d2588943e6763c3c91cbd8d7f2": {
+            "text": "Bestehende Dateien \u00fcberschreiben?"
+        },
+        "35a96944722fb825db8bf04ab791c209": {
+            "text": "Falls markiert, wird eine hochgeladene Datei, mit identischem Namen einer bestehenden Datei, diese ersetzen (Beschreibung und Tags bleiben erhalten). Falls nicht markiert, werden hochgeladene Dateinamen eindeutig umbenannt."
         }
     }
 }

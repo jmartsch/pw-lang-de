@@ -23,9 +23,6 @@
         "af32834e6517e929e3993eb018b46ac0": {
             "text": "Kann keine Modul Dateien finden"
         },
-        "c137d70093460b298739f9503c46eeaa": {
-            "text": "Verzeichnis ist ein symbolischer Link"
-        },
         "2a3cd9a18eaf3b274b4fa40068fff003": {
             "text": "Dateien erfolgreich in neues Verzeichnis kopiert:"
         },
@@ -52,6 +49,9 @@
         },
         "e830879e542fd52ca82f599ce41b6668": {
             "text": "Heruntergeladene ZIP-Datei: %s (%d Bytes)"
+        },
+        "04abd66e622f247f079329fcbc51b97c": {
+            "text": "Bitte beachten: %s war ein symbolischer Link und wurde in ein regul\u00e4res Verzeichnis umgewandelt"
         }
     }
 }

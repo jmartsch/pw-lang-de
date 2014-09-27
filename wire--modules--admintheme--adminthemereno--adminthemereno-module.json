@@ -10,6 +10,33 @@
         },
         "9594eec95be70e7b1710f730fdda33d9": {
             "text": "Blau"
+        },
+        "eea889e927448a79d84da81851f9d9cb": {
+            "text": "Hier tippen zum suchen"
+        },
+        "cf64a1df05b0b5640322820b1b705605": {
+            "text": "Feld f\u00fcr Benutzerbild"
+        },
+        "32b92d181457ef3ee601718c6717d21f": {
+            "text": "Keine Image-Felder zum Benutzer Template zugewiesen"
+        },
+        "8f67973007158337346584551b093be8": {
+            "text": "Symbole"
+        },
+        "f69110441f08575ffbedd45591ddc4e1": {
+            "text": "Symbole f\u00fcr Elemente der Navigation festlegen"
+        },
+        "a5cf3b1e924454eb5f3b0579e2f40830": {
+            "text": "Top Navigation: Seite ansehen"
+        },
+        "13884a61afb0a46fc63ee2694d21d16e": {
+            "text": "Top Navigation: Ausloggen"
+        },
+        "d076186eb326fac94ae60de5b71755d7": {
+            "text": "F\u00fcr dieses Feature ben\u00f6tigt das 'Benutzer' Template ein Image-Feld. Falls das Benutzer-Template kein Image-Feld hat, wird als Standard ein Symbol angezeigt. Um im Benutzer-Template ein Image-Feld hinzu zuf\u00fcgen, geht man \u00fcber Verwaltung > Templates > Filter (System-Templates anzeigen). Das 'Benutzer' Template wird dann in der Liste angezeigt."
+        },
+        "b30e371dcaa3d2b157ef7566aa157b8a": {
+            "text": "Feld \"%s\" zu den durch den Benutzer im Profil editierbaren Feldern hinzugef\u00fcgt."
         }
     }
 }
