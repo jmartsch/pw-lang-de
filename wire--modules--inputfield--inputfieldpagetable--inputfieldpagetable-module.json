@@ -64,6 +64,15 @@
         },
         "0a897fae6e81285f1da55dd87457ec94": {
             "text": "Eingabefeld erg\u00e4nzend zu FieldtypePageTable"
+        },
+        "ff63ad7fe05686c64e062c5c034ad04f": {
+            "text": "Kindseiten gefunden, welche zu dieser Tabelle hinzugef\u00fcgt werden k\u00f6nnen. Zum hinzuf\u00fcgen jeweils die nebenstehende Box markieren."
+        },
+        "4c41e0bd957698b58100a5c687d757d9": {
+            "text": "Alle ausw\u00e4hlen"
+        },
+        "3c59f93c033e789777be18c1ad66b13b": {
+            "text": "%d vorhandene Seite(n) zur Tabelle hinzugef\u00fcgt"
         }
     }
 }
