@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/System\/SystemNotifications\/SystemNotifications.module",
+    "textdomain": "wire--modules--system--systemnotifications--systemnotifications-module",
+    "translations": {
+        "3228f89d6d7bef8bf9c32fa47cbb82b0": {
+            "text": "404 eingetreten: %s"
+        },
+        "f1aac9258ac4fde43df9a1c10945c133": {
+            "text": "Benutzer angemeldet: %s"
+        },
+        "6749d5c7c5998b79513c6257606ffedc": {
+            "text": "Login fehlgeschlagen: %s"
+        },
+        "cb44f59c366c2adb4a35ef342be91163": {
+            "text": "Benutzer ausgeloggt: %s"
+        },
+        "2009e6e3b0f694f86c2f98728c22b053": {
+            "text": "%d aktiver Prozess"
+        },
+        "1a4d810a18e54ec6648c1b3c99b84cd9": {
+            "text": "%d aktive Prozesse"
+        }
+    }
+}
