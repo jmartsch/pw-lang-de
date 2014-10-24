@@ -49,6 +49,9 @@
         },
         "bd71df4fde063d60b0fe33d87f52f7ff": {
             "text": "Achtung, der gew\u00e4hlte Name \"%1$s\" wird bereits verwendet und wurde ge\u00e4ndert auf \"%2$s\"."
+        },
+        "1f03189503b2b085455900a07777134c": {
+            "text": "Bereits belegt"
         }
     }
 }
