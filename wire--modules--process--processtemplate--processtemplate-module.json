@@ -754,6 +754,18 @@
         },
         "6703f01fb2662a497ae2d29163ed68c2": {
             "text": "Name wird bereits verwendet"
+        },
+        "f578ef5a7330291e151dc6052fe85bfe": {
+            "text": "Optional das Label f\u00fcr den Tab \"Inhalt\" (Standard) \u00fcberschreiben."
+        },
+        "5fda5af59d211bd673998a69f051c3f2": {
+            "text": "Optional das Label f\u00fcr den Tab \"Kindseiten\" (Standard) \u00fcberschreiben."
+        },
+        "3050063a3917b13308a0470879b3259f": {
+            "text": "Label f\u00fcr Inhalts-Tab"
+        },
+        "7b5a26bd066cf9716b38372f73408f10": {
+            "text": "Label f\u00fcr Kind-Tab"
         }
     }
 }
