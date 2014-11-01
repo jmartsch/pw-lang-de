@@ -1,93 +1,42 @@
 {
-    "file": "wire\/modules\/System\/SystemNotifications\/SystemNotificationsConfig.php",
-    "textdomain": "wire--modules--system--systemnotifications--systemnotificationsconfig-php",
+    "file": "wire\/modules\/System\/SystemNotifications\/SystemNotifications.module",
+    "textdomain": "wire--modules--system--systemnotifications--systemnotifications-module",
     "translations": {
-        "d9b71f69d8afdf5b522a5529ec7434f5": {
-            "text": "Name des Benutzers welcher System-Benachrichtigungen erh\u00e4lt"
+        "3228f89d6d7bef8bf9c32fa47cbb82b0": {
+            "text": "404 eingetreten: %s"
         },
-        "2871a976bc7a1ed674bc578c34af81ee": {
-            "text": "Aktive Hooks f\u00fcr automatische Benachrichtigungen"
+        "f1aac9258ac4fde43df9a1c10945c133": {
+            "text": "Benutzer angemeldet: %s"
         },
-        "b106396b3992fc580dd88f36d98c32b5": {
-            "text": "Immer wenn eines dieser Ereignisse vorkommt, wird der o.g. System-Benutzer benachrichtigt."
+        "6749d5c7c5998b79513c6257606ffedc": {
+            "text": "Login fehlgeschlagen: %s"
         },
-        "53af239ee5d3e261545dededcb6ffd57": {
-            "text": "404 Seite nicht gefunden"
+        "cb44f59c366c2adb4a35ef342be91163": {
+            "text": "Benutzer ausgeloggt: %s"
         },
-        "926febaa3f486221378c09d2fb900eff": {
-            "text": "Benutzer Login Erfolg und Fehler"
+        "2009e6e3b0f694f86c2f98728c22b053": {
+            "text": "%d aktiver Prozess"
         },
-        "6d204ddabcf344603448790344217ec5": {
-            "text": "Benutzer ausloggen"
+        "1a4d810a18e54ec6648c1b3c99b84cd9": {
+            "text": "%d aktive Prozesse"
         },
-        "1bb51316162ffaecdae67003acc36d00": {
-            "text": "Dies sind in erster Linie Beispiele von Benachrichtigungen zu Demonstrationszwecken."
+        "0914afe426319fe974cef0952de1ed3b": {
+            "text": "%d neue Nachricht"
         },
-        "2495a34a1379d1325ca518e3c0b2b098": {
-            "text": "Zeit zwischen den Aktualisierungen"
+        "c92bdbaba42dc068673bfa173e7be426": {
+            "text": "%d neue Nachrichten"
         },
-        "d4f7e0a594dd8d1eb92264b3d43c507d": {
-            "text": "Wie oft auf aktualisierte Benachrichtigungen gepr\u00fcft werden soll (in Millisekunden). Beispiel: 5000 bedeutet 5 Sekunden."
+        "6ab40b9da8f74c8299cdb3afba46eda6": {
+            "text": "%d neue Warnung"
         },
-        "534fd46732986cba0efeda8701592427": {
-            "text": "Datum Format"
+        "164d23ca0285a3061ee20f166343f068": {
+            "text": "%d neue Warnungen"
         },
-        "414f2eb480e8f38b6f93f41ca28279fb": {
-            "text": "Format des Datums in den Benachrichtigungen. Verwende das date() oder srftime() Format, oder \"relative\" f\u00fcr relative(s) Datum\/Zeit, \"rel\" f\u00fcr abgek\u00fcrzte(s) Datum\/Zeit."
+        "246262550fe3b31379bb81b656e4d64f": {
+            "text": "%d neuer Fehler"
         },
-        "64a87d656e89eca4f73f4ecda74480f5": {
-            "text": "Nachrichten Symbol"
-        },
-        "b454aae1916829fd90512b2c31a01e68": {
-            "text": "Warn Symbol"
-        },
-        "c59e636f1291af56f91d53c3a51ac8f8": {
-            "text": "Fehler Symbol"
-        },
-        "b386baeabf452105b52ddd8a8dbebf1c": {
-            "text": "Verz\u00f6gerung des Benachrichtigungs-Pop-up"
-        },
-        "fa3ed13e0d1d3606900f0d0fcb96b94e": {
-            "text": "Wie lange das Benachrichtigungs-Pop-up sichtbar ist (in ms)."
-        },
-        "a24efc3293365b4ca44161c70fffe1b7": {
-            "text": "Verz\u00f6gerung des Fehler Benachrichtigungs-Pop-up"
-        },
-        "0673410c6de314e9317a7f593f6a99b6": {
-            "text": "Wie lange das Fehler Benachrichtigungs-Pop-up sichtbar ist (in ms)."
-        },
-        "a2736075ee5bcaeaad4650b9a1bb7d43": {
-            "text": "Geschwindigkeit des Fadings"
-        },
-        "c4f9ba7565ccdd1b1ec3e06265ef4995": {
-            "text": "Geschwindigkeit mit welcher das Benachrichtigungs-Pop-up ein- oder ausblendet."
-        },
-        "081b98759749efbb07052c62da920324": {
-            "text": "Sofort (kein Ein-\/Ausblenden)"
-        },
-        "e16b5b7f26f54214445cbe38d72c2828": {
-            "text": "Schnell"
-        },
-        "efa5397985b8609a5dbeb430a4bcadd3": {
-            "text": "Langsam"
-        },
-        "cc7148e90f03a6539cd11c343d8fdf8a": {
-            "text": "Volle Opazit\u00e4t des Benachrichtigungs-Pop-up"
-        },
-        "4f8b65fe69b4b13c2a02bf47648c9a34": {
-            "text": "Volle Opazit\u00e4t des Benachrichtigungs-Pop-up (0.1-1.0)"
-        },
-        "945d5e233cf7d6240f6b783b36a374ff": {
-            "text": "Links"
-        },
-        "92b09c7c48c520c3c55e497875da437c": {
-            "text": "Rechts"
-        },
-        "4b3f62787ef2a663f5af7c2a25c0c617": {
-            "text": "Position des Benachrichtigungs-Pop-up"
-        },
-        "22c3a11778dfb998611f45125023b39c": {
-            "text": "Auf welcher Seite des Bildschirms das Benachrichtigungs-Pop-up erscheinen soll."
+        "f476d7ef955355a5633a914abbe1f3c1": {
+            "text": "%d neue Fehler"
         }
     }
 }
