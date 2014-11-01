@@ -45,22 +45,22 @@
             "text": "Fehler Symbol"
         },
         "b386baeabf452105b52ddd8a8dbebf1c": {
-            "text": "Verz\u00f6gerung des Schattenstreifens"
+            "text": "Verz\u00f6gerung des Benachrichtigungs-Pop-up"
         },
         "fa3ed13e0d1d3606900f0d0fcb96b94e": {
-            "text": "Wie lange der Schattenstreifen sichtbar ist (in ms)."
+            "text": "Wie lange das Benachrichtigungs-Pop-up sichtbar ist (in ms)."
         },
         "a24efc3293365b4ca44161c70fffe1b7": {
-            "text": "Verz\u00f6gerung des Schattenstreifen Fehlers"
+            "text": "Verz\u00f6gerung des Fehler Benachrichtigungs-Pop-up"
         },
         "0673410c6de314e9317a7f593f6a99b6": {
-            "text": "Wie lange der Schattenstreifen Fehler sichtbar ist (in ms)."
+            "text": "Wie lange das Fehler Benachrichtigungs-Pop-up sichtbar ist (in ms)."
         },
         "a2736075ee5bcaeaad4650b9a1bb7d43": {
             "text": "Geschwindigkeit des Fadings"
         },
         "c4f9ba7565ccdd1b1ec3e06265ef4995": {
-            "text": "Geschwindigkeit mit welcher der Schattenstreifen ein- oder ausblendet."
+            "text": "Geschwindigkeit mit welcher das Benachrichtigungs-Pop-up ein- oder ausblendet."
         },
         "081b98759749efbb07052c62da920324": {
             "text": "Sofort (kein Ein-\/Ausblenden)"
@@ -72,10 +72,28 @@
             "text": "Langsam"
         },
         "cc7148e90f03a6539cd11c343d8fdf8a": {
-            "text": "Volle Opazit\u00e4t der Schattenstreifen"
+            "text": "Volle Opazit\u00e4t des Benachrichtigungs-Pop-up"
         },
         "4f8b65fe69b4b13c2a02bf47648c9a34": {
-            "text": "Volle Opazit\u00e4t der Schattenstreifen (0.1-1.0)"
+            "text": "Volle Opazit\u00e4t des Benachrichtigungs-Pop-up (0.1-1.0)"
+        },
+        "945d5e233cf7d6240f6b783b36a374ff": {
+            "text": "Links"
+        },
+        "92b09c7c48c520c3c55e497875da437c": {
+            "text": "Rechts"
+        },
+        "4b3f62787ef2a663f5af7c2a25c0c617": {
+            "text": "Position des Benachrichtigungs-Pop-up"
+        },
+        "22c3a11778dfb998611f45125023b39c": {
+            "text": "Auf welcher Seite des Bildschirms das Benachrichtigungs-Pop-up erscheinen soll."
+        },
+        "333da8687b16a586812b92b6acda8674": {
+            "text": "Limit der Pop-ups"
+        },
+        "8a1cf8cf2597193851e727307d3d3b31": {
+            "text": "Zeige Zusammenfassung der Pop-ups falls Anzahl h\u00f6her ist."
         }
     }
 }
