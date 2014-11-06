@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFieldsetTabOpen.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefieldsettabopen-module",
+    "translations": {
+        "7d46168ae11400e7b496a22b2bfe6c6f": {
+            "text": "In Modal-Fenster \u00f6ffnen?"
+        },
+        "fb6e6fc9f3f435218d01763c02dec7c3": {
+            "text": "Diese Box markieren um den Tab in einem eigenen Modal-Fenster zu \u00f6ffnen. Dies kann die Ausf\u00fchrung von gro\u00dfen Formularen verbessern."
+        }
+    }
+}
