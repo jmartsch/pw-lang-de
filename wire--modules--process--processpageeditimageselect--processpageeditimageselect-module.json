@@ -61,6 +61,12 @@
         },
         "fd8d17a2ebc3643f78fc97b8e5c3a7f3": {
             "text": "Namen der Bild-Felder eingeben (mit Leerzeichen getrennt), welche nicht \u00fcber dieses Modul selektiert werden sollen."
+        },
+        "6cefecef91de145c3ca72fb3d5e59702": {
+            "text": "Keine Thumbnail-Bilder erstellen"
+        },
+        "a60c49010df18fff7f99db0d0d5a1522": {
+            "text": "Wenn markiert, wird die Bilderauswahl die volle Bildgr\u00f6\u00dfe verwenden anstatt der Thumbnail-Bilder."
         }
     }
 }
