@@ -146,11 +146,20 @@
         "81958f1863ae9ebb74b7a23cbf0dbd78": {
             "text": "Warnung: w\u00e4hlen Sie nur Text-Formatierer welche f\u00fcr die Eingaben von anonymen Benutzern sicher bzw. geeignet sind, wie z.B. Entity Encoder (Core) oder Textile Restricted (3. Anbieter). Falls Sie sich nicht sicher sind, w\u00e4hlen Sie hier nichts aus. Die falsche Auswahl kann ein Sicherheitsproblem darstellen."
         },
-        "4b787cb65af5dc09cbbba4a2ee5ac53c": {
-            "text": "Optionales CSS f\u00fcr die Ausgabe der Kommentare im Frontend"
+        "e2ee73419f58949b9fdfb97f23a8a6ac": {
+            "text": "PHP Code zur Ausgabe von Kommentaren"
         },
-        "d37b1a4c4b17c28300838db02306c16f": {
-            "text": "Optionales JS f\u00fcr die Ausgabe der Kommentare im Frontend"
+        "2b961475041b8a085eae4ed1a597f76a": {
+            "text": "CSS f\u00fcr die Ausgabe der Kommentare im Frontend"
+        },
+        "4a08db526853d7aa35400a97c968e60d": {
+            "text": "JS f\u00fcr die Ausgabe der Kommentare im Frontend"
+        },
+        "244b33509aa9c5f8b21f92ca80cbdca4": {
+            "text": "Ausgabe von Kommentaren im Frontend"
+        },
+        "309ccca9b8ae5408ee15a28c2bd2c9c2": {
+            "text": "Dieser Bereich wird Sie bei der Formatierung der Kommentare, im Frontend der Webseite, unterst\u00fctzen. Hier ist alles optional."
         }
     }
 }
