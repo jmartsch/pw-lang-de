@@ -34,6 +34,9 @@
         },
         "a171deaa8f82c6e29796e95126fbd644": {
             "text": "4. Fehlende Bilder werden in der Log-Datei \"markup-qa-errors\" protokolliert und der System\/Admin Benutzer benachrichtigt."
+        },
+        "67ba83ca386e2679fa98f1fe3b3d5b58": {
+            "text": "Weitere Informationen zu den oben genannten Optionen finden Sie in der [Beschreibung f\u00fcr die Inhaltstypen](https:\/\/processwire.com\/api\/fieldtypes\/textarea-fieldtype\/#content-type)."
         }
     }
 }
