@@ -158,9 +158,6 @@
         "0cf8830f9d1aaf42ad9e178f9af4f3d0": {
             "text": "3. Geben Sie **123:email** ein, um die E-Mail Adresse aus der ID und eines Feldnamens einer vorhandenen Seite auszulesen. Ersetzen Sie \"123\" mit der ID der Seite und \"email\" mit dem Namen des Feldes welches die E-Mail Adresse enth\u00e4lt."
         },
-        "b25e28449c4298f4895f0d4dae1cc5ef": {
-            "text": "4. Geben Sie **\/pfad\/zur\/seite:email** ein, um die E-Mail Adresse aus dem Pfad und eines Feldnamens einer vorhandenen Seite auszulesen. Ersetzen Sie \"\/pfad\/zur\/seite\" mit dem korrekten Pfad und \"email\" mit dem Namen des Feldes welches die E-Mail Adresse enth\u00e4lt."
-        },
         "f6fdd0b4b152fc4fb6fa144eb7718873": {
             "text": "Benachrichtigungen zu E-Mails"
         },
@@ -214,6 +211,9 @@
         },
         "c0cf19f012781de14679b0d857fe4cbd": {
             "text": "Falls ein Cache f\u00fcr die Ausgabe genutzt wird, sollte per Konfiguration der Cache umgangen werden wenn die GET Variable \"comment_success\" vorhanden ist."
+        },
+        "be4676f05d7147b99e5addd2b27b6889": {
+            "text": "4. Geben Sie \/pfad\/zur\/seite:email ein, um die E-Mail Adresse aus dem Pfad und eines Feldnamens einer vorhandenen Seite auszulesen. Ersetzen Sie \"\/pfad\/zur\/seite\" mit dem korrekten Pfad und \"email\" mit dem Namen des Feldes welches die E-Mail Adresse enth\u00e4lt."
         }
     }
 }
