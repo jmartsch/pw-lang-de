@@ -201,7 +201,7 @@
             "text": "Herunterladen"
         },
         "8de5f3b8fe691cf6304176b9a5ed54da": {
-            "text": "Sie k\u00f6nnen das Modul Verzeichnis durchsuchen um das gew\u00fcnschte Modul zu finden. Tragen Sie den \"Klassen Name\" f\u00fcr das Modul ein, welches Sie installieren wollen. "
+            "text": "Sie k\u00f6nnen das Modul Verzeichnis durchsuchen um das gew\u00fcnschte Modul zu finden. Tragen Sie den \"Klassen Name\" f\u00fcr das Modul ein, welches Sie installieren wollen."
         },
         "a7d6475ec8993b7224d6facc8cb0ead6": {
             "text": "Seite"
@@ -328,6 +328,18 @@
         },
         "fd50b49603c0cfa8d50d7c2933cc052c": {
             "text": "%s installieren?"
+        },
+        "fdbd482a575730a7abb63cdbf62a0f6c": {
+            "text": "Modul \"%s\" hat mehrere Dateien (fett markierte wird verwendet)"
+        },
+        "458268ddfe6f3ace67044ba7f55c7079": {
+            "text": "Hier klicken um die Zuordnung zu \u00e4ndern"
+        },
+        "30d23c0f67dc47f239879658b08c371a": {
+            "text": "Gew\u00fcnschte Modul-Datei"
+        },
+        "fc93b2cc57529c815c8810364ec885ea": {
+            "text": "Es sind mehrere Kopien dieses Moduls vorhanden. W\u00e4hlen Sie die gew\u00fcnschte Modul-Datei aus."
         }
     }
 }
