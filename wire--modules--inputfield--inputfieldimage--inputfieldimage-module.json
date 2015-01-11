@@ -36,7 +36,7 @@
             "text": "Zeilen"
         },
         "b3da2ccb426643b265971f8085617aa0": {
-            "text": "Die Ansicht l\u00e4sst sich mit Klick auf das Grid\/Zeilen Symbol umschalten. Hiermit wird nur die Standardansicht festgelegt. Die Zeilen-Ansicht ist der empfohlene Standard."
+            "text": "Die Ansicht l\u00e4sst sich mit Klick auf das Raster\/Zeilen Symbol umschalten. Hiermit wird nur die Standardansicht festgelegt. Die Zeilen-Ansicht ist der empfohlene Standard."
         },
         "126b21ce46c39d12c24058791a236777": {
             "text": "Nicht zul\u00e4ssiges Bild"
@@ -67,6 +67,9 @@
         },
         "1a2b9bdaad8fc3ebd6b83463a0def69e": {
             "text": "Geben Sie den Wert in Pixeln an oder lassen Sie es leer, um kein Limit vorzugeben."
+        },
+        "5174d1309f275ba6f275db3af9eb3e18": {
+            "text": "Raster"
         }
     }
 }
