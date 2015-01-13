@@ -12,7 +12,7 @@
             "text": "Neu"
         },
         "6bc362dbf494c61ea117fe3c71ca48a5": {
-            "text": "Bewegen"
+            "text": "Verschieben"
         },
         "ce2c8aed9c2fa0cfbed56cbda4d8bf07": {
             "text": "Leeren"
@@ -60,7 +60,7 @@
             "text": "Dies ist die Geschwindigkeit der Animation mit welcher jeder Zweig im Seitenbaum sich auf oder ab bewegt. Niedrige Werte sind schneller, aber weniger wahrnehmbar. Animation deaktivieren mit Eingabe 0."
         },
         "ae9945c00ae261445f0277fbae516179": {
-            "text": "Jede Seite in einer PageList wird anhand eines Labels identifiziert, typischerweise ein Titel- oder \u00dcberschriftenfeld. Sie k\u00f6nnen festlegen welches Feld hier genutzt werden soll. Um mehrere Felder festzulegen, die Feldnamen mit einem Leerzeichen trennen. Falls das Feld zu einem Objekt f\u00fchrt (wie z.B. eine andere Seite) definieren Sie die Eigenschaft mit einem Punkt, z.B. anotherpage.title. Beachten Sie, wenn das festgelegte Feld zu einem leeren Wert f\u00fchrt, wird ProcessWire das Feld \"Name\" der Seite verwenden."
+            "text": "Jede Seite in einer PageList wird anhand eines Labels identifiziert, typischerweise ein Titel- oder \u00dcberschriftenfeld. Sie k\u00f6nnen festlegen welches Feld hier genutzt werden soll. Um mehrere Felder festzulegen, die Feldnamen mit einem Leerzeichen trennen. Wenn das Feld zu einem Objekt f\u00fchrt (z. B. einer anderen Seite), definieren Sie die Eigenschaft mit einem Punkt, z. B. anotherpage.title. Beachten Sie, dass ProcessWire automatisch das Feld \"Name\" verwendet, falls das festgelegte Feld leer ist."
         }
     }
 }
