@@ -218,12 +218,6 @@
         "06dacbad9c7587cdace10537b20b43ca": {
             "text": "zeige wenn..."
         },
-        "9cc4ac29ded1988ae44a553a7ecd4ffc": {
-            "text": "Falls Sie diesem Feld ein Symbol zuordnen m\u00f6chten, hier einen [Symbol-Name](http:\/\/fortawesome.github.io\/Font-Awesome\/icons\/) eintragen."
-        },
-        "41fb8fe20e74e99ab359cecc48be97d5": {
-            "text": "Beispiel: fa-beer"
-        },
         "f44c0dcd3537024ab1be348dffe383de": {
             "text": "System"
         },
@@ -286,6 +280,9 @@
         },
         "7d912a6056deaad44add9eda5494d120": {
             "text": "Diese Box markieren um alle eigenen Einstellungen zu diesem Feld (vom Details und Eingabe Tab) zu behalten. Dies ist empfehlenswert wenn der neue Feldtyp die gleichen oder \u00e4hnliche Eigenschaften zur Konfiguration wie der alte Feldtyp hat. Allerdings kann dies auch zu unn\u00f6tigen oder redundanten Konfig-Daten f\u00fchren, welche Platz im Feld beanspruchen. Sie k\u00f6nnen dies jederzeit sp\u00e4ter analysieren \u00fcber: Erweitert > Daten des Feldes \u00fcberpr\u00fcfen."
+        },
+        "ee9fe18e631383755ce658daed18b15e": {
+            "text": "Falls Sie diesem Feld ein Symbol zuordnen m\u00f6chten, w\u00e4hlen Sie unten ein Symbol aus. F\u00fcr eine visuelle Auswahl auf den Link \"Alle Symbole anzeigen\" klicken."
         }
     }
 }
