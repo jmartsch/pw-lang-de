@@ -1,0 +1,102 @@
+{
+    "file": "wire\/modules\/Process\/ProcessLogger\/ProcessLogger.module",
+    "textdomain": "wire--modules--process--processlogger--processlogger-module",
+    "translations": {
+        "a422bfafc484bafeef9ccbfeb175c216": {
+            "text": "Erstellen oder zu Protokoll-Datei hinzuf\u00fcgen mittels API:"
+        },
+        "872e46a716d24989bf3199d28e4ae86e": {
+            "text": "Gel\u00f6schtes Protokoll: %s"
+        },
+        "f33458f02cd71a8319c79c2f4d89c947": {
+            "text": "Protokoll-Datei \"%s\" gek\u00fcrzt (enth\u00e4lt nun %d Eintr\u00e4ge)"
+        },
+        "02bb48ec8c3eb6796671313f290e943d": {
+            "text": "Neuen Protokoll-Eintrag gespeichert unter \"%s\""
+        },
+        "4ad21358c22f2457f4a4c6495c68ddf6": {
+            "text": "Text im Protokoll-Eintrag leer"
+        },
+        "58840cc813684ae1c5cb61d83a4c974f": {
+            "text": "Helfer"
+        },
+        "dc770a451931e3eb28348451a1ef9896": {
+            "text": "Text Suche"
+        },
+        "4777bbe3c06c7939e97101b4589ba1eb": {
+            "text": "Datum von"
+        },
+        "d24e4fa285c1eab355817ed6c38ec1bd": {
+            "text": "Datum bis"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Aktionen"
+        },
+        "de36914cd9d030bca299ef13e59e81fc": {
+            "text": "Unten eine Aktion ausw\u00e4hlen. Sie werden aufgefordert, einen Button zu klicken, bevor die Aktion ausgef\u00fchrt wird."
+        },
+        "801ab24683a4a8c433c6eb40c48bcd9d": {
+            "text": "Herunterladen"
+        },
+        "1c53c4bdef63da21f7d99ba3bc5999f9": {
+            "text": "Eintrag hinzuf\u00fcgen"
+        },
+        "02f9418b682bcf39e6426bc2981e2b8a": {
+            "text": "K\u00fcrzen"
+        },
+        "d7e4a58b047e3d80c673e8689567c66b": {
+            "text": "L\u00f6schen"
+        },
+        "346d021dc6749fe81c1f0faee3a38831": {
+            "text": "K\u00fcrzen auf # Tage"
+        },
+        "6ae864586a6fe2c99b1501c4c20e2e38": {
+            "text": "Gr\u00f6\u00dfe der Protokoll-Datei reduzieren auf Eintr\u00e4ge der letzten [n] Tage."
+        },
+        "83f5d3fdcb74c638ae403fae1637a1fc": {
+            "text": "Neuer Protokoll-Eintrag"
+        },
+        "c397f5454fbbd15045aaacf88b43888e": {
+            "text": "Diese Protokoll-Datei jetzt k\u00fcrzen"
+        },
+        "9ac3ee6fa6d85d02c8d53149a96a0bcd": {
+            "text": "Dieses Protokoll jetzt l\u00f6schen (dauerhaft)"
+        },
+        "504e5b0396525461611c2daa17c1a420": {
+            "text": "Diesen Protokoll-Eintrag hinzuf\u00fcgen"
+        },
+        "85b023a5435c54612ef3316cbc37a660": {
+            "text": "Diese Protokoll-Datei nun herunterladen"
+        },
+        "1058f3258b7dca7c4693166c425b968d": {
+            "text": "Keine passenden Eintr\u00e4ge im Protokoll"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Ge\u00e4ndert"
+        },
+        "922e48e67eab1e2b2673f5d44a6fbafd": {
+            "text": "Eintr\u00e4ge"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Gr\u00f6\u00dfe"
+        },
+        "4c35d99800510d64691a870b65d277f4": {
+            "text": "Datum\/Zeit"
+        },
+        "bd350ab4ad8284276668d82be6b20b52": {
+            "text": "%d Protokoll"
+        },
+        "712684fe92736fe32b1c2eb87d2360c7": {
+            "text": "%d Protokolle"
+        },
+        "064a2c9034205289d020252829c41052": {
+            "text": "Ein neuer Protokoll-Eintrag auf Seite 1"
+        },
+        "b9dc13817999fcd3ea5967c020b5c043": {
+            "text": "Mehrere neue Protokoll-Eintr\u00e4ge auf Seite 1"
+        },
+        "88cfe14e9a1a3300a1f5ef50f73a648b": {
+            "text": "Benutzer"
+        }
+    }
+}
