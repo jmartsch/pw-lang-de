@@ -107,9 +107,6 @@
         "b6b0afb901a4db116f6b8403cf434280": {
             "text": "Dies ist eine Liste der Felder, die dieses Template nutzt, zur Referenz. Dieses Template erh\u00e4lt seine Felder vom Template '%s'."
         },
-        "7fc1fde9711c421115c890cd0d181100": {
-            "text": "Definieren Sie die Felder, welche von diesem Template benutzt werden. Sie k\u00f6nnen diese mittels Drag 'n' Drop umsortieren."
-        },
         "6daa35fd97a645b8e37cae080eab3de9": {
             "text": "Feld hinzuf\u00fcgen"
         },
@@ -766,6 +763,15 @@
         },
         "7b5a26bd066cf9716b38372f73408f10": {
             "text": "Label f\u00fcr Kind-Tab"
+        },
+        "ae89f7319ca951efb3ce055e92b8ade2": {
+            "text": "Definieren Sie die Felder, welche von diesem Template benutzt werden. Sie k\u00f6nnen diese mittels Drag 'n' Drop umsortieren oder [ein neues Feld erstellen](http:\/\/localhost\/modesta\/processwire\/setup\/language-translator\/field\/add)."
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Symbol"
+        },
+        "4f50a13dad7a9fb97496e4b62718d3a8": {
+            "text": "W\u00e4hlen Sie ein Symbol das diesem Template und den Seiten, welche dieses Template nutzen, zugeordnet wird (im Admin-Bereich)."
         }
     }
 }
