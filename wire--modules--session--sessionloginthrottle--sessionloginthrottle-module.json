@@ -3,7 +3,7 @@
    "textdomain":"wire--modules--session--sessionloginthrottle--sessionloginthrottle-module",
    "translations":{
       "87f1eff9c1a8afd8f0ecee1583f88ab2":{
-         "text":"Bitte mindestens %d Sekunden warten vor dem n\u00e4chsten Login Versuch."
+         "text":"Bitte warten Sie vor dem n\u00e4chsten Login-Versuch mindestens %d Sekunden."
       },
       "55c8511d5d205cbddcbc743e49a39100":{
          "text":"Anzahl Sekunden, welche ein User abwarten muss nach einem fehlgeschlagenen Login Versuch"
@@ -18,10 +18,10 @@
          "text":"Diese Anzahl wird mit der Menge der fehlgeschlagenen Versuche mulipliziert. Somit erh\u00f6ht jeder Fehlversuch die Wartezeit exponentiell. Daher sollte man vorsichtig sein und diesen Wert nicht zu hoch setzen."
       },
       "00b826f39c964075351bbc489037d008":{
-         "text":"Weil sich die Wartezeit mit jedem Versuch exponentiell erh\u00f6ht, setzt man hiermit ein Limit(Deckelung) der Wartezeit. Sie sollten diese Anzahl ziemlich hoch setzen."
+         "text":"Weil sich die Wartezeit mit jedem Versuch exponentiell erh\u00f6ht, setzen Sie hiermit eine Obergrenze (Deckelung) der Wartezeit. Sie sollten diese Zahl ziemlich hoch setzen."
       },
       "8d6451e8c8b2f9d07c6a9701e270025a":{
-         "text":"Als Standard wird die Begrenzung nur \u00fcber den Usernamen gemacht. Wenn Sie diese Box markieren, wird die Begrenzung auch \u00fcber die IP Adresse vorgenommen. Wir empfehlen diese Option, wenn ihre Besucher nicht \u00fcber eine shared IP Adresse kommen."
+         "text":"Als Standard wird die Begrenzung nur \u00fcber den Benutzernamen gemacht. Wenn Sie diese Box markieren, wird die Begrenzung auch \u00fcber die IP Adresse vorgenommen. Wir empfehlen diese Option, wenn ihre Benutzer nicht \u00fcber eine gemeinsam genutzte IP-Adresse kommen."
       },
       "9e72aded18bb6821af87ef367e7e002e":{
          "text":"Maximale Anzahl Sekunden, welche ein User zu warten hat vor einem erneuten Login Versuch"
