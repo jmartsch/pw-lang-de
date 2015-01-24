@@ -106,6 +106,27 @@
         },
         "2e9cdb9adc7f7c13f750d7fe7ab46979": {
             "text": "Wenn ausgeschaltet, werden keine Benachrichtigungen dargestellt."
+        },
+        "51bcb0deba18f3c17526ac9589275a1b": {
+            "text": "Reihenfolge der Benachrichtigungen"
+        },
+        "452fe939bf3b82240e39d4e32402f191": {
+            "text": "Ausw\u00e4hlen, in welcher Reihenfolge die Benachrichtigungen angezeigt werden."
+        },
+        "dbc0773df87763dba658c0718cb23cbd": {
+            "text": "Absteigend"
+        },
+        "795c06257e98282a98f9b4372343154c": {
+            "text": "Aufsteigend"
+        },
+        "d6e7bc4caa8b68af7f00ff457e4d3344": {
+            "text": "Benachrichtigung zur Laufzeit bzw. Einzelanforderung"
+        },
+        "a2e68070d70d39ee23fe1edf9767c11c": {
+            "text": "Als Benachrichtigung anzeigen"
+        },
+        "9650b6be51970b497f28b3f079f7bf79": {
+            "text": "Unabh\u00e4ngig anzeigen"
         }
     }
 }
