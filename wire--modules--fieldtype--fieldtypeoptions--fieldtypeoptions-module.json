@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/FieldtypeOptions.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--fieldtypeoptions-module",
+    "translations": {
+        "69b3176dd209b9a908446d55ceb0cfd2": {
+            "text": "Eingestellte Vorauswahl wird nicht angezeigt, weil der Wert nicht immer vorgeschrieben ist. Bitte die Einstellung des Feldes korrigieren."
+        },
+        "aee44a384657fe502a5b91c94fbc7713": {
+            "text": "Der Import von Optionen wird noch nicht unterst\u00fctzt. Sie k\u00f6nnen aber einfach, von einer Seite zu einer anderen, importiert werden durch direktes Copy\/Paste im Eingabebereich des Feldes."
+        },
+        "440494bea619acd17c0a19326d9030fd": {
+            "text": "Feld welches Einzel- und Mehrfachauswahl Optionen speichert."
+        }
+    }
+}
