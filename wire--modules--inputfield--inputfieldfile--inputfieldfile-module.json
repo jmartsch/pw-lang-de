@@ -61,6 +61,9 @@
         },
         "2713d4f20fb5e7947fb2bb844d57322d": {
             "text": "Bitte beachten: wenn diese Option aktiviert ist, werden per AJAX hochgeladene Dateien sofort beim Hochladen auf der Seite gespeichert, anstatt erst nach dem Klick auf \"Speichern\". Markieren Sie diese Option nicht, sofern sie diese nicht speziell ben\u00f6tigen."
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "L\u00f6schen"
         }
     }
 }
