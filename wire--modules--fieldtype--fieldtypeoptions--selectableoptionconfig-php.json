@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/SelectableOptionConfig.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--selectableoptionconfig-php",
+    "translations": {
+        "d5d394071928f1f25b0e3c0f0a336d13": {
+            "text": "Bitte L\u00f6schung von Optionen best\u00e4tigen"
+        },
+        "69e27cd6eff790dbbd4b6f65275ebaf7": {
+            "text": "L\u00d6SCHEN:"
+        },
+        "2193a0641b7380e976778074efdfec0a": {
+            "text": "Einzelner Wert"
+        },
+        "06a7c76b256c778d08e1c9548a9e679d": {
+            "text": "Mehrere Werte"
+        },
+        "1465fa2b1c38fd4e8579e84e2b31a6d6": {
+            "text": "Was soll f\u00fcr die Eingabe genutzt werden?"
+        },
+        "2b19b4791a203f60ffe7369493dd7b5f": {
+            "text": "Was sind w\u00e4hlbare Optionen?"
+        },
+        "0581f7830fb426e1d56efadbc1a09edb": {
+            "text": "Welche Optionen sollen vorgew\u00e4hlt sein? (wenn \u00fcberhaupt)"
+        },
+        "ad560982b535502d63dbf2f46ea8b3a6": {
+            "text": "Dieses Feld dient auch als Vorschau f\u00fcr Ihre(n) ausgew\u00e4hlten Eingabetyp (%s) und Optionen."
+        },
+        "c3524d56fb147114b84d6e9dd56110a9": {
+            "text": "Diese Option entfernen"
+        },
+        "c766e5be484b0e0a2104bc2fe925000c": {
+            "text": "Diese Optionen entfernen"
+        },
+        "a088b8e4d1d572f82e2661ab0862f00b": {
+            "text": "Je nach dem welchen Eingabetyp Sie ausw\u00e4hlen, kann der Benutzer entweder eine einzelne oder mehrere Optionen w\u00e4hlen. Einige Eingabetypen (wie AsmSelect) unterst\u00fctzen auch eine, durch den Benutzer, sortierbare Auswahl. Einige Eingabetypen bieten auch weitere Einstellungen im Eingabe-Tab (sichtbar nach dem speichern)."
+        },
+        "7ca00a9ac9a521d8e1d62919da2e66c6": {
+            "text": "Geben Sie eine w\u00e4hlbare Option pro Zeile an. Nach dem Speichern wird jeder ihrer Optionen eine ID zugewiesen, welche z.B. als `123=title` angezeigt werden. Weitere Informationen in der [Anleitung zur Nutzung dieses Feldes](%s)."
+        },
+        "ebe68b1a7edd199230885058ca3f3351": {
+            "text": "Hinweis zu Mehrsprachigkeit: Optionen zuerst in der Standard-Sprache festlegen und speichern, bevor man diese in andere Sprachen \u00fcbersetzt."
+        },
+        "810906cf431b89762465d39dd3402ba7": {
+            "text": "Bitte beachten: ihre Auswahl hier wird nicht aktiviert, solange kein Wert in diesem Feld steht (Pflicht). Achten Sie auf die Option \"Pflichtfeld\" im Eingabe-Tab der Einstellungen des Feldes."
+        },
+        "a6a26b1340a7cbaf1b405484a8a74b98": {
+            "text": "Dieses Feature ist aktiv weil ein Wert immer Pflicht ist."
+        }
+    }
+}
