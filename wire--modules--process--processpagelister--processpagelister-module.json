@@ -88,6 +88,15 @@
         },
         "379a82f72eacfec4228f74d4e39f3eec": {
             "text": "Kindseiten aufz\u00e4hlen"
+        },
+        "3361493ce22b609b5d11f463c8bd8c6a": {
+            "text": "Festgelegter 'include=' Modus ist hier nicht erlaubt."
+        },
+        "e418dc3d6d68592a1932bb1446975acb": {
+            "text": "Nicht alle angegebenen Templates sind bearbeitbar. Nur 'include=hidden' ist erlaubt"
+        },
+        "12b585ee7c6e8dca3790262f321f3823": {
+            "text": "Keine Templates festgelegt, somit ist maximal der 'include=hidden' Modus erlaubt"
         }
     }
 }
