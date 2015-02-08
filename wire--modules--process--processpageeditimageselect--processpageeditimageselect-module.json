@@ -38,9 +38,6 @@
         "63c7dee42e04e2757472031aa7164d81": {
             "text": "\u00dcberspringe die Breiten- und H\u00f6henangaben f\u00fcr die Bilder?"
         },
-        "5a8f9d5840811602e6806392ffef0523": {
-            "text": "Das Modul f\u00fcgt standardm\u00e4\u00dfig Breiten- und H\u00f6henattribute zu den img-Tags hinzu. Wenn Sie Responsive Images nutzen, sollten Sie das Verhalten deaktivieren. Aktivieren Sie diese Box, um die Einstellung zu deaktivieren."
-        },
         "9909fb0aacb4a219f4b3cb8f57f63a87": {
             "text": "class um Bilder links auszurichten"
         },
@@ -67,6 +64,15 @@
         },
         "a60c49010df18fff7f99db0d0d5a1522": {
             "text": "Wenn markiert, wird die Bilderauswahl die volle Bildgr\u00f6\u00dfe verwenden anstatt der Thumbnail-Bilder."
+        },
+        "cf4a792de8b81c847ece5501f00def00": {
+            "text": "Das Modul f\u00fcgt standardm\u00e4\u00dfig Breiten- und H\u00f6henattribute zu den img-Tags hinzu. Wenn Sie Responsive Images nutzen, sollten Sie das Verhalten deaktivieren. Aktivieren Sie diese Box, um die Einstellung zu deaktivieren."
+        },
+        "66e1d61daf21cfd5a9a0c3c172d7215d": {
+            "text": "Wir empfehlen nicht diese Box zu markieren weil einige Features beeinflusst werden (z.B. die Verwendung von HiDPI\/Retina Grafiken)."
+        },
+        "a06b0a4bfb89e7c6f64f1e7f9bff3c36": {
+            "text": "Empfohlener Wert f\u00fcr beste Kompatibilit\u00e4t mit dem Standard Rich Text Editor."
         }
     }
 }
