@@ -35,9 +35,6 @@
         "d7e02762cdb4621a77388689b2ee53c0": {
             "text": "Link zu einer gr\u00f6\u00dferen Version?"
         },
-        "63c7dee42e04e2757472031aa7164d81": {
-            "text": "\u00dcberspringe die Breiten- und H\u00f6henangaben f\u00fcr die Bilder?"
-        },
         "9909fb0aacb4a219f4b3cb8f57f63a87": {
             "text": "class um Bilder links auszurichten"
         },
@@ -71,8 +68,56 @@
         "66e1d61daf21cfd5a9a0c3c172d7215d": {
             "text": "Wir empfehlen nicht diese Box zu markieren weil einige Features beeinflusst werden (z.B. die Verwendung von HiDPI\/Retina Grafiken)."
         },
-        "a06b0a4bfb89e7c6f64f1e7f9bff3c36": {
-            "text": "Empfohlener Wert f\u00fcr beste Kompatibilit\u00e4t mit dem Standard Rich Text Editor."
+        "a39537e1c6a1b744127450b81c4f8173": {
+            "text": "Gel\u00f6schte Bild Variante"
+        },
+        "966c5c54ae383420f05957c520436202": {
+            "text": "Fehler beim l\u00f6schen von Bild Variante"
+        },
+        "a2c7bdf75d9141ef485ca345d5a3b50c": {
+            "text": "L\u00f6schen markiert"
+        },
+        "d3d2e617335f08df83599665eef8a418": {
+            "text": "Schliessen"
+        },
+        "68155ca6e2858626c370f0fb3ea9bfc5": {
+            "text": "HiDPI\/Retina Checkbox standardm\u00e4\u00dfig markiert?"
+        },
+        "3608b24ec08977c76c40c8514f3bcbd5": {
+            "text": "Diese Box markieren, um die HiDPI\/Retina Checkox standardm\u00e4\u00dfig f\u00fcr neu eingef\u00fcgte Bilder auszuw\u00e4hlen."
+        },
+        "0bedb7a49466cc5abddacd2003be55b3": {
+            "text": "\u00dcberspringe die Breiten- und H\u00f6henangaben f\u00fcr die Bilder Tags?"
+        },
+        "7fde437e01b597d729484cfc830eb4c5": {
+            "text": "Empfohlener Wert:"
+        },
+        "792530c475571d1e0faf0c94f333e6f2": {
+            "text": "Bild"
+        },
+        "41aecd06bffa8d91e4b860af01295890": {
+            "text": "Datei"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Gr\u00f6\u00dfe"
+        },
+        "4f42496817221234f2297f3605183f29": {
+            "text": "Bemerkungen"
+        },
+        "0220ca2a43c59a70842cafc215b6430e": {
+            "text": "Erstellt zur Platzierung in Textarea"
+        },
+        "8cc1cfd47373070e2d8f4fc7d367abf3": {
+            "text": "Automatisch erstelltes Admin-Thumbnail"
+        },
+        "671bf4e51334fa684ae31fdaa130b6db": {
+            "text": "API generierte Variante"
+        },
+        "8df4dcb71975633a0a9e60b4d05c37d8": {
+            "text": "%1$d Variante f\u00fcr Bild %2$s"
+        },
+        "02b1a8c5ed34fba75d6ce56f68435743": {
+            "text": "%1$d Varianten f\u00fcr Bild %2$s"
         }
     }
 }
