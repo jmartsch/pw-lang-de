@@ -32,9 +32,6 @@
         "e36098607b9dd3b6d7107a449b6a25bd": {
             "text": "Mittig positionieren"
         },
-        "d7e02762cdb4621a77388689b2ee53c0": {
-            "text": "Link zu einer gr\u00f6\u00dferen Version?"
-        },
         "9909fb0aacb4a219f4b3cb8f57f63a87": {
             "text": "class um Bilder links auszurichten"
         },
@@ -46,9 +43,6 @@
         },
         "b5a7adde1af5c87d7fd797b6245c2a39": {
             "text": "Beschreibung"
-        },
-        "4e641cf2fc3e46719b2e78d8ab8c6c2e": {
-            "text": "Sie k\u00f6nnen auch die Ecke rechts unten benutzen, um die Bildgr\u00f6\u00dfe zu \u00e4ndern."
         },
         "36171be725b020fde0f22b3ceb047280": {
             "text": "Feldnamen welche in der Auswahl \u00fcbersprungen werden"
@@ -118,6 +112,57 @@
         },
         "02b1a8c5ed34fba75d6ce56f68435743": {
             "text": "%1$d Varianten f\u00fcr Bild %2$s"
+        },
+        "e254a34f3a1001f00adc55aba5552783": {
+            "text": "Oben:"
+        },
+        "52c9a1be3c0e025b4aa30857a474fea5": {
+            "text": "Links:"
+        },
+        "f8927cab12c03e7537c735cd3117fba2": {
+            "text": "Link zur gr\u00f6\u00dferen\/originalen Version"
+        },
+        "9d723d04c40bfd81835c0766a698cf63": {
+            "text": "Gr\u00f6\u00dfe \u00e4ndern"
+        },
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Zuschneiden"
+        },
+        "adf1ab3ee834260ba6338ab9c84345ce": {
+            "text": "Zuschnitt speichern"
+        },
+        "2c968d3065f948e7d3e6086c46fdcb68": {
+            "text": "Maximieren\/volle Breite"
+        },
+        "2d43ecd8d6e1e6e4bd564dd3b15515bc": {
+            "text": "Minimieren\/an Bildschirm anpassen"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Abbrechen"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Speichern"
+        },
+        "c87935037e12cf6f0302989fd23bcf37": {
+            "text": "Als Kopie speichern"
+        },
+        "575f5f86d2c7ea113c6710c1037c4465": {
+            "text": "Speichert..."
+        },
+        "8524de963f07201e5c086830d370797f": {
+            "text": "Laden..."
+        },
+        "b851b0a9ec369166429bdca3b37b8435": {
+            "text": "Ersetzt:"
+        },
+        "cb7f37440c8655039bedd30197cc3321": {
+            "text": "Kopiertes Bild gespeichert:"
+        },
+        "1c8ce444e68e56abf58edd178ed3bf54": {
+            "text": "Zugeschnittene Version"
+        },
+        "a3921791372620c674562de0f5b0f9ed": {
+            "text": "Eingef\u00fcgt von Seite:"
         }
     }
 }
