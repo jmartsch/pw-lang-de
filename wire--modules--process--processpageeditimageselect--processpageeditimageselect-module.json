@@ -140,9 +140,6 @@
         "ea4788705e6873b424c65e91c2846b19": {
             "text": "Abbrechen"
         },
-        "c9cc8cce247e49bae79f15173ce97354": {
-            "text": "Speichern"
-        },
         "c87935037e12cf6f0302989fd23bcf37": {
             "text": "Als Kopie speichern"
         },
@@ -152,17 +149,35 @@
         "8524de963f07201e5c086830d370797f": {
             "text": "Laden..."
         },
-        "b851b0a9ec369166429bdca3b37b8435": {
-            "text": "Ersetzt:"
-        },
-        "cb7f37440c8655039bedd30197cc3321": {
-            "text": "Kopiertes Bild gespeichert:"
-        },
         "1c8ce444e68e56abf58edd178ed3bf54": {
             "text": "Zugeschnittene Version"
         },
         "a3921791372620c674562de0f5b0f9ed": {
             "text": "Eingef\u00fcgt von Seite:"
+        },
+        "6cd8f2e7c5ccb2013e3cc7ad1bdd31af": {
+            "text": "Mit reduzierter Gr\u00f6\u00dfe speichern?"
+        },
+        "3f67a6c93bc61e24e9ba2a9b47712010": {
+            "text": "Speichern und Ersetzen"
+        },
+        "a7d784a6301793f61c070496d6988d36": {
+            "text": "Aktualisieren..."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Ja"
+        },
+        "b1a0a023c5df1b1928e1176fca487837": {
+            "text": "Nein, verwende %s"
+        },
+        "fef2a86d13179e1022a0f692ad9f521b": {
+            "text": "Keine \u00c4nderungen zu den Bild Varianten notwendig."
+        },
+        "46ce1195125fefcac9df32093fb8f238": {
+            "text": "Keine \u00c4nderungen vorgenommen"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Ge\u00e4ndert"
         }
     }
 }
