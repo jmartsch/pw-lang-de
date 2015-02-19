@@ -71,11 +71,8 @@
         "5174d1309f275ba6f275db3af9eb3e18": {
             "text": "Raster"
         },
-        "17c3a6a4c6a8f5d19ada867d57e24685": {
-            "text": "%d Variante"
-        },
-        "26b1adbf2adf2aab2e85565980ed057b": {
-            "text": "%d Varianten"
+        "840ad8821e0c1db717493f17a054bd18": {
+            "text": "Varianten von %s"
         }
     }
 }
