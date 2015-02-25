@@ -46,6 +46,60 @@
         },
         "2453cc3c047929e3210a51607202b8bb": {
             "text": "*zur Zeit experimentell"
+        },
+        "287234a1ff35a314b5b6bc4e5828e745": {
+            "text": "Eigenschaften"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titel"
+        },
+        "26175e18932f5310229ab78e3acdee97": {
+            "text": "Zus\u00e4tzlicher Text zur Beschreibung des Links."
+        },
+        "c41a31890959544c6523af684561abe5": {
+            "text": "Ziel"
+        },
+        "918dfcbd7b97a5aa266ceb37a76c3dee": {
+            "text": "Wo sich dieser Link \u00f6ffnet."
+        },
+        "d9167711e3727337c3e12dbaaac4511f": {
+            "text": "Beziehung des Links zum Dokument."
+        },
+        "dcbd7beee5b5739c187b51f6305c7639": {
+            "text": "Zus\u00e4tzliche Klassen, welche Optik und Verhalten des Links beeinflussen k\u00f6nnen."
+        },
+        "22d6eb83c9e9109699daa15ef964e88f": {
+            "text": "Sie k\u00f6nnen vorhandene Eigenschaften in den oben angezeigten Einstellungen des Moduls %s anpassen."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nichts"
+        },
+        "d7e5b64c4aa7c174c3b8e7c013f57891": {
+            "text": "in neuem Fenster \u00f6ffnen"
+        },
+        "14ca6a0caadcbfe73ca835d810b6efe5": {
+            "text": "Suchmaschinen sollen nicht folgen"
+        },
+        "6c7999851a00aff2df139ead430fac5c": {
+            "text": "Optionen zu Eigenschaften"
+        },
+        "b31cbfca485dbc22cfb79ea992fa8e98": {
+            "text": "Geben Sie einen Eigenschaftswert pro Zeile ein. Der Benutzer kann diese dann als Optionen beim hinzuf\u00fcgen von Links ausw\u00e4hlen. Um eine Option als Voreinstellung (f\u00fcr neue Links) festzulegen, bitte ein Plus \"+\" voranstellen."
+        },
+        "a09630836c5a01bfa93c8cdfbbb065d3": {
+            "text": "Eigenschaften von externen Link"
+        },
+        "9b291241830397114b711a98ca6695d6": {
+            "text": "Geben Sie die Eigenschaft an, welche automatisch als Standard eingetragen wird, wenn ein externer Link erkannt wurde."
+        },
+        "7f4fd9351aed8f03ec4559872d125eb4": {
+            "text": "Falls ausgew\u00e4hlt, muss der Wert einem der oben vorgegebenen entsprechen."
+        },
+        "eafd32d33d67b845444c70572e6c1e50": {
+            "text": "Beispiel: die Angabe von **nofollow** sorgt daf\u00fcr, dass externe Links standardm\u00e4\u00dfig nicht von Suchmaschinen erfasst werden."
+        },
+        "1da324557a591359538e1705e30b5dea": {
+            "text": "Beispiel: die Angabe von **_blank** sorgt daf\u00fcr, dass externe Links standardm\u00e4\u00dfig in einem neuen Fenster ge\u00f6ffnet werden."
         }
     }
 }
