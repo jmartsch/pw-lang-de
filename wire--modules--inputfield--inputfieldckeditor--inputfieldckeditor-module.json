@@ -134,9 +134,6 @@
         "b6c2682ed322b5c3625338a5849b9794": {
             "text": "CKEditor Textfeld Rich Text Editor"
         },
-        "ddb1f53de8a1598fb3d52552d6246b85": {
-            "text": "de"
-        },
         "68835c69c5818fea532f3ad00a91be00": {
             "text": "de"
         },
@@ -193,6 +190,12 @@
         },
         "378f7539f13b958d62e92c063772ee37": {
             "text": "Das obere Beispiel erlaubt alt, src, width und height Attribute f\u00fcr img-Tags, wobei das src Attribut eine Pflichtangabe ist."
+        },
+        "ddb1f53de8a1598fb3d52552d6246b85": {
+            "text": "de"
+        },
+        "ff15d4e97d08c2ab0351169af757b0f2": {
+            "text": "Link bearbeiten"
         }
     }
 }
