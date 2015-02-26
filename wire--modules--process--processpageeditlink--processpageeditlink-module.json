@@ -100,6 +100,15 @@
         },
         "1da324557a591359538e1705e30b5dea": {
             "text": "Beispiel: die Angabe von **_blank** sorgt daf\u00fcr, dass externe Links standardm\u00e4\u00dfig in einem neuen Fenster ge\u00f6ffnet werden."
+        },
+        "c1ea9d15a4b45722e553d5227d2a68ec": {
+            "text": "Geben Sie eine(n) URL, E-Mail Adresse, Anker oder Worte ein um eine Seite zu finden."
+        },
+        "6163b8193581a4adae54063174fb3243": {
+            "text": "Link zu einem Anker"
+        },
+        "b7a5bb32ec6b8bdd7933e1aed1226051": {
+            "text": "Anker im bearbeiteten Text gefunden."
         }
     }
 }
