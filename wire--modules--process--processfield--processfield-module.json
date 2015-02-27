@@ -335,9 +335,6 @@
         "c40f632e4b3c69bbd1af89f5c5f5c617": {
             "text": "Nicht hinzuf\u00fcgen"
         },
-        "4c5538b9792f2560253bcab98f04feff": {
-            "text": "Zu Template(s) hinzuf\u00fcgen"
-        },
         "c7d0e111bad6f0fd32c701944fb16475": {
             "text": "Bitte ihre \u00c4nderungen \u00fcberpr\u00fcfen und korrigieren oder best\u00e4tigen"
         },
@@ -367,6 +364,9 @@
         },
         "59da98ece56eec26f5f9edd6f051da0b": {
             "text": "Dies wird auch %d Daten-Zeilen entfernen."
+        },
+        "7c88547fdcfb8db979ff8e01a8af3cab": {
+            "text": "Hinzuf\u00fcgen oder entfernen von Template(s)"
         }
     }
 }
