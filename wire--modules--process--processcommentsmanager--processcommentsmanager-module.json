@@ -26,9 +26,6 @@
         "4f85d037300d5f7efcf7fdc3f973db7f": {
             "text": "Feld nicht erkannt"
         },
-        "e302685bde11296ef10be4a0cb825612": {
-            "text": "Status nicht erkannt (urlSegment3)"
-        },
         "6a65e2235642194467bf83001d23639d": {
             "text": "Antworten auf"
         },
@@ -79,6 +76,12 @@
         },
         "af617b357692e5cded9ff1dd859080b3": {
             "text": "%d Antworten"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Best\u00e4tigt"
+        },
+        "2d13df6f8b5e4c5af9f87e0dc39df69d": {
+            "text": "Wartet"
         }
     }
 }
