@@ -11,26 +11,11 @@
         "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
             "text": "Link zu einer URL"
         },
-        "d0371b1908138f8cd5be5356ef5a46ab": {
-            "text": "Link zu einer Seite"
-        },
         "629ea6ac7fee06a764a49cb39bd356d9": {
             "text": "In einem neuen Fenster \u00f6ffnen?"
         },
         "1f3e9bfe3126acfe0af746ec6ed2db68": {
             "text": "Wenn dieses Feld aktiviert ist, wird sich der Link in einem neuen Fenster \u00f6ffnen und das aktuelle Fenster bestehen lassen."
-        },
-        "149a978aed458d66e08de0460cdbf65e": {
-            "text": "Link zu einer Datei"
-        },
-        "27c6c65717076df3e127c24bee401fa7": {
-            "text": "Um eine Datei einer anderen Seite zu nutzen, klicken Sie oben auf \"Link zu einer Seite\" und w\u00e4hlen die entsprechende Seite. W\u00e4hlen Sie anschlie\u00dfend hier die Datei aus."
-        },
-        "7ac547b42cb510a9564daab982ac839a": {
-            "text": "Link zu einer Unterseite"
-        },
-        "d6610e6929ce3f2c5d432efd8cb96097": {
-            "text": "Dies entspricht dem oberen \"Link zu einer Seite\", ist aber schneller nutzbar wenn man auf Kinder der aktuellen Seite verlinkt."
         },
         "eb629addbfc0dd4a0353d6defff81923": {
             "text": "URL Typ f\u00fcr Seiten Links"
@@ -104,11 +89,32 @@
         "c1ea9d15a4b45722e553d5227d2a68ec": {
             "text": "Geben Sie eine(n) URL, E-Mail Adresse, Anker oder Worte ein um eine Seite zu finden."
         },
-        "6163b8193581a4adae54063174fb3243": {
-            "text": "Link zu einem Anker"
-        },
         "b7a5bb32ec6b8bdd7933e1aed1226051": {
             "text": "Anker im bearbeiteten Text gefunden."
+        },
+        "16fc67b7eaa1e52e2ad1ecd9d42917bc": {
+            "text": "Anker ausw\u00e4hlen"
+        },
+        "99e7707748ae048e17c5810fad119e0b": {
+            "text": "Seite ausw\u00e4hlen"
+        },
+        "d98192e3cb911892e861fde0f812f062": {
+            "text": "Unterseite ausw\u00e4hlen"
+        },
+        "034cc05920524f811060e035664d50a6": {
+            "text": "Dies entspricht dem oberen \"Seite ausw\u00e4hlen\", ist aber schneller nutzbar wenn man auf Kinder der aktuellen Seite verlinkt."
+        },
+        "1aa14e9f377b528b5537d70fbd35c6a2": {
+            "text": "Datei ausw\u00e4hlen"
+        },
+        "518c59a47fc797ac7a43040c96b8e2e2": {
+            "text": "Zeige Dateien auf Seite:"
+        },
+        "35afa790dae10280b1b4b38417e756ee": {
+            "text": "W\u00e4hlen Sie die zu verlinkende Datei von dieser Seite."
+        },
+        "0fc76f2ae9061248b25a11b099e80fd6": {
+            "text": "Um eine Datei einer anderen Seite zu nutzen, klicken Sie oben auf 'Seite ausw\u00e4hlen' und w\u00e4hlen die entsprechende Seite. W\u00e4hlen Sie anschlie\u00dfend hier die Datei aus."
         }
     }
 }
