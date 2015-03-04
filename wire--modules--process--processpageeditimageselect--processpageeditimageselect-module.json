@@ -5,9 +5,6 @@
         "5d13ae1a65403891ac0fe044f3acc865": {
             "text": "Auf dieser Seite existieren keine Bild-Felder. W\u00e4hlen Sie eine andere Seite, um Bilder von dieser zu nutzen."
         },
-        "64a201e91bd521f5640318d844920b31": {
-            "text": "Auf dieser Seite gibt es derzeit (noch) keine Bilder. Schlie\u00dfen Sie dieses Fenster und laden Sie Bilder hoch oder w\u00e4hlen Sie Bilder von einer anderen Seite."
-        },
         "83ea3ed3245ed2ce30aabecdc6b4d354": {
             "text": "Bilder auf der Seite:"
         },
@@ -178,6 +175,12 @@
         },
         "77fb47f76c22aae57cce393488dfee23": {
             "text": "In dieser Gr\u00f6\u00dfe speichern?"
+        },
+        "d695a4d4ae7091badbe5c20c5b064bac": {
+            "text": "Auf dieser Seite gibt es derzeit (noch) keine Bilder. Laden Sie ein Bild hoch oder w\u00e4hlen Sie Bilder von einer anderen Seite."
+        },
+        "1f98842c354dc496970446bce14f4c50": {
+            "text": "Bild hochladen"
         }
     }
 }
