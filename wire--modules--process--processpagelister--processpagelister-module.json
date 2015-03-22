@@ -97,6 +97,12 @@
         },
         "12b585ee7c6e8dca3790262f321f3823": {
             "text": "Keine Templates festgelegt, somit ist maximal der 'include=hidden' Modus erlaubt"
+        },
+        "2cd1c7a79703fe25a98128ad343a621e": {
+            "text": "Ergebnisse aktualisieren"
+        },
+        "d77a4f65dfe38bdbb76371048e3ae9ea": {
+            "text": "Filter und Spalten auf Standard zur\u00fccksetzen"
         }
     }
 }
