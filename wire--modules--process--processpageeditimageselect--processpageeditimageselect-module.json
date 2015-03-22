@@ -38,9 +38,6 @@
         "9d2836f3ff372cd7964b90d118710202": {
             "text": "class um Bilder mittig auszurichten"
         },
-        "b5a7adde1af5c87d7fd797b6245c2a39": {
-            "text": "Beschreibung"
-        },
         "36171be725b020fde0f22b3ceb047280": {
             "text": "Feldnamen welche in der Auswahl \u00fcbersprungen werden"
         },
@@ -181,6 +178,30 @@
         },
         "1f98842c354dc496970446bce14f4c50": {
             "text": "Bild hochladen"
+        },
+        "a547432ab25b830c51cb8a560e4e4f62": {
+            "text": "Beschreibung des Bildes (alt Attribut)"
+        },
+        "a7ef116917746995c6efb74b77261e93": {
+            "text": "Titel?"
+        },
+        "82e8dd04a8fd3563e8e703b0ab6620d4": {
+            "text": "Der Titel wird im Editor nach dem Einf\u00fcgen des Bildes eingetragen."
+        },
+        "b9869a2e0129f044fca87d4b4f7664f0": {
+            "text": "Hier Bildtitel eingeben"
+        },
+        "5e470c96fb73af827111043d60af3dbe": {
+            "text": "Rotation nach rechts"
+        },
+        "f3d4b8039718518b45713ae64c12de37": {
+            "text": "Rotation nach links"
+        },
+        "2f96dd2b9788ed9ecbc6f41c312bf455": {
+            "text": "Horizontal kippen"
+        },
+        "8373d2f18e29920f78459f34d71040ad": {
+            "text": "Vertikal kippen"
         }
     }
 }
