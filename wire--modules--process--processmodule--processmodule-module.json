@@ -340,6 +340,15 @@
         },
         "fc93b2cc57529c815c8810364ec885ea": {
             "text": "Es sind mehrere Kopien dieses Moduls vorhanden. W\u00e4hlen Sie die gew\u00fcnschte Modul-Datei aus."
+        },
+        "1c4336473685430feefceabf2d42669c": {
+            "text": "Autoload deaktiviert?"
+        },
+        "0e7a5c8e978678d4124240dafccdc636": {
+            "text": "Seien Sie vorsichtig, das markieren dieser Box kann das Modul oder ihre Seite st\u00f6ren. Nur zum tempor\u00e4ren Test verwenden."
+        },
+        "7f3e66ccbb2c396210f9f58ad5a75e39": {
+            "text": "Fehlersuche"
         }
     }
 }
