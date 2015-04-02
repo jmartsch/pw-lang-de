@@ -784,6 +784,18 @@
         },
         "ae89f7319ca951efb3ce055e92b8ade2": {
             "text": "Definieren Sie die Felder, welche von diesem Template benutzt werden. Sie k\u00f6nnen diese mittels Drag 'n' Drop umsortieren oder [ein neues Feld erstellen](..\/field\/add)."
+        },
+        "70445e42e2f9089020b0ba1c23063287": {
+            "text": "Cache f\u00fcr die gespeicherte Seite und andere Seiten mit zutreffendem Selektor leeren..."
+        },
+        "f62b09e2a4c1eb3583afe9c213b981c8": {
+            "text": "Selektor um die anderen Seiten zu finden, bei welchen der Cache geleert werden soll."
+        },
+        "dcbec326309994892030ce4aa6f72f75": {
+            "text": "Dieses Template speichern und dann hierher zur\u00fcckkehren um den Selektor einzustellen."
+        },
+        "711aef464118d5be216c2879591fbb5a": {
+            "text": "Selektor f\u00fcr den Ablauf des Cache"
         }
     }
 }
