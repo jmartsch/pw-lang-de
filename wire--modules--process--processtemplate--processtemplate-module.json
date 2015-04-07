@@ -796,6 +796,12 @@
         },
         "711aef464118d5be216c2879591fbb5a": {
             "text": "Selektor f\u00fcr den Ablauf des Cache"
+        },
+        "65cee0d2556f206faa5e315e2f165551": {
+            "text": "Header welcher mit der Template-Datei ausgegeben wird. Falls keiner gew\u00e4hlt wird, sendet ProcessWire keinen Content-Type Header und in den meisten F\u00e4llen wird text\/html vorausgesetzt. Die Auswahl eines Content-Type wird empfohlen, wenn etwas anderes als HTML ausgegeben wird."
+        },
+        "6540057c786960e596930c3041771293": {
+            "text": "Um mehr Content-Types hinzuzuf\u00fcgen, schauen Sie unter *contentTypes* in \/wire\/config.php nach (und tragen diese unter \/site\/config.php ein)."
         }
     }
 }
