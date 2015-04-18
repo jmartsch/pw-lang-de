@@ -75,7 +75,7 @@
             "text": "Dieses Label erscheint \u00fcber dem Eintragsfeld. Falls leer gelassen wird stattdessen dessen Name verwendet."
         },
         "d421f74dd8c605a337e57a6224f23478": {
-            "text": "Zus\u00e4tzliche Informationen, um dieses Feld zubeschreiben und\/oder Anweisungen, wie Inhalte einzugeben sind."
+            "text": "Zus\u00e4tzliche Informationen, um dieses Feld zu beschreiben und\/oder Anweisungen, wie Inhalte einzugeben sind."
         },
         "983f66857047c1e6fc8878e54c5c9939": {
             "text": "Feld klonen\/duplizieren?"
@@ -293,9 +293,6 @@
         "ff0d9fae2d1ae47cb2e3c16ce883ed4e": {
             "text": "Bitte beachten: nach Best\u00e4tigung dieses Formulars werden Sie die geklonte Kopie bearbeiten."
         },
-        "95523fea14a18800a635536624e982a8": {
-            "text": "Kann Feld nicht klonen weil der Name \"%s\" bereits verwendet wird oder reserviert ist."
-        },
         "0a198ede7ab46185f2e9fb2a3628419b": {
             "text": "(kopieren)"
         },
@@ -367,6 +364,33 @@
         },
         "7c88547fdcfb8db979ff8e01a8af3cab": {
             "text": "Hinzuf\u00fcgen oder entfernen von Template(s)"
+        },
+        "158b56553ee2e91623b2568e46a4fb82": {
+            "text": "Vorhandenes Feld klonen"
+        },
+        "64a747bce9561ce24781600d47b1cd66": {
+            "text": "Verwendung von Hinweisen oder zus\u00e4tzlichen Informationen welche unterhalb der Eingabe erscheinen."
+        },
+        "d3528910cb9ca888a0c859b37fe3cb28": {
+            "text": "Hinweise erscheinen hier und sehen so aus."
+        },
+        "48cf9aec9ee1cd5173596f31f65b83e5": {
+            "text": "Feld-Name ist leer"
+        },
+        "4072bd91cd44efb5ae4ef51a319fbd79": {
+            "text": "Feld-Namen d\u00fcrfen nur ASCII Buchstaben, Ziffern oder Unterstriche enthalten."
+        },
+        "2d596b898eecf76afa1f7cca2490f219": {
+            "text": "Feld-Name \"%s\" wird bereits verwendet"
+        },
+        "d0de87a477316bfd58f0bf2b1ae2d40d": {
+            "text": "Feld-Name \"%s\" ist ein reserviertes Wort"
+        },
+        "65016ddfb236155b595fb479c695866b": {
+            "text": "Feld-Namen d\u00fcrfen nicht mit \"_\" oder Ziffern beginnen"
+        },
+        "a6f1b7f6b210b19d1d4ff7722c8fd790": {
+            "text": "Hinweise"
         }
     }
 }
