@@ -14,12 +14,6 @@
         "cb44f59c366c2adb4a35ef342be91163": {
             "text": "Benutzer ausgeloggt: %s"
         },
-        "2009e6e3b0f694f86c2f98728c22b053": {
-            "text": "%d aktiver Prozess"
-        },
-        "1a4d810a18e54ec6648c1b3c99b84cd9": {
-            "text": "%d aktive Prozesse"
-        },
         "0914afe426319fe974cef0952de1ed3b": {
             "text": "%d neue Nachricht"
         },
@@ -73,6 +67,12 @@
         },
         "1442a7b6e2c20b27775175eecba84dac": {
             "text": "Min."
+        },
+        "3ea680550091f52ef7d4f2120a9a0032": {
+            "text": "Achtung: Sie bearbeiten diese Seite in einem anderen Fenster (bearbeiten begonnenn %s)"
+        },
+        "187b4dd25b5e8329dfacc1528ac55028": {
+            "text": "Achtung: Benutzer \"%s\" bearbeitet im Moment diese Seite (bearbeiten begonnen %s)"
         }
     }
 }
