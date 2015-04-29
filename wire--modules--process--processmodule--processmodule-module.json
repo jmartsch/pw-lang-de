@@ -222,7 +222,7 @@
             "text": "Herunterladen und installieren"
         },
         "ea90a0c1864c51f82f862a6850c13951": {
-            "text": "Modul Dateien gel\u00f6scht"
+            "text": "Modul-Dateien gel\u00f6scht"
         },
         "0d17be96c4c0a8f101dcaa0ce9c5ee7d": {
             "text": "%s l\u00f6schen?"
@@ -349,6 +349,9 @@
         },
         "7f3e66ccbb2c396210f9f58ad5a75e39": {
             "text": "Fehlersuche"
+        },
+        "883368e39a6dfd38bba57a0d881c87df": {
+            "text": "Modul-Cache aktualisiert (%d Module)"
         }
     }
 }
