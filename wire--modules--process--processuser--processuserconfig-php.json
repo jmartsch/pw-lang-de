@@ -9,7 +9,7 @@
             "text": "Wenn die Anzahl der Benutzer im System diesen Wert \u00fcbersteigt, zeigt die Dropdown-Navigation stattdessen Benutzerrollen mit Menge der zugeh\u00f6rigen Benutzer."
         },
         "170f7f6165af9bedf40c130213222620": {
-            "text": "Legen Sie einen Wert zwischen 1 und 100 fest (Standard=50)"
+            "text": "Legen Sie einen Wert zwischen 1 und 100 fest (Standard=25)"
         }
     }
 }
