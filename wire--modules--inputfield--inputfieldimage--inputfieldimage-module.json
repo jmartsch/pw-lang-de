@@ -70,8 +70,6 @@
         },
         "5174d1309f275ba6f275db3af9eb3e18": {
             "text": "Raster"
-<<<<<<< HEAD
-=======
         },
         "840ad8821e0c1db717493f17a054bd18": {
             "text": "Varianten von %s"
@@ -84,7 +82,6 @@
         },
         "e0af28e6bea01f8a983ebd94ec3b7468": {
             "text": "Falls markiert werden Bilder, welche die maximale Breite\/H\u00f6he \u00fcberschreiten, abgewiesen anstatt neu skaliert."
->>>>>>> dev
         }
     }
 }
