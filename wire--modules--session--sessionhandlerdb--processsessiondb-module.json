@@ -31,6 +31,12 @@
         },
         "8f9bfe9d1345237cb3b2b205864da075": {
             "text": "Benutzer"
+        },
+        "14db3637a09c9b2ca9c1338171285965": {
+            "text": "%d aktive Session"
+        },
+        "a29ecfb237834699193ba759c9af8efe": {
+            "text": "%d aktive Sessions"
         }
     }
 }

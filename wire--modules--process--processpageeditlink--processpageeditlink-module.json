@@ -11,26 +11,11 @@
         "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
             "text": "Link zu einer URL"
         },
-        "d0371b1908138f8cd5be5356ef5a46ab": {
-            "text": "Link zu einer Seite"
-        },
         "629ea6ac7fee06a764a49cb39bd356d9": {
             "text": "In einem neuen Fenster \u00f6ffnen?"
         },
         "1f3e9bfe3126acfe0af746ec6ed2db68": {
             "text": "Wenn dieses Feld aktiviert ist, wird sich der Link in einem neuen Fenster \u00f6ffnen und das aktuelle Fenster bestehen lassen."
-        },
-        "149a978aed458d66e08de0460cdbf65e": {
-            "text": "Link zu einer Datei"
-        },
-        "27c6c65717076df3e127c24bee401fa7": {
-            "text": "Um eine Datei einer anderen Seite zu nutzen, klicken Sie oben auf \"Link zu einer Seite\" und w\u00e4hlen die entsprechende Seite. W\u00e4hlen Sie anschlie\u00dfend hier die Datei aus."
-        },
-        "7ac547b42cb510a9564daab982ac839a": {
-            "text": "Link zu einer Unterseite"
-        },
-        "d6610e6929ce3f2c5d432efd8cb96097": {
-            "text": "Dies entspricht dem oberen \"Link zu einer Seite\", ist aber schneller nutzbar wenn man auf Kinder der aktuellen Seite verlinkt."
         },
         "eb629addbfc0dd4a0353d6defff81923": {
             "text": "URL Typ f\u00fcr Seiten Links"
@@ -46,6 +31,90 @@
         },
         "2453cc3c047929e3210a51607202b8bb": {
             "text": "*zur Zeit experimentell"
+        },
+        "287234a1ff35a314b5b6bc4e5828e745": {
+            "text": "Eigenschaften"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titel"
+        },
+        "26175e18932f5310229ab78e3acdee97": {
+            "text": "Zus\u00e4tzlicher Text zur Beschreibung des Links."
+        },
+        "c41a31890959544c6523af684561abe5": {
+            "text": "Ziel"
+        },
+        "918dfcbd7b97a5aa266ceb37a76c3dee": {
+            "text": "Wo sich dieser Link \u00f6ffnet."
+        },
+        "d9167711e3727337c3e12dbaaac4511f": {
+            "text": "Beziehung des Links zum Dokument."
+        },
+        "dcbd7beee5b5739c187b51f6305c7639": {
+            "text": "Zus\u00e4tzliche Klassen, welche Optik und Verhalten des Links beeinflussen k\u00f6nnen."
+        },
+        "22d6eb83c9e9109699daa15ef964e88f": {
+            "text": "Sie k\u00f6nnen vorhandene Eigenschaften in den oben angezeigten Einstellungen des Moduls %s anpassen."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nichts"
+        },
+        "d7e5b64c4aa7c174c3b8e7c013f57891": {
+            "text": "in neuem Fenster \u00f6ffnen"
+        },
+        "14ca6a0caadcbfe73ca835d810b6efe5": {
+            "text": "Suchmaschinen sollen nicht folgen"
+        },
+        "6c7999851a00aff2df139ead430fac5c": {
+            "text": "Optionen zu Eigenschaften"
+        },
+        "b31cbfca485dbc22cfb79ea992fa8e98": {
+            "text": "Geben Sie einen Eigenschaftswert pro Zeile ein. Der Benutzer kann diese dann als Optionen beim hinzuf\u00fcgen von Links ausw\u00e4hlen. Um eine Option als Voreinstellung (f\u00fcr neue Links) festzulegen, bitte ein Plus \"+\" voranstellen."
+        },
+        "a09630836c5a01bfa93c8cdfbbb065d3": {
+            "text": "Eigenschaften von externen Link"
+        },
+        "9b291241830397114b711a98ca6695d6": {
+            "text": "Geben Sie die Eigenschaft an, welche automatisch als Standard eingetragen wird, wenn ein externer Link erkannt wurde."
+        },
+        "7f4fd9351aed8f03ec4559872d125eb4": {
+            "text": "Falls ausgew\u00e4hlt, muss der Wert einem der oben vorgegebenen entsprechen."
+        },
+        "eafd32d33d67b845444c70572e6c1e50": {
+            "text": "Beispiel: die Angabe von **nofollow** sorgt daf\u00fcr, dass externe Links standardm\u00e4\u00dfig nicht von Suchmaschinen erfasst werden."
+        },
+        "1da324557a591359538e1705e30b5dea": {
+            "text": "Beispiel: die Angabe von **_blank** sorgt daf\u00fcr, dass externe Links standardm\u00e4\u00dfig in einem neuen Fenster ge\u00f6ffnet werden."
+        },
+        "c1ea9d15a4b45722e553d5227d2a68ec": {
+            "text": "Geben Sie eine(n) URL, E-Mail Adresse, Anker oder Worte ein um eine Seite zu finden."
+        },
+        "b7a5bb32ec6b8bdd7933e1aed1226051": {
+            "text": "Anker im bearbeiteten Text gefunden."
+        },
+        "16fc67b7eaa1e52e2ad1ecd9d42917bc": {
+            "text": "Anker ausw\u00e4hlen"
+        },
+        "99e7707748ae048e17c5810fad119e0b": {
+            "text": "Seite ausw\u00e4hlen"
+        },
+        "d98192e3cb911892e861fde0f812f062": {
+            "text": "Unterseite ausw\u00e4hlen"
+        },
+        "034cc05920524f811060e035664d50a6": {
+            "text": "Dies entspricht dem oberen \"Seite ausw\u00e4hlen\", ist aber schneller nutzbar wenn man auf Kinder der aktuellen Seite verlinkt."
+        },
+        "1aa14e9f377b528b5537d70fbd35c6a2": {
+            "text": "Datei ausw\u00e4hlen"
+        },
+        "518c59a47fc797ac7a43040c96b8e2e2": {
+            "text": "Zeige Dateien auf Seite:"
+        },
+        "35afa790dae10280b1b4b38417e756ee": {
+            "text": "W\u00e4hlen Sie die zu verlinkende Datei von dieser Seite."
+        },
+        "0fc76f2ae9061248b25a11b099e80fd6": {
+            "text": "Um eine Datei einer anderen Seite zu nutzen, klicken Sie oben auf 'Seite ausw\u00e4hlen' und w\u00e4hlen die entsprechende Seite. W\u00e4hlen Sie anschlie\u00dfend hier die Datei aus."
         }
     }
 }

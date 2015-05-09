@@ -58,6 +58,15 @@
         },
         "35a96944722fb825db8bf04ab791c209": {
             "text": "Falls markiert, wird eine hochgeladene Datei, mit identischem Namen einer bestehenden Datei, diese ersetzen (Beschreibung und Tags bleiben erhalten). Falls nicht markiert, werden hochgeladene Dateinamen eindeutig umbenannt."
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "Bitte beachten: wenn diese Option aktiviert ist, werden per AJAX hochgeladene Dateien sofort beim Hochladen auf der Seite gespeichert, anstatt erst nach dem Klick auf \"Speichern\". Markieren Sie diese Option nicht, sofern sie diese nicht speziell ben\u00f6tigen."
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "L\u00f6schen"
+        },
+        "e8b3e55c0f4d6cce7d8ee14772ec33e2": {
+            "text": "Validierung der Datei fehlgeschlagen"
         }
     }
 }

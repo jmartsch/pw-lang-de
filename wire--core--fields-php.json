@@ -2,8 +2,17 @@
     "file": "wire\/core\/Fields.php",
     "textdomain": "wire--core--fields-php",
     "translations": {
-        "af612cfedc5c2ba10ff82e4ccf69e936": {
-            "text": "Daten von Feld \"%s\" von %d Seiten gel\u00f6scht."
+        "0c6ba1befbcac7213ccc923d1ecf573a": {
+            "text": "Daten von Feld \"%1$s\" in %2$d Zeile(n) auf %3$d Seite(n) gel\u00f6scht."
+        },
+        "b9e9528a32781ceaefec638ec3bfa62e": {
+            "text": "Fehler beim l\u00f6schen von Daten von Feld \"%1$s\" in %2$d Zeile(n) auf %3$d Seite(n)."
+        },
+        "e1658097cf747de4696d2515e2e8b9a0": {
+            "text": "Seite-f\u00fcr-Seite"
+        },
+        "68d1cb3da7a618bf1997d9d5149ae24a": {
+            "text": "Einzel-Abfrage"
         }
     }
 }

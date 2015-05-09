@@ -107,9 +107,6 @@
         "b6b0afb901a4db116f6b8403cf434280": {
             "text": "Dies ist eine Liste der Felder, die dieses Template nutzt, zur Referenz. Dieses Template erh\u00e4lt seine Felder vom Template '%s'."
         },
-        "7fc1fde9711c421115c890cd0d181100": {
-            "text": "Definieren Sie die Felder, welche von diesem Template benutzt werden. Sie k\u00f6nnen diese mittels Drag 'n' Drop umsortieren."
-        },
         "6daa35fd97a645b8e37cae080eab3de9": {
             "text": "Feld hinzuf\u00fcgen"
         },
@@ -329,32 +326,14 @@
         "fd80e24b28f66f7a579ced68340fd3fa": {
             "text": "Pagination (Seitenzahlen) erlauben?"
         },
-        "8bda693211f46eb289c8bdadedaf54ae": {
-            "text": "Falls ausgew\u00e4hlt, akzeptieren Seiten, die dieses Template nutzen, URL-Segmente mit Seitenzahlen in der Form 'page123', wobei '123' jeder positive Zahl sein kann. Zum Beispiel setzt eine Anfrage-URL '\/widgets\/page3' $input->pageNum automatisch auf den Wert 3. Dies wird zur Pagination verwendet und sollte nur f\u00fcr Templates aktiviert werden, die Pagination unterst\u00fctzen. Beachten Sie, dass Seitenzahlen bei 1 (nicht 0) beginnen. In Kombination mit URL-Segmenten (siehe n\u00e4chster Abschnitt) muss die Seitenzahl der letzte Teil der URL sein."
-        },
-        "69b2806a857d0fb5778a31c1f88f59a0": {
-            "text": "Aus dem Template auf die aktuelle Seitenzahl zugreifen mittels $input->pageNum;"
-        },
         "3a426f05b968cc7c6022ac1388e7d8e7": {
             "text": "URL-Segmente erlauben?"
-        },
-        "edf7d3cbbda60af5148285cec1cd7569": {
-            "text": "Dieses Template kann optional URL-Pfad-Segmente zus\u00e4tzlich zu denen der Seiten, die es verwenden, ausliefern. Zum Beispiel k\u00f6nnte eine Seite den Pfad \/path\/to\/page\/ gleichzeitig Anfragen f\u00fcr \/path\/to\/page\/segment1\/ oder \/path\/to\/page\/segment1\/segment2\/ entgegen nehmen. Gem\u00e4\u00df Voreinstellung wird ProcessWire einen Fehler '404 Seite nicht gefunden' zur\u00fcck liefern, wenn auf eine solche URL zugegriffen wird. M\u00f6chten Sie, dass ProcessWire die Seite dennoch ausgibt, w\u00e4hlen Sie die unten stehende Box aus. Sie k\u00f6nnen dann in der Template-Datei manuell auf diese URL-Segmente pr\u00fcfen und auf die Anfrage reagieren."
-        },
-        "8c8b0529510e126bc81359c5a2ae3482": {
-            "text": "Bis zu 3 URL-Segmente nach der Seiten-URL werden unterst\u00fctzt. Diese d\u00fcrfen aus beliebigen Kombinationen von ACSII-Kleinbuchstaben (a-z), Zahlen (0-9), Binde- oder Unterstrichen bestehen. Die k\u00f6nnen aus dem API-Code Ihres Templates auf URL-Segmente zugreifen, indem Sie die Funktion $input->urlSegment(n) oder die Eigenschaft $input->urlSegment[n] ([n] ersetzen durch 1, 2 oder 3) ansprechen."
-        },
-        "3f7071fb2ff5f5a0218c696722986007": {
-            "text": "Beispiel: Gegeben sei die URL \/path\/to\/page\/a\/b\/c\/ mit dem Seitenpfad \/path\/to\/page\/ und den Segmenten \/a\/b\/c\/. $input->urlSegment1 ist \"a\", $input->urlSegment2 ist \"b\", und $input->urlSegment3 ist \"c\". Falls Ihr Template mit einem unbekannten URL-Segment angesprochen wird, hat es sich bew\u00e4hrt, die Anfrage mit einem Fehler 404 abzubrechen. Der API-Code daf\u00fcr lautet: throw new Wire404Exception();"
         },
         "d5bf40c0f8c27c98db4d65ebc8cdc0c7": {
             "text": "Sollen Seiten-URLs mit einem Slash ('\/') enden?"
         },
         "60cb362641cd33525562c9d62d0f8d18": {
             "text": "Falls 'Ja' gew\u00e4hlt wird, enden URLs von Seiten, die dieses Template verwenden, stets mit einem abschlie\u00dfenden Slash '\/'. Falls die Seite von einer URL ohne Slash aufgerufen wird, wird sie darauf umgeleitet. Falls 'Nein' gew\u00e4hlt wird, wird die Version ohne Slash erzwungen. Beachten Sie, dass dieses Verhalten nicht f\u00fcr URL-Segmente oder Paginationen erzwungen wird, nur f\u00fcr tats\u00e4chliche Seiten-URLs. Falls Sie keine Vorliebe haben, empfiehlt es sich, 'Ja' beizubehalten."
-        },
-        "115162847e362551c1dcaff31e64fa80": {
-            "text": "Schema\/Protokoll"
         },
         "249e45d525f325778f98cdd90eaf0b32": {
             "text": "HTTP oder HTTPS"
@@ -751,6 +730,78 @@
         },
         "323686db2bb70f95c6bedc86d5c3387d": {
             "text": "Dateien"
+        },
+        "6703f01fb2662a497ae2d29163ed68c2": {
+            "text": "Name wird bereits verwendet"
+        },
+        "f578ef5a7330291e151dc6052fe85bfe": {
+            "text": "Optional das Label f\u00fcr den Tab \"Inhalt\" (Standard) \u00fcberschreiben."
+        },
+        "5fda5af59d211bd673998a69f051c3f2": {
+            "text": "Optional das Label f\u00fcr den Tab \"Kindseiten\" (Standard) \u00fcberschreiben."
+        },
+        "3050063a3917b13308a0470879b3259f": {
+            "text": "Label f\u00fcr Inhalts-Tab"
+        },
+        "7b5a26bd066cf9716b38372f73408f10": {
+            "text": "Label f\u00fcr Kind-Tab"
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Symbol"
+        },
+        "4f50a13dad7a9fb97496e4b62718d3a8": {
+            "text": "W\u00e4hlen Sie ein Symbol das diesem Template und den Seiten, welche dieses Template nutzen, zugeordnet wird (im Admin-Bereich)."
+        },
+        "e2cbec4ffca6b29170e0a79d38d2b6dd": {
+            "text": "Umbenennen des Templates \u00fcbersprungen - bitte nach der laufenden Aktion vervollst\u00e4ndigen"
+        },
+        "b0349bb2d18f943c6aa52c5c038850a0": {
+            "text": "Bei Verwendung von [ProCache](%s) sind hier keine Einstellungen zum Cache notwendig."
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Mehr"
+        },
+        "991dba5ecf8a850b42ffc2e6d0697c2b": {
+            "text": "Falls ausgew\u00e4hlt, unterst\u00fctzen Seiten, die dieses Template nutzen, Pagination."
+        },
+        "4ee65b65a7329e4d76cce40b69075c2d": {
+            "text": "Aus dem Template auf die aktuelle Seitenzahl zugreifen mittels $input->pageNum."
+        },
+        "4295c2949c604273ad18a82924a06684": {
+            "text": "Falls ausgew\u00e4hlt, akzeptieren Seiten, die dieses Template nutzen, eigene URL-Segmente nach der Seiten-URL."
+        },
+        "3f967ce93af0de3a0457071f3d743f14": {
+            "text": "Aus dem Template auf die aktuellen URL-Segmente zugreifen mittels $input->urlSegmentStr."
+        },
+        "85eb71c20f7740fc3bdbf7dfdee2636b": {
+            "text": "Welche URL-Segmente sind zul\u00e4ssig?"
+        },
+        "db2a37c1bdec2b30f0c7c9d789b3bfcc": {
+            "text": "Geben Sie ein zul\u00e4ssiges Segment, einen Segment-Pfad oder einen regul\u00e4ren Ausdruck pro Zeile ein. Durch leer lassen ist alles zul\u00e4ssig."
+        },
+        "2d234a37f1f09a868ff9e51cbec93c0a": {
+            "text": "Schema\/Protokoll"
+        },
+        "ae89f7319ca951efb3ce055e92b8ade2": {
+            "text": "Definieren Sie die Felder, welche von diesem Template benutzt werden. Sie k\u00f6nnen diese mittels Drag 'n' Drop umsortieren oder [ein neues Feld erstellen](..\/field\/add)."
+        },
+        "70445e42e2f9089020b0ba1c23063287": {
+            "text": "Cache f\u00fcr die gespeicherte Seite und andere Seiten mit zutreffendem Selektor leeren..."
+        },
+        "f62b09e2a4c1eb3583afe9c213b981c8": {
+            "text": "Selektor um die anderen Seiten zu finden, bei welchen der Cache geleert werden soll."
+        },
+        "dcbec326309994892030ce4aa6f72f75": {
+            "text": "Dieses Template speichern und dann hierher zur\u00fcckkehren um den Selektor einzustellen."
+        },
+        "711aef464118d5be216c2879591fbb5a": {
+            "text": "Selektor f\u00fcr den Ablauf des Cache"
+        },
+        "65cee0d2556f206faa5e315e2f165551": {
+            "text": "Header welcher mit der Template-Datei ausgegeben wird. Falls keiner gew\u00e4hlt wird, sendet ProcessWire keinen Content-Type Header und in den meisten F\u00e4llen wird text\/html vorausgesetzt. Die Auswahl eines Content-Type wird empfohlen, wenn etwas anderes als HTML ausgegeben wird."
+        },
+        "6540057c786960e596930c3041771293": {
+            "text": "Um mehr Content-Types hinzuzuf\u00fcgen, schauen Sie unter *contentTypes* in \/wire\/config.php nach (und tragen diese unter \/site\/config.php ein)."
         }
     }
 }

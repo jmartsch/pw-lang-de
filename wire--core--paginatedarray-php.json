@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/PaginatedArray.php",
+    "textdomain": "wire--core--paginatedarray-php",
+    "translations": {
+        "7ff9ec517d036a9fe4fc314e1873df7e": {
+            "text": "%1$s %1$d von %2$d"
+        },
+        "106e55fc426540f24a21c0890ae046a7": {
+            "text": "%1$s %2$d bis %3$d von %4$d"
+        }
+    }
+}

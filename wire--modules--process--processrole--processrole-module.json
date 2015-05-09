@@ -8,9 +8,6 @@
         "a5cd3ed116608dac017f14c046ea56bf": {
             "text": "Benutzerrollen"
         },
-        "55713ee9cd76b3704908899aaa30b5e5": {
-            "text": "*Bitte beachten: die Auswahl der page-edit Berechtigung hier bedeutet nur, dass diese Benutzerrolle gew\u00e4hlt werden kann f\u00fcr \u00c4nderungen auf Template-Ebene. Hier die page-edit Berechtigung zuweisen, gew\u00e4hrt solange die Berechtigung zur \u00c4nderung, bis dies ebenso in den Zugriff-Einstellungen eines oder mehrerer Templates ge\u00e4ndert wird."
-        },
         "9bfb6e6af6e6793bfa9387e728187c87": {
             "text": "(Pflichtfeld)"
         },
@@ -19,6 +16,9 @@
         },
         "d08ccf52b4cdd08e41cfb99ec42e0b29": {
             "text": "Berechtigungen"
+        },
+        "8a74d66f5b9d96c4eee8c0388f9536d9": {
+            "text": "*Bitte beachten: die Auswahl der page-edit Berechtigung hier bedeutet nur, dass diese Benutzerrolle gew\u00e4hlt werden kann f\u00fcr \u00c4nderungen auf Template-Ebene. Hier die page-edit Berechtigung zuweisen, gew\u00e4hrt solange die Berechtigung zur \u00c4nderung, bis dies ebenso in den Zugriff-Einstellungen eines oder mehrerer Templates ge\u00e4ndert wird."
         }
     }
 }
