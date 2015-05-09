@@ -75,25 +75,10 @@
             "text": "Dieses Label erscheint \u00fcber dem Eintragsfeld. Falls leer gelassen wird stattdessen dessen Name verwendet."
         },
         "d421f74dd8c605a337e57a6224f23478": {
-            "text": "Zus\u00e4tzliche Informationen, um dieses Feld zubeschreiben und\/oder Anweisungen, wie Inhalte einzugeben sind."
-        },
-        "0b99d251c68ee30c7f38cefe42d5fbdc": {
-            "text": "Anweisungen zur Benutzung des Feldes"
-        },
-        "90a7d24b2f57968c1090adc8eb1cedff": {
-            "text": "Dieses Feld wird von den folgenden Templates verwendet:"
-        },
-        "e846a7b9b780397947329058d6856fe4": {
-            "text": "Feld im Kontext bearbeiten"
-        },
-        "da15cd97dba363b29a8a06c76d4c4c7d": {
-            "text": "Dieses Feld wird derzeit nicht von Templates benutzt."
+            "text": "Zus\u00e4tzliche Informationen, um dieses Feld zu beschreiben und\/oder Anweisungen, wie Inhalte einzugeben sind."
         },
         "983f66857047c1e6fc8878e54c5c9939": {
             "text": "Feld klonen\/duplizieren?"
-        },
-        "c073843a55498e809c4dd95be0721831": {
-            "text": "W\u00e4hlen Sie die unten stehende Box aus, falls Sie dieses Feld duplizieren\/klonen m\u00f6chten. Der Klon wird angelegt, wenn Sie speichern."
         },
         "ee2d3754b6e7f57898d9d8670f78ae71": {
             "text": "Erweiterte Optionen"
@@ -218,12 +203,6 @@
         "06dacbad9c7587cdace10537b20b43ca": {
             "text": "zeige wenn..."
         },
-        "9cc4ac29ded1988ae44a553a7ecd4ffc": {
-            "text": "Falls Sie diesem Feld ein Symbol zuordnen m\u00f6chten, hier einen [Symbol-Name](http:\/\/fortawesome.github.io\/Font-Awesome\/icons\/) eintragen."
-        },
-        "41fb8fe20e74e99ab359cecc48be97d5": {
-            "text": "Beispiel: fa-beer"
-        },
         "f44c0dcd3537024ab1be348dffe383de": {
             "text": "System"
         },
@@ -286,6 +265,132 @@
         },
         "7d912a6056deaad44add9eda5494d120": {
             "text": "Diese Box markieren um alle eigenen Einstellungen zu diesem Feld (vom Details und Eingabe Tab) zu behalten. Dies ist empfehlenswert wenn der neue Feldtyp die gleichen oder \u00e4hnliche Eigenschaften zur Konfiguration wie der alte Feldtyp hat. Allerdings kann dies auch zu unn\u00f6tigen oder redundanten Konfig-Daten f\u00fchren, welche Platz im Feld beanspruchen. Sie k\u00f6nnen dies jederzeit sp\u00e4ter analysieren \u00fcber: Erweitert > Daten des Feldes \u00fcberpr\u00fcfen."
+        },
+        "ee9fe18e631383755ce658daed18b15e": {
+            "text": "Falls Sie diesem Feld ein Symbol zuordnen m\u00f6chten, w\u00e4hlen Sie unten ein Symbol aus. F\u00fcr eine visuelle Auswahl auf den Link \"Alle Symbole anzeigen\" klicken."
+        },
+        "c32404a847502e9920d7582aa7fcd811": {
+            "text": "Feld zu\/von Templates hinzuf\u00fcgen oder entfernen"
+        },
+        "bd4e327785b1573fd5108da2d97210b5": {
+            "text": "Dieses Feld wird von den unten markierten Templates verwendet."
+        },
+        "1abe66d94bd2d1029f681142e99454a3": {
+            "text": "Dieses Feld wird zurzeit von keinem Template verwendet."
+        },
+        "50a4257e8c785ebeb46a186bb2c3e08e": {
+            "text": "Sie k\u00f6nnen dieses Feld schnell zu\/von Templates hinzuf\u00fcgen oder entfernen durch entsprechendes markieren der relevanten Boxen und speichern."
+        },
+        "8e4fd886f63504810bb594b41a48d32b": {
+            "text": "Im n\u00e4chsten Bildschirm, nach dem Speichern, werden Sie um Best\u00e4tigung des Hinzuf\u00fcgens oder Entfernens gebeten."
+        },
+        "5920c0593225b73a0d667fe26c95d0f7": {
+            "text": "%d System-Templates werden nicht angezeigt weil der erweiterte Modus deaktiviert ist."
+        },
+        "4debafe5cde021385dce21b063054b59": {
+            "text": "Um dieses Feld zu klonen, bitte den Namen des neuen Feldes eingeben."
+        },
+        "ff0d9fae2d1ae47cb2e3c16ce883ed4e": {
+            "text": "Bitte beachten: nach Best\u00e4tigung dieses Formulars werden Sie die geklonte Kopie bearbeiten."
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(kopieren)"
+        },
+        "acdd6513356b1414e6d7ec0181240672": {
+            "text": "Sie bearbeiten nun das geklonte Feld."
+        },
+        "b9b9ac08c6bde335d1b5758d4dfcd1da": {
+            "text": "Entferne Feld \"%1$s\" von Template \"%2$s\""
+        },
+        "e84730e92daf0ff6f2ff21874c281f4e": {
+            "text": "Best\u00e4tige entfernen von Feld \"%1$s\" von Template \"%2$s\""
+        },
+        "d3abfd9fce44bd366ad49c2614136c14": {
+            "text": "WARNUNG: dies resultiert in Daten welche zu dem dauerhaft gel\u00f6schten Feld geh\u00f6ren."
+        },
+        "cdd2e54d443ebc672c6a53d756e682cd": {
+            "text": "Bitte haben Sie etwas Geduld. Nach der Best\u00e4tigung kann dieser Vorgang einige Zeit in Anspruch nehmen."
+        },
+        "501a7415f8881524421e7a19287a2c62": {
+            "text": "Es scheint so, als gibt es keine zugeh\u00f6rigen Daten-Zeilen zu dieser Feld\/Template Kombination"
+        },
+        "cbf08d0edf67562708d7ce679defc030": {
+            "text": "Bitte zur Best\u00e4tigung die Box markieren."
+        },
+        "8aa6cad0a41ed8f9776dd6a09805c5ae": {
+            "text": "Feld \"%1$s\" zu Template \"%2$s\" hinzuf\u00fcgen"
+        },
+        "968c4c39df4617d7356ee14137658f3f": {
+            "text": "Wo m\u00f6chten Sie \"%s\" hinzuf\u00fcgen?"
+        },
+        "6620d0d6ed9996e374e77091f72102be": {
+            "text": "Vor %s"
+        },
+        "631a909b3eb785b8b3ae6d4d1a0ed886": {
+            "text": "Nach %s"
+        },
+        "c40f632e4b3c69bbd1af89f5c5f5c617": {
+            "text": "Nicht hinzuf\u00fcgen"
+        },
+        "c7d0e111bad6f0fd32c701944fb16475": {
+            "text": "Bitte ihre \u00c4nderungen \u00fcberpr\u00fcfen und korrigieren oder best\u00e4tigen"
+        },
+        "368f6a2142a5d1f203ccd1a9bd8d974f": {
+            "text": "Feld \"%1$s\" zu Template \"%2$s\" vor \"%3$s\" hinzugef\u00fcgt"
+        },
+        "43f591d56700e6bc6184a8457711d4ed": {
+            "text": "Feld \"%1$s\" zu Template \"%2$s\" nach \"%3$s\" hinzugef\u00fcgt"
+        },
+        "2dc7474fc7cd98da4c757c25d5acd451": {
+            "text": "Feld \"%1$s\" von Template \"%2$s\" entfernt"
+        },
+        "092a2d93903f42f67e257ba6fb82d6a2": {
+            "text": "Fehler beim entfernen von Feld \"%1$s\" von Template \"%2$s\""
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "Aktionen"
+        },
+        "995ed8becc596409849c6a652fbf5cd4": {
+            "text": "Best\u00fcckte Seiten"
+        },
+        "ceb446e97d336c84d1f870ce7840e4ba": {
+            "text": "Daten-Zeilen"
+        },
+        "c869dd452643fae1887833d527dc86d0": {
+            "text": "Dies wird auch %d Daten-Zeile entfernen."
+        },
+        "59da98ece56eec26f5f9edd6f051da0b": {
+            "text": "Dies wird auch %d Daten-Zeilen entfernen."
+        },
+        "7c88547fdcfb8db979ff8e01a8af3cab": {
+            "text": "Hinzuf\u00fcgen oder entfernen von Template(s)"
+        },
+        "158b56553ee2e91623b2568e46a4fb82": {
+            "text": "Vorhandenes Feld klonen"
+        },
+        "64a747bce9561ce24781600d47b1cd66": {
+            "text": "Verwendung von Hinweisen oder zus\u00e4tzlichen Informationen welche unterhalb der Eingabe erscheinen."
+        },
+        "d3528910cb9ca888a0c859b37fe3cb28": {
+            "text": "Hinweise erscheinen hier und sehen so aus."
+        },
+        "48cf9aec9ee1cd5173596f31f65b83e5": {
+            "text": "Feld-Name ist leer"
+        },
+        "4072bd91cd44efb5ae4ef51a319fbd79": {
+            "text": "Feld-Namen d\u00fcrfen nur ASCII Buchstaben, Ziffern oder Unterstriche enthalten."
+        },
+        "2d596b898eecf76afa1f7cca2490f219": {
+            "text": "Feld-Name \"%s\" wird bereits verwendet"
+        },
+        "d0de87a477316bfd58f0bf2b1ae2d40d": {
+            "text": "Feld-Name \"%s\" ist ein reserviertes Wort"
+        },
+        "65016ddfb236155b595fb479c695866b": {
+            "text": "Feld-Namen d\u00fcrfen nicht mit \"_\" oder Ziffern beginnen"
+        },
+        "a6f1b7f6b210b19d1d4ff7722c8fd790": {
+            "text": "Hinweise"
         }
     }
 }

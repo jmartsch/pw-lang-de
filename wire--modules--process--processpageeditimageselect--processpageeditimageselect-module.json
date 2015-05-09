@@ -5,9 +5,6 @@
         "5d13ae1a65403891ac0fe044f3acc865": {
             "text": "Auf dieser Seite existieren keine Bild-Felder. W\u00e4hlen Sie eine andere Seite, um Bilder von dieser zu nutzen."
         },
-        "64a201e91bd521f5640318d844920b31": {
-            "text": "Auf dieser Seite gibt es derzeit (noch) keine Bilder. Schlie\u00dfen Sie dieses Fenster und laden Sie Bilder hoch oder w\u00e4hlen Sie Bilder von einer anderen Seite."
-        },
         "83ea3ed3245ed2ce30aabecdc6b4d354": {
             "text": "Bilder auf der Seite:"
         },
@@ -32,15 +29,6 @@
         "e36098607b9dd3b6d7107a449b6a25bd": {
             "text": "Mittig positionieren"
         },
-        "d7e02762cdb4621a77388689b2ee53c0": {
-            "text": "Link zu einer gr\u00f6\u00dferen Version?"
-        },
-        "63c7dee42e04e2757472031aa7164d81": {
-            "text": "\u00dcberspringe die Breiten- und H\u00f6henangaben f\u00fcr die Bilder?"
-        },
-        "5a8f9d5840811602e6806392ffef0523": {
-            "text": "Das Modul f\u00fcgt standardm\u00e4\u00dfig Breiten- und H\u00f6henattribute zu den img-Tags hinzu. Wenn Sie Responsive Images nutzen, sollten Sie das Verhalten deaktivieren. Aktivieren Sie diese Box, um die Einstellung zu deaktivieren."
-        },
         "9909fb0aacb4a219f4b3cb8f57f63a87": {
             "text": "class um Bilder links auszurichten"
         },
@@ -50,17 +38,170 @@
         "9d2836f3ff372cd7964b90d118710202": {
             "text": "class um Bilder mittig auszurichten"
         },
-        "b5a7adde1af5c87d7fd797b6245c2a39": {
-            "text": "Beschreibung"
-        },
-        "4e641cf2fc3e46719b2e78d8ab8c6c2e": {
-            "text": "Sie k\u00f6nnen auch die Ecke rechts unten benutzen, um die Bildgr\u00f6\u00dfe zu \u00e4ndern."
-        },
         "36171be725b020fde0f22b3ceb047280": {
             "text": "Feldnamen welche in der Auswahl \u00fcbersprungen werden"
         },
         "fd8d17a2ebc3643f78fc97b8e5c3a7f3": {
             "text": "Namen der Bild-Felder eingeben (mit Leerzeichen getrennt), welche nicht \u00fcber dieses Modul selektiert werden sollen."
+        },
+        "6cefecef91de145c3ca72fb3d5e59702": {
+            "text": "Keine Thumbnail-Bilder erstellen"
+        },
+        "a60c49010df18fff7f99db0d0d5a1522": {
+            "text": "Wenn markiert, wird die Bilderauswahl die volle Bildgr\u00f6\u00dfe verwenden anstatt der Thumbnail-Bilder."
+        },
+        "cf4a792de8b81c847ece5501f00def00": {
+            "text": "Das Modul f\u00fcgt standardm\u00e4\u00dfig Breiten- und H\u00f6henattribute zu den img-Tags hinzu. Wenn Sie Responsive Images nutzen, sollten Sie das Verhalten deaktivieren. Aktivieren Sie diese Box, um die Einstellung zu deaktivieren."
+        },
+        "66e1d61daf21cfd5a9a0c3c172d7215d": {
+            "text": "Wir empfehlen nicht diese Box zu markieren weil einige Features beeinflusst werden (z.B. die Verwendung von HiDPI\/Retina Grafiken)."
+        },
+        "a39537e1c6a1b744127450b81c4f8173": {
+            "text": "Gel\u00f6schte Bild Variante"
+        },
+        "966c5c54ae383420f05957c520436202": {
+            "text": "Fehler beim l\u00f6schen von Bild Variante"
+        },
+        "a2c7bdf75d9141ef485ca345d5a3b50c": {
+            "text": "L\u00f6schen markiert"
+        },
+        "d3d2e617335f08df83599665eef8a418": {
+            "text": "Schliessen"
+        },
+        "68155ca6e2858626c370f0fb3ea9bfc5": {
+            "text": "HiDPI\/Retina Checkbox standardm\u00e4\u00dfig markiert?"
+        },
+        "3608b24ec08977c76c40c8514f3bcbd5": {
+            "text": "Diese Box markieren, um die HiDPI\/Retina Checkox standardm\u00e4\u00dfig f\u00fcr neu eingef\u00fcgte Bilder auszuw\u00e4hlen."
+        },
+        "0bedb7a49466cc5abddacd2003be55b3": {
+            "text": "\u00dcberspringe die Breiten- und H\u00f6henangaben f\u00fcr die Bilder Tags?"
+        },
+        "7fde437e01b597d729484cfc830eb4c5": {
+            "text": "Empfohlener Wert:"
+        },
+        "792530c475571d1e0faf0c94f333e6f2": {
+            "text": "Bild"
+        },
+        "41aecd06bffa8d91e4b860af01295890": {
+            "text": "Datei"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Gr\u00f6\u00dfe"
+        },
+        "4f42496817221234f2297f3605183f29": {
+            "text": "Bemerkungen"
+        },
+        "0220ca2a43c59a70842cafc215b6430e": {
+            "text": "Erstellt zur Platzierung in Textarea"
+        },
+        "8cc1cfd47373070e2d8f4fc7d367abf3": {
+            "text": "Automatisch erstelltes Admin-Thumbnail"
+        },
+        "671bf4e51334fa684ae31fdaa130b6db": {
+            "text": "API generierte Variante"
+        },
+        "8df4dcb71975633a0a9e60b4d05c37d8": {
+            "text": "%1$d Variante f\u00fcr Bild %2$s"
+        },
+        "02b1a8c5ed34fba75d6ce56f68435743": {
+            "text": "%1$d Varianten f\u00fcr Bild %2$s"
+        },
+        "e254a34f3a1001f00adc55aba5552783": {
+            "text": "Oben:"
+        },
+        "52c9a1be3c0e025b4aa30857a474fea5": {
+            "text": "Links:"
+        },
+        "f8927cab12c03e7537c735cd3117fba2": {
+            "text": "Link zur gr\u00f6\u00dferen\/originalen Version"
+        },
+        "9d723d04c40bfd81835c0766a698cf63": {
+            "text": "Gr\u00f6\u00dfe \u00e4ndern"
+        },
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Zuschneiden"
+        },
+        "adf1ab3ee834260ba6338ab9c84345ce": {
+            "text": "Zuschnitt speichern"
+        },
+        "2c968d3065f948e7d3e6086c46fdcb68": {
+            "text": "Maximieren\/volle Breite"
+        },
+        "2d43ecd8d6e1e6e4bd564dd3b15515bc": {
+            "text": "Minimieren\/an Bildschirm anpassen"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Abbrechen"
+        },
+        "c87935037e12cf6f0302989fd23bcf37": {
+            "text": "Als Kopie speichern"
+        },
+        "575f5f86d2c7ea113c6710c1037c4465": {
+            "text": "Speichert..."
+        },
+        "8524de963f07201e5c086830d370797f": {
+            "text": "Laden..."
+        },
+        "1c8ce444e68e56abf58edd178ed3bf54": {
+            "text": "Zugeschnittene Version"
+        },
+        "a3921791372620c674562de0f5b0f9ed": {
+            "text": "Eingef\u00fcgt von Seite:"
+        },
+        "3f67a6c93bc61e24e9ba2a9b47712010": {
+            "text": "Speichern und Ersetzen"
+        },
+        "a7d784a6301793f61c070496d6988d36": {
+            "text": "Aktualisieren..."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Ja"
+        },
+        "b1a0a023c5df1b1928e1176fca487837": {
+            "text": "Nein, verwende %s"
+        },
+        "fef2a86d13179e1022a0f692ad9f521b": {
+            "text": "Keine \u00c4nderungen zu den Bild Varianten notwendig."
+        },
+        "46ce1195125fefcac9df32093fb8f238": {
+            "text": "Keine \u00c4nderungen vorgenommen"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Ge\u00e4ndert"
+        },
+        "77fb47f76c22aae57cce393488dfee23": {
+            "text": "In dieser Gr\u00f6\u00dfe speichern?"
+        },
+        "d695a4d4ae7091badbe5c20c5b064bac": {
+            "text": "Auf dieser Seite gibt es derzeit (noch) keine Bilder. Laden Sie ein Bild hoch oder w\u00e4hlen Sie Bilder von einer anderen Seite."
+        },
+        "1f98842c354dc496970446bce14f4c50": {
+            "text": "Bild hochladen"
+        },
+        "a547432ab25b830c51cb8a560e4e4f62": {
+            "text": "Beschreibung des Bildes (alt Attribut)"
+        },
+        "a7ef116917746995c6efb74b77261e93": {
+            "text": "Titel?"
+        },
+        "82e8dd04a8fd3563e8e703b0ab6620d4": {
+            "text": "Der Titel wird im Editor nach dem Einf\u00fcgen des Bildes eingetragen."
+        },
+        "b9869a2e0129f044fca87d4b4f7664f0": {
+            "text": "Hier Bildtitel eingeben"
+        },
+        "5e470c96fb73af827111043d60af3dbe": {
+            "text": "Rotation nach rechts"
+        },
+        "f3d4b8039718518b45713ae64c12de37": {
+            "text": "Rotation nach links"
+        },
+        "2f96dd2b9788ed9ecbc6f41c312bf455": {
+            "text": "Horizontal kippen"
+        },
+        "8373d2f18e29920f78459f34d71040ad": {
+            "text": "Vertikal kippen"
         }
     }
 }

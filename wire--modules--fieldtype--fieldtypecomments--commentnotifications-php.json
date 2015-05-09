@@ -1,0 +1,72 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentNotifications.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentnotifications-php",
+    "translations": {
+        "017e8b29849843b6daa2501aad99f7c1": {
+            "text": "Warten auf Best\u00e4tigung"
+        },
+        "2ddc852b4c56d7eb5b88fc7b539f6899": {
+            "text": "Jetzt best\u00e4tigen"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Best\u00e4tigt"
+        },
+        "72af4a9852b0c2800d279f8d1f8c0661": {
+            "text": "Als SPAM markieren"
+        },
+        "19af9433f96a08338dbcf1ea82186f7c": {
+            "text": "SPAM - wird automatisch gel\u00f6scht nach %d Tagen"
+        },
+        "86c1d4d493979ef59b39ac2ff666bff8": {
+            "text": "Kein SPAM: jetzt best\u00e4tigen"
+        },
+        "4a97712de239878854839560e1765f5a": {
+            "text": "Kommentar erstellt zu: %s"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Bearbeiten"
+        },
+        "e8107568f6e83f5b0241f7b880e41a4b": {
+            "text": "Sie haben sich abgemeldet von Benachrichtigungen zu dieser Seite"
+        },
+        "c6c6e3cf945863d4f61ef6f648fb973c": {
+            "text": "Sie haben dem Erhalt von Benachrichtigungen dieser Seite zugestimmt."
+        },
+        "4b71ef4218c5669aa7d3e360902e5fcd": {
+            "text": "Neuer Kommentar erstellt:"
+        },
+        "91087eab2782aae45085cf5476081138": {
+            "text": "Erstellt um: %s"
+        },
+        "92295f3f7fe39fd61f8ce27b523aa341": {
+            "text": "Erstellt von: %s"
+        },
+        "c835168989fcff535a5d12f1fe9a9d51": {
+            "text": "Benachrichtigungen abschalten"
+        },
+        "c7c47e22cdf07075fbc40c3197b822e0": {
+            "text": "Benachrichtigung bitte best\u00e4tigen"
+        },
+        "b5525fa352b1e9c09e58ab014b5273a3": {
+            "text": "Sie m\u00f6chten zu Antworten auf Ihren Kommentar auf %s benachrichtigt werden. Bitte best\u00e4tigen Sie dies durch klicken auf den unten stehenden Link. Sollten Sie dies nicht angefordert haben, ignorieren Sie bitte diese E-Mail."
+        },
+        "8130425aab908bac67e8b4ace4861b21": {
+            "text": "Benachrichtigungen best\u00e4tigen"
+        },
+        "e0c0bcd1370c684469277f8066e3c64f": {
+            "text": "Seite"
+        },
+        "957cba65c7639be540b3bce16e2c8e57": {
+            "text": "Von"
+        },
+        "d856205677eeb676b9b04c173a231c6b": {
+            "text": "E-Mail"
+        },
+        "4df6dabe367988d938bbf565bbcdbe43": {
+            "text": "Webseite"
+        },
+        "bc5db30ce176afbea33060365cda9e6d": {
+            "text": "Aktion"
+        }
+    }
+}

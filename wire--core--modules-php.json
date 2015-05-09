@@ -2,12 +2,6 @@
     "file": "wire\/core\/Modules.php",
     "textdomain": "wire--core--modules-php",
     "translations": {
-        "336fe202866724eda0e075643f972571": {
-            "text": "Achtung: scheinbar gibt es zwei Kopien des Moduls \"%s\" im Dateisystem."
-        },
-        "01d68b9ea1b4ff3238768d9a30bcfa33": {
-            "text": "Bitte entfernen Sie das eine aus \/site\/modules\/, es sei denn es werden aus bestimmten Gr\u00fcnden beide ben\u00f6tigt."
-        },
         "3919fe955716c54c409b522a1003f3e0": {
             "text": "Sie haben keine Berechtigung um dieses Modul auszuf\u00fchren"
         },

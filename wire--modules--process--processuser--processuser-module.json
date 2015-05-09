@@ -22,6 +22,12 @@
         },
         "5dee1c6493112af5676354d6c4243fbe": {
             "text": "Der Benutzer erbt die der jeweiligen Rolle zugewiesenen Berechtigungen. Sie k\u00f6nnen einem Benutzer mehrere Benutzerrollen zuweisen. Beim Zugriff auf eine Seite erbt der Benutzer nur die Berechtigungen der Rollen, welche dem Template der Seiten zugewiesen sind."
+        },
+        "4b99fa96a7caeeafc646d0f0a059ea4d": {
+            "text": "%d Benutzer"
+        },
+        "8103e74ea76ab74a0eabfc5d09e6588a": {
+            "text": "%d Benutzer"
         }
     }
 }
