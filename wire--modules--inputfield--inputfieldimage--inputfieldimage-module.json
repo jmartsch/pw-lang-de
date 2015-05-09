@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--inputfield--inputfieldimage--inputfieldimage-module",
     "translations": {
         "7e4cc6c00140cefcecd178df1836fbba": {
-            "text": "Das Bild wurde auf die maximal erlaubte Gr\u00f6\u00dfe skaliert."
+            "text": "Das Bild wurde auf die maximal erlaubte Gr\u00f6\u00dfe skaliert"
         },
         "95dde9286ff11d93e5f5ce0c832b9f2c": {
             "text": "Vorschaubilder im Seiten-Editor anzeigen?"
@@ -70,6 +70,18 @@
         },
         "5174d1309f275ba6f275db3af9eb3e18": {
             "text": "Raster"
+        },
+        "840ad8821e0c1db717493f17a054bd18": {
+            "text": "Varianten von %s"
+        },
+        "5e244fccb2d4cda18bebf756dacce94c": {
+            "text": "Bild von %s \u00fcberschreitet die maximal erlaubte Gr\u00f6\u00dfe"
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Bilder abweisen welche die maximalen Dimensionen \u00fcberschreiten?"
+        },
+        "e0af28e6bea01f8a983ebd94ec3b7468": {
+            "text": "Falls markiert werden Bilder, welche die maximale Breite\/H\u00f6he \u00fcberschreiten, abgewiesen anstatt neu skaliert."
         }
     }
 }

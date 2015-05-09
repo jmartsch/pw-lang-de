@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Process\/ProcessUser\/ProcessUserConfig.php",
+    "textdomain": "wire--modules--process--processuser--processuserconfig-php",
+    "translations": {
+        "512bc1289fe1ab9723f6ed9d3d6e651e": {
+            "text": "Maximale Anzahl der Benutzer zur Anzeige im AJAX Dropdown-Men\u00fc"
+        },
+        "59b101e7ae1c41c851d1c05341347023": {
+            "text": "Wenn die Anzahl der Benutzer im System diesen Wert \u00fcbersteigt, zeigt die Dropdown-Navigation stattdessen Benutzerrollen mit Menge der zugeh\u00f6rigen Benutzer."
+        },
+        "170f7f6165af9bedf40c130213222620": {
+            "text": "Legen Sie einen Wert zwischen 1 und 100 fest (Standard=25)"
+        }
+    }
+}

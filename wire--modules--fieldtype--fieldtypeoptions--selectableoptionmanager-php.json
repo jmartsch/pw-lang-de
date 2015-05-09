@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/SelectableOptionManager.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--selectableoptionmanager-php",
+    "translations": {
+        "2d69a46d1c7373516d647ec1636d66fd": {
+            "text": "%d Option aktualisiert"
+        },
+        "56dc9608d20a7e6e0201b2d25aa76bce": {
+            "text": "%d Optionen aktualisiert"
+        },
+        "015bac68292c77ebb2f20e00bb757cc0": {
+            "text": "%d Option entfernt"
+        },
+        "21202163b28233f3079e28bcc740d9c0": {
+            "text": "%d Optionen entfernt"
+        },
+        "9c002c0cfca97d4b668d259317d293b8": {
+            "text": "%d Option hinzugef\u00fcgt"
+        },
+        "ab233d34b7f1475903d309a223ceecd1": {
+            "text": "%d Optionen hinzugef\u00fcgt"
+        }
+    }
+}

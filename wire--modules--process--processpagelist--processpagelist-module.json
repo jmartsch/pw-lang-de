@@ -61,6 +61,12 @@
         },
         "ae9945c00ae261445f0277fbae516179": {
             "text": "Jede Seite in einer PageList wird anhand eines Labels identifiziert, typischerweise ein Titel- oder \u00dcberschriftenfeld. Sie k\u00f6nnen festlegen welches Feld hier genutzt werden soll. Um mehrere Felder festzulegen, die Feldnamen mit einem Leerzeichen trennen. Wenn das Feld zu einem Objekt f\u00fchrt (z. B. einer anderen Seite), definieren Sie die Eigenschaft mit einem Punkt, z. B. anotherpage.title. Beachten Sie, dass ProcessWire automatisch das Feld \"Name\" verwendet, falls das festgelegte Feld leer ist."
+        },
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "Netzwerkfehler, bitte sp\u00e4ter noch einmal versuchen"
+        },
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "Unbekannter Fehler, bitte sp\u00e4ter noch einmal versuchen"
         }
     }
 }

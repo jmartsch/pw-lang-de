@@ -14,8 +14,29 @@
         "2effa58f13159d138a634233e246713d": {
             "text": "Inhaltstyp"
         },
-        "1991cfd60d0287cfb130420da34fcbef": {
-            "text": "Markup\/HTML wird f\u00fcr Felder empfohlen, die einen Rich-Text-Editor (TinyMCE, CKEditor, usw.) verwenden und HTML enthalten. Diese Option unterst\u00fctzt zus\u00e4tzliche Filterung zur Laufzeit."
+        "f0a7350231680497c534e592203a3b7b": {
+            "text": "Markup\/HTML mit Bilder Verwaltung"
+        },
+        "6579c1fdbe94982347736ad47f0949cb": {
+            "text": "Markup\/HTML (optional mit Bilder-Verwaltung) wird f\u00fcr Felder empfohlen, die einen Rich Text Editor (TinyMCE, CKEditor, usw.) verwenden und HTML enthalten. Diese Option unterst\u00fctzt zus\u00e4tzliche Filterund zur Laufzeit."
+        },
+        "3e7a86573c428ffd2bf3145cea18514b": {
+            "text": "Die Auswahl der Option \"Markup\/HTML mit Bilder Verwaltung\" f\u00fcgt folgende \u00dcberpr\u00fcfungen w\u00e4hrend der Laufzeit hinzu:"
+        },
+        "2bc17a9602fb3fd33f9a6561c7b36177": {
+            "text": "1. Leere alt Attribute mit Dateibeschreibung f\u00fcllen - stellt sicher, dass ge\u00e4nderte Dateibeschreibungen im alt Attribut des <img> Tags wiedergegeben werden."
+        },
+        "5c84d65097148d9fa9a1be01e38c8f27": {
+            "text": "2. Automatisch nicht existierende Varianten der Bildgr\u00f6\u00dfe erstellen."
+        },
+        "0899ba8ac053ddbc869eac2bf0c9f458": {
+            "text": "3. Entfernt <img> Tags, welche auf eine nicht vorhandene Datei verweisen."
+        },
+        "a171deaa8f82c6e29796e95126fbd644": {
+            "text": "4. Fehlende Bilder werden in der Log-Datei \"markup-qa-errors\" protokolliert und der System\/Admin Benutzer benachrichtigt."
+        },
+        "f49044eb0f5ff823c157a2feedf2b9f8": {
+            "text": "Weitere Informationen zu den oben genannten Optionen finden Sie in der [Beschreibung f\u00fcr die Inhaltstypen](%s)."
         }
     }
 }

@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldIcon\/InputfieldIcon.module",
+    "textdomain": "wire--modules--inputfield--inputfieldicon--inputfieldicon-module",
+    "translations": {
+        "d3899694e364033d1d639933da6d5529": {
+            "text": "Alle Symbole anzeigen"
+        },
+        "da16f4b493c9497089a9572292a48002": {
+            "text": "Ein Symbol ausw\u00e4hlen"
+        }
+    }
+}

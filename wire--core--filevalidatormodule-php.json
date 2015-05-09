@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/FileValidatorModule.php",
+    "textdomain": "wire--core--filevalidatormodule-php",
+    "translations": {
+        "32037e58557d829f1fe8cb434a624006": {
+            "text": "VALIDE (durch Sanitization)"
+        },
+        "c9f1a6384b1c466d4612f513bd8e13ea": {
+            "text": "VALIDE"
+        },
+        "ccc0377a8afbf50e7094f5c23a8af223": {
+            "text": "UNG\u00dcLTIG"
+        }
+    }
+}

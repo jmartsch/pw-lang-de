@@ -9,7 +9,7 @@
             "text": "Neue Seite hinzuf\u00fcgen"
         },
         "9e31eadc87a42dd9b75f4b4d141c192b": {
-            "text": "Der Name, den Sie ausgew\u00e4hlt haben, wird bereits benutzt. Bitte w\u00e4hlen Sie einen anderen."
+            "text": "Der Name, den Sie ausgew\u00e4hlt haben, wird bereits verwendet. Bitte w\u00e4hlen Sie einen anderen."
         },
         "9c99ecab6aa8967c077e01a0b3f51668": {
             "text": "Die Seite %1$s, die das Template %2$s nutzt, wurde erstellt"
@@ -49,6 +49,15 @@
         },
         "bd71df4fde063d60b0fe33d87f52f7ff": {
             "text": "Achtung, der gew\u00e4hlte Name \"%1$s\" wird bereits verwendet und wurde ge\u00e4ndert auf \"%2$s\"."
+        },
+        "1f03189503b2b085455900a07777134c": {
+            "text": "Bereits belegt"
+        },
+        "5ffb937a7aaced6b2c652cd8b8650135": {
+            "text": "Der eingegebene Name wird bereits verwendet. Falls Sie ihn nicht \u00e4ndern, wird der Name nach dem Speichern automatisch eindeutig umbenannt."
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Elternseite"
         }
     }
 }

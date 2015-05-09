@@ -1,0 +1,60 @@
+{
+    "file": "wire\/modules\/Process\/ProcessRecentPages\/ProcessRecentPages.module",
+    "textdomain": "wire--modules--process--processrecentpages--processrecentpages-module",
+    "translations": {
+        "fda27fd4e8f31d46c37d6ebb661d4975": {
+            "text": "Keine zutreffenden Seiten (dabei)"
+        },
+        "0f1af93a396987467471642622b4f372": {
+            "text": "Dieses Feature ben\u00f6tigt die page-lister Berechtigung"
+        },
+        "e8ec3c5a66a1458617d385c211485937": {
+            "text": "Seiten zuletzt erstellt von %s"
+        },
+        "6164ab6f0d40bf0dbb4d016d70f22451": {
+            "text": "Zuletzt erstellte Seiten"
+        },
+        "0fa9b1da7af6dc7c17300d2696d4e840": {
+            "text": "Seiten zuletzt bearbeitet von %s"
+        },
+        "727d0685214d2e29837bf220bd336876": {
+            "text": "Zuletzt bearbeitete Seiten"
+        },
+        "854a4e1057837e016fa0fd26de810760": {
+            "text": "Weitere hinzuf\u00fcgen"
+        },
+        "587e304d5de9c56ac7833cb11fbbbcf9": {
+            "text": "Beliebiges Element anklicken um ein weiteres vom selben Typ hinzu zuf\u00fcgen"
+        },
+        "67ed6ddb7d890b23166c1bef771e9451": {
+            "text": "Bearbeitet"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Erstellt"
+        },
+        "2ff3c4fe971c877ac58d0d2ae6d21a1f": {
+            "text": "Bearbeitet von mir"
+        },
+        "1914dedd048465ec232e765349041af5": {
+            "text": "Erstellt von mir"
+        },
+        "47d881f2691b3fe7e1aa6ddd1d9362fa": {
+            "text": "Seite"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Eltern"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "Erstellt"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Ge\u00e4ndert"
+        },
+        "7a194bb4dc7991f70455c1068bc10d94": {
+            "text": "Zuletzt erstellt"
+        },
+        "0cd816a2b17a6fd85120a4ffc417ef52": {
+            "text": "Letzte Seiten"
+        }
+    }
+}

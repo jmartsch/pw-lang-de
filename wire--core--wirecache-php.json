@@ -7,6 +7,15 @@
         },
         "a188964d2912198a985f7bcd9564c530": {
             "text": "Cache bereinigt"
+        },
+        "8a4a48cd3a709f985d5ea015c2db76c0": {
+            "text": "Allgemeine Wartung verwirft %d Cache(s)"
+        },
+        "f64daf743a238aa0cd75ee82bff43332": {
+            "text": "Wartung verwirft %d Cache(s) f\u00fcr gespeicherte Seite"
+        },
+        "fb00a11e56682a1fc9456f910b1ebcff": {
+            "text": "Wartung verwirft %d Cache(s) f\u00fcr gespeichertes Template"
         }
     }
 }

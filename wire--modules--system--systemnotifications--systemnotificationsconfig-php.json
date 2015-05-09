@@ -1,0 +1,138 @@
+{
+    "file": "wire\/modules\/System\/SystemNotifications\/SystemNotificationsConfig.php",
+    "textdomain": "wire--modules--system--systemnotifications--systemnotificationsconfig-php",
+    "translations": {
+        "d9b71f69d8afdf5b522a5529ec7434f5": {
+            "text": "Name des Benutzers welcher System-Benachrichtigungen erh\u00e4lt"
+        },
+        "2871a976bc7a1ed674bc578c34af81ee": {
+            "text": "Aktive Hooks f\u00fcr automatische Benachrichtigungen"
+        },
+        "b106396b3992fc580dd88f36d98c32b5": {
+            "text": "Immer wenn eines dieser Ereignisse vorkommt, wird der o.g. System-Benutzer benachrichtigt."
+        },
+        "53af239ee5d3e261545dededcb6ffd57": {
+            "text": "404 Seite nicht gefunden"
+        },
+        "926febaa3f486221378c09d2fb900eff": {
+            "text": "Benutzer Login Erfolg und Fehler"
+        },
+        "6d204ddabcf344603448790344217ec5": {
+            "text": "Benutzer ausloggen"
+        },
+        "1bb51316162ffaecdae67003acc36d00": {
+            "text": "Dies sind in erster Linie Beispiele von Benachrichtigungen zu Demonstrationszwecken."
+        },
+        "2495a34a1379d1325ca518e3c0b2b098": {
+            "text": "Zeit zwischen den Aktualisierungen"
+        },
+        "d4f7e0a594dd8d1eb92264b3d43c507d": {
+            "text": "Wie oft auf aktualisierte Benachrichtigungen gepr\u00fcft werden soll (in Millisekunden). Beispiel: 5000 bedeutet 5 Sekunden."
+        },
+        "534fd46732986cba0efeda8701592427": {
+            "text": "Datum Format"
+        },
+        "414f2eb480e8f38b6f93f41ca28279fb": {
+            "text": "Format des Datums in den Benachrichtigungen. Verwende das date() oder srftime() Format, oder \"relative\" f\u00fcr relative(s) Datum\/Zeit, \"rel\" f\u00fcr abgek\u00fcrzte(s) Datum\/Zeit."
+        },
+        "64a87d656e89eca4f73f4ecda74480f5": {
+            "text": "Nachrichten Symbol"
+        },
+        "b454aae1916829fd90512b2c31a01e68": {
+            "text": "Warn Symbol"
+        },
+        "c59e636f1291af56f91d53c3a51ac8f8": {
+            "text": "Fehler Symbol"
+        },
+        "b386baeabf452105b52ddd8a8dbebf1c": {
+            "text": "Verz\u00f6gerung des Benachrichtigungs-Pop-up"
+        },
+        "fa3ed13e0d1d3606900f0d0fcb96b94e": {
+            "text": "Wie lange das Benachrichtigungs-Pop-up sichtbar ist (in ms)."
+        },
+        "a24efc3293365b4ca44161c70fffe1b7": {
+            "text": "Verz\u00f6gerung des Fehler Benachrichtigungs-Pop-up"
+        },
+        "0673410c6de314e9317a7f593f6a99b6": {
+            "text": "Wie lange das Fehler Benachrichtigungs-Pop-up sichtbar ist (in ms)."
+        },
+        "a2736075ee5bcaeaad4650b9a1bb7d43": {
+            "text": "Geschwindigkeit des Fadings"
+        },
+        "c4f9ba7565ccdd1b1ec3e06265ef4995": {
+            "text": "Geschwindigkeit mit welcher das Benachrichtigungs-Pop-up ein- oder ausblendet."
+        },
+        "081b98759749efbb07052c62da920324": {
+            "text": "Sofort (kein Ein-\/Ausblenden)"
+        },
+        "e16b5b7f26f54214445cbe38d72c2828": {
+            "text": "Schnell"
+        },
+        "efa5397985b8609a5dbeb430a4bcadd3": {
+            "text": "Langsam"
+        },
+        "cc7148e90f03a6539cd11c343d8fdf8a": {
+            "text": "Volle Opazit\u00e4t des Benachrichtigungs-Pop-up"
+        },
+        "4f8b65fe69b4b13c2a02bf47648c9a34": {
+            "text": "Volle Opazit\u00e4t des Benachrichtigungs-Pop-up (0.1-1.0)"
+        },
+        "945d5e233cf7d6240f6b783b36a374ff": {
+            "text": "Links"
+        },
+        "92b09c7c48c520c3c55e497875da437c": {
+            "text": "Rechts"
+        },
+        "4b3f62787ef2a663f5af7c2a25c0c617": {
+            "text": "Position des Benachrichtigungs-Pop-up"
+        },
+        "22c3a11778dfb998611f45125023b39c": {
+            "text": "Auf welcher Seite des Bildschirms das Benachrichtigungs-Pop-up erscheinen soll."
+        },
+        "333da8687b16a586812b92b6acda8674": {
+            "text": "Limit der Pop-ups"
+        },
+        "8a1cf8cf2597193851e727307d3d3b31": {
+            "text": "Zeige Zusammenfassung der Pop-ups falls Anzahl h\u00f6her ist."
+        },
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "An"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Aus"
+        },
+        "64930416d9c5663de5d4ef880d8e0b0e": {
+            "text": "Status der Benachrichtigungen"
+        },
+        "2e9cdb9adc7f7c13f750d7fe7ab46979": {
+            "text": "Wenn ausgeschaltet, werden keine Benachrichtigungen dargestellt."
+        },
+        "51bcb0deba18f3c17526ac9589275a1b": {
+            "text": "Reihenfolge der Benachrichtigungen"
+        },
+        "452fe939bf3b82240e39d4e32402f191": {
+            "text": "Ausw\u00e4hlen, in welcher Reihenfolge die Benachrichtigungen angezeigt werden."
+        },
+        "dbc0773df87763dba658c0718cb23cbd": {
+            "text": "Absteigend"
+        },
+        "795c06257e98282a98f9b4372343154c": {
+            "text": "Aufsteigend"
+        },
+        "d6e7bc4caa8b68af7f00ff457e4d3344": {
+            "text": "Benachrichtigung zur Laufzeit bzw. Einzelanforderung"
+        },
+        "a2e68070d70d39ee23fe1edf9767c11c": {
+            "text": "Als Benachrichtigung anzeigen"
+        },
+        "9650b6be51970b497f28b3f079f7bf79": {
+            "text": "Unabh\u00e4ngig anzeigen"
+        },
+        "1983cbef846882d5eb60db0f1af3cf4a": {
+            "text": "Bearbeitung von Seiten verfolgen?"
+        },
+        "6f089aa14345991d2dc5234b61b2841c": {
+            "text": "Benachrichtigt Benutzer wenn sie versuchen eine Seite zu bearbeiten welche gerade bearbeitet wird."
+        }
+    }
+}
