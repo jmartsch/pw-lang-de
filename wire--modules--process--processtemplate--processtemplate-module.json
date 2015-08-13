@@ -117,7 +117,7 @@
             "text": "Falls Sie die von einem anderen Template genutzten Felder duplizieren m\u00f6chten, w\u00e4hlen Sie diese hier aus. Bereits in diesem Template enthaltene Felder werden \u00fcbersprungen."
         },
         "0f62a8abd379b96004d8118b0d9a2399": {
-            "text": "Um die Ausgabe dieses Templates zu cachen, geben sie die Dauer (in Sekunden) an, f\u00fcr die die Ausgabe gecached werden soll. Caching kann auf ressourcenlastigen Seiten signifikant den Seitenaufbau verbessern. Caching sollte aber nicht bei Templates verwendet werden, deren Daten sich st\u00e4ndig \u00e4ndert (z.B. Formulare oder Sessions). Beachten Sie auch, dass URL-Segmente zwar cachef\u00e4hig sind, die Variablen GET und POST aber nicht."
+            "text": "Um die Ausgabe dieses Templates zu cachen, geben sie die Dauer (in Sekunden) an, f\u00fcr die die Ausgabe gecached werden soll. Caching kann auf ressourcenlastigen Seiten signifikant den Seitenaufbau verbessern. Caching sollte aber nicht bei Templates verwendet werden, deren Daten sich st\u00e4ndig \u00e4ndern (z.B. Formulare oder Sessions). Beachten Sie auch, dass URL-Segmente zwar cachef\u00e4hig sind, die Variablen GET und POST aber nicht."
         },
         "e71a260bc8db16e30f2dedeba9440a25": {
             "text": "Beispiel: 60 = 1 Minute, 600 = 10 Minuten, 3600 = 1 Stunde, 86400 = 1 Tag, 604800 = 1 Woche, 2419200 = 1 Monat."
