@@ -49,6 +49,12 @@
         },
         "fae7550bf964aa09e51752b154a6cb23": {
             "text": "Stellt die M\u00f6glichkeit bereit, Seiten im Admin-Bereich zu klonen\/kopieren\/duplizieren. F\u00fcgt allen passenden Seiten in der PageList eine Option \"kopieren\" hinzu."
+        },
+        "04ded6e943c2cb8fab9a9b7075462f7c": {
+            "text": "Geklont zu: %s"
+        },
+        "d52cff2047c2d3bd15b08ec62c34eb7d": {
+            "text": "Kann Seite nicht klonen"
         }
     }
 }

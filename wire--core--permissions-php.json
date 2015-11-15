@@ -1,0 +1,33 @@
+{
+    "file": "wire\/core\/Permissions.php",
+    "textdomain": "wire--core--permissions-php",
+    "translations": {
+        "811deefb4c02a58fd629b05b775dbd3a": {
+            "text": "Seiten verstecken\/anzeigen"
+        },
+        "078d02bfb62cf6957d8295c0072eb869": {
+            "text": "Seiten ver\u00f6ffentlichen\/nicht ver\u00f6ffentlichen oder bereits ver\u00f6ffentlichte Seiten bearbeiten"
+        },
+        "419cb8b2ecc5b9144270ebbbb7e65c92": {
+            "text": "Nur Seiten bearbeiten, welche der Benutzer erstellt hat"
+        },
+        "aea865164370da774405c331d6657a6f": {
+            "text": "Name \u00e4ndern von ver\u00f6ffentlichten Seiten welche bearbeitet werden d\u00fcrfen"
+        },
+        "11872ca557915bb50767c6f91d5483d5": {
+            "text": "Verwalte Benutzer in beliebiger Benutzerrolle (ausser superuser)"
+        },
+        "eecc2e81896b43d7a7fad8cd165a8107": {
+            "text": "Verwalte Benutzer in Benutzerrolle: %s"
+        },
+        "8048bbf682a36eb44e24af9d4996ba3d": {
+            "text": "Bearbeite Felder auf einer Seite in Sprache: %s"
+        },
+        "c7ec5d220e7d4a02342efda6f6b2be98": {
+            "text": "(ebenfalls ben\u00f6tigt zum erstellen oder l\u00f6schen von Seiten)"
+        },
+        "40840d28513eb3dfb7be0a1fdffae9a7": {
+            "text": "Verwaltung von Sprachen und statischen Dateien zur \u00dcbersetzung"
+        }
+    }
+}

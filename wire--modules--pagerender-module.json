@@ -20,8 +20,14 @@
         "af4137a5254dfe8654d87ff05286b80e": {
             "text": "Cache Datei gel\u00f6scht:"
         },
-        "e50f63e1be50c5469f5bc774a55d3374": {
-            "text": "Cache Datei f\u00fcr %d Seite(n) mit entsprechendem Selektor gel\u00f6scht:"
+        "22a38306ce7556a0a5eeebca65cd9b58": {
+            "text": "Seitencache f\u00fcr gesamte Site abgelaufen"
+        },
+        "b091c65f589c970f6084669796efb995": {
+            "text": "Cache Datei gel\u00f6scht: %s"
+        },
+        "f3fbe32b9b2f8a4b6b3eecc5084e999c": {
+            "text": "Cache Datei f\u00fcr %d Seite(n) gel\u00f6scht"
         }
     }
 }

@@ -11,9 +11,6 @@
         "b9c21fa0192c783c8c3d3c48cd251f6c": {
             "text": "Neues Modul gefunden"
         },
-        "4d90ec9a7117ef7ad9c02a90860d7122": {
-            "text": "Um ein Modul zu entfernen klicken Sie das Modul an (zum bearbeiten), dann w\u00e4hlen Sie  'Deinstallieren' und speichern es. Sobald es deinstalliert ist, k\u00f6nnen Sie die Modul-Datei(en) aus \/site\/modules\/ entfernen. Wenn es immer noch in der Liste oben erscheint, m\u00fcssen Sie eventuell den Button 'Nach neuen Modulen suchen' klicken, damit ProcessWire die \u00c4nderung erfasst."
-        },
         "56f298ec43e271496dd37302c5f2d023": {
             "text": "Keine neuen Module gefunden"
         },
@@ -352,6 +349,33 @@
         },
         "883368e39a6dfd38bba57a0d881c87df": {
             "text": "Modul-Cache aktualisiert (%d Module)"
+        },
+        "326051e869bfb9785613fcb1e957a71e": {
+            "text": "Um ein Modul zu entfernen klicken Sie das Modul an (zum bearbeiten), dann w\u00e4hlen Sie 'Deinstallieren' und speichern es. Sobald es deinstalliert ist, k\u00f6nnen Sie die Modul-Datei(en) aus \/site\/modules\/ entfernen. Wenn es immer noch in der Liste oben erscheint, m\u00fcssen Sie eventuell den Button 'Nach neuen Modulen suchen' klicken, damit ProcessWire die \u00c4nderung erfasst."
+        },
+        "83168e6cb289d732cc78427b51f93153": {
+            "text": "="
+        },
+        "def68ae90aac3e065c37457bc36d22f8": {
+            "text": "="
+        },
+        "617650497438099e992520bf3a664ba6": {
+            "text": "="
+        },
+        "27a35aaa9bc34010a2a8b5f6e72bc59c": {
+            "text": "="
+        },
+        "f660f5f5478044f06b7c4ff7faf94e22": {
+            "text": "="
+        },
+        "6e3ecdf50e3929756d31a4f4a80179da": {
+            "text": "="
+        },
+        "7f05cd7d695e4a911a436478a8f0cdfc": {
+            "text": "="
+        },
+        "289aa00733ebcfd0bae827af29d01356": {
+            "text": "="
         }
     }
 }

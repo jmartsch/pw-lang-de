@@ -36,10 +36,10 @@
             "text": "Template der w\u00e4hlbaren Seite(n)"
         },
         "5b0591013bf2cac5ee96f90e31a5b2e9": {
-            "text": "W\u00e4hlen Sie die Elternseite der w\u00e4hlbaren Seiten"
+            "text": "W\u00e4hlen Sie die Eltern der w\u00e4hlbaren Seiten"
         },
         "881b1a7b97bc4d70099cc59a53e8a8e5": {
-            "text": "Eingabe-Feldtyp"
+            "text": "Eingabe Feldtyp"
         },
         "9f80067ff42d8e69d0c3a24b67ef4c85": {
             "text": "W\u00e4hlen sie das Template f\u00fcr die betreffenden Seiten. Das kann als Ersatz oder in Erg\u00e4nzung zur zuvor gemachten Einstellung genutzt werden. Beachten Sie, dass diese Einstellung nicht mit den PageListSelect Eingabefeldern kompatibel ist."
@@ -48,7 +48,7 @@
             "text": "Benutzerspezifischer PHP-Code, um w\u00e4hlbare Seiten zu finden."
         },
         "e5c1791ec6a73eed5d8a7002e2799470": {
-            "text": "W\u00e4hlen Sie ein Seitenfeld, welches als Label der verf\u00fcgbaren Seiten angezeigt werden soll."
+            "text": "W\u00e4hlen Sie ein Seitenfeld, welches Sie zum generieren von Labels f\u00fcr jede verf\u00fcgbare Seite nutzen wollen."
         },
         "bcf331523fb730639bde7c2e8fc4f811": {
             "text": "Der Feldtyp, welches zum ausw\u00e4hlen von Seiten genutzt werden soll. Nutze einen einheitlichen Typ der f\u00fcr einfache Seiten und Multi-Seiten genutzt werden kann. Einstellungen kannst Du in dem \"Details\"-tag des Feldes vornehmen."
@@ -63,13 +63,13 @@
             "text": "Wenn gew\u00e4hlt und die Voraussetzungen erf\u00fcllt werden, wird eine Option zum hinzuf\u00fcgen neuer Seiten sichtbar sein."
         },
         "7673446b991c59998763308c9f7f5d53": {
-            "text": "1. Eine Elternseite und ein Template m\u00fcssen oben ausgew\u00e4hlt sein."
+            "text": "1. Ein Elternteil und ein Template m\u00fcssen zur oben genannten Auswahl hinzugef\u00fcgt werden."
         },
         "65a208c6491dac4a6fb17f7a62f76658": {
-            "text": "2. Der Bearbeiter muss die Berechtigung haben, diese Seiten zu erstellen oder zu ver\u00f6ffentlichen."
+            "text": "2. Der Bearbeiter muss Zugriffsrechte haben, um diese Seiten erstellen oder ver\u00f6ffentlichen zu k\u00f6nnen."
         },
         "aa2e4d260721b3a7e2776b8cb9c19fdf": {
-            "text": "3. Das Label-Feld muss auf \"title (Standard)\" gesetzt werden."
+            "text": "3. Das Label Feld muss auf \"Titel (Standard)\" gesetzt werden."
         },
         "d9a5927aa49f1a766a15e692b69c1c91": {
             "text": "In der Auswahl verf\u00fcgbare Eingabefelder."
@@ -81,16 +81,13 @@
             "text": "(unver\u00f6ffentlicht)"
         },
         "53158583a607fba6e71f0f18d73a910b": {
-            "text": "Benutzerdefinierter Selektor um w\u00e4hlbare Seiten zu finden"
-        },
-        "bb990f9776c28444dad4fa48fb2c946c": {
-            "text": "Label-Feld"
+            "text": "Custom Selektor um w\u00e4hlbare Seiten zu finden"
         },
         "54b79da80ed98094797b9e3ee68488a6": {
-            "text": "Mit einem Pluszeichen gekennzeichnete Typen verwenden den gesamten Unterbaum der \"Elternseite\", nicht nur ihre unmittelbaren Kinderseiten."
+            "text": "Mit einem Pluszeichen gekennzeichnete Typen setzen eher eine \"Elternseite\" als Root eines Baumes voraus, als eine unmittelbare Elternseite."
         },
         "6ad160329dd81f9ecede290bffe93928": {
-            "text": "Falls Sie ausw\u00e4hlbare Seiten mit einem ProcessWire-Selektor anstatt mit einer Elternseite oder Template (oben) finden wollen, geben Sie hier den Selektor ein. Dieser Selektor f\u00fchrt zu einer $pages->find(\"Ihr Selektor\"); Anweisung. Hinweis: im Moment nicht kompatibel mit den PageListSelect-Eingabe-Feldtypen."
+            "text": "Falls Sie ausw\u00e4hlbare Seiten mit einem ProcessWire Selektor anstatt mit einer Elternseite oder Template (oben) finden wollen, geben Sie hier den Selektor ein. Dieser Selektor f\u00fchrt zu einer $pages->find(\"your selector\"); Anweisung. Hinweis: im Moment nicht kompatibel mit PageListSelect Eingabe Feldtypen."
         },
         "3d9e8a4318894ce247ba920c7961d5da": {
             "text": "Obwohl dies die Elternseite und Template Auswahl von oben \u00fcberschreibt, wird diese Auswahl trotzdem zur Validierung genutzt (bitte abw\u00e4hlen, falls dieses Verhalten nicht gew\u00fcnscht wird)."
@@ -103,6 +100,33 @@
         },
         "a9e792488572b1b5316720df20682ad3": {
             "text": "Hinweis: nicht kompatibel mit PageListSelect oder Autocomplete Eingabe Feldtypen."
+        },
+        "d8f9928df4675d892629c754932fad80": {
+            "text": "Label Feld"
+        },
+        "a0cb77306b6f4e96a00cdc5a0c128166": {
+            "text": "W\u00e4hlen Sie \"Eigenes Format\" falls mehrere Felder oder andere oben nicht sichtbare Felder festgelegt werden sollen."
+        },
+        "282acaaa24f42bb779ccb235bfc37491": {
+            "text": "Eigenes Format (mehrere Felder)' . ' ..."
+        },
+        "ccfbd07eab619923148d98d09c91e15e": {
+            "text": "Eigenes Seiten Label Format"
+        },
+        "ebebc537c9c3117a5e2304be412d83f3": {
+            "text": "Legen Sie ein oder mehrere Felder mit geschweiften {Klammern} zusammen mit beliebigen zus\u00e4tzlichen Zeichen, Zwischenraum oder Zeichensetzung fest."
+        },
+        "190dcbcb68a0545eb0e38c4eca2961e0": {
+            "text": "Beispiel: {parent.title} - {title}, {date}"
+        },
+        "ebd9ef41cdc1369f55f58b151390de31": {
+            "text": "Einige Eingabetypen bieten zum Teil zus\u00e4tzliche Optionen zur Konfiguration an. Nach der Auswahl eines Eingabe Feldtyps, und dann speichern Ihrer \u00c4nderungen, k\u00f6nnen weitere Optionen zur Konfiguration unterhalb dieser Sektion angezeigt werden."
+        },
+        "1920ec4f46fd3f4962d351c84f69cf7e": {
+            "text": "="
+        },
+        "b329c0bc717cd35d04a9362fc0d778c2": {
+            "text": "="
         }
     }
 }

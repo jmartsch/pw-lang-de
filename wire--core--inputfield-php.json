@@ -8,21 +8,6 @@
         "49632d1c8309d42371ab31fe84d56c91": {
             "text": "Wie soll dieses Feld im Editor angezeigt werden?"
         },
-        "604b97c67341baddd9547c714add721c": {
-            "text": "Immer ge\u00f6ffnet (Standard)"
-        },
-        "d7a1a486818eebace651ff191e42984f": {
-            "text": "Nur eingeklappt falls leer"
-        },
-        "996d9abb10eeff734a994fcd5b449db6": {
-            "text": "Nur eingeklappt falls ausgef\u00fcllt"
-        },
-        "c0b4e286b96d6d694cb7ecb152fe3e9d": {
-            "text": "Immer eingeklappt; muss zum \u00d6ffnen angeklickt werden"
-        },
-        "8263d549648f539508587a67f38d008b": {
-            "text": "Versteckt; wird im Editor nicht angezeigt"
-        },
         "a785c32894aad6d7c1dc826a4bc0a4a3": {
             "text": "Spaltenbreite (%d%%)"
         },
@@ -38,14 +23,8 @@
         "c48c7243fc307fd425df738c9f0f4324": {
             "text": "Falls ausgew\u00e4hlt, muss in diesem Feld ein Wert eingegeben werden."
         },
-        "2d7ff3fa8a1a844b270d96878d358762": {
-            "text": "Lesen Sie mehr dazu [wie man dies anwendet](http:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/)"
-        },
         "c7bc3fddddb62d5b656adc30cea77a55": {
             "text": "Pr\u00e4sentation"
-        },
-        "3cfa4a6238e2b559d3f52474e7545485": {
-            "text": "Zeige dieses Feld nur wenn..."
         },
         "3b57940d51a0ed7f2d5c49363114bd0e": {
             "text": "Bedingung eingeben, unter welcher dieses Feld angezeigt wird."
@@ -53,20 +32,50 @@
         "efdf8051d64766330e13627274b01787": {
             "text": "Bedingungen werden dargestellt mit einem \"field=value\" Selektor, welcher die passenden Felder und Werte enth\u00e4lt. Mehrere Bedingungen mit Komma trennen."
         },
-        "8183d67b5c53c5fb254741c64ae6f98d": {
-            "text": "Nur Pflichtfeld wenn..."
-        },
         "bb0df4a2d5e0d99eaba53f152ff7f0f7": {
             "text": "Bedingung eintragen zu welcher ein Wert f\u00fcr dieses Feld ben\u00f6tigt wird."
         },
-        "3c5df14c7c43b1d43c41b15476154474": {
-            "text": "Gesperrt, immer eingeklappt und nicht \u00e4nderbar"
+        "c3bf447eabe632720a3aa1a7ce401274": {
+            "text": "Offen"
         },
-        "5b6a6f08f86510a9580df3bb8b31bb2a": {
-            "text": "Gesperrt, Eintrag sichtbar aber nicht \u00e4nderbar"
+        "0d2d71d5551271c673df720e61b08cf8": {
+            "text": "Offen + Kann nicht geschlossen werden"
         },
-        "c412235f3700a685388546e557292a7e": {
-            "text": "Immer ge\u00f6ffnet und kann nicht eingeklappt werden"
+        "5995da1dbd9a2df5487ab0324f2d4a01": {
+            "text": "Offen wenn ausgef\u00fcllt + Geschlossen wenn leer"
+        },
+        "e75c5e5c17a86f893fac8d2b7b7a3762": {
+            "text": "Offen wenn ausgef\u00fcllt + Geschlossen wenn leer + Laden nur beim \u00f6ffnen (AJAX)"
+        },
+        "3a28674fd51f34234723d80de10c6382": {
+            "text": "Offen wenn ausgef\u00fcllt + Geschlossen wenn leer + Gesperrt (nicht editierbar)"
+        },
+        "2f6f6a0f0c4157d8a5174b75063ba0e2": {
+            "text": "Offen wenn leer + Geschlossen wenn ausgef\u00fcllt"
+        },
+        "03f4a47830f97377a35321051685071e": {
+            "text": "Geschlossen"
+        },
+        "3567554c6ab1f1648a4b4ecbbbb4733d": {
+            "text": "Geschlossen + Gesperrt (nicht editierbar)"
+        },
+        "9101591614e0d079e052d9cbf4e1c203": {
+            "text": "Geschlossen + Laden nur beim \u00f6ffnen (AJAX)"
+        },
+        "cb6df4e080dea0319f74d565e587c2b5": {
+            "text": "Optionen mit Angabe von %s funktionieren unter Umst\u00e4nden nicht mit allen Eingabefeldern oder Einstellungen. Bitte entsprechend testen."
+        },
+        "2145d1256ac3cfac3444b42d04572b4e": {
+            "text": "Versteckt (nicht sichtbar im Editor)"
+        },
+        "44158720c6f7deaff17b2430d3d31254": {
+            "text": "Zeige dieses Feld nur wenn"
+        },
+        "c1d71aa80e02ee67489431d11e5f58a8": {
+            "text": "Pflichtfeld nur wenn"
+        },
+        "33f354f096583d4fb4c01fa05670c1e6": {
+            "text": "Lesen Sie mehr dazu [wie man dies anwendet](https:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/)."
         }
     }
 }

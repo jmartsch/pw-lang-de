@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageListActions.php",
+    "textdomain": "wire--modules--process--processpagelist--processpagelistactions-php",
+    "translations": {
+        "9b9d8a976b42e0bd66381797644943d5": {
+            "text": "Ver\u00f6ffentlicht"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Nicht ver\u00f6ffentlicht"
+        },
+        "49db9a5bceddadc8512acb4b336c7464": {
+            "text": "Verstecken"
+        },
+        "02ac38291d7be8fb1f41d85c0a428d11": {
+            "text": "Nicht versteckt"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Gesperrt"
+        },
+        "c76fd517e45cc95709f4ac106efa4a94": {
+            "text": "Entsperrt"
+        },
+        "e708704f405b4a6ec4d57cb147ea9b91": {
+            "text": "Weggeworfen"
+        },
+        "5de66daea41e791a26f6b495ad1fc3b0": {
+            "text": "Wieder hergestellt nach: %s (zum anzeigen neu laden)"
+        },
+        "9e2e4fbd398b11af3aabb1866bbb3e25": {
+            "text": "Aktionen im Demo-Modus deaktiviert"
+        }
+    }
+}

@@ -11,14 +11,59 @@
         "9bfb6e6af6e6793bfa9387e728187c87": {
             "text": "(Pflichtfeld)"
         },
-        "abf1be1c76c0620d1a220871b1ba0da1": {
-            "text": "Angezeigte Berechtigungen er\u00f6ffnen weitere Berechtigungs-Optionen, welche nach markieren der Box und dem speichern der Seite angezeigt werden."
-        },
         "d08ccf52b4cdd08e41cfb99ec42e0b29": {
             "text": "Berechtigungen"
         },
-        "8a74d66f5b9d96c4eee8c0388f9536d9": {
-            "text": "*Bitte beachten: die Auswahl der page-edit Berechtigung hier bedeutet nur, dass diese Benutzerrolle gew\u00e4hlt werden kann f\u00fcr \u00c4nderungen auf Template-Ebene. Hier die page-edit Berechtigung zuweisen, gew\u00e4hrt solange die Berechtigung zur \u00c4nderung, bis dies ebenso in den Zugriff-Einstellungen eines oder mehrerer Templates ge\u00e4ndert wird."
+        "e0c8b59640bc35bac606431203d2d9b0": {
+            "text": "Detaillierte Beschreibungen zu diesen Berechtigungen finden Sie in der [Referenz](%s)."
+        },
+        "ae9a363b2dfa9181da7ffde8e37813b5": {
+            "text": "durchgestrichen"
+        },
+        "c6cc7e92b9fc348360b34c024086432c": {
+            "text": "name|beschreibung"
+        },
+        "dc3abfaff3190368a09f01d6589eeeea": {
+            "text": "F\u00fcge Kindseiten zu Seiten hinzu mit Template"
+        },
+        "9c281188158fc34cf5afc9d2820a761c": {
+            "text": "Erstelle Seiten mit Template"
+        },
+        "faa5826bce6656df7f63cbeb5b2a85fe": {
+            "text": "Diese Berechtigung kann nur durch die Einstellungen des Template-Zugriffs vergeben werden."
+        },
+        "3cac60e98937c01a72ef6e6cfe66f90f": {
+            "text": "Diese Berechtigung ist Pflicht f\u00fcr alle Benutzerrollen."
+        },
+        "1def073965e264ae40ae1d9877290fd3": {
+            "text": "gilt f\u00fcr alle bearbeitbaren Templates"
+        },
+        "26c77f67debae46ee5b0a12626817076": {
+            "text": "%1$s durch Template %2$s hinzugef\u00fcgt, anklicken zum bearbeiten"
+        },
+        "37ef521112472af77d381e834922a7af": {
+            "text": "%1$s durch Template %2$s verworfen, anklicken zum bearbeiten"
+        },
+        "95c58584c58685c05c1a7cc706416455": {
+            "text": "im Moment keinem Template zugewiesen"
+        },
+        "64a4d3473343a325080c311b47099be6": {
+            "text": "Die page-add und page-create Berechtigungen k\u00f6nnen nur in den Einstellungen des Template-Zugriffs hinzugef\u00fcgt werden und sind hier nur zur Information aufgef\u00fchrt."
+        },
+        "cea791d6258d032e4742a9a99f1ecf11": {
+            "text": "Alleine das Markieren der page-edit Berechtigung hier erlaubt noch nicht den Zugriff zum bearbeiten auf beliebige Seiten. Stattdessen erm\u00f6glicht es Ihnen, f\u00fcr diese Benutzrrolle den Zugriff zum bearbeiten in den Einstellungen des Template-Zugriffs festzulegen. Durch die page-edit Berechtigung werden Seiten im Adminbereich f\u00fcr Benutzer sichtbar. Daher wird diese Berechtigung f\u00fcr alle administrativen Benutzer empfohlen."
+        },
+        "d923671ad010412a573db8ccdbddc911": {
+            "text": "Zeigt an, dass die Berechtigung f\u00fcr Benutzerrollen optional in den Einstellungen des Template-Zugriffs hinzugef\u00fcgt oder zur\u00fcckgenommen werden kann. Das Markieren der Berechtigung gibt diese f\u00fcr alle bearbeitbaren Templates frei. Falls Sie einer Benutzerrolle nur eine bestimmte Berechtigung f\u00fcr Seiten mit spezifischen Template(s) zuordnen m\u00f6chten, sollten Sie dies hier nicht markieren und stattdessen die Auswahl im Tab \"Zugriff\" eines Templates treffen."
+        },
+        "efc30c4ed12a9e95e4fad5ae9be115fb": {
+            "text": "Zeigt ein Template an, welches die Berechtigung hinzuf\u00fcgt. Hier klicken um ein Fenster zu den Zugriff-Einstellungen des Templates zu \u00f6ffnen. Falls der Templatename %s ist, ist die Berechtigung dem Template hinzugef\u00fcgt, wird aber durch Ihre Auswahl hier \u00fcberschrieben."
+        },
+        "dce4a957c0c6225be564be146d71b245": {
+            "text": "Das gleiche wie oben abgesehen davon, dass die Berechtigung durch dieses Template zur\u00fcckgenommen wird (anstatt hinzugef\u00fcgt)."
+        },
+        "1754bfdd544e98486c2ed46753ca8edd": {
+            "text": "Das markieren dieser Box f\u00fcgt diese Berechtigung allen bearbeitbaren Templates hinzu, aber diese Berechtigung wurde bereits von einem oder mehreren Templates angelegt. Um die Dinge \u00fcbersichtlicher zu gestalten, empfehlen wir, die Berechtigung von diesen Templates zu entfernen, bevor man sie f\u00fcr alle frei schaltet. M\u00f6chten Sie dies nun wirklich aktivieren?"
         }
     }
 }

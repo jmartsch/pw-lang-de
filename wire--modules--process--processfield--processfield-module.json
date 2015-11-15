@@ -44,11 +44,8 @@
         "288fc0452049b753c8a75464d299ffe3": {
             "text": "Keine Felder entsprachen Ihrem Filter"
         },
-        "ad4e206408c1c59bfb8a057ba7857446": {
-            "text": "Kontext"
-        },
         "4ac3deb7dc60a1b4770ad126c84171f7": {
-            "text": "*Zeigt Felder an, die derzeit einen Standardwert \u00fcberschreiben. Einstellungen, die Sie in dieser Sete vornehmen \u00fcberschreiben die Standardeinstellungen nur, wenn sie mit dem Template \"%s\" verwendet werden."
+            "text": "*Zeigt Felder an, die derzeit einen Standardwert \u00fcberschreiben. Einstellungen, die Sie in dieser Seite vornehmen \u00fcberschreiben die Standardeinstellungen nur, wenn sie mit dem Template \"%s\" verwendet werden."
         },
         "c64f8a38fc13441f6cc860a4cbae887a": {
             "text": "Feld l\u00f6schen"
@@ -58,9 +55,6 @@
         },
         "1fa78a97c113bed4e867ec21d9ca918f": {
             "text": "Dieses Feld kann nicht gel\u00f6scht werden, da es von einem oder mehreren Template(s) verwendet wird."
-        },
-        "e7ec3883e42efde03a4932115fb807eb": {
-            "text": "Einstellung, falls verwendet mit dem Template: %s"
         },
         "bfacb0dba61ee131e07daaacead869c5": {
             "text": "Grundlegende Einstellungen des Feldes"
@@ -391,6 +385,183 @@
         },
         "a6f1b7f6b210b19d1d4ff7722c8fd790": {
             "text": "Hinweise"
+        },
+        "113304cf8780906880d1e29935deab16": {
+            "text": "falls verwendet mit Template: %s"
+        },
+        "cca387b459a5b38bdc63657a1c52c82b": {
+            "text": "\u00dcberschreiben durch Template"
+        },
+        "0ca08f8f4a8a19f7f1ae87c119494327": {
+            "text": "\u00dcberschreiben"
+        },
+        "94109d0b682a5ee9086924792ab5d349": {
+            "text": "Wollen Sie den Zugriff f\u00fcr dieses Feld verwalten?"
+        },
+        "8c234d4afc42f71cef48c0093be30aa5": {
+            "text": "Wenn aktiviert, k\u00f6nnen Sie den Zugriff zur Ansicht und Bearbeitung auf dieses Feld mit einer Benutzerrolle limitieren."
+        },
+        "146cec6f36689ef0531abb613c24f68d": {
+            "text": "Welche Beutzerrollen k\u00f6nnen dieses Feld ansehen und\/oder bearbeiten?"
+        },
+        "d39bf1bfbc9aef37bb8d6b935d73e53d": {
+            "text": "Wenn keine Boxen markiert sind, k\u00f6nnen nur Superuser den Inhalt des Feldes sehen\/bearbeiten."
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(jeder)"
+        },
+        "f41f3f2472b654b9853580182a36144a": {
+            "text": "Zugriff Umschalter"
+        },
+        "2a154a6134b85f7f936aac0194df1bc0": {
+            "text": "Zeige Feld in Seiten-Editor falls es sichtbar, aber nicht editiebar ist (Benutzer k\u00f6nnen es shen, aber nicht \u00e4ndern)"
+        },
+        "7d21b87f847b61b92648b2050c3c0529": {
+            "text": "Feld-Name darf nicht identisch sein mit Namen einer Sprache"
+        },
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "An"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Aus"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Alle"
+        },
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[leer]"
+        },
+        "8db6f3dfa2f2e5da6a736ec49e54f6f9": {
+            "text": "Feld Pr\u00e4sentation\/Sichtbarkeit"
+        },
+        "722302e393e0ef80cae21af3a433fd64": {
+            "text": "Rollen welche dieses Feld sehen d\u00fcrfen"
+        },
+        "7c5a8ae55e59746ba619775959127870": {
+            "text": "Rollen welche dieses Feld bearbeiten d\u00fcrfen"
+        },
+        "b1176bb4251df736f9046c88f2752937": {
+            "text": "Erlaube Zugriff-Kontrolle"
+        },
+        "d8b6bdb4b7004ffa8118daf92c70085d": {
+            "text": "Entferne Zugriff-Kontrolle"
+        },
+        "4ed588740999fc9926706a97d3e6b3ff": {
+            "text": "Erlaube Zugriff auf Wert des Feldes durch die API, selbst wenn es nicht sichtbar ist"
+        },
+        "03161f60700feb1e18fcb34de842c31a": {
+            "text": "Verweigere Zugriff auf Wert des Feldes durch die API, wenn es nicht sichtbar ist"
+        },
+        "23831f621c230fae228ca5bccd05b83e": {
+            "text": "Im Seiten-Editor anzeigen, selbst wenn es nicht editierbar ist"
+        },
+        "7a3d219a780c47deeba29f396adfc6d0": {
+            "text": "Im Seiten-Editor verstecken wenn es nicht editierbar ist"
+        },
+        "e2159a4c36a7a7881992637d1da6e379": {
+            "text": "Zugriff"
+        },
+        "a360c947f7ea8bd51220987c073edf15": {
+            "text": "Einstellung"
+        },
+        "f4aa6607ad257caa74e12b30eab4b8c6": {
+            "text": "\u00dcberschrieben"
+        },
+        "0255524701bd52455b1ae33bf39818ff": {
+            "text": "Einstellung entfernen"
+        },
+        "799ef6a367b3b36deb5be25ef8e7c91a": {
+            "text": "Zugriff"
+        },
+        "1cdcfe223f7fb1cc15748a347bf161b2": {
+            "text": "Ja"
+        },
+        "b26a4731ede28b0686cf017804aa3574": {
+            "text": "Nein"
+        },
+        "afd2f2d22bac5fd1faf1abf753685366": {
+            "text": "Rolle"
+        },
+        "904c279e535c872896eab899b55e9c46": {
+            "text": "Ansehen"
+        },
+        "32bcbddae2df658b6d193932ab97720e": {
+            "text": "Bearbeiten"
+        },
+        "4eea024c6b0c3cd104fe2b37edf668f9": {
+            "text": "\u00dcberschreiben einstellen f\u00fcr Template: %s"
+        },
+        "7d10eb77b41ac086ecfca9a7d417b1c6": {
+            "text": "\u00dcberschreiben einstellen nach Template"
+        },
+        "f66ca574111495a45f458a04c77f3c03": {
+            "text": "Benutzer m\u00fcssen auf der Seite mit diesem Feld auch die Berechtigungen zum Ansehen oder Bearbeiten haben, bevor diese Berechtigung angewendet werden kann."
+        },
+        "8a643d587e2bf89aa615d22c5e9efa6a": {
+            "text": "Zugriff auf Wert des Feldes \u00fcber die API erlauben, selbst wenn es nicht sichtbar ist (siehe unten)*"
+        },
+        "517e6c314a1ee61caa35000768dca057": {
+            "text": "Wenn ein Feld nicht sichtbar ist (im Frontend mit aktiver Ausgabe-Formatierung), gibt der $page->%s Wert eine leere Version des erwarteten Typs aus. Dies verhindert, dass der Wert angezeigt wird."
+        },
+        "5dab87f5242c802765e397e82db0840b": {
+            "text": "Markieren Sie die obere Box um dieses Verhalten umgehen. Damit kann immer per API auf den Wert zugegriffen werden. Dies \u00fcberl\u00e4sst Ihnen jede \u00dcberpr\u00fcfung von Zugriffen."
+        },
+        "d96a1b8071d5f5f8eb8bc96839d85407": {
+            "text": "Sie k\u00f6nnen die Berechtigung, zum Ansehen f\u00fcr dieses Feld, mit der API so pr\u00fcfen:"
+        },
+        "71f8bd77c0780518e62960d62ebd72bd": {
+            "text": "Kontext \u00fcberschreiben entfent"
+        },
+        "b98e1358fd47b54afceecd12ace8e18c": {
+            "text": "Die folgenden Einstellungen f\u00fcr dieses Feld sind \u00fcberschrieben durch angegebene(s) Template(s). Markieren Sie die Box rechts von der Zeile um die \u00fcberschriebene Einstellung zu entfernen (stellt original Wert wieder her)."
+        },
+        "62d09c342e50351059153e99a2fdbb47": {
+            "text": "Zum bearbeiten einer \u00dcberschreib-Einstellung oder \u00fcberschreiben anderer Einstellungen, ein Template bearbeiten und in der Feld-Liste den Feld-Namen anklicken."
+        },
+        "2452cab12330c0a3ce62f7974eb82ba6": {
+            "text": "Entfernt \u00dcberschreibungen im Kontext"
+        },
+        "7ce33a363647f83aa612fc538dcb8214": {
+            "text": "Die folgenden Einstellungen \u00fcberschreiben die originalen Einstellungen des Feldes wenn dieses Feld im Kontext zum \"%s\" Template verwendet wird."
+        },
+        "b5781496c3e514537473d4edd038152a": {
+            "text": "Um beliebige \u00fcberschriebene Werte zu entfernen (und den originalen Feld-Wert wieder herzustellen) markieren Sie die Box rechts neben jeder Einstellung, welche entfernt\/wieder hergestellt werden soll."
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "="
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "="
+        },
+        "0b6c421579ca54de1ee2d79df5df6f05": {
+            "text": "="
+        },
+        "83cfa166d441c1b47108e5d6b3f21cbe": {
+            "text": "="
+        },
+        "b342aa8cb5e92300b8b0bda3eaf8076d": {
+            "text": "="
+        },
+        "678cad4866392ed0961cbce7d6ff550d": {
+            "text": "="
+        },
+        "f1cb39a9250fe6002851375559d8bd85": {
+            "text": "="
+        },
+        "7f8ceb624f94b152f89f7bfd06a2dff2": {
+            "text": "="
+        },
+        "7facb165145d489aeaa6743a6f9f1f55": {
+            "text": "="
+        },
+        "0e26a613a19dbe1752912c253f5b2e37": {
+            "text": "="
+        },
+        "0e6b389782e160492d4fe3a397e392df": {
+            "text": "="
+        },
+        "47ee982b17f699a3dffff43c76df78ec": {
+            "text": "="
         }
     }
 }

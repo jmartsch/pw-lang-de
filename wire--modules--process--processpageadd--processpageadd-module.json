@@ -58,6 +58,27 @@
         },
         "30269022e9d8f51beaabb52e5d0de2b7": {
             "text": "Elternseite"
+        },
+        "b0324fdebb63032317bba7c66bff89fc": {
+            "text": "Im Moment gibt es keine Templates mit definierten Eltern\/Kind Beziehungen um hier den \"Neu hinzuf\u00fcgen\" Shortcut anzuzeigen. Um dies zu konfigurieren, ein beliebiges Template (Verwaltung > Templates) bearbeiten und auf den \"Familie\" Tab klicken."
+        },
+        "e0f8c45404ac3252900cc035530cd905": {
+            "text": "Sortierreihenfolge des Template Shortcuts"
+        },
+        "557335482992652fdefe6cc17332688f": {
+            "text": "Um Templates f\u00fcr diese Shortcuts hinzuzuf\u00fcgen oder zu entfernen, bitte unter den Template-Einstellungen im Familie-Tab schauen."
+        },
+        "a713b3cf3828f00d541e6ae14b294a8f": {
+            "text": "Die von Ihnen oben gew\u00e4hlten Seiten repr\u00e4sentieren Lesezeichen zu den Elternseiten, wo Sie Kindseiten hinzuf\u00fcgen wollen. Bitte beachten: falls ein Benutzer keine Berechtigung hat, um eine Seite zu einer gegebenen Elternseite hinzuzuf\u00fcgen (sei es durch Berechtigungen oder Einstellungen der Template Familie), wird das Lesezeichen nicht erscheinen."
+        },
+        "94eef4670f102676a952d0989f852649": {
+            "text": "Zum \u00c4ndern der Reihenfolge der \"Neu hinzuf\u00fcgen\" Seiten-Template Shortcuts die Optionen per Drag and Drop in die gew\u00fcnschte Reihenfolge verschieben."
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "="
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "="
         }
     }
 }

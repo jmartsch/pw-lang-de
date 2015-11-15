@@ -10,6 +10,15 @@
         },
         "e3087085dad248ad622f15449dc45832": {
             "text": "Hiermit k\u00f6nnen Sie ein System-Update wiederholen durch reduzieren der Versionsnummer."
+        },
+        "d7e351389cfa8187fc844808c5d524e7": {
+            "text": "\u00c4nderung der Core-Version %1$s => %2$s festgestellt"
+        },
+        "2bb01c9e5f493e464bae4f127ac24891": {
+            "text": "System Update Protokoll"
+        },
+        "83d345108e3c4ebe46ec3d2de0b7e463": {
+            "text": "="
         }
     }
 }
