@@ -13,6 +13,9 @@
         },
         "9d250aded0473671ec3f113407f9809c": {
             "text": "Geben Sie den Ersatzwert ein, welcher angewendet wird wenn ein Benutzer in einem Seiten-Name Feld Zeichen eingibt. Einen Ersatz pro Zeile im key=value Format eingeben. Dies bedeutet, Sie geben auf jeder neuen Zeile das zu ersetzende Zeichen ein, gefolgt von einem Gleichheitszeichen '=' und den gew\u00fcnschten ASCII Zeichen."
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "="
         }
     }
 }

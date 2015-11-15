@@ -196,6 +196,18 @@
         },
         "30b78fb546fe9686f84a740a5e5524a3": {
             "text": "Name der Seiten-URL ge\u00e4ndert auf \"%s\" weil der gew\u00fcnschte Name bereits vergeben ist."
+        },
+        "0b7b79dc6ffa228f9e59cecc61c4efb6": {
+            "text": "Ver\u00f6ffentlicht am %s"
+        },
+        "e76ea9d62d4a434a98238f3ec7932075": {
+            "text": "alle"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "="
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "="
         }
     }
 }

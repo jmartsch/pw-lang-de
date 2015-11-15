@@ -22,6 +22,12 @@
         },
         "dce91550511a9cfef6fe1bc4d2e93b1b": {
             "text": "Nein - Leer und 0 haben unterschiedliche Bedeutung"
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Standardwert"
+        },
+        "40adc22d3ad8d2d7a5e2b17a44ac2658": {
+            "text": "Dieser Wert wird diesem Feld als Standard auf neu erstellten Seiten zugewiesen. Existierende Seiten werden davon nicht beeinflusst."
         }
     }
 }

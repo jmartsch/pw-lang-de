@@ -31,6 +31,24 @@
         },
         "004d36e4fa95eec8357b066aa20e9d8d": {
             "text": "Festgelegter Wert %3$s entfernt weil au\u00dferhalb des Wertebereiches (min=%1$s, max=%2$s)"
+        },
+        "3a5dcb943d6bc607c6b2658350526bc5": {
+            "text": "Anfangswert"
+        },
+        "6b2dbf9c383cf3fcf4cc27147020c3b5": {
+            "text": "Initial zugewiesener Wert."
+        },
+        "342fcaf76020389954d449ceec0a8a80": {
+            "text": "="
+        },
+        "96f5f93890f61d6ff4c07e2883833d72": {
+            "text": "="
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "="
+        },
+        "a0faef0851b4294c06f2b94bb1cb2044": {
+            "text": "="
         }
     }
 }

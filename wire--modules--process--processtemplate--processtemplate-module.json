@@ -368,9 +368,6 @@
         "225237dc381e612f4bbf08dd75efdb71": {
             "text": "Auf eine andere URL umleiten"
         },
-        "6b01f3d73dbcea918c2e08424f41c87c": {
-            "text": "Geben Sie die URL an, auf die umgeleitet werden soll, falls ein Benutzer keine Zugriffsrechte hat."
-        },
         "b12715241d6f9d36629e189651930f08": {
             "text": "Dieses Feld ist nur relevant, falls Sie oben \"Auf eine andere URL umleiten\" gew\u00e4hlt haben."
         },
@@ -560,9 +557,6 @@
         "0f12f2b440ad104a1ee7cb027aba8b18": {
             "text": "Templates hinzuf\u00fcgen"
         },
-        "adf92855ccc9fe04707fd12688a17c59": {
-            "text": "Dieses Template wird von einer Seite verwendet"
-        },
         "d26c2f7eb253b0202c2769f3dd232d96": {
             "text": "Dieses Template wird von %d Seiten verwendet"
         },
@@ -638,12 +632,6 @@
         "b14d306525e8d6e9927d577a59064048": {
             "text": "2. Das gew\u00e4hlte Eltern-Template muss dieses Template als ein f\u00fcr Unterseiten erlaubtes definiert haben."
         },
-        "b31e82dcc61dd6ba650389f38c6e154e": {
-            "text": "3. Es kann nur eine Instanz einer Seite dieses Eltern-Template im System nutzen."
-        },
-        "487b2fe79edc18261ed2e37e657c0b58": {
-            "text": "4. Das Admin-Theme muss dieses Feature unterst\u00fctzen."
-        },
         "bd1ab8d7a2147046de89d54d6d03f39d": {
             "text": "System"
         },
@@ -652,9 +640,6 @@
         },
         "ce74097d91e1181f033e39e38736dd5a": {
             "text": "Cache"
-        },
-        "75b29cfc6e6beeb50a4e6b005ee2cab1": {
-            "text": "Sie k\u00f6nnen auch einen [Symbol-Name](http:\/\/fontawesome.io\/cheatsheet\/) eintragen, zum Beispiel: icon-file oder fa-file (beide Formate funktionieren)."
         },
         "8a08c3b7f2922be4ad8e59744781b796": {
             "text": "Format des Seiten-Name"
@@ -673,9 +658,6 @@
         },
         "92fe79a8aa59b037f5f6e2b43f89fea8": {
             "text": "Namensformat f\u00fcr Unterseiten"
-        },
-        "27dd547b53bb1b3c67c345f984747010": {
-            "text": "Zum deaktivieren leer lassen. Geben Sie \"title\" (ohne Anf\u00fchrungszeichen) ein zur automatischen Generierung des Namens vom Titel der Seite. Weitere Optionen mit Datumsformaten sind ebenfalls m\u00f6glich. [Mehr](http:\/\/processwire.com\/api\/modules\/process-template\/)"
         },
         "5cf485ae4559df60232a5ff0f87783cb": {
             "text": "Legen Sie optional ein Format f\u00fcr die Seiten-Namen bei neu hinzugef\u00fcgten Unterseiten fest. Dies erm\u00f6glicht den Schritt \"Seite hinzuf\u00fcgen\" zu \u00fcberspringen. Voraussetzung ist, dass ein (1) einziges Template oben unter \"Erlaubte Template(s) f\u00fcr Unterseiten\" ausgew\u00e4hlt wird."
@@ -802,6 +784,153 @@
         },
         "6540057c786960e596930c3041771293": {
             "text": "Um mehr Content-Types hinzuzuf\u00fcgen, schauen Sie unter *contentTypes* in \/wire\/config.php nach (und tragen diese unter \/site\/config.php ein)."
+        },
+        "fc5817e1bd14f3acbf2266635b0e30ed": {
+            "text": "Um den Cache bei vorhandenen Variablen zu deaktivieren, einfach einen Asterisk * eingeben (empfohlen)"
+        },
+        "9a4127b29b0b6c40638af21074829f0e": {
+            "text": "Sie k\u00f6nnen auch ihr eigenes Format (und jede zus\u00e4tzliche Interpunktion\/Zeichen) verwenden durch festlegen der Feldnamen in Klammern, z.B. {name}, {categories.title}, usw."
+        },
+        "9c16eb3042fbf6c2b73a21dea122d19e": {
+            "text": "Um die Eigenschaft eines Feldes festzulegen, umschliessen Sie es mit Klammern und geben {field_name.property} ein, zum Beispiel {categories.title}."
+        },
+        "5124b02da7ffa5ef666dc8bde11cd10d": {
+            "text": "Entweder \/ spielt keine Rolle"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Deaktiviert"
+        },
+        "399c72ebbb8b618eeb11aab334a88369": {
+            "text": "Aktiviert (Template Cache)"
+        },
+        "6d490a96685b13339b51530ee05a7c9a": {
+            "text": "Aktiviert (ProCache, hier konfiguriert)"
+        },
+        "404deca0459b84d7308fb7c434301657": {
+            "text": "Seiten, welche dieses Template nutzen, werden zurzeit in ProCache gecached, aber direkt \u00fcber ProCache konfiguriert. Um die ProCache Einstellungen f\u00fcr dieses Template zu konfigurieren, die obere ProCache Option ausw\u00e4hlen."
+        },
+        "fb72654fb51cb493c6d0123505d9e596": {
+            "text": "Sollen URLs mit Seitennummern einen Schr\u00e4gstrich haben?"
+        },
+        "bbd5238aeedba403b7977656d2f132fc": {
+            "text": "Sollen URL-Segmente mit einem Schr\u00e4gstrich enden?"
+        },
+        "4a49f761ce504d9c073de20eba6ca069": {
+            "text": "Optional das Label f\u00fcr die Eigenschaft vom \"Name\" (Standard) \u00fcberschreiben."
+        },
+        "57f844c4a5ccb54207fa22705e7729a3": {
+            "text": "Geben Sie die URL oder Seiten-ID an, auf die umgeleitet werden soll, falls ein Benutzer keine Zugriffsrechte hat."
+        },
+        "13138fdee141d39a065f3fe82c0e0676": {
+            "text": "Label f\u00fcr Eigenschaft des Seitenname"
+        },
+        "c64518704ce0c0d5501a45763f464276": {
+            "text": "Nutzung"
+        },
+        "06c2cea18679d64399783748fa367bdd": {
+            "text": "Eins"
+        },
+        "b4a25e0860ab98f8476c6339abbb773b": {
+            "text": "nicht mehr erlaubt"
+        },
+        "ad1d924dc261c8945b07d271c9cd5888": {
+            "text": "Mit %s gekennzeichnete Templates m\u00fcssen ebenfalls konfiguriert werden um dieses Template als Elternseite zu erlauben. Klicken Sie auf ein beliebiges Template als Shortcut zur Konfiguration der erlaubten Elternseiten."
+        },
+        "81d8cfa67d7f3fa526cff71bd27238c5": {
+            "text": "Mit %s gekennzeichnete Templates sind bereits konfiguriert um dieses Template als Elternseite zu erlauben."
+        },
+        "fb3f093ab0572a059120f2c7c680da3c": {
+            "text": "Mit %s gekennzeichnete Templates m\u00fcssen ebenfalls konfiguriert werden um dieses Template f\u00fcr Kindseiten zu erlauben. Klicken Sie auf ein beliebiges Template als Shortcut zur Konfiguration der erlaubten Kindseiten."
+        },
+        "173fc4509c54323d4c0da3ffea41742c": {
+            "text": "Mit %s gekennzeichnete Templates sind bereits konfiguriert um dieses Template f\u00fcr Kindseiten zu erlauben."
+        },
+        "860024d803b29185e2cb90399cc73599": {
+            "text": "Dieses Template wird von %d Seite verwendet"
+        },
+        "9fa7e7b76dafb5ffcb0b9bfbba9a65fd": {
+            "text": "%d Seite"
+        },
+        "207ab96f9895f87f78f6c6162f323a4f": {
+            "text": "%d Seiten"
+        },
+        "9351544406147e2f9a081ce279e7f687": {
+            "text": "Um die Reihenfolge der Templates im Shortcut Men\u00fc zu bearbeiten, bitte in den [PageAdd Moduleinstellungen](%s) nachsehen."
+        },
+        "8b961334d86b2e4afdb29a825b7537f5": {
+            "text": "Hinweis: die Optionen bearbeiten\/anlegen\/hinzuf\u00fcgen sind deaktiviert f\u00fcr Benutzerrollen, welche derzeit keine page-edit Berechtigung haben."
+        },
+        "34aeb942ccc5860ae5af2885bf346a5d": {
+            "text": "Zus\u00e4tzliche Berechtigungen zum Bearbeiten und \u00dcberschreibungen"
+        },
+        "a1066ecb03f6d2dfa02c658ba45dc08a": {
+            "text": "Berechtigung zu Benutzerrolle hinzuf\u00fcgen"
+        },
+        "3d7582ad0b178e43f075e25248efdc12": {
+            "text": "Berechtigung zu Benutzerrolle zur\u00fcck nehmen"
+        },
+        "ba9f2559a3fd0e360488de130ff7ab73": {
+            "text": "Erlaube Vererbung des Zugriffs zum Bearbeiten an Kindseiten?"
+        },
+        "ef4a1860dd8847a43619b6ca5f26e638": {
+            "text": "Standardm\u00e4\u00dfig werden alle Einstellungen des Zugriffs f\u00fcr dieses Template durch den Seitenbaum vererbt, bis eine Seite mit einem anderen Template mit anderen Zugriffen dies \u00fcberschreibt."
+        },
+        "6aee0c8c870a84f930c97c2eb1427c8d": {
+            "text": "W\u00e4hlen Sie hier die Option \"Nein\", wenn das Vererben des Zugriffs zum Bearbeiten zwischen den Seiten, welche dieses Template nutzen, verhindert werden soll. Der Zugriff zum Ansehen wird weiterhin vererbt."
+        },
+        "2678dd0fb63b2adfb38fe14f66d6c6b5": {
+            "text": "Erlaube Vererbung des Zugriffs zum Bearbeiten an Kindseiten, welche nicht durch Zugriff kontrolliert werden."
+        },
+        "1dee747820c27fbdc81384045a54c8c3": {
+            "text": "Nur Seiten mit diesem Template den Zugriff zum Bearbeiten gew\u00e4hren."
+        },
+        "b50d7f1673d8d8694f84094c093718df": {
+            "text": "Optionen werden im Format \"role: permission\" angezeigt. Beschreibungen zu den jeweiligen Berechtigungen finden Sie in der [Referenz](%s)."
+        },
+        "5cd4a0ea4859ae8a1371ded392cfff3b": {
+            "text": "Wahlweise Berechtigungen f\u00fcr Benutzerrollen, welche durch eine Seite mit diesem Template angefordert werden (oder den Zugriff geerbt haben), hinzuf\u00fcgen oder zur\u00fccknehmen."
+        },
+        "f0ec91a2ccc29fee4de702e940b186a8": {
+            "text": "Die hier verf\u00fcgbaren Optionen sind festgelegt durch Ihre obige Auswahl f\u00fcr \"Seiten bearbeiten\". Daher sollten Sie dieses Template erst speichern und dann, nach den \u00c4nderungen der Rollen oben unter \"Seiten bearbeiten\", hierher zur\u00fcckkehren."
+        },
+        "975bafff7904e0b6768fc9b2d0a11829": {
+            "text": "Zum deaktivieren leer lassen. Geben Sie \"title\" (ohne Anf\u00fchrungszeichen) ein zur automatischen Generierung des Namens vom Titel der Seite. Weitere Optionen mit Datumsformaten sind ebenfalls m\u00f6glich. [Mehr](https:\/\/processwire.com\/api\/modules\/process-template\/)"
+        },
+        "c5abeb6189c82d5b9d81bbcac604408b": {
+            "text": "="
+        },
+        "9278bd133a7f5cd50f24a5a253f8ac9b": {
+            "text": "="
+        },
+        "dc105ac52c237f9f09c74b0767f64f74": {
+            "text": "="
+        },
+        "7df96b18c230f90ada0a9e2307226338": {
+            "text": "="
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "="
+        },
+        "2da33125162e59b2ff307fb050040ead": {
+            "text": "="
+        },
+        "0934f0c8ef59c46cd3f23477dc242642": {
+            "text": "="
+        },
+        "2b76a5ea71d797b2e9b2b4a0c0eeaf29": {
+            "text": "="
+        },
+        "21ddd66d87bebbaaf6bba5319e5b7f97": {
+            "text": "="
+        },
+        "ff2e33d2066471fd192bf41c39322cd1": {
+            "text": "="
+        },
+        "08b4ed72628b718cbe3158eb2eaf10a2": {
+            "text": "="
+        },
+        "2a138a3c1a54958a39f65b80e666b643": {
+            "text": "="
         }
     }
 }

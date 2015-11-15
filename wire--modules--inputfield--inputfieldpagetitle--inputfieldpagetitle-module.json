@@ -4,6 +4,9 @@
     "translations": {
         "dc643f0a55e724a742f7bcc43fa5b84e": {
             "text": "Verwaltet die Eingabe des Seitentitels und automatische Erstellung des Seitennamens (wenn Name leer ist)"
+        },
+        "2864512e4161ae21b145798e32938abf": {
+            "text": "="
         }
     }
 }

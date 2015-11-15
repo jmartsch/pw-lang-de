@@ -122,9 +122,6 @@
         "d388632d05e8826abe4b95de0b110529": {
             "text": "Zuschneiden"
         },
-        "adf1ab3ee834260ba6338ab9c84345ce": {
-            "text": "Zuschnitt speichern"
-        },
         "2c968d3065f948e7d3e6086c46fdcb68": {
             "text": "Maximieren\/volle Breite"
         },
@@ -202,6 +199,15 @@
         },
         "8373d2f18e29920f78459f34d71040ad": {
             "text": "Vertikal kippen"
+        },
+        "9639e32cab248434a17ab32237cb3b71": {
+            "text": "Anwenden"
+        },
+        "f586a5b42bcd327bea09641d0ac4a06a": {
+            "text": "="
+        },
+        "4e5c9b873df1e8716656250c63342361": {
+            "text": "="
         }
     }
 }

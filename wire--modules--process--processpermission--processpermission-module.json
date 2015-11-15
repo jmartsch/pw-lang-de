@@ -1,12 +1,27 @@
 {
-   "file":"wire\/modules\/Process\/ProcessPermission\/ProcessPermission.module",
-   "textdomain":"wire--modules--process--processpermission--processpermission-module",
-   "translations":{
-      "175111b089b0e62fbde2b5344f2a547f":{
-         "text":"System-Berechtigungen verwalten"
-      },
-      "d08ccf52b4cdd08e41cfb99ec42e0b29":{
-         "text":"Berechtigungen"
-      }
-   }
+    "file": "wire\/modules\/Process\/ProcessPermission\/ProcessPermission.module",
+    "textdomain": "wire--modules--process--processpermission--processpermission-module",
+    "translations": {
+        "175111b089b0e62fbde2b5344f2a547f": {
+            "text": "System-Berechtigungen verwalten"
+        },
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Berechtigungen"
+        },
+        "179e210d56ed91c1da0ac7cff7234b21": {
+            "text": "Vordefinierte System-Berechtigungen installieren"
+        },
+        "f6a3c2ccb1bf0db768a1e710b1bb4b8f": {
+            "text": "Zur Installation markieren Sie die Box neben der jeweiligen optionalen Berechtigung"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Installieren"
+        },
+        "934d155461a5e54ed0cfed45b64272ed": {
+            "text": "Neue eigene Berechtigung hinzuf\u00fcgen"
+        },
+        "baa866af125aefed417409d878f6d013": {
+            "text": "Optionale Berechtigung hinzugef\u00fcgt: %s"
+        }
+    }
 }

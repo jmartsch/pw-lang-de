@@ -56,15 +56,6 @@
         "e4ef81cce7e4e10033ebb10962dfdd5e": {
             "text": "Leer"
         },
-        "de95b43bceeb4b998aed4aed5cef1ae7": {
-            "text": "bearbeiten"
-        },
-        "1bda80f2be4d3658e0baa43fbe7ae8c1": {
-            "text": "anzeigen"
-        },
-        "22af645d1859cb5ca6da0c484f1f37ea": {
-            "text": "neu"
-        },
         "a5158728109d8e67ae31b7b02bdc8b86": {
             "text": "%1$d bis %2$d von %3$d"
         },
@@ -103,6 +94,24 @@
         },
         "d77a4f65dfe38bdbb76371048e3ae9ea": {
             "text": "Filter und Spalten auf Standard zur\u00fccksetzen"
+        },
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Lesezeichen"
+        },
+        "9b9d8a976b42e0bd66381797644943d5": {
+            "text": "Ver\u00f6ffentlicht"
+        },
+        "7ffc4d510260a8544e5550e62ec56bc1": {
+            "text": "="
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "="
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "="
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "="
         }
     }
 }

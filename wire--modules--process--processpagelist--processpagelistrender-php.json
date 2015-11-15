@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageListRender.php",
+    "textdomain": "wire--modules--process--processpagelist--processpagelistrender-php",
+    "translations": {
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Bearbeiten"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Anzeigen"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "Neu"
+        },
+        "6bc362dbf494c61ea117fe3c71ca48a5": {
+            "text": "Bewegen"
+        },
+        "ce2c8aed9c2fa0cfbed56cbda4d8bf07": {
+            "text": "Leeren"
+        },
+        "a29bdd003ef6c0c34279807341f450f2": {
+            "text": "Ver\u00f6ffentlichen"
+        },
+        "f40271af9378ba3b92b006eb2f2441bb": {
+            "text": "Nicht ver\u00f6ffentlichen"
+        },
+        "62a5e490880a92eef74f167d9dc6dca0": {
+            "text": "Verstecken"
+        },
+        "c41263e9868393a11717a8fd89de95f8": {
+            "text": "Nicht verstecken"
+        },
+        "b485167c5b0e59d47009a16f90fe2659": {
+            "text": "Sperren"
+        },
+        "7e7123b0d269ad5d9ec8d12c52a8ed8a": {
+            "text": "Entsperren"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Papierkorb"
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "Wieder herstellen"
+        }
+    }
+}

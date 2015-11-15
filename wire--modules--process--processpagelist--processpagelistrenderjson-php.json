@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageListRenderJSON.php",
+    "textdomain": "wire--modules--process--processpagelist--processpagelistrenderjson-php",
+    "translations": {
+        "de306d89ec101aba6fb73c6879710e6c": {
+            "text": "404 Seite nicht gefunden"
+        },
+        "f413b7eb4ef50a382b0fe0cfe04fdc30": {
+            "text": "Papierkorb offen: Seiten hierher verschieben um sie wegzuwerfen"
+        },
+        "e3afed0047b08059d0fada10f400c1e5": {
+            "text": "="
+        }
+    }
+}

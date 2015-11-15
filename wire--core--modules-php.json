@@ -28,6 +28,24 @@
         },
         "de7a358da1292f56861c726d3c860dc0": {
             "text": "Ben\u00f6tigtes Modul kann nicht installiert werden"
+        },
+        "3ba3666c48feabf2f2506e1f835ea92e": {
+            "text": "Aktualisiere Modul"
+        },
+        "edf71dd6396541cf37f54bf079e21006": {
+            "text": "%d neues Modul gefunden: %s"
+        },
+        "8d36abbc1aa8f167970999175380a355": {
+            "text": "%d neue Module gefunden: %s"
+        },
+        "f0116bd76230140a92cbd37cc524488e": {
+            "text": "wird beim n\u00e4chsten Laden des jeweiligen Moduls angewendet"
+        },
+        "99cf7718c48f783d19e8c8b463a6e704": {
+            "text": "Neue Version von %d Modul gefunden"
+        },
+        "7cbf3b34133e54263a1242eb74a5008e": {
+            "text": "Neue Versionen von %d Modulen gefunden"
         }
     }
 }

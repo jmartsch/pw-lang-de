@@ -28,6 +28,9 @@
         },
         "1d4b3399eb44d29f0188147089a9fb8a": {
             "text": "Falls gew\u00e4hlt, wird der Wert des Feldes eine aktuelle Instanz des ausgew\u00e4hlten Moduls sein. Falls nicht gew\u00e4hlt, wird der Wert des Feldes ein String mit dem Klassen Name des Moduls sein."
+        },
+        "d5a4c326398e96cdf97b6d4a3cc300c1": {
+            "text": "="
         }
     }
 }

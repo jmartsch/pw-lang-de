@@ -2,9 +2,6 @@
     "file": "wire\/modules\/Process\/ProcessPageTrash.module",
     "textdomain": "wire--modules--process--processpagetrash-module",
     "translations": {
-        "90e829a463f2e23bdd11a7d8dddabe7e": {
-            "text": "Der Papierkorb wurde geleert"
-        },
         "2f8f6dfb12d1ccfb64a4bc419130dd5a": {
             "text": "Der Papierkorb ist leer"
         },
@@ -25,6 +22,18 @@
         },
         "1012544490a2eae7e9782116062941b6": {
             "text": "Falls zuviele Elemente im Papierkorb sind m\u00fcssen Sie diesen eventuell mehrmals leeren."
+        },
+        "671ad2168f66a9b66f8d97c8a4ad2794": {
+            "text": "Der Papierkorb wurde geleert"
+        },
+        "de1fd0d21eb1f64deec95ed694fffed0": {
+            "text": "Es konnten nicht alle Seiten gel\u00f6scht werden"
+        },
+        "7c9ca1a0395393577cf4cf3f3e7f0b8d": {
+            "text": "(%d Seite)"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "(%d Seiten)"
         }
     }
 }

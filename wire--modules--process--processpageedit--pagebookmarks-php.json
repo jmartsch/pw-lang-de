@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/PageBookmarks.php",
+    "textdomain": "wire--modules--process--processpageedit--pagebookmarks-php",
+    "translations": {
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Lesezeichen"
+        },
+        "d0b0f5485a703781d56c4c55bdce4da7": {
+            "text": "Lesezeichen bearbeiten"
+        },
+        "a181a603769c1f98ad927e7367c7aa51": {
+            "text": "alle"
+        },
+        "e0748a9891a21b21d3c6f6376ab12f8f": {
+            "text": "Im Moment sind keine Lesezeichen festgelegt"
+        },
+        "ed881bac6397ede33c0a285c9f50bb83": {
+            "text": "jeder"
+        },
+        "d5a8dcb24e93ee00847e32750d56eca5": {
+            "text": "Lesezeichen f\u00fcr: %s"
+        },
+        "9a013ed2472d5e17678963b8a653a0ac": {
+            "text": "%s Lesezeichen Editor"
+        },
+        "cfbe50a1f9e891f884e3e6318d635a89": {
+            "text": "Bitte beachten: nur Superuser k\u00f6nnen diesen Editor sehen."
+        },
+        "7317631eaad804856acd03ce85bd8ef7": {
+            "text": "Lesezeichen hinzuf\u00fcgen"
+        },
+        "1aaddfb42057a3f42fbd26b95d3b9c78": {
+            "text": "Klicken Sie unten auf \"Lesezeichen hinzuf\u00fcgen\" um Seite(n) als Lesezeichen hinzuzuf\u00fcgen. Falls Lesezeichen nur f\u00fcr bestimmte Benutzerrollen angezeigt werden sollen, w\u00e4hlen Sie oben zuerst die Rolle aus."
+        },
+        "09c3829dccd8e7db10887f1ec26c7431": {
+            "text": "Lesezeichen gespeichert"
+        }
+    }
+}

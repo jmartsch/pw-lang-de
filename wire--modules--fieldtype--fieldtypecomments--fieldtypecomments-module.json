@@ -214,6 +214,27 @@
         },
         "be4676f05d7147b99e5addd2b27b6889": {
             "text": "4. Geben Sie \/pfad\/zur\/seite:email ein, um die E-Mail Adresse aus dem Pfad und eines Feldnamens einer vorhandenen Seite auszulesen. Ersetzen Sie \"\/pfad\/zur\/seite\" mit dem korrekten Pfad und \"email\" mit dem Namen des Feldes welches die E-Mail Adresse enth\u00e4lt."
+        },
+        "40e8db84e220fe9c816eb334d1b42a70": {
+            "text": "Mit Sternen bewerten?"
+        },
+        "00837cdf48d92331ec9c355847ed9ef5": {
+            "text": "Bewertung mit Sternen erm\u00f6glicht dem Kommentierenden das betreffende Thema auf einer Skala von 1 bis 5 Sternen zu bewerten."
+        },
+        "924daa0b046449bd4fb99af3c97b5f2b": {
+            "text": "\u00c4nderung der Ausgabe des Standard-Sterns (HTML kann auch verwendet werden):"
+        },
+        "359310b90581d6b9baa3cdccc10607b2": {
+            "text": "Ja (optional mit Sternen bewerten)"
+        },
+        "806e88271605e15a20e9d6d47673f42e": {
+            "text": "Ja (mit Sternen bewerten ist Pflicht)"
+        },
+        "1f2f44c370f66e4d06d25042e93e39c1": {
+            "text": "Deaktiviert"
+        },
+        "e9dfd31cc505d51fc26975250750deab": {
+            "text": "="
         }
     }
 }

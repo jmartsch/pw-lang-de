@@ -1,12 +1,15 @@
 {
-   "file":"wire\/modules\/Inputfield\/InputfieldName.module",
-   "textdomain":"wire--modules--inputfield--inputfieldname-module",
-   "translations":{
-      "05241f55e363027bb20f4669d784c28e":{
-         "text":"Jede Kombination aus Buchstaben (a-z), Zahlen (0-9) und Unterstrich(en) (keine Leerzeichen)."
-      },
-      "e5e43bcb90e7ae502c28ecb1089b3aa7":{
-         "text":"Texteingabe, die als Namensfeld in ProcessWire g\u00fcltig ist"
-      }
-   }
+    "file": "wire\/modules\/Inputfield\/InputfieldName.module",
+    "textdomain": "wire--modules--inputfield--inputfieldname-module",
+    "translations": {
+        "05241f55e363027bb20f4669d784c28e": {
+            "text": "Jede Kombination aus Buchstaben (a-z), Zahlen (0-9) und Unterstrich(en) (keine Leerzeichen)."
+        },
+        "e5e43bcb90e7ae502c28ecb1089b3aa7": {
+            "text": "Texteingabe, die als Namensfeld in ProcessWire g\u00fcltig ist"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "="
+        }
+    }
 }

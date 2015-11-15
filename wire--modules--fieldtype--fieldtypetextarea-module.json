@@ -3,13 +3,13 @@
     "textdomain": "wire--modules--fieldtype--fieldtypetextarea-module",
     "translations": {
         "00f6c76a7a83b1d7aab61a93e513e9d5": {
-            "text": "Eingabefeldtyp"
+            "text": "Eingabefeld Typ"
         },
         "88183b946cc5f0e8c96b2e66e1c74a7e": {
             "text": "Unbekannt"
         },
         "127852afa67b41673ab8ea17b383847c": {
-            "text": "Dieser Feldtyp bestimmt das Aussehen und die Funktionen des Eingabefelds (Textarea ist Standard). Hinweis: falls Sie dies \u00e4ndern und best\u00e4tigen, k\u00f6nnen sich auch die m\u00f6glichen Optionen im Register \u201EEingabe\u201C \u00e4ndern."
+            "text": "Dieser Feldtyp wird genutzt um Eingaben zu sammeln (Textarea ist Standard). Hinweis: falls Sie dies \u00e4ndern und best\u00e4tigen, k\u00f6nnen sich auch die m\u00f6glichen Optionen in den Einstellungen des Eingabefeldes \u00e4ndern."
         },
         "2effa58f13159d138a634233e246713d": {
             "text": "Inhaltstyp"
@@ -18,7 +18,7 @@
             "text": "Markup\/HTML mit Bilder Verwaltung"
         },
         "6579c1fdbe94982347736ad47f0949cb": {
-            "text": "Markup\/HTML (optional mit Bilder-Verwaltung) wird f\u00fcr Felder empfohlen, die einen Rich Text Editor (TinyMCE, CKEditor, usw.) verwenden und HTML enthalten. Diese Option unterst\u00fctzt zus\u00e4tzliche Filterund zur Laufzeit."
+            "text": "Die Markup\/HTML Option (optional mit Bilder Verwaltung) wird empfohlen f\u00fcr Felder welche einen Rich Text Editor (TinyMCE, CKEditor, usw.) verwenden und HTML enthalten. Diese Option unterst\u00fctzt einen zus\u00e4tzlichen Filter zur Laufzeit."
         },
         "3e7a86573c428ffd2bf3145cea18514b": {
             "text": "Die Auswahl der Option \"Markup\/HTML mit Bilder Verwaltung\" f\u00fcgt folgende \u00dcberpr\u00fcfungen w\u00e4hrend der Laufzeit hinzu:"
@@ -37,6 +37,9 @@
         },
         "f49044eb0f5ff823c157a2feedf2b9f8": {
             "text": "Weitere Informationen zu den oben genannten Optionen finden Sie in der [Beschreibung f\u00fcr die Inhaltstypen](%s)."
+        },
+        "5d85f44b69f9d7e86c7f3f473f97f771": {
+            "text": "="
         }
     }
 }
