@@ -28,6 +28,24 @@
         },
         "e6b391a8d2c4d45902a23a8b6585703d": {
             "text": "="
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Ja"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nein"
+        },
+        "00b2e08d975238a3563e783aa19811fd": {
+            "text": "Erlaube internationalisierte Domain-Namen (IDNs)?"
+        },
+        "05e7ec04e65f559e191ad8a7c4a02b03": {
+            "text": "Wenn aktiviert, sind nicht-ASCII Domain-Namen erlaubt."
+        },
+        "e8e4b5ed6eb1c0a268c7587be6ca66e7": {
+            "text": "Erlaube einfache\/doppelte Anf\u00fchrungszeichen in URLs?"
+        },
+        "1b6f57a9eab52d70bc2fff5321da54fb": {
+            "text": "Wenn aktiviert, sollten Sie absolut sicher sein, dass die Entit\u00e4ten in solchen URLs kodiert sind, wenn sie im Markup verwendet werden."
         }
     }
 }
