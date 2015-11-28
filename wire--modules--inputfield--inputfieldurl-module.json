@@ -2,9 +2,6 @@
     "file": "wire\/modules\/Inputfield\/InputfieldURL.module",
     "textdomain": "wire--modules--inputfield--inputfieldurl-module",
     "translations": {
-        "961a0e7330169a0918a85c1086c4ff3a": {
-            "text": "Geben Sie eine g\u00fcltige URL ein, z.B.: http:\/\/www.domain.de\/dir\/"
-        },
         "34b4cb36f08c1d976a2e58d37d81ce49": {
             "text": "Beginnen Sie lokale URLs mit \"\/\" and lassen Sie den Teil \"%s\" weg."
         },

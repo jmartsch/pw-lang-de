@@ -227,9 +227,6 @@
         "4fd5d5323fc3d2535f351e46ba740d3c": {
             "text": "...und so weiter..."
         },
-        "a90c3a6bf539d90c6016413cddd2178c": {
-            "text": "Bitte Feld %s \u00fcberpr\u00fcfen"
-        },
         "bd5aef6293f875aa908466a69c08a14a": {
             "text": "Keine Probleme zu Feld %s gefunden"
         },
@@ -241,9 +238,6 @@
         },
         "292694f229d9162dd0a6510ff0745d4f": {
             "text": "%d verwaiste Tabellen-Zeilen entfernen?"
-        },
-        "afb5272a55f7eb214fd004a5becf2bb7": {
-            "text": "Wir haben Datenzeilen in der Tabelle zu diesem Feld gefunden, welche zu keiner Seite passen."
         },
         "011e30aea1ad8c8e81405e295f032cc8": {
             "text": "Daten des Feldes \u00fcberpr\u00fcfen"
@@ -562,6 +556,12 @@
         },
         "47ee982b17f699a3dffff43c76df78ec": {
             "text": "="
+        },
+        "d94836b689b2cd95f920084c5f27e770": {
+            "text": "Wir haben Datenzeilen in der Tabelle zu diesem Feld gefunden, welche zu keiner Seite passen oder auf Seiten verweisen, welche dieses Feld nicht haben."
+        },
+        "f46277b28f420e695210233a9f1401fc": {
+            "text": "Bitte f\u00fchren Sie \"Aktionen > Daten des Feldes \u00fcberpr\u00fcfen\" auf Feld %s durch"
         }
     }
 }
