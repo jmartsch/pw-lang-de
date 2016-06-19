@@ -15,7 +15,7 @@
             "text": "404 Seite nicht gefunden"
         },
         "926febaa3f486221378c09d2fb900eff": {
-            "text": "Benutzer Login Erfolg und Fehler"
+            "text": "Benutzer-Login Erfolg und Fehler"
         },
         "6d204ddabcf344603448790344217ec5": {
             "text": "Benutzer ausloggen"
@@ -30,19 +30,19 @@
             "text": "Wie oft auf aktualisierte Benachrichtigungen gepr\u00fcft werden soll (in Millisekunden). Beispiel: 5000 bedeutet 5 Sekunden."
         },
         "534fd46732986cba0efeda8701592427": {
-            "text": "Datum Format"
+            "text": "Datumsformat"
         },
         "414f2eb480e8f38b6f93f41ca28279fb": {
             "text": "Format des Datums in den Benachrichtigungen. Verwende das date() oder srftime() Format, oder \"relative\" f\u00fcr relative(s) Datum\/Zeit, \"rel\" f\u00fcr abgek\u00fcrzte(s) Datum\/Zeit."
         },
         "64a87d656e89eca4f73f4ecda74480f5": {
-            "text": "Nachrichten Symbol"
+            "text": "Nachrichten-Symbol"
         },
         "b454aae1916829fd90512b2c31a01e68": {
-            "text": "Warn Symbol"
+            "text": "Warn-Symbol"
         },
         "c59e636f1291af56f91d53c3a51ac8f8": {
-            "text": "Fehler Symbol"
+            "text": "Fehler-Symbol"
         },
         "b386baeabf452105b52ddd8a8dbebf1c": {
             "text": "Verz\u00f6gerung des Benachrichtigungs-Pop-up"

@@ -6,13 +6,13 @@
          "text":"Bitte warten Sie vor dem n\u00e4chsten Login-Versuch mindestens %d Sekunden."
       },
       "55c8511d5d205cbddcbc743e49a39100":{
-         "text":"Anzahl Sekunden, welche ein User abwarten muss nach einem fehlgeschlagenen Login Versuch"
+         "text":"Anzahl Sekunden, welche ein User abwarten muss nach einem fehlgeschlagenen Login-Versuch"
       },
       "ed6ad8c8924b2e836590cad9cc6c9328":{
          "text":"60=1 Minute, 300=5 Minuten, 600=10 Minuten, 3600=1 Stunde, 86400=1 Tag"
       },
       "2a5391490b60fb767804efa36b94d79c":{
-         "text":"Nach IP Adresse begrenzen?"
+         "text":"Nach IP-Adresse begrenzen?"
       },
       "0b9bd74be740fa049b1519ae3d14eff0":{
          "text":"Diese Anzahl wird mit der Menge der fehlgeschlagenen Versuche mulipliziert. Somit erh\u00f6ht jeder Fehlversuch die Wartezeit exponentiell. Daher sollte man vorsichtig sein und diesen Wert nicht zu hoch setzen."
@@ -21,10 +21,10 @@
          "text":"Weil sich die Wartezeit mit jedem Versuch exponentiell erh\u00f6ht, setzen Sie hiermit eine Obergrenze (Deckelung) der Wartezeit. Sie sollten diese Zahl ziemlich hoch setzen."
       },
       "8d6451e8c8b2f9d07c6a9701e270025a":{
-         "text":"Als Standard wird die Begrenzung nur \u00fcber den Benutzernamen gemacht. Wenn Sie diese Box markieren, wird die Begrenzung auch \u00fcber die IP Adresse vorgenommen. Wir empfehlen diese Option, wenn ihre Benutzer nicht \u00fcber eine gemeinsam genutzte IP-Adresse kommen."
+         "text":"Als Standard wird die Begrenzung nur \u00fcber den Benutzernamen gemacht. Wenn Sie diese Box markieren, wird die Begrenzung auch \u00fcber die IP-Adresse vorgenommen. Wir empfehlen diese Option, wenn ihre Benutzer nicht \u00fcber eine gemeinsam genutzte IP-Adresse kommen."
       },
       "9e72aded18bb6821af87ef367e7e002e":{
-         "text":"Maximale Anzahl Sekunden, welche ein User zu warten hat vor einem erneuten Login Versuch"
+         "text":"Maximale Anzahl Sekunden, welche ein User zu warten hat vor einem erneuten Login-Versuch"
       }
    }
 }

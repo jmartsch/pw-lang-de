@@ -9,25 +9,25 @@
             "text": "Seiten-Rendering"
         },
         "0c22fad509c478c3442a310a7a2b2c52": {
-            "text": "Seiten Render Cache l\u00f6schen?"
+            "text": "Seiten-Render-Cache l\u00f6schen?"
         },
         "403c89515b16b3417cd2e426612b4a53": {
-            "text": "%d Cache Dateien gel\u00f6scht f\u00fcr %d Seiten"
+            "text": "%d Cache-Dateien gel\u00f6scht f\u00fcr %d Seiten"
         },
         "b4999a543edcfefc8c56ed6eafdcb98f": {
             "text": "Zur Zeit sind %d Seiten gecached unter %s"
         },
         "af4137a5254dfe8654d87ff05286b80e": {
-            "text": "Cache Datei gel\u00f6scht:"
+            "text": "Cache-Datei gel\u00f6scht:"
         },
         "22a38306ce7556a0a5eeebca65cd9b58": {
             "text": "Seitencache f\u00fcr gesamte Site abgelaufen"
         },
         "b091c65f589c970f6084669796efb995": {
-            "text": "Cache Datei gel\u00f6scht: %s"
+            "text": "Cache-Datei gel\u00f6scht: %s"
         },
         "f3fbe32b9b2f8a4b6b3eecc5084e999c": {
-            "text": "Cache Datei f\u00fcr %d Seite(n) gel\u00f6scht"
+            "text": "Cache-Datei f\u00fcr %d Seite(n) gel\u00f6scht"
         }
     }
 }

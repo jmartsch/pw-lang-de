@@ -21,22 +21,22 @@
             "text": "Weiterleiten nach Ver\u00f6ffentlichung des Kommentars?"
         },
         "bf31492fe5d4821b483bc7cb8cfe07a3": {
-            "text": "Anzahl Tage nach welchen Spam gel\u00f6scht wird"
+            "text": "Anzahl Tage, nach denen Spam gel\u00f6scht wird"
         },
         "cba07fe99979c9f01d9c61a39aae3045": {
-            "text": "Website Feld in Kommentar Formular anzeigen?"
+            "text": "Website-Feld im Kommentarformular anzeigen?"
         },
         "bb28b3686215b773129c8259cf0e6525": {
             "text": "Wenn markiert, enth\u00e4lt das Formular auch ein Feld f\u00fcr die Website."
         },
         "0ad4c8b2b43eb0c8cfa21dd7571401b5": {
-            "text": "E-Mail Benachrichtigung auf Spam senden?"
+            "text": "E-Mail-Benachrichtigung auf Spam senden?"
         },
         "a4949d12f429ca4af2feb4e30c1e84e4": {
             "text": "Gravatar nutzen?"
         },
         "694c233e3c1cf5b97224bd5fcbebb340": {
-            "text": "Akismet Spam Filter nutzen?"
+            "text": "Akismet-Spam-Filter nutzen?"
         },
         "d3a76eec189143c6945282d37bd81bb5": {
             "text": "Nur Neue - Nur Kommentare von Nutzern ohne vorherige Best\u00e4tigung m\u00fcssen best\u00e4tigt werden"
@@ -54,19 +54,19 @@
             "text": "Wenn markiert, wird ProcessWire eine Weiterleitung (redirect) nach Ver\u00f6ffentlichung des Kommentars ausf\u00fchren, um doppelte Meldungen zu verhindern. Empfohlen."
         },
         "ec8fbd0794fa6fafb9061431f9bffa03": {
-            "text": "Wenn markiert, wird ProcessWire auch bei Spam eine E-Mail Benachrichtigung senden."
+            "text": "Wenn markiert, wird ProcessWire auch bei Spam eine E-Mail-Benachrichtigung senden."
         },
         "b70aad8c6cb77fde247be00630d7f5ef": {
             "text": "G: Geeignet f\u00fcr alle Webseiten bzw. Zielgruppen."
         },
         "e9f6051c655ca4a6773af3f2d8458815": {
-            "text": "Beschreibung der [Gravatar](https:\/\/en.gravatar.com\/site\/implement\/images\/) Bewertungen."
+            "text": "Beschreibung der [Gravatar-Bewertungen](https:\/\/en.gravatar.com\/site\/implement\/images\/)"
         },
         "13df57b389c6175fd742098a67385895": {
-            "text": "Dieser Service wird automatisch den meisten Spam identifizieren. Vor Verwendung bitte sicher stellen, dass ein Akismet Schl\u00fcssel unter Module > Comment Filter: Akismet eingetragen ist."
+            "text": "Dieser Service wird automatisch den meisten Spam identifizieren. Vor Verwendung bitte sicher stellen, dass ein Akismet-Schl\u00fcssel unter Module > Comment Filter: Akismet eingetragen ist."
         },
         "c5fce56aee82d2bc007cbf213998945b": {
-            "text": "Dieser Service stellt eine Avatar Grafik zu jedem Kommentar bereit (individuell zur E-Mail Adresse). Zum aktivieren bitte h\u00f6chste Gravatar Bewertung w\u00e4hlen. Diese entsprechen in etwa Filmbewertungen, wo G familienfreundlich ist und X nicht."
+            "text": "Dieser Service stellt eine Avatar-Grafik zu jedem Kommentar bereit (eindeutig zur E-Mail-Adresse). Zum Aktivieren bitte h\u00f6chste Gravatar-Bewertung w\u00e4hlen. Diese entsprechen in etwa Filmbewertungen, wo G familienfreundlich ist und X nicht."
         },
         "8e25a98f71c3244890fa8ecf2230fe18": {
             "text": "PG: Kann unh\u00f6fliche Gesten, provokativ gekleidete Personen, einfache Schimpfw\u00f6rter oder leichte Gewalt enthalten."
@@ -75,7 +75,7 @@
             "text": "R: Kann solche Dinge wie Obz\u00f6nit\u00e4ten, grobe Gewalt, Nacktdarstellung oder Drogengebrauch enthalten."
         },
         "043cab853d189bb505d101c3c7ab3176": {
-            "text": "X: Kann Hardcore Sexbilder oder extreme Gewaltdarstellung enthalten."
+            "text": "X: Kann Hardcore-Sexbilder oder extreme Gewaltdarstellung enthalten."
         },
         "e90234905413e689d67361b8f618b63f": {
             "text": "Unauff\u00e4llig speichern?"
@@ -105,16 +105,16 @@
             "text": "W\u00e4hlen Sie 0 f\u00fcr traditionelle chronologische Anzeige der Kommentare. F\u00fcr eine nach Themen gruppierte Anzeige der Kommentare (Antworten erscheinen unter dem jeweils beantworteten Kommentar) w\u00e4hlen Sie die maximal erlaubte Tiefe f\u00fcr Antworten (0 bis 4 wird empfohlen)."
         },
         "82829c5912f395b029a87c565359835c": {
-            "text": "Text Formatierer"
+            "text": "Text-Formatierer"
         },
         "53a682f62e65f496a659d3a12c754f75": {
-            "text": "W\u00e4hlen Sie optional einen oder mehrere Text-Formatierer zur Anwendung auf den Kommentartext in der gew\u00fcnschten Reihenfolge. Falls Sie keinen ausw\u00e4hlen, werden die Entit\u00e4ten im Text kodiert, Newlines werden zu <br> Tags konvertiert und die Ausgabe erfolgt in einem <p> Tag."
+            "text": "W\u00e4hlen Sie optional einen oder mehrere Text-Formatierer zur Anwendung auf den Kommentartext in der gew\u00fcnschten Reihenfolge. Falls Sie keinen ausw\u00e4hlen, werden die Entit\u00e4ten im Text kodiert, Newlines werden zu <br>-Tags konvertiert und die Ausgabe erfolgt in einem <p>-Tag."
         },
         "81958f1863ae9ebb74b7a23cbf0dbd78": {
-            "text": "Warnung: w\u00e4hlen Sie nur Text-Formatierer welche f\u00fcr die Eingaben von anonymen Benutzern sicher bzw. geeignet sind, wie z.B. Entity Encoder (Core) oder Textile Restricted (3. Anbieter). Falls Sie sich nicht sicher sind, w\u00e4hlen Sie hier nichts aus. Die falsche Auswahl kann ein Sicherheitsproblem darstellen."
+            "text": "Warnung: w\u00e4hlen Sie nur Text-Formatierer, welche f\u00fcr die Eingaben von anonymen Benutzern sicher bzw. geeignet sind, wie z.B. Entity Encoder (Core) oder Textile Restricted (Drittanbieter). Falls Sie sich nicht sicher sind, w\u00e4hlen Sie hier nichts aus. Die falsche Auswahl kann ein Sicherheitsproblem darstellen."
         },
         "e2ee73419f58949b9fdfb97f23a8a6ac": {
-            "text": "PHP Code zur Ausgabe von Kommentaren"
+            "text": "PHP-Code zur Ausgabe von Kommentaren"
         },
         "2b961475041b8a085eae4ed1a597f76a": {
             "text": "CSS f\u00fcr die Ausgabe der Kommentare im Frontend"
@@ -123,16 +123,16 @@
             "text": "JS f\u00fcr die Ausgabe der Kommentare im Frontend"
         },
         "309ccca9b8ae5408ee15a28c2bd2c9c2": {
-            "text": "Dieser Bereich wird Sie bei der Formatierung der Kommentare, im Frontend der Webseite, unterst\u00fctzen. Hier ist alles optional."
+            "text": "Dieser Bereich wird Sie bei der Formatierung der Kommentare im Frontend der Webseite unterst\u00fctzen. Hier ist alles optional."
         },
         "b39a035a995fc6597c8eb942210d1527": {
             "text": "Verhalten"
         },
         "c98106d2a3b2a0a14016f73894f59d10": {
-            "text": "Kommentar Moderation"
+            "text": "Kommentar-Moderation"
         },
         "18800239150e923984ade45f5e961fbd": {
-            "text": "Hiermit wird festgelegt wann ein neuer Kommentar auf der Webseite erscheint."
+            "text": "Hiermit wird festgelegt, wann ein neuer Kommentar auf der Webseite erscheint."
         },
         "a274f4d4670213a9045ce258c6c56b80": {
             "text": "Benachrichtigungen"
@@ -162,19 +162,19 @@
             "text": "Benachrichtigungen zu E-Mails"
         },
         "a5356041796dfb51e1131f9557cf7225": {
-            "text": "Optionale E-Mail Adresse als Absender der Benachrichtigung. Bitte leer lassen wenn die Standard E-Mail des Servers verwendet werden soll."
+            "text": "Optionale E-Mail Adresse als Absender der Benachrichtigung. Bitte leer lassen wenn die Standard-E-Mail des Servers verwendet werden soll."
         },
         "031de71d8bede5de985c354bbd23cdc6": {
-            "text": "E-Mail Benachrichtigungen an Kommentierende erlauben?"
+            "text": "E-Mail-Benachrichtigungen an Kommentierende erlauben?"
         },
         "dc8c7869896eed885ca7b7cc73de8e0a": {
-            "text": "Diese Option erm\u00f6glicht jedem, welcher einen Kommentar abgibt, E-Mail Benachrichtigungen zu neuen Kommentaren zu erhalten."
+            "text": "Diese Option erm\u00f6glicht jedem, der einen Kommentar abgibt, E-Mail-Benachrichtigungen zu neuen Kommentaren zu erhalten."
         },
         "0ad051f48ed2ca988a4b60689eb13ad5": {
-            "text": "Benutzer erhalten E-Mail Benachrichtigungen nur auf Antworten zu eigenen Kommentaren"
+            "text": "Benutzer erhalten E-Mail-Benachrichtigungen nur auf Antworten zu eigenen Kommentaren"
         },
         "4795eaf7300ae848d67ca8c64cfa357f": {
-            "text": "Benutzer erhalten E-Mail Benachrichtigungen f\u00fcr alle neuen Kommentare auf der Seite"
+            "text": "Benutzer erhalten E-Mail-Benachrichtigungen f\u00fcr alle neuen Kommentare auf der Seite"
         },
         "29c2c02a361c9d7028472e5d92cd4a54": {
             "text": "Ausgabe"
@@ -186,7 +186,7 @@
             "text": "Bewertung von Kommentaren erlauben?"
         },
         "3ffa920a9c00477904f187e62f9d8582": {
-            "text": "Die Kommentar-Bewertung erlaubt es Besuchern, die Kommentare auf- oder abzuwerten. Die Anzahl der Bewertungen wird neben jedem Kommentar angezeigt. Es wird nur eine Auf- und\/oder Abwertung pro Kommentar, pro IP-Adresse innerhalb einer Stunde erlaubt."
+            "text": "Die Kommentar-Bewertung erlaubt es Besuchern, die Kommentare auf- oder abzuwerten. Die Anzahl der Bewertungen wird neben jedem Kommentar angezeigt. Es wird nur eine Auf- und\/oder Abwertung pro Kommentar pro IP-Adresse innerhalb einer Stunde erlaubt."
         },
         "2d020e5cbf014a734c83323e430afce0": {
             "text": "Bewertung aus"
@@ -219,7 +219,7 @@
             "text": "Mit Sternen bewerten?"
         },
         "00837cdf48d92331ec9c355847ed9ef5": {
-            "text": "Bewertung mit Sternen erm\u00f6glicht dem Kommentierenden das betreffende Thema auf einer Skala von 1 bis 5 Sternen zu bewerten."
+            "text": "Bewertung mit Sternen erm\u00f6glicht dem Kommentierenden, das betreffende Thema auf einer Skala von 1 bis 5 Sternen zu bewerten."
         },
         "924daa0b046449bd4fb99af3c97b5f2b": {
             "text": "\u00c4nderung der Ausgabe des Standard-Sterns (HTML kann auch verwendet werden):"

@@ -6,16 +6,16 @@
             "text": "Sind leer und 0 gleichwertig?"
         },
         "e128ed87f9f0d6401b081dd75b2dad03": {
-            "text": "Dies beeinflusst wie ProcessWire, w\u00e4hrend einer Suche, Seiten in der Datenbank findet."
+            "text": "Dies beeinflusst, wie ProcessWire w\u00e4hrend einer Suche Seiten in der Datenbank findet."
         },
         "07be370e5cef3ea5961cdf07cb34f390": {
-            "text": "Wenn 0 und leer gleichwertig sind (die Ja Option), ergibt eine Suche nach **field=0** oder **field=\"\"** das selbe Resultat."
+            "text": "Wenn 0 und leer gleichwertig sind (Ja-Option), ergibt eine Suche nach **field=0** oder **field=\"\"** das selbe Resultat."
         },
         "33865caeae8ea654a7fef819270e40b3": {
-            "text": "Wenn sie nicht gleichwertig sind (die Nein Option), wird eine Suche nach **field=0** nur auf Felder mit dem Wert 0 und **field=\"\"** nur auf Felder ohne Wert zutreffen."
+            "text": "Wenn sie nicht gleichwertig sind (Nein-Option), wird eine Suche nach **field=0** nur auf Felder mit dem Wert 0 und **field=\"\"** nur auf Felder ohne Wert zutreffen."
         },
         "47ae95efefc63fa28854884d8c871228": {
-            "text": "Als Beispiel: mit der Ja Option wird **field<1** auf den Wert 0 wie auch ohne Wert zutreffen. Mit der Nein Option trifft hier nur 0 zu."
+            "text": "Als Beispiel: mit der Ja-Option wird **field<1** auf den Wert 0 wie auch ohne Wert zutreffen. Mit der Nein-Option trifft hier nur 0 zu."
         },
         "50c5d87b02ad1694c7b4603240402ef9": {
             "text": "Ja - Leer und 0 sind gleichwertig"

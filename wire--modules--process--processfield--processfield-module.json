@@ -171,7 +171,7 @@
             "text": "dauerhaft"
         },
         "7f511c25eccff9ce7127eecfb136f443": {
-            "text": "Jeder Tag muss ein Wort sein (Silbentrennung erlaubt)."
+            "text": "Jedes Tag muss ein Wort sein (Silbentrennung erlaubt)."
         },
         "4cca2a863deef0fc4de9115b9164537b": {
             "text": "Ohne Stichworte"
@@ -396,7 +396,7 @@
             "text": "Wenn aktiviert, k\u00f6nnen Sie den Zugriff zur Ansicht und Bearbeitung auf dieses Feld mit einer Benutzerrolle limitieren."
         },
         "146cec6f36689ef0531abb613c24f68d": {
-            "text": "Welche Beutzerrollen k\u00f6nnen dieses Feld ansehen und\/oder bearbeiten?"
+            "text": "Welche Benutzerrollen k\u00f6nnen dieses Feld ansehen und\/oder bearbeiten?"
         },
         "d39bf1bfbc9aef37bb8d6b935d73e53d": {
             "text": "Wenn keine Boxen markiert sind, k\u00f6nnen nur Superuser den Inhalt des Feldes sehen\/bearbeiten."
@@ -429,10 +429,10 @@
             "text": "Feld Pr\u00e4sentation\/Sichtbarkeit"
         },
         "722302e393e0ef80cae21af3a433fd64": {
-            "text": "Rollen welche dieses Feld sehen d\u00fcrfen"
+            "text": "Rollen, die dieses Feld sehen d\u00fcrfen"
         },
         "7c5a8ae55e59746ba619775959127870": {
-            "text": "Rollen welche dieses Feld bearbeiten d\u00fcrfen"
+            "text": "Rollen, die dieses Feld bearbeiten d\u00fcrfen"
         },
         "b1176bb4251df736f9046c88f2752937": {
             "text": "Erlaube Zugriff-Kontrolle"
@@ -501,7 +501,7 @@
             "text": "Markieren Sie die obere Box um dieses Verhalten umgehen. Damit kann immer per API auf den Wert zugegriffen werden. Dies \u00fcberl\u00e4sst Ihnen jede \u00dcberpr\u00fcfung von Zugriffen."
         },
         "d96a1b8071d5f5f8eb8bc96839d85407": {
-            "text": "Sie k\u00f6nnen die Berechtigung, zum Ansehen f\u00fcr dieses Feld, mit der API so pr\u00fcfen:"
+            "text": "Sie k\u00f6nnen die Berechtigung zum Ansehen f\u00fcr dieses Feld über die API so pr\u00fcfen:"
         },
         "71f8bd77c0780518e62960d62ebd72bd": {
             "text": "Kontext \u00fcberschreiben entfent"

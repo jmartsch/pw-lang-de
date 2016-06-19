@@ -27,7 +27,7 @@
             "text": "Um hier eine Liste der m\u00f6glichen eigenen Felder zu sehen, w\u00e4hlen Sie ein Template im Details Tab. Dann speichern und dies erneut aufrufen."
         },
         "34ff6bbc0c075f35e92dc68a218b7cc2": {
-            "text": "Automatisches Format f\u00fcr Seiten Namen"
+            "text": "Automatisches Format f\u00fcr Seitennamen"
         },
         "9264201faa8a6ca75fc27583eafe1e88": {
             "text": "Wenn ausgef\u00fcllt, werden Seiten mit dem \"Neu hinzuf\u00fcgen\" Button automatisch erstellt, unter Verwendung dieses Namens-Formats. Wenn leer, wird der Nutzer aufgefordert, einen Namen einzugeben, bevor die Seite erstellt wird."
@@ -36,7 +36,7 @@
             "text": "Falls das Format des Namens nicht-alphanumerische Zeichen enth\u00e4lt, wird es als ein [PHP Datum](http:\/\/www.php.net\/manual\/en\/function.date.php) Format betrachtet. Falls es nur alphanumerische Zeichen enth\u00e4lt, wird es direkt verwendet. Falls notwendig, wird am Ende eine Nummer angeh\u00e4ngt zur eindeutigen Erkennung."
         },
         "9ad1067becc6f575ac4c13c7294fdffe": {
-            "text": "Beispiel: **Ymd:His** ist ein gutes Namensformat f\u00fcr auf Datum\/Zeit basierende Seiten-Namen."
+            "text": "Beispiel: **Ymd:His** ist ein gutes Namensformat f\u00fcr auf Datum\/Zeit basierende Seitennamen."
         },
         "848656e110ec0bd90b47b5bf7c961c95": {
             "text": "Erstellt"

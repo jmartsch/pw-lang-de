@@ -39,7 +39,7 @@
             "text": "W\u00e4hlen Sie die Eltern der w\u00e4hlbaren Seiten"
         },
         "881b1a7b97bc4d70099cc59a53e8a8e5": {
-            "text": "Eingabe Feldtyp"
+            "text": "Eingabefeld-Typ"
         },
         "9f80067ff42d8e69d0c3a24b67ef4c85": {
             "text": "W\u00e4hlen sie das Template f\u00fcr die betreffenden Seiten. Das kann als Ersatz oder in Erg\u00e4nzung zur zuvor gemachten Einstellung genutzt werden. Beachten Sie, dass diese Einstellung nicht mit den PageListSelect Eingabefeldern kompatibel ist."
@@ -87,22 +87,22 @@
             "text": "Mit einem Pluszeichen gekennzeichnete Typen setzen eher eine \"Elternseite\" als Root eines Baumes voraus, als eine unmittelbare Elternseite."
         },
         "6ad160329dd81f9ecede290bffe93928": {
-            "text": "Falls Sie ausw\u00e4hlbare Seiten mit einem ProcessWire Selektor anstatt mit einer Elternseite oder Template (oben) finden wollen, geben Sie hier den Selektor ein. Dieser Selektor f\u00fchrt zu einer $pages->find(\"your selector\"); Anweisung. Hinweis: im Moment nicht kompatibel mit PageListSelect Eingabe Feldtypen."
+            "text": "Falls Sie ausw\u00e4hlbare Seiten mit einem ProcessWire Selektor anstatt mit einer Elternseite oder Template (oben) finden wollen, geben Sie hier den Selektor ein. Dieser Selektor f\u00fchrt zu einer $pages->find(\"your selector\"); Anweisung. Hinweis: im Moment nicht kompatibel mit PageListSelect Eingabefeld-Typen."
         },
         "3d9e8a4318894ce247ba920c7961d5da": {
-            "text": "Obwohl dies die Elternseite und Template Auswahl von oben \u00fcberschreibt, wird diese Auswahl trotzdem zur Validierung genutzt (bitte abw\u00e4hlen, falls dieses Verhalten nicht gew\u00fcnscht wird)."
+            "text": "Obwohl dies die Elternseite und Template-Auswahl von oben \u00fcberschreibt, wird diese Auswahl trotzdem zur Validierung genutzt (bitte abw\u00e4hlen, falls dieses Verhalten nicht gew\u00fcnscht wird)."
         },
         "d0188d35124b9f7887cc0d158da64328": {
-            "text": "Falls Sie ausw\u00e4hlbare Seiten mit einem PHP Code-Snippet anstatt mit einer Elternseite oder Template (oben) finden wollen, geben Sie hier den Code ein. Diese Anweisung hat Zugriff auf die $page und $pages API Variablen, wobei $page sich auf die editierte Seite bezieht."
+            "text": "Falls Sie ausw\u00e4hlbare Seiten mit einem PHP Code-Snippet anstatt mit einer Elternseite oder Template (oben) finden wollen, geben Sie hier den Code ein. Diese Anweisung hat Zugriff auf die API-Variablen $page und $pages, wobei $page sich auf die editierte Seite bezieht."
         },
         "e8764466585c7e1a106fd67e89ce91c6": {
             "text": "Das Snippet sollte entweder ein PageArray, Page oder NULL zur\u00fcckgeben. Falls es eine Seite (Page) zur\u00fcckgibt, werden die Kindseiten als ausw\u00e4hlbare Seiten genutzt. Die Nutzung ist optional. Falls angewendet, werden die o.g. Eltern\/Template\/Selektor Felder \u00fcberschrieben."
         },
         "a9e792488572b1b5316720df20682ad3": {
-            "text": "Hinweis: nicht kompatibel mit PageListSelect oder Autocomplete Eingabe Feldtypen."
+            "text": "Hinweis: nicht kompatibel mit den Eingabefeld-Typen PageListSelect oder Autocomplete."
         },
         "d8f9928df4675d892629c754932fad80": {
-            "text": "Label Feld"
+            "text": "Label-Feld"
         },
         "a0cb77306b6f4e96a00cdc5a0c128166": {
             "text": "W\u00e4hlen Sie \"Eigenes Format\" falls mehrere Felder oder andere oben nicht sichtbare Felder festgelegt werden sollen."
@@ -111,7 +111,7 @@
             "text": "Eigenes Format (mehrere Felder)' . ' ..."
         },
         "ccfbd07eab619923148d98d09c91e15e": {
-            "text": "Eigenes Seiten Label Format"
+            "text": "Eigenes Format für Seiten-Label"
         },
         "ebebc537c9c3117a5e2304be412d83f3": {
             "text": "Legen Sie ein oder mehrere Felder mit geschweiften {Klammern} zusammen mit beliebigen zus\u00e4tzlichen Zeichen, Zwischenraum oder Zeichensetzung fest."
@@ -120,7 +120,7 @@
             "text": "Beispiel: {parent.title} - {title}, {date}"
         },
         "ebd9ef41cdc1369f55f58b151390de31": {
-            "text": "Einige Eingabetypen bieten zum Teil zus\u00e4tzliche Optionen zur Konfiguration an. Nach der Auswahl eines Eingabe Feldtyps, und dann speichern Ihrer \u00c4nderungen, k\u00f6nnen weitere Optionen zur Konfiguration unterhalb dieser Sektion angezeigt werden."
+            "text": "Einige Eingabetypen bieten zum Teil zus\u00e4tzliche Optionen zur Konfiguration an. Nach der Auswahl eines Eingabefeld-Typs, und dann speichern Ihrer \u00c4nderungen, k\u00f6nnen weitere Optionen zur Konfiguration unterhalb dieser Sektion angezeigt werden."
         },
         "1920ec4f46fd3f4962d351c84f69cf7e": {
             "text": "="

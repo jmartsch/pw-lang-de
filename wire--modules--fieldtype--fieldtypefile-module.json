@@ -18,7 +18,7 @@
             "text": "Falls ausgew\u00e4hlt, enth\u00e4lt das Feld auch eine Option f\u00fcr Tags zus\u00e4tzlich zur Beschreibung."
         },
         "00f6c76a7a83b1d7aab61a93e513e9d5": {
-            "text": "Eingabefeld Typ"
+            "text": "Eingabefeld-Typ"
         },
         "23f8d89e38fb131310ab885bad04b966": {
             "text": "Der genutzte Feldtyp zur Sammeleingabe."
@@ -27,7 +27,7 @@
             "text": "Dateien"
         },
         "2cb39a29b55cb3b4480c782dbe367518": {
-            "text": "Feld welches eine oder mehr Dateien speichert"
+            "text": "Feld, welches eine oder mehr Dateien speichert"
         },
         "435ed7e9f07f740abf511a62c00eef6e": {
             "text": "Dateiname"
@@ -63,7 +63,7 @@
             "text": "Gerenderte Textfolge"
         },
         "fefb41e13016890d511b8d55d8057c37": {
-            "text": "Gibt die Textfolge aus welche Sie als Wert f\u00fcr dieses Feld w\u00fcnschen. Falls das Feld mehrere Elemente enth\u00e4lt, wird die Textfolge mehrmals ausgegeben. Enth\u00e4lt das Feld keine Elemente, wird eine leere Textfolge ausgegeben."
+            "text": "Gibt die Textfolge aus, welche Sie als Wert f\u00fcr dieses Feld w\u00fcnschen. Falls das Feld mehrere Elemente enth\u00e4lt, wird die Textfolge mehrmals ausgegeben. Enth\u00e4lt das Feld keine Elemente, wird eine leere Textfolge ausgegeben."
         },
         "839047fe3f6109257399fe301ddb7912": {
             "text": "Sie k\u00f6nnen jeden der folgenden Tags verwenden:"
@@ -75,10 +75,10 @@
             "text": "Optional w\u00e4hlen Sie eine Seite welche den Standardwert (in selben Feld) enth\u00e4lt. Es bleibt ihnen \u00fcberlassen, eine Seite speziell f\u00fcr diesen Zweck zu erstellen."
         },
         "b17288f2ed130badc7ac8919f95fd5f1": {
-            "text": "Text Formatierer (f\u00fcr Dateibeschreibung)"
+            "text": "Text-Formatierer (f\u00fcr Dateibeschreibung)"
         },
         "8d664d296530bbabc76043e4e499b272": {
-            "text": "W\u00e4hlen Sie einen oder mehrere Text Formatierer (und ihre Reihenfolge), welche auf die Dateibeschreibung angewendet werden, wenn die Formatierung der Ausgabe aktiviert ist. Mindestens der HTML Entity Encoder wird empfohlen."
+            "text": "W\u00e4hlen Sie einen oder mehrere Text-Formatierer (und ihre Reihenfolge), welche auf die Dateibeschreibung angewendet werden, wenn die Formatierung der Ausgabe aktiviert ist. Mindestens der HTML Entity Encoder wird empfohlen."
         },
         "a8d5114d10f7846bf0263c4e4207137e": {
             "text": "Einstellungen wurden noch nicht ausgef\u00fchrt."

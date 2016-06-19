@@ -42,19 +42,19 @@
             "text": "Nicht zul\u00e4ssiges Bild"
         },
         "41cfe40655c4b51507eff9d22bd777f2": {
-            "text": "Bild von %s entspricht nicht der Mindest-Gr\u00f6\u00dfe"
+            "text": "Bild von %s entspricht nicht der Mindestgr\u00f6\u00dfe"
         },
         "6760d392e57247a882e160cdb8b3680c": {
             "text": "Minimale Bild-Dimensionen"
         },
         "a195023920e6ece61b6211755c9af27f": {
-            "text": "Optional kann die Mindest-Breite und \/oder -H\u00f6he der hochzuladenden Bilder eingetragen werden. Falls festgelegt, werden Bilder mit nicht zutreffenden Werten abgewiesen."
+            "text": "Optional kann die Mindestbreite und\/oder -h\u00f6he der hochzuladenden Bilder eingetragen werden. Falls festgelegt, werden Bilder mit nicht zutreffenden Werten abgewiesen."
         },
         "d704e5da0e9e4ca2aa3e04201575f44c": {
-            "text": "Mindest Breite f\u00fcr hochgeladene Bilder"
+            "text": "Mindestbreite f\u00fcr hochgeladene Bilder"
         },
         "b477617de997199bdd26761085aea486": {
-            "text": "Mindest H\u00f6he f\u00fcr hochgeladene Bilder"
+            "text": "Mindesth\u00f6he f\u00fcr hochgeladene Bilder"
         },
         "f2a6c498fb90ee345d997f888fce3b18": {
             "text": "L\u00f6schen"

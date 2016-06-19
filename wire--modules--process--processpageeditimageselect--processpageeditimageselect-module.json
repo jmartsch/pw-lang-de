@@ -54,13 +54,13 @@
             "text": "Das Modul f\u00fcgt standardm\u00e4\u00dfig Breiten- und H\u00f6henattribute zu den img-Tags hinzu. Wenn Sie Responsive Images nutzen, sollten Sie das Verhalten deaktivieren. Aktivieren Sie diese Box, um die Einstellung zu deaktivieren."
         },
         "66e1d61daf21cfd5a9a0c3c172d7215d": {
-            "text": "Wir empfehlen nicht diese Box zu markieren weil einige Features beeinflusst werden (z.B. die Verwendung von HiDPI\/Retina Grafiken)."
+            "text": "Wir empfehlen nicht diese Box zu markieren weil einige Features beeinflusst werden (z.B. die Verwendung von HiDPI\/Retina-Grafiken)."
         },
         "a39537e1c6a1b744127450b81c4f8173": {
-            "text": "Gel\u00f6schte Bild Variante"
+            "text": "Gel\u00f6schte Bild-Variante"
         },
         "966c5c54ae383420f05957c520436202": {
-            "text": "Fehler beim l\u00f6schen von Bild Variante"
+            "text": "Fehler beim l\u00f6schen der Bild-Variante"
         },
         "a2c7bdf75d9141ef485ca345d5a3b50c": {
             "text": "L\u00f6schen markiert"
@@ -69,13 +69,13 @@
             "text": "Schliessen"
         },
         "68155ca6e2858626c370f0fb3ea9bfc5": {
-            "text": "HiDPI\/Retina Checkbox standardm\u00e4\u00dfig markiert?"
+            "text": "HiDPI\/Retina-Checkbox standardm\u00e4\u00dfig markiert?"
         },
         "3608b24ec08977c76c40c8514f3bcbd5": {
-            "text": "Diese Box markieren, um die HiDPI\/Retina Checkox standardm\u00e4\u00dfig f\u00fcr neu eingef\u00fcgte Bilder auszuw\u00e4hlen."
+            "text": "Diese Box markieren, um die HiDPI\/Retina-Checkbox standardm\u00e4\u00dfig f\u00fcr neu eingef\u00fcgte Bilder auszuw\u00e4hlen."
         },
         "0bedb7a49466cc5abddacd2003be55b3": {
-            "text": "\u00dcberspringe die Breiten- und H\u00f6henangaben f\u00fcr die Bilder Tags?"
+            "text": "\u00dcberspringe die Breiten- und H\u00f6henangaben f\u00fcr die Bilder-Tags?"
         },
         "7fde437e01b597d729484cfc830eb4c5": {
             "text": "Empfohlener Wert:"
@@ -99,7 +99,7 @@
             "text": "Automatisch erstelltes Admin-Thumbnail"
         },
         "671bf4e51334fa684ae31fdaa130b6db": {
-            "text": "API generierte Variante"
+            "text": "API-generierte Variante"
         },
         "8df4dcb71975633a0a9e60b4d05c37d8": {
             "text": "%1$d Variante f\u00fcr Bild %2$s"
@@ -114,7 +114,7 @@
             "text": "Links:"
         },
         "f8927cab12c03e7537c735cd3117fba2": {
-            "text": "Link zur gr\u00f6\u00dferen\/originalen Version"
+            "text": "Link zur gr\u00f6\u00dferen\/urspr\u00fcnglichen Version"
         },
         "9d723d04c40bfd81835c0766a698cf63": {
             "text": "Gr\u00f6\u00dfe \u00e4ndern"
@@ -159,7 +159,7 @@
             "text": "Nein, verwende %s"
         },
         "fef2a86d13179e1022a0f692ad9f521b": {
-            "text": "Keine \u00c4nderungen zu den Bild Varianten notwendig."
+            "text": "Keine \u00c4nderungen zu den Bild-Varianten notwendig."
         },
         "46ce1195125fefcac9df32093fb8f238": {
             "text": "Keine \u00c4nderungen vorgenommen"
@@ -177,7 +177,7 @@
             "text": "Bild hochladen"
         },
         "a547432ab25b830c51cb8a560e4e4f62": {
-            "text": "Beschreibung des Bildes (alt Attribut)"
+            "text": "Beschreibung des Bildes (alt-Attribut)"
         },
         "a7ef116917746995c6efb74b77261e93": {
             "text": "Titel?"
