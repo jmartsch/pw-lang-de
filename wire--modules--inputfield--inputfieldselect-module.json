@@ -15,7 +15,7 @@
             "text": "Geben Sie die ausw\u00e4hlbaren Optionen ein (eine pro Zeile)."
         },
         "6cdf2b7c6a202509ddad22ed4e6d1c3d": {
-            "text": "Geben sie  als erste Option ein Gleichheitszeiten \"=\" an, um der Liste eine leere Option voranzustellen"
+            "text": "Geben sie als erste Option ein Gleichheitszeiten \"=\" an, um der Liste eine leere Option voranzustellen"
         },
         "378f6008c3dc6eb2be984683df372592": {
             "text": "Stellen Sie einer Option ein Pluszeichen voran, um sie vorauszuw\u00e4hlen. Beispiel: +My Option"
@@ -30,7 +30,7 @@
             "text": "Standardwert"
         },
         "c37baf4e64db68f6887058399a37ad60": {
-            "text": "Um vorausgew\u00e4hlte Standardwerte zu erhalten, unten die optionalen Werte (einen pro Zeile) eintragen. Zur Auswahl einer Seite, w\u00e4re(n) dies die Seiten ID Nummer(n)."
+            "text": "Um vorausgew\u00e4hlte Standardwerte zu erhalten, tragen Sie die optionalen Werte (einen pro Zeile) unten ein. Zur Auswahl einer Seite w\u00e4re(n) dies die Seiten-ID-Nummer(n)."
         },
         "d48cd2cb0f5c1d209800b28e019eb574": {
             "text": "Die Option f\u00fcr Standardwerte ist verf\u00fcgbar, weil Sie oben die Box \"Pflichtfeld\" markiert haben."

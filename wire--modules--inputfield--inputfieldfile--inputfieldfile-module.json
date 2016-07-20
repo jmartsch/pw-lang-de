@@ -27,7 +27,7 @@
             "text": "ZIP-Dateien entpacken?"
         },
         "fab7f7d0de48baa58342b39e975c9aab": {
-            "text": "Falls ausgew\u00e4hlt, werden ZIP-Archive entpackt und alle g\u00fcltigen Dateien hochgeladen und hinzugef\u00fcgt (falls die Hosting-Umgebung dies unterst\u00fctzt). Die maximale Anzahl Dateien muss auf 0 (kein Maximum) gesetzt werden, damit das hochladen von ZIP-Dateien funktioniert."
+            "text": "Falls ausgew\u00e4hlt, werden ZIP-Archive entpackt und alle g\u00fcltigen Dateien hochgeladen und hinzugef\u00fcgt (falls die Hosting-Umgebung dies unterst\u00fctzt). Die maximale Anzahl Dateien muss auf 0 (kein Maximum) gesetzt werden, damit das Hochladen von ZIP-Dateien funktioniert."
         },
         "91015caeadb6afed86544257b5d796f5": {
             "text": "Anzahl Zeilen im Beschreibungs-Feld?"
@@ -57,10 +57,10 @@
             "text": "Bestehende Dateien \u00fcberschreiben?"
         },
         "35a96944722fb825db8bf04ab791c209": {
-            "text": "Falls markiert, wird eine hochgeladene Datei, mit identischem Namen einer bestehenden Datei, diese ersetzen (Beschreibung und Tags bleiben erhalten). Falls nicht markiert, werden hochgeladene Dateinamen eindeutig umbenannt."
+            "text": "Falls markiert, wird bei einer hochgeladenen Datei mit identischem Namen eine bereits vorhandene Datei ersetzt (Beschreibung und Tags bleiben erhalten). Falls nicht markiert, werden hochgeladene Dateinamen eindeutig umbenannt."
         },
         "2713d4f20fb5e7947fb2bb844d57322d": {
-            "text": "Bitte beachten: wenn diese Option aktiviert ist, werden per AJAX hochgeladene Dateien sofort beim Hochladen auf der Seite gespeichert, anstatt erst nach dem Klick auf \"Speichern\". Markieren Sie diese Option nicht, sofern sie diese nicht speziell ben\u00f6tigen."
+            "text": "Bitte beachten: Wenn diese Option aktiviert ist, werden per AJAX hochgeladene Dateien sofort beim Hochladen auf der Seite gespeichert, anstatt erst nach dem Klick auf \"Speichern\". Markieren Sie diese Option nicht, sofern sie diese nicht speziell ben\u00f6tigen."
         },
         "f2a6c498fb90ee345d997f888fce3b18": {
             "text": "L\u00f6schen"

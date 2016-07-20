@@ -45,7 +45,7 @@
             "text": "Offen wenn ausgef\u00fcllt + Geschlossen wenn leer"
         },
         "e75c5e5c17a86f893fac8d2b7b7a3762": {
-            "text": "Offen wenn ausgef\u00fcllt + Geschlossen wenn leer + Laden nur beim \u00f6ffnen (AJAX)"
+            "text": "Offen wenn ausgef\u00fcllt + Geschlossen wenn leer + Laden nur beim \u00d6ffnen (AJAX)"
         },
         "3a28674fd51f34234723d80de10c6382": {
             "text": "Offen wenn ausgef\u00fcllt + Geschlossen wenn leer + Gesperrt (nicht editierbar)"
@@ -60,7 +60,7 @@
             "text": "Geschlossen + Gesperrt (nicht editierbar)"
         },
         "9101591614e0d079e052d9cbf4e1c203": {
-            "text": "Geschlossen + Laden nur beim \u00f6ffnen (AJAX)"
+            "text": "Geschlossen + Laden nur beim \u00d6ffnen (AJAX)"
         },
         "cb6df4e080dea0319f74d565e587c2b5": {
             "text": "Optionen mit Angabe von %s funktionieren unter Umst\u00e4nden nicht mit allen Eingabefeldern oder Einstellungen. Bitte entsprechend testen."
