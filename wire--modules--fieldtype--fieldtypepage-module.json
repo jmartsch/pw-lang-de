@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
     "translations": {
         "e28f86b62065207ceeb0b5057eb98537": {
-            "text": "Wenn ihr Feld mehrere Seiten enth\u00e4lt, sollten Sie die erste Option (PageArray) w\u00e4hlen. Falls ihr Feld nur eine einzelne Seite enthalten muss, dann w\u00e4hlen Sie eine der Optionen f\u00fcr einzelne Seiten (wenn Sie nicht sicher sind welche, w\u00e4hlen Sie die letzte Option)."
+            "text": "Wenn Ihr Feld mehrere Seiten enth\u00e4lt, sollten Sie die erste Option (PageArray) w\u00e4hlen. Falls Ihr Feld nur eine einzelne Seite enthalten muss, dann w\u00e4hlen Sie eine der Optionen f\u00fcr einzelne Seiten (wenn Sie nicht sicher sind welche, w\u00e4hlen Sie die letzte Option)."
         },
         "7b438db8547ac1c9ab6c7ba6cb1532db": {
             "text": "Mehrere Seiten (PageArray)"
@@ -21,13 +21,13 @@
             "text": "Unver\u00f6ffentlichte Seiten erlauben?"
         },
         "58b4f6dae2009a3d22a395a94de85360": {
-            "text": "Wenn ausgew\u00e4hlt sind unver\u00f6ffentlichte Seiten als Feld-Eintrag erlaubt. Unver\u00f6ffentlichte Seiten sind nicht im Frontend sichtbar, mit Ausnahme derer welche bearbeitbar sind."
+            "text": "Wenn ausgew\u00e4hlt, sind unver\u00f6ffentlichte Seiten als Feld-Eintrag erlaubt. Unver\u00f6ffentlichte Seiten sind nicht im Frontend sichtbar, mit Ausnahme derer, welche bearbeitbar sind."
         },
         "2d6565614947b2a6daba1a06515124da": {
             "text": "Verwaiste Seitenverweise finden und bereinigen."
         },
         "35a326c72a6584f3c7d70109b5cd45f1": {
-            "text": "Warnung: zur Sicherheit sollten Sie zuerst ein Backup ihrer Datenbank durchf\u00fchren."
+            "text": "Warnung: zur Sicherheit sollten Sie zuerst ein Backup Ihrer Datenbank durchf\u00fchren."
         },
         "f7e35a334f1501cc0365458563f90cf5": {
             "text": "Dies bereinigt ein Problem in \u00e4lteren Versionen von ProcessWire. Dort konnten Verweise auf bereits gel\u00f6schte Seiten bestehen bleiben. Falls Sie bei Suchvorg\u00e4ngen nach Seiten falsche Resultate erhalten (speziell mit Selektoren welche pageref.count nutzen), sollten Sie diesen Reinigungsvorgang durchf\u00fchren."

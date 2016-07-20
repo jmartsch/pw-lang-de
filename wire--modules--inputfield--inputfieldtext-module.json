@@ -42,7 +42,7 @@
             "text": "Tags entfernen"
         },
         "6a5e3a3d3be1a3d27b96e1e378c31ad9": {
-            "text": "Optionale Regul\u00e4re Ausdr\u00fccke, die f\u00fcr das Eingabe-Feld als Voraussetzung definiert werden k\u00f6nnen. Diese finden zum einen auf der Client Seite (durch HTML5-Attribute) Anwendung und werden auf dem Server zur Validierung genutzt. Tragen Sie bitte ein Beispiel in die Feld Beschreibung ein."
+            "text": "Optionale Regul\u00e4re Ausdr\u00fccke, die f\u00fcr das Eingabe-Feld als Voraussetzung definiert werden k\u00f6nnen. Diese finden zum einen auf der Client-Seite (durch HTML5-Attribute) Anwendung und werden auf dem Server zur Validierung genutzt. Tragen Sie bitte ein Beispiel in die Feld Beschreibung ein."
         },
         "27615527f65d7d865a330397568fe263": {
             "text": "Gehen Sie auf [html5pattern.com](http:\/\/html5pattern.com\/), um Beispiele zu Hilfen zu erhalten."

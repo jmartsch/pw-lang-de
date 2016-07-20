@@ -21,10 +21,10 @@
             "text": "Berechtigung entfernt: %s"
         },
         "7dd5a577bde82df3631263cfd04a07bb": {
-            "text": "Fehler beim entfernen von Berechtigung: %s"
+            "text": "Fehler beim Entfernen von Berechtigung: %s"
         },
         "141e30f2de96660020efd996cc916413": {
-            "text": "Fehlerhafte Modul Abh\u00e4ngigkeit: %s ben\u00f6tigt %s"
+            "text": "Fehlerhafte Modul-Abh\u00e4ngigkeit: %s ben\u00f6tigt %s"
         },
         "de7a358da1292f56861c726d3c860dc0": {
             "text": "Ben\u00f6tigtes Modul kann nicht installiert werden"

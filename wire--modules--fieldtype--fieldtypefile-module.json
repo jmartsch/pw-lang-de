@@ -42,7 +42,7 @@
             "text": "Formatierter Wert"
         },
         "f09906b55a7a66786de08cb25550a2c8": {
-            "text": "W\u00e4hlen Sie den Typ des Wertes, welchen dieses Feld ausgeben soll, wenn \u00fcber die API auf dem Frontend ihrer Seite darauf zugegriffen wird."
+            "text": "W\u00e4hlen Sie den Typ des Wertes, welchen dieses Feld ausgeben soll, wenn \u00fcber die API auf dem Frontend Ihrer Seite darauf zugegriffen wird."
         },
         "ffb520d31a51841782cf1cba617fc875": {
             "text": "Wenn die Formatierung der Ausgabe nicht aktiv ist, entspricht der Wert immer einem Array (WireArray)."

@@ -60,7 +60,7 @@
             "text": "ACF verwenden?"
         },
         "60f803fa7569e56d3f76d2f622e4130b": {
-            "text": "Wenn ja, dann ist der erweiterte Inhaltsfilter (ACF) im CKEditor aktiv. Dieser Filter entfernt automatisch unbekanntes Markup oder Attribute aus ihrem HTML. Empfohlen."
+            "text": "Wenn ja, dann ist der erweiterte Inhaltsfilter (ACF) im CKEditor aktiv. Dieser Filter entfernt automatisch unbekanntes Markup oder Attribute aus Ihrem HTML. Empfohlen."
         },
         "086f4ea637a29573ed5e10e106040ab5": {
             "text": "HTML Purifier verwenden?"
@@ -138,7 +138,7 @@
             "text": "de"
         },
         "60eaab37de096deaa26bb3ff7b706095": {
-            "text": "Pfade sollten relativ zum Root-Verzeichnis ihrer ProcessWire Installation sein (d.h. diesen Teil weglassen, wenn die Seite in einem Unterverzeichnis l\u00e4uft)."
+            "text": "Pfade sollten relativ zum Root-Verzeichnis Ihrer ProcessWire-Installation sein (d.h. diesen Teil weglassen, wenn die Seite in einem Unterverzeichnis l\u00e4uft)."
         },
         "9728a8f280cf7e8b0b89b52749f7e800": {
             "text": "Bitte lesen Sie die [Anweisungen](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-css-file) zur Benutzung."
@@ -198,7 +198,7 @@
             "text": "Link bearbeiten"
         },
         "c97c12dea7825a2fa7f2b23032c6aeb4": {
-            "text": "Hier steht ihr Bildtitel"
+            "text": "Hier steht Ihr Bildtitel"
         },
         "e8ddfb44ace2866e54880497acd251e3": {
             "text": "F\u00fcgen Sie ein Rautenzeichen \"#\" am Anfang einer Zeile ein, wenn diese ignoriert werden soll."

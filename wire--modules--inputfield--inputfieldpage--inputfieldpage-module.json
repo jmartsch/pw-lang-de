@@ -18,7 +18,7 @@
             "text": "Seite %s hinzugef\u00fcgt"
         },
         "29b43e0c70cb336d03f04f3f06a8789d": {
-            "text": "Fehler beim hinzuf\u00fcgen der Seite \"%s\""
+            "text": "Fehler beim Hinzuf\u00fcgen der Seite \"%s\""
         },
         "81eeab9506186e2dca8faefa78d54067": {
             "text": "Beispiel:"
@@ -48,10 +48,10 @@
             "text": "Benutzerspezifischer PHP-Code, um w\u00e4hlbare Seiten zu finden."
         },
         "e5c1791ec6a73eed5d8a7002e2799470": {
-            "text": "W\u00e4hlen Sie ein Seitenfeld, welches Sie zum generieren von Labels f\u00fcr jede verf\u00fcgbare Seite nutzen wollen."
+            "text": "W\u00e4hlen Sie ein Seitenfeld, welches Sie zum Generieren von Labels f\u00fcr jede verf\u00fcgbare Seite nutzen wollen."
         },
         "bcf331523fb730639bde7c2e8fc4f811": {
-            "text": "Der Feldtyp, welches zum ausw\u00e4hlen von Seiten genutzt werden soll. Nutze einen einheitlichen Typ der f\u00fcr einfache Seiten und Multi-Seiten genutzt werden kann. Einstellungen kannst Du in dem \"Details\"-tag des Feldes vornehmen."
+            "text": "Der Feldtyp, welches zum Ausw\u00e4hlen von Seiten genutzt werden soll. Nutze einen einheitlichen Typ der f\u00fcr einfache Seiten und Multi-Seiten genutzt werden kann. Einstellungen kannst Du in dem \"Details\"-tag des Feldes vornehmen."
         },
         "195a66e99428447940ac989366724b42": {
             "text": "Mit einem Sternchen gekennzeichnete Typen stehen f\u00fcr die Multi-Seiten."
@@ -60,7 +60,7 @@
             "text": "Erlaube das Erstellen neuer Seiten durch ein Feld."
         },
         "20463a1675fc256b438538124524746a": {
-            "text": "Wenn gew\u00e4hlt und die Voraussetzungen erf\u00fcllt werden, wird eine Option zum hinzuf\u00fcgen neuer Seiten sichtbar sein."
+            "text": "Wenn gew\u00e4hlt und die Voraussetzungen erf\u00fcllt werden, wird eine Option zum Hinzuf\u00fcgen neuer Seiten sichtbar sein."
         },
         "7673446b991c59998763308c9f7f5d53": {
             "text": "1. Ein Elternteil und ein Template m\u00fcssen zur oben genannten Auswahl hinzugef\u00fcgt werden."
