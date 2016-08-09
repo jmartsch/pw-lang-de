@@ -51,7 +51,7 @@
             "text": "Aktionen zu Seiten beim hovern anzeigen?"
         },
         "04f8c71ea1d550c45b3c987978fe56b3": {
-            "text": "Standardm\u00e4\u00dfig erscheinen Aktionen zu einer Seite nach einem Klick (zumindest im Standard-Admin-Theme). Diese Box markieren um sie stattdessen beim hovern anzuzeigen."
+            "text": "Standardm\u00e4\u00dfig erscheinen Aktionen zu einer Seite nach einem Klick (zumindest im Standard-Admin-Theme). Diese Box markieren, um sie stattdessen beim Hovern anzuzeigen."
         },
         "bcf77f341a0ec5189588bdad819c9ee7": {
             "text": "Weitere Optionen hierzu finden Sie unter der $config->pageList Einstellung in \/wire\/config.php. Sie k\u00f6nnen diese Einstellungen in die \/site\/config.php kopieren, um sie zu \u00fcberschreiben."

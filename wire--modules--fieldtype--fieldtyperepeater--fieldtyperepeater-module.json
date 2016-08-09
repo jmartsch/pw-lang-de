@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtyperepeater-module",
     "translations": {
         "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
-            "text": "Bitte f\u00fcgen sie diesem Repeater Felder aus dem Tab \"Details\" hinzu."
+            "text": "Bitte f\u00fcgen Sie diesem Repeater Felder aus dem Tab \"Details\" hinzu."
         },
         "f41ae5ce37aeed3613288bb8c0cc3489": {
             "text": "Definieren Sie die von diesem Repeater benutzten Felder. Sie k\u00f6nnen die Felder mittels Drag 'n' Drop in die gew\u00fcnschte Reihenfolge bringen."
@@ -45,7 +45,7 @@
             "text": "'attached': Der Repeater wird sein Template und seine Eltern-Seite selbst verwalten, ohne dass Sie etwas davon mitbekommen oder dar\u00fcber nachdenken m\u00fcssen."
         },
         "e3d6af2ddc6a90779dd75a3f9c753d7f": {
-            "text": "'detached': Sie k\u00f6nnen Template und Eltern-Seite des Repeaters verschieben und ver\u00e4ndern, wie sie es f\u00fcr richtig halten."
+            "text": "'detached': Sie k\u00f6nnen Template und Eltern-Seite des Repeaters verschieben und ver\u00e4ndern, wie Sie es f\u00fcr richtig halten."
         },
         "77e23d8e1ff8e93bfc6e188f62e409bd": {
             "text": "Hinweise: Falls 'detached' gew\u00e4hlt wird, wird ProcessWire Eltern-Seite oder Template nicht l\u00f6schen, falls das Feld gel\u00f6scht wird."

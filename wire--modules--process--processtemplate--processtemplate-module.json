@@ -117,7 +117,7 @@
             "text": "Falls Sie die von einem anderen Template genutzten Felder duplizieren m\u00f6chten, w\u00e4hlen Sie diese hier aus. Bereits in diesem Template enthaltene Felder werden \u00fcbersprungen."
         },
         "0f62a8abd379b96004d8118b0d9a2399": {
-            "text": "Um die Ausgabe dieses Templates zu cachen, geben sie die Dauer (in Sekunden) an, f\u00fcr die die Ausgabe gecached werden soll. Caching kann auf ressourcenlastigen Seiten signifikant den Seitenaufbau verbessern. Caching sollte aber nicht bei Templates verwendet werden, deren Daten sich st\u00e4ndig \u00e4ndern (z.B. Formulare oder Sessions). Beachten Sie auch, dass URL-Segmente zwar cachef\u00e4hig sind, die Variablen GET und POST aber nicht."
+            "text": "Um die Ausgabe dieses Templates zu cachen, geben Sie die Dauer (in Sekunden) an, f\u00fcr die die Ausgabe gecached werden soll. Caching kann auf ressourcenlastigen Seiten signifikant den Seitenaufbau verbessern. Caching sollte aber nicht bei Templates verwendet werden, deren Daten sich st\u00e4ndig \u00e4ndern (z.B. Formulare oder Sessions). Beachten Sie auch, dass URL-Segmente zwar cachef\u00e4hig sind, die Variablen GET und POST aber nicht."
         },
         "e71a260bc8db16e30f2dedeba9440a25": {
             "text": "Beispiel: 60 = 1 Minute, 600 = 10 Minuten, 3600 = 1 Stunde, 86400 = 1 Tag, 604800 = 1 Woche, 2419200 = 1 Monat."
@@ -171,7 +171,7 @@
             "text": "Den Cache deaktivierende POST-Variablen"
         },
         "f32d42af055544c46a989bceee851733": {
-            "text": "Geben Sie optional einen oder mehrere Variablennamen an. Falls sie mehrere angeben, trennen Sie diese durch ein Leerzeichen."
+            "text": "Geben Sie optional einen oder mehrere Variablennamen an. Falls Sie mehrere angeben, trennen Sie diese durch ein Leerzeichen."
         },
         "f9c716f29bd379e49e4485ea8afd1556": {
             "text": "Template umbenennen"
@@ -189,7 +189,7 @@
             "text": "Dieses Template duplizieren\/klonen?"
         },
         "b69fde670b130ace1c7890c8be5b289b": {
-            "text": "W\u00e4hlen Sie die unten stehende Box aus, wenn sie ein Duplikat\/einen Klon dieses Templates anlegen m\u00f6chten. Der Klon wird angelegt, wenn Sie speichern. Falls Ihr Template-Verzeichnis beschreibbar ist und dem Template eine Datei zugeordnet ist, wird diese ebenfalls geklont."
+            "text": "W\u00e4hlen Sie die unten stehende Box aus, wenn Sie ein Duplikat\/einen Klon dieses Templates anlegen m\u00f6chten. Der Klon wird angelegt, wenn Sie speichern. Falls Ihr Template-Verzeichnis beschreibbar ist und dem Template eine Datei zugeordnet ist, wird diese ebenfalls geklont."
         },
         "e9c90e0ba4fdd701df9d4ff73c82dc3e": {
             "text": "Alternativer Template-Dateiname"
@@ -228,7 +228,7 @@
             "text": "Klassenname der Seite"
         },
         "cfab2e7a62a89871220c3ebac5367331": {
-            "text": "Name der PHP-Klasse, die benutzt wird, um Seiten zu erzeugen, die dieses Template verwenden. Standard: Seiten werden mit der Klasse Page erzeugt. Sie sollten diese Einstellung leer lassen, sofern sie keine aus der Klasse Page abgeleitete Klasse haben, die die verwenden m\u00f6chten."
+            "text": "Name der PHP-Klasse, die benutzt wird, um Seiten zu erzeugen, die dieses Template verwenden. Standard: Seiten werden mit der Klasse Page erzeugt. Sie sollten diese Einstellung leer lassen, sofern Sie keine aus der Klasse Page abgeleitete Klasse haben, die Sie verwenden m\u00f6chten."
         },
         "85ac227eb16808008afaf07f66cf0f7e": {
             "text": "Globale Felder \u00fcberspringen?"
@@ -321,7 +321,7 @@
             "text": "Sortierungseinstellungen f\u00fcr Unterseiten"
         },
         "2a233a750cca4cc7bde0dcc7f8a2c4ec": {
-            "text": "Falls sie m\u00f6chten, dass Unterseiten automatisch nach einem bestimmten Feld sortiert werden, w\u00e4hlen Sie es hier aus. Ansonsten w\u00e4hlen Sie \"Keines\", damit dies stattdessen pro Seite gesetzt wird. Dies \u00fcberschreibt die Seiten-Einstellung; falls Sie also etwas anderes als \"Keines\" w\u00e4hlen, wird die Option zur Sortierung auf Seiten, die dieses Template nutzen, nicht erscheinen."
+            "text": "Falls Sie m\u00f6chten, dass Unterseiten automatisch nach einem bestimmten Feld sortiert werden, w\u00e4hlen Sie es hier aus. Ansonsten w\u00e4hlen Sie \"Keines\", damit dies stattdessen pro Seite gesetzt wird. Dies \u00fcberschreibt die Seiten-Einstellung; falls Sie also etwas anderes als \"Keines\" w\u00e4hlen, wird die Option zur Sortierung auf Seiten, die dieses Template nutzen, nicht erscheinen."
         },
         "fd80e24b28f66f7a579ced68340fd3fa": {
             "text": "Pagination (Seitenzahlen) erlauben?"
