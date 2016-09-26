@@ -111,7 +111,7 @@
             "text": "Das Modul Verzeichnis befindet sich unter [modules.processwire.com](http:\/\/modules.processwire.com)"
         },
         "5975f55a2bcd254c58d9fe16d7a21417": {
-            "text": "Falls Sie neue Module unter \/site\/modules\/ abgelegt haben, klicken Sie diesen Button um sie zu finden."
+            "text": "Falls Sie neue Module unter \/site\/modules\/ abgelegt haben, klicken sie diesen Button um sie zu finden."
         },
         "2b0c95ea68acdfcd4e4d995f89bf3b92": {
             "text": "Dieses Modul scheint nicht kompatibel mit der verwendeten ProcessWire Version zu sein. Es kann trotzdem funktionieren, aber Sie sollten den Modul-Autor kontaktieren."
@@ -376,6 +376,39 @@
         },
         "289aa00733ebcfd0bae827af29d01356": {
             "text": "="
+        },
+        "75a1550235c0efb5d9dedd5f02f1fe86": {
+            "text": "Dateicompiler Cache bereinigt"
+        },
+        "0e1b7d725ac07f97cf9181f6cea25cf5": {
+            "text": "Kompilierte Dateien bereinigt"
+        },
+        "496fe18d4a1185b1236724440ed4ade6": {
+            "text": "Der untere Button bereinigt kompilierte Seitenmodule und Template-Dateien, und erzwingt eine Neukompilierung beim n\u00e4chsten Zugriff. Bitte beachten: dies kann eine tempor\u00e4re Verz\u00f6gerung f\u00fcr eine oder mehrere Abfragen bewirken, w\u00e4hrend der Neukompilierung der Dateien."
+        },
+        "0a5d45b5062fbc6cf7c0fce7c6ecedb7": {
+            "text": "(Standard Namensraum)"
+        },
+        "498ba8bc46d453108ed1961748ae5d6c": {
+            "text": "Keiner (root Namensraum)"
+        },
+        "2f44417567bc123bd7c60de8c2a2b444": {
+            "text": "vor"
+        },
+        "632a2406bbcbcd553eec45ac14b40a0a": {
+            "text": "nach"
+        },
+        "d9402453cf25d5a1ced0a12d96cc7f98": {
+            "text": "Namensraum"
+        },
+        "4516572c6fda0d98d0668aecc205fd25": {
+            "text": "Fehler bei Modul-Installation"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + Beenden"
+        },
+        "cebc0576aea62c59ee4ab6b11793d0ab": {
+            "text": "Installation kann Probleme verursachen. Sind Sie sicher, dass Sie installieren wollen?"
         }
     }
 }

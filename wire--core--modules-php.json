@@ -46,6 +46,39 @@
         },
         "7cbf3b34133e54263a1242eb74a5008e": {
             "text": "Neue Versionen von %d Modulen gefunden"
+        },
+        "0a6712f704d759c81cdc4416397e7faf": {
+            "text": "Fehler beim Aufbau von Modul: %s"
+        },
+        "7f5ebaf3241ff21764054580a96a3b11": {
+            "text": "Fehler beim initieren von Modul: %s"
+        },
+        "dc3b5200f4c5fe1739b1bb1946ed22c1": {
+            "text": "Fehler beim lesen von Modul: %s"
+        },
+        "1f8ef8340fd2af55ecdf88e4a9ea3d8e": {
+            "text": "Modul hat Fehler ausgegeben w\u00e4hrend der Installation"
+        },
+        "46e2d06b80d816b2916f1f27492fbabd": {
+            "text": "Installation von Modul nicht m\u00f6glich"
+        },
+        "5c4f3cc8a1cdcfa7759b4d0a199bcfa0": {
+            "text": "Modul ist noch nicht installiert"
+        },
+        "8ffefc63396ecaf77fdcafe5163f2bfe": {
+            "text": "Modul ist fest installiert"
+        },
+        "926c4c5bf92909f4225cafbe323a1ea9": {
+            "text": "Modul wird von anderen Modulen ben\u00f6tigt, welche zuerst entfernt werden m\u00fcssen"
+        },
+        "d710b0151d568a1efa24617b78fa1f25": {
+            "text": "Dieses Modul ist ein Feldtyp, welcher im Moment von einem oder mehreren Feldern genutzt wird"
+        },
+        "7ac5a75a8a79dc9b9e8d40dbed9c4124": {
+            "text": "Modul %s ben\u00f6tigt: %s"
+        },
+        "dc3fd488f03d423a04da27ce66274c1b": {
+            "text": "Warnung!"
         }
     }
 }

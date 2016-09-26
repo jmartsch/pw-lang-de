@@ -11,20 +11,23 @@
         "03c2e7e41ffc181a4e84080b4710e81e": {
             "text": "Neu"
         },
-        "0774e163cd7df482edd2abd498189f8b": {
-            "text": "Unver\u00f6ffentlicht"
-        },
         "7264d8c26ac9671a31cd3eb3ddd4a447": {
             "text": "Diese Element kann bearbeitet werden, nachdem Sie gespeichert haben."
-        },
-        "138103c4e1d9c846d0afd000e5b928c8": {
-            "text": "Element hinzuf\u00fcgen"
         },
         "25c63396ad92c7bbb48fa4aa21adc5e4": {
             "text": "Wiederholt Felder aus einen anderen Template. Stellt das Eingabefeld f\u00fcr FieldtypeRepeater bereit."
         },
         "d3b3350cb648f345b0a21a048df0cf45": {
             "text": "="
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Neu hinzuf\u00fcgen"
+        },
+        "a8a50b640956ab0334e76e86c168644c": {
+            "text": "Dieses Element l\u00f6schen"
+        },
+        "75e43298796bd7ec058b10778d58bb72": {
+            "text": "Umschalten ver\u00f6ffentlicht\/unver\u00f6ffentlicht"
         }
     }
 }

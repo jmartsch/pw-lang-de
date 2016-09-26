@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Page\/PageFrontEdit\/PageFrontEdit.module",
+    "textdomain": "wire--modules--page--pagefrontedit--pagefrontedit-module",
+    "translations": {
+        "6515bf8b9ae525409c260d022033fdd6": {
+            "text": "Wollen Sie wirklich abbrechen?"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Speichern"
+        },
+        "eedf6b8bfc83284c3294ec4b38188e8a": {
+            "text": "Speichert..."
+        },
+        "db8ecb61f23a81a38b2c83858269f951": {
+            "text": "Gespeichert!"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Abbrechen"
+        }
+    }
+}

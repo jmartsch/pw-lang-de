@@ -30,7 +30,7 @@
             "text": "Eingabeformat Datum"
         },
         "7656e28d6e435ffecc453794149e6a0d": {
-            "text": "W\u00e4hlen Sie das f\u00fcr die Benutzereingabe des Datums in dieses Feld verwendete Format. Das unten stehende Feld wird nach Ihrer Auswahl vorbelegt, Sie k\u00f6nnen diese bei Bedarf weiter anpassen."
+            "text": "W\u00e4hlen Sie das f\u00fcr die Benutzereingabe des Datums in dieses Feld verwendete Format. Das unten stehende Feld wird nach Ihrer Auswahl vorbelegt, sie k\u00f6nnen diese bei Bedarf weiter anpassen."
         },
         "6adf97f83acf6453d4a6a4b1070f3754": {
             "text": "Keines"
@@ -87,7 +87,28 @@
             "text": "Format f\u00fcr Zeit"
         },
         "b69f42ea4444ae5aa888b53cf6045710": {
-            "text": "/wire/modules/Jquery/JqueryUI/i18n/jquery.ui.datepicker-de.js"
+            "text": "\/wire\/modules\/Jquery\/JqueryUI\/i18n\/jquery.ui.datepicker-de.js"
+        },
+        "7db50c3ca59f3f55260013a5e3481f47": {
+            "text": "timepicker\/i18n\/jquery-ui-timepicker-de.js"
+        },
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(empfohlen)"
+        },
+        "91c4223a8591eed0ecab28c3a1a880b2": {
+            "text": "Eingabetyp Uhrzeit"
+        },
+        "08d3eb379def33331427b243c363eef5": {
+            "text": "Schieber (Standard) erm\u00f6glichen dem Benutzer die Zeit per Schieberegler einzustellen, w\u00e4hrend Auswahl die Einstellung der Zeit \u00fcber ein Drop-Down Men\u00fc anbietet."
+        },
+        "9ad46d2d4f10955abfc9ca97565bba87": {
+            "text": "Schieber"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Auswahl"
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(Unix Zeitstempel)"
         }
     }
 }

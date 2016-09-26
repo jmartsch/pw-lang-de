@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/FileCompilerTags.module",
+    "textdomain": "wire--modules--filecompilertags-module",
+    "translations": {
+        "8418bef60e7d6514900699d3c7a97999": {
+            "text": "\u00d6ffne Tag Zeichen"
+        },
+        "ca3018123844e1da3159b99de524bb61": {
+            "text": "Schliesse Tag Zeichen"
+        }
+    }
+}

@@ -1,12 +1,12 @@
 {
-    "file": "wire\/core\/Pages.php",
-    "textdomain": "wire--core--pages-php",
+    "file": "wire\/core\/PagesEditor.php",
+    "textdomain": "wire--core--pageseditor-php",
     "translations": {
         "9ba12390dc16d0bb6b897e136830b4e4": {
             "text": "Unbenannte Seite"
         },
         "f7b20059533e8267e92eecda0b6eee8e": {
-            "text": "Fehler beim Speichern von Feld \"%s\""
+            "text": "Fehler beim speichern von Feld \"%s\""
         }
     }
 }

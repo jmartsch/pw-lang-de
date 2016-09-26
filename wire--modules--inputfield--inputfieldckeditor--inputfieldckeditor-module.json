@@ -17,12 +17,6 @@
         "586dfebdb944d7af7c4720be84d7fa50": {
             "text": "Bild speichern"
         },
-        "941c891be23b6a837de1d46c30efad2a": {
-            "text": "Dieses Bild einf\u00fcgen"
-        },
-        "a616a1ef7aa1ee32d7d31c742923a202": {
-            "text": "Anderes Bild ausw\u00e4hlen"
-        },
         "a2a62a977b1825230f76d3ba2a6bf3df": {
             "text": "Der Inline-Modus des CKEditor ben\u00f6tigt das Modul MarkupHTMLPurifier. Nutze stattdessen den normalen Modus."
         },
@@ -36,7 +30,7 @@
             "text": "CKEditor-Einstellungen"
         },
         "9022c2878a60d1f4ebc0f9f83a09975f": {
-            "text": "Jedes Toolbar-Element mit Komma trennen. Elemente werden gruppiert, indem man sie auf einer Zeile platziert und einen Bindestrich \"-\" zur optischen Trennung der Gruppe einsetzt. M\u00f6chten Sie mehr wie eine Toolbar-Zeile verwenden, trennen Sie diese mit einer Leerzeile."
+            "text": "Jedes Toolbar-Element mit Komma trennen. Elemente werden gruppiert, indem man sie auf einer Zeile platziert und einen Bindestrich \"-\" zur optischen Trennung der Gruppe einsetzt. M\u00f6chten Sie mehr wie eine Toolbar Zeile verwenden, trennen Sie diese mit einer Leerzeile."
         },
         "dfabf65177db13369e6f60e33d626a25": {
             "text": "Editor-Modus"
@@ -159,7 +153,7 @@
             "text": "%s Einstellungen"
         },
         "2c3077a1dd5833c9dc6f49fe48e3ab71": {
-            "text": "Falls genutzt, einen Eintrag mit **eigenschaft: wert** pro Zeile oder einen JSON String eintragen."
+            "text": "Falls genutzt, einen Eintrag mit **eigenschaft: wert** pro Zeile oder einen JSON-String eintragen."
         },
         "ced89926ebd1c95b56710b6a873b1e93": {
             "text": "Plugin-Einstellungen f\u00fcr \"%s\" sind kein valides JSON."
@@ -214,6 +208,15 @@
         },
         "bb38096ab39160dc20d44f3ea6b44507": {
             "text": "="
+        },
+        "7038eac66e387c3b3a0834d786a88757": {
+            "text": "Bild einf\u00fcgen"
+        },
+        "0d1fae9f57cbc9a014f1c96baeef3911": {
+            "text": "Anderes Bild ausw\u00e4hlen"
+        },
+        "fb946d5480a9eb75edd868079b14cfac": {
+            "text": "Z\u00e4hler werden in regul\u00e4ren CKEditor-Feldern unterst\u00fctzt, aber nicht in Inline-CKEditor-Feldern."
         }
     }
 }

@@ -1,0 +1,9 @@
+{
+    "file": "wire\/core\/FileCompiler.php",
+    "textdomain": "wire--core--filecompiler-php",
+    "translations": {
+        "fedcb63eba822139bb6790c5dc5ca69f": {
+            "text": "Kompilierte Datei:"
+        }
+    }
+}

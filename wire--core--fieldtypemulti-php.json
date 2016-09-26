@@ -4,6 +4,33 @@
     "translations": {
         "e2942a04780e223b215eb8b663cf5353": {
             "text": "z\u00e4hlen"
+        },
+        "0f87dcdd9cbafb48e5d9e444ba7c14a7": {
+            "text": "Sortierung und Seitennummerierung"
+        },
+        "7f99274f686fafb79a69fb49fd22b087": {
+            "text": "Diese Einstellungen gelten f\u00fcr das Front-End (Seite) und das Back-End (Editor)"
+        },
+        "bfc4400f3a3f1f3ad8647c7391cc3f1c": {
+            "text": "(umgekehrt)"
+        },
+        "1785200c818e6b465cab76d18f05aa40": {
+            "text": "Automatisches sortieren"
+        },
+        "c1e2087d761e1449f626c96d45bb1c3e": {
+            "text": "Ein oder mehrere Felder zur Sortierung unten ausw\u00e4hlen. Zur manuellen Sortierung diese Einstellung leer lassen."
+        },
+        "53fc83e55c6d5a04fd63ffe5c4e90d1c": {
+            "text": "Limit f\u00fcr Seitennummerierung \/ Elemente pro Seite"
+        },
+        "cc4713abaa08f23ce8f1a1143a04ee77": {
+            "text": "Dies limitiert die Anzahl der Elemente, welche durch die Seitennummerierung geladen\/bearbeitet werden. Der Wert \"0\" bedeutet kein Limit (Standard)."
+        },
+        "0b01fc6afe7ee324751846ccf0dfc735": {
+            "text": "Seitennummerierung wird empfohlen, wenn Sie mit hunderten, tausenden oder mehr Elementen arbeiten."
+        },
+        "ab7c5fc204d8e160a7b731a0799bf450": {
+            "text": "Diese Einstellung hat keinerlei Auswirkung, sofern nicht eine Auswahl zum \"Automatisch sortieren\" getroffen wird."
         }
     }
 }

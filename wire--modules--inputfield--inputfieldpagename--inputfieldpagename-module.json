@@ -16,6 +16,9 @@
         },
         "49ee3087348e8d44e1feda1917443987": {
             "text": "="
+        },
+        "5e6587062568e96fc604e79a948a7460": {
+            "text": "Die Konfiguration zum Ersetzen von Zeichen ist deaktiviert weil $config->pageNameCharset auf UTF8 steht."
         }
     }
 }

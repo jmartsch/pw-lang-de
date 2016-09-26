@@ -117,7 +117,7 @@
             "text": "Falls Sie die von einem anderen Template genutzten Felder duplizieren m\u00f6chten, w\u00e4hlen Sie diese hier aus. Bereits in diesem Template enthaltene Felder werden \u00fcbersprungen."
         },
         "0f62a8abd379b96004d8118b0d9a2399": {
-            "text": "Um die Ausgabe dieses Templates zu cachen, geben Sie die Dauer (in Sekunden) an, f\u00fcr die die Ausgabe gecached werden soll. Caching kann auf ressourcenlastigen Seiten signifikant den Seitenaufbau verbessern. Caching sollte aber nicht bei Templates verwendet werden, deren Daten sich st\u00e4ndig \u00e4ndern (z.B. Formulare oder Sessions). Beachten Sie auch, dass URL-Segmente zwar cachef\u00e4hig sind, die Variablen GET und POST aber nicht."
+            "text": "Um die Ausgabe dieses Templates zu cachen, geben sie die Dauer (in Sekunden) an, f\u00fcr die die Ausgabe gecached werden soll. Caching kann auf ressourcenlastigen Seiten signifikant den Seitenaufbau verbessern. Caching sollte aber nicht bei Templates verwendet werden, deren Daten sich st\u00e4ndig \u00e4ndern (z.B. Formulare oder Sessions). Beachten Sie auch, dass URL-Segmente zwar cachef\u00e4hig sind, die Variablen GET und POST aber nicht."
         },
         "e71a260bc8db16e30f2dedeba9440a25": {
             "text": "Beispiel: 60 = 1 Minute, 600 = 10 Minuten, 3600 = 1 Stunde, 86400 = 1 Tag, 604800 = 1 Woche, 2419200 = 1 Monat."
@@ -171,7 +171,7 @@
             "text": "Den Cache deaktivierende POST-Variablen"
         },
         "f32d42af055544c46a989bceee851733": {
-            "text": "Geben Sie optional einen oder mehrere Variablennamen an. Falls Sie mehrere angeben, trennen Sie diese durch ein Leerzeichen."
+            "text": "Geben Sie optional einen oder mehrere Variablennamen an. Falls sie mehrere angeben, trennen Sie diese durch ein Leerzeichen."
         },
         "f9c716f29bd379e49e4485ea8afd1556": {
             "text": "Template umbenennen"
@@ -187,9 +187,6 @@
         },
         "30281e3b2fa626d5f52c833c541c84ac": {
             "text": "Dieses Template duplizieren\/klonen?"
-        },
-        "b69fde670b130ace1c7890c8be5b289b": {
-            "text": "W\u00e4hlen Sie die unten stehende Box aus, wenn Sie ein Duplikat\/einen Klon dieses Templates anlegen m\u00f6chten. Der Klon wird angelegt, wenn Sie speichern. Falls Ihr Template-Verzeichnis beschreibbar ist und dem Template eine Datei zugeordnet ist, wird diese ebenfalls geklont."
         },
         "e9c90e0ba4fdd701df9d4ff73c82dc3e": {
             "text": "Alternativer Template-Dateiname"
@@ -228,7 +225,7 @@
             "text": "Klassenname der Seite"
         },
         "cfab2e7a62a89871220c3ebac5367331": {
-            "text": "Name der PHP-Klasse, die benutzt wird, um Seiten zu erzeugen, die dieses Template verwenden. Standard: Seiten werden mit der Klasse Page erzeugt. Sie sollten diese Einstellung leer lassen, sofern Sie keine aus der Klasse Page abgeleitete Klasse haben, die Sie verwenden m\u00f6chten."
+            "text": "Name der PHP-Klasse, die benutzt wird, um Seiten zu erzeugen, die dieses Template verwenden. Standard: Seiten werden mit der Klasse Page erzeugt. Sie sollten diese Einstellung leer lassen, sofern sie keine aus der Klasse Page abgeleitete Klasse haben, die die verwenden m\u00f6chten."
         },
         "85ac227eb16808008afaf07f66cf0f7e": {
             "text": "Globale Felder \u00fcberspringen?"
@@ -321,7 +318,7 @@
             "text": "Sortierungseinstellungen f\u00fcr Unterseiten"
         },
         "2a233a750cca4cc7bde0dcc7f8a2c4ec": {
-            "text": "Falls Sie m\u00f6chten, dass Unterseiten automatisch nach einem bestimmten Feld sortiert werden, w\u00e4hlen Sie es hier aus. Ansonsten w\u00e4hlen Sie \"Keines\", damit dies stattdessen pro Seite gesetzt wird. Dies \u00fcberschreibt die Seiten-Einstellung; falls Sie also etwas anderes als \"Keines\" w\u00e4hlen, wird die Option zur Sortierung auf Seiten, die dieses Template nutzen, nicht erscheinen."
+            "text": "Falls sie m\u00f6chten, dass Unterseiten automatisch nach einem bestimmten Feld sortiert werden, w\u00e4hlen Sie es hier aus. Ansonsten w\u00e4hlen Sie \"Keines\", damit dies stattdessen pro Seite gesetzt wird. Dies \u00fcberschreibt die Seiten-Einstellung; falls Sie also etwas anderes als \"Keines\" w\u00e4hlen, wird die Option zur Sortierung auf Seiten, die dieses Template nutzen, nicht erscheinen."
         },
         "fd80e24b28f66f7a579ced68340fd3fa": {
             "text": "Pagination (Seitenzahlen) erlauben?"
@@ -400,9 +397,6 @@
         },
         "ce79a399cbe0a2128106c428d5f5227c": {
             "text": "Template gespeichert: %s"
-        },
-        "0ad1fc6237db839537da704c90b40c53": {
-            "text": "Klon des Templates \"%1$s\" namens \"%2$s\" erstellt. Sie k\u00f6nnen den Klon umbenennen, indem Sie \"%2$s\" bearbeiten und das \"Erweitert\"-Tab \u00f6ffnen."
         },
         "dbb2a9bf7f53894204e7b75a4a323fa2": {
             "text": "Fehler beim duplizieren dieses Templates"
@@ -893,9 +887,6 @@
         "f0ec91a2ccc29fee4de702e940b186a8": {
             "text": "Die hier verf\u00fcgbaren Optionen sind festgelegt durch Ihre obige Auswahl f\u00fcr \"Seiten bearbeiten\". Daher sollten Sie dieses Template erst speichern und dann, nach den \u00c4nderungen der Rollen oben unter \"Seiten bearbeiten\", hierher zur\u00fcckkehren."
         },
-        "975bafff7904e0b6768fc9b2d0a11829": {
-            "text": "Zum deaktivieren leer lassen. Geben Sie \"title\" (ohne Anf\u00fchrungszeichen) ein zur automatischen Generierung des Namens vom Titel der Seite. Weitere Optionen mit Datumsformaten sind ebenfalls m\u00f6glich. [Mehr](https:\/\/processwire.com\/api\/modules\/process-template\/)"
-        },
         "c5abeb6189c82d5b9d81bbcac604408b": {
             "text": "="
         },
@@ -931,6 +922,81 @@
         },
         "2a138a3c1a54958a39f65b80e666b643": {
             "text": "="
+        },
+        "27dd547b53bb1b3c67c345f984747010": {
+            "text": "Zum deaktivieren leer lassen. Geben Sie \"title\" (ohne Anf\u00fchrungszeichen) ein zur automatischen Generierung des Namens vom Titel der Seite. Weitere Optionen mit Datumsformaten sind ebenfalls m\u00f6glich. [Mehr](http:\/\/processwire.com\/api\/modules\/process-template\/)"
+        },
+        "3797b58404902683867d788211ac5ce2": {
+            "text": "Kompilierte Datei verwenden?"
+        },
+        "422d6e51e28831664b5c0b701b6c6182": {
+            "text": "(nur Template-Datei)"
+        },
+        "4a290c3c1090e21dd600de5f741fa083": {
+            "text": "Notwendige Feld-Aktion"
+        },
+        "413c8d36faee24af361553c804386428": {
+            "text": "Welche Aktion soll ausgef\u00fchrt werden, wenn eine bereits ver\u00f6ffentlichte Seite mit einem fehlenden Pflichtfeld gespeichert wurde?"
+        },
+        "6aa324ce3baf41a239eaa440caba0a51": {
+            "text": "Benutzer \u00fcber Fehler alarmieren (Standard)"
+        },
+        "df169cc44c2c05b1bc4f79938c03405b": {
+            "text": "Vorherigen Wert wiederherstellen (falls vorhanden)"
+        },
+        "90ffa24b83a6a28137f9063f7e6cdc4b": {
+            "text": "Seite nicht ver\u00f6ffentlichen (falls erlaubt)"
+        },
+        "e139846cbe34d9fe671e7b5975d367ba": {
+            "text": "Erm\u00f6glicht ProcessWire Ihre Template-Datei f\u00fcr den ProcessWire Namensraum zu aktualisieren und beliebige installierte DateiKompiler Module auszuf\u00fchren."
+        },
+        "d539c03bba4a77f2fb76ab46fa9b93f1": {
+            "text": "Wird zumindest  f\u00fcr Template-Dateien empfohlen, welche keinen ProcessWire Namensraum verwenden (wie solche von PW 2.x Seiten)."
+        },
+        "adab801f8cca3e7d6f780fe4853eb55f": {
+            "text": "Falls Sie nicht sicher sind, w\u00e4hlen Sie \"Auto\"."
+        },
+        "cacd642e8d383be621123210fa6d9d74": {
+            "text": "(deaktiviert Compiler)"
+        },
+        "a441d0ada5c25b0aaf68585c3cd98609": {
+            "text": "Auto (kompilieren wenn Datei keinen Namensraum hat)"
+        },
+        "ad6d587b4370281434a47d58aaf1e5a5": {
+            "text": "(Template-Datei und eingeschlossene Dateien)"
+        },
+        "1d926a6b89b4bc848e3f4ffa3e1bd67d": {
+            "text": "Festgestellter Template-Datei-Namensraum ist \"%s\"."
+        },
+        "0b506a8d05b70f0f99d7843e1e7ce9c2": {
+            "text": "Kompilierung empfohlen."
+        },
+        "9b404a9b5976b30bf436e218068b3d4d": {
+            "text": "Kompilieren nicht notwendig, sofern nicht f\u00fcr Module oder Includes ben\u00f6tigt."
+        },
+        "4250b64aabe2bd1f7764377c2f5380c4": {
+            "text": "Unterst\u00fctzung mehrerer Sprachen f\u00fcr dieses Template deaktivieren?"
+        },
+        "109da571222f1c753257a9ea7d9c0f23": {
+            "text": "Falls ausgew\u00e4hlt, werden Seiten, welche dieses Template nutzen, nur die Standard-Sprache verwenden."
+        },
+        "2ae2316266d64c1c1caa543c16fe62bc": {
+            "text": "API: $template->noLang = 1; \/\/ Standard ist 0."
+        },
+        "4b5a4101eef9107a93653ecef0418ed1": {
+            "text": "Geben Sie den Namen des neuen zu erstellenden Templates an. Der Klon wird angelegt, wenn Sie speichern. Falls Ihr Template-Verzeichnis beschreibbar ist und dem Template eine Datei zugeordnet ist, wird diese ebenfalls geklont."
+        },
+        "dd086c8dc23fef8fb9543424864aa9cb": {
+            "text": "Ung\u00fcltiger Templatename zum klonen festgelegt"
+        },
+        "ab64903a1bc47ab8cf1767e8d6581c2d": {
+            "text": "Klonen nicht m\u00f6glich weil ein Template mit diesem Namen bereits existiert"
+        },
+        "0ce8e11f27f5cff906b08ff533da5567": {
+            "text": "Klon von Template \"%1$s\" erstellt mit Namen \"%2$s\"."
+        },
+        "1ad747442af37649526e00927b7d0a1f": {
+            "text": "Zur Konfiguration der m\u00f6glichen Felder, welche ein Benutzer in seinem Profil bearbeiten kann, siehe in den [Einstellungen des Profilmoduls](%s)."
         }
     }
 }

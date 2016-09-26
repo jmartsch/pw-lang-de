@@ -3,10 +3,10 @@
     "textdomain": "wire--modules--process--processuser--processuserconfig-php",
     "translations": {
         "512bc1289fe1ab9723f6ed9d3d6e651e": {
-            "text": "Maximale Anzahl der Benutzer zur Anzeige im AJAX Dropdown-Men\u00fc"
+            "text": "Maximale Anzahl der Benutzer zur Anzeige im AJAX-Dropdown-Men\u00fc"
         },
         "59b101e7ae1c41c851d1c05341347023": {
-            "text": "Wenn die Anzahl der Benutzer im System diesen Wert \u00fcbersteigt, zeigt die Dropdown-Navigation stattdessen Benutzerrollen mit Menge der zugeh\u00f6rigen Benutzer."
+            "text": "Wenn die Anzahl der Benutzer im System diesen Wert \u00fcbersteigt, zeigt die Dropdown-Navigation stattdessen Benutzerrollen mit Menge der zugeh\u00f6rigen Benutzer an."
         },
         "77cb5109c9ae7f1f6359fefd4f8dbfaa": {
             "text": "Geben Sie einen Wert zwischen 1 und 100 an (Standard=25)"

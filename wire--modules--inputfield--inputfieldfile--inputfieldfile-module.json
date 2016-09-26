@@ -60,7 +60,7 @@
             "text": "Falls markiert, wird bei einer hochgeladenen Datei mit identischem Namen eine bereits vorhandene Datei ersetzt (Beschreibung und Tags bleiben erhalten). Falls nicht markiert, werden hochgeladene Dateinamen eindeutig umbenannt."
         },
         "2713d4f20fb5e7947fb2bb844d57322d": {
-            "text": "Bitte beachten: Wenn diese Option aktiviert ist, werden per AJAX hochgeladene Dateien sofort beim Hochladen auf der Seite gespeichert, anstatt erst nach dem Klick auf \"Speichern\". Markieren Sie diese Option nicht, sofern Sie diese nicht speziell ben\u00f6tigen."
+            "text": "Bitte beachten: Wenn diese Option aktiviert ist, werden per AJAX hochgeladene Dateien sofort beim Hochladen auf der Seite gespeichert, anstatt erst nach dem Klick auf \"Speichern\". Markieren Sie diese Option nicht, sofern sie diese nicht speziell ben\u00f6tigen."
         },
         "f2a6c498fb90ee345d997f888fce3b18": {
             "text": "L\u00f6schen"
@@ -70,6 +70,18 @@
         },
         "189f63f277cd73395561651753563065": {
             "text": "="
+        },
+        "b15dd49c58da836d9802f6e9e063a998": {
+            "text": "Datei \"%1$s\" umbenannt zu \"%2$s\""
+        },
+        "d7c8c85bf79bbe1b7188497c32c3b0ca": {
+            "text": "Fehlgeschlagen"
+        },
+        "e635032a5f71d809146d3872389f5b0c": {
+            "text": "Datei ausw\u00e4hlen"
+        },
+        "96baacdc276036c2b8fb65264750a3b4": {
+            "text": "Dateien ausw\u00e4hlen"
         }
     }
 }

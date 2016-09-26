@@ -220,6 +220,27 @@
         },
         "80d2677cf518f4d04320042f4ea6c146": {
             "text": "="
+        },
+        "63bfec5d508757f781c6e3aa5ca214b6": {
+            "text": "Selektor Sandbox"
+        },
+        "eae4975b49e9af4e0b024b1c44c7fe4f": {
+            "text": "Hier k\u00f6nnen Sie bei Bedarf die Funktionalit\u00e4t dieses Eingabefeldes testen."
+        },
+        "f9b4bd2025de32122aca0de287601aa0": {
+            "text": "Enth\u00e4lt keinen Text"
+        },
+        "c792d413c780e14f2ab0cd586af2940a": {
+            "text": "Enth\u00e4lt keine Phrase"
+        },
+        "f97418feca88d6e3a1747a59883b35fe": {
+            "text": "Enth\u00e4lt keine Worte"
+        },
+        "256511287ee7ec2a36613f761a24370c": {
+            "text": "Beginnt nicht mit"
+        },
+        "70e54ebce37af51191725a9b2451e1b0": {
+            "text": "Endet nicht mit"
         }
     }
 }

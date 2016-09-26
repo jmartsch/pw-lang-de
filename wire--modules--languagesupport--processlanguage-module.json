@@ -23,11 +23,44 @@
         "3a08e2e340ab29fd9263af48193cbf8e": {
             "text": "Sprachen"
         },
-        "4b58cc72fab0b5fb596e9f02091ec0fe": {
-            "text": "Datei \u00fcbersetzen"
-        },
         "9b73fd4d710e72a212bfc7dbe5692405": {
             "text": "ZIP herunterladen"
+        },
+        "e29dcc5c9ac228a6986599e4ec13613c": {
+            "text": "="
+        },
+        "3f045b24a15220ad5572f3ad51dd80e0": {
+            "text": "CSV \u00dcbersetzungsdatei wird nach dem Speichern importiert"
+        },
+        "54df9536f2bc89e18bec27b0d34ab42e": {
+            "text": "CSV herunterladen"
+        },
+        "b012fb6e4f8ea5ec13a5797b60145bb3": {
+            "text": "Nicht erkannte Textdomain f\u00fcr Datei: %s"
+        },
+        "8d8b8c1b707b1cc979c41ca7cb2a2020": {
+            "text": "In Summe %d \u00dcbersetzungen, %d \u00c4nderungen"
+        },
+        "610d28b5e07bce623b5dcbcefc043344": {
+            "text": "%d \u00c4nderung(en) gespeichert f\u00fcr Datei: %s"
+        },
+        "eb277f118345e1e4c0f1b81cec469ee9": {
+            "text": "Live Suche"
+        },
+        "585cff0204f1e344b4ea709b6e2928b4": {
+            "text": "Gesuchter Text"
+        },
+        "59b2ae438ca9f446f5cd4d79d3395446": {
+            "text": "Hier klicken um Index der Phrasen-Suche aufzubauen"
+        },
+        "038126bcfc832f08d96c331d0316f5da": {
+            "text": "Durchsuche alle \u00fcbersetzbaren Dateien nach spezifischem Text\/Phrase."
+        },
+        "3e6c8fe6aa8a8d75014ff9ed52aa30be": {
+            "text": "Gefundene Treffer anklicken, um \u00dcbersetzung zu bearbeiten oder um Datei hinzuzuf\u00fcgen (falls noch nicht vorhanden)."
+        },
+        "7ccfd146fb192231dafacaa68c6fad13": {
+            "text": "Dateien \u00fcbersetzen"
         }
     }
 }

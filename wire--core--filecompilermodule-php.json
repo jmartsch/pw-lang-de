@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/FileCompilerModule.php",
+    "textdomain": "wire--core--filecompilermodule-php",
+    "translations": {
+        "e774dc32721ed4babc1996a83868058f": {
+            "text": "Reihenfolge der Ausf\u00fchrung zur Laufzeit"
+        },
+        "26ca6e7fb5ade62330c73e93dc083cab": {
+            "text": "Reihenfolge in welcher dieses Modul l\u00e4uft relativ zu anderen Datei-Compiler Modulen. Niedrigere Nummern laufen zuerst."
+        }
+    }
+}

@@ -3,13 +3,13 @@
     "textdomain": "wire--modules--system--systemnotifications--systemnotificationsconfig-php",
     "translations": {
         "d9b71f69d8afdf5b522a5529ec7434f5": {
-            "text": "Name des Benutzers welcher System-Benachrichtigungen erh\u00e4lt"
+            "text": "Name des Benutzers, welcher System-Benachrichtigungen erh\u00e4lt"
         },
         "2871a976bc7a1ed674bc578c34af81ee": {
             "text": "Aktive Hooks f\u00fcr automatische Benachrichtigungen"
         },
         "b106396b3992fc580dd88f36d98c32b5": {
-            "text": "Immer wenn eines dieser Ereignisse vorkommt, wird der o.g. System-Benutzer benachrichtigt."
+            "text": "Immer wenn eines dieser Ereignisse vorkommt wird der o.g. System-Benutzer benachrichtigt."
         },
         "53af239ee5d3e261545dededcb6ffd57": {
             "text": "404 Seite nicht gefunden"
@@ -51,10 +51,10 @@
             "text": "Wie lange das Benachrichtigungs-Pop-up sichtbar ist (in ms)."
         },
         "a24efc3293365b4ca44161c70fffe1b7": {
-            "text": "Verz\u00f6gerung des Fehler Benachrichtigungs-Pop-up"
+            "text": "Verz\u00f6gerung des Fehler-Benachrichtigungs-Pop-up"
         },
         "0673410c6de314e9317a7f593f6a99b6": {
-            "text": "Wie lange das Fehler Benachrichtigungs-Pop-up sichtbar ist (in ms)."
+            "text": "Wie lange das Fehler-Benachrichtigungs-Pop-up sichtbar ist (in ms)."
         },
         "a2736075ee5bcaeaad4650b9a1bb7d43": {
             "text": "Geschwindigkeit des Fadings"
@@ -132,7 +132,7 @@
             "text": "Bearbeitung von Seiten verfolgen?"
         },
         "6f089aa14345991d2dc5234b61b2841c": {
-            "text": "Benachrichtigt Benutzer, wenn sie versuchen, eine Seite zu bearbeiten, welche gerade bearbeitet wird."
+            "text": "Benachrichtigt Benutzer, wenn sie versuchen eine Seite zu bearbeiten die gerade bearbeitet wird."
         },
         "960b44c579bc2f6818d2daaf9e4c16f0": {
             "text": "="
