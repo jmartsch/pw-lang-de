@@ -81,7 +81,7 @@
             "text": "In den Papierkorb verschieben"
         },
         "4351cfebe4b61d8aa5efa1d020710005": {
-            "text": "Ansehen"
+            "text": "Anzeigen"
         },
         "bbbabdbe1b262f75d99d62880b953be1": {
             "text": "Rolle"
@@ -123,7 +123,7 @@
             "text": "Falls Sie wollen, dass alle derzeitigen und zuk\u00fcnftigen Unterseiten automatisch nach einem bestimmten Feld sortiert werden, w\u00e4hlen Sie das Feld unten aus und kreuzen Sie ggf. die \"Umgekehrte Sortierreihenfolge?\"-Checkbox an, um eine absteigend Sortierreihenfolge zu nutzen. Ignorieren Sie die Sortiereinstellungen einfach, falls Sie die Seiten per Drag'n'Drop selbst ordnen wollen."
         },
         "62a92c8e1a013dc0c9a67f2769642e9f": {
-            "text": "Kreuzen Sie die Box an, um zu best\u00e4tigen, dass sie dies wollen."
+            "text": "Kreuzen sie die Box an, um zu best\u00e4tigen, dass sie dies wollen."
         },
         "6e2e3de95055596f315a073f771342e3": {
             "text": "Diese Seite kann zur Zeit nicht gel\u00f6scht werden."
@@ -180,7 +180,7 @@
             "text": "Angelegt vom Benutzer"
         },
         "421318b075c43ddcd5426197f778c43c": {
-            "text": "Kann nicht gespeichert werden, eher Fehler korrigiert wurden."
+            "text": "Kann nicht gespeichert werden, bevor Fehler korrigiert wurden"
         },
         "265dabf958cffe4bf96d445dcddf8678": {
             "text": "%d \u00c4nderung"
@@ -208,6 +208,51 @@
         },
         "ec53a8c4f07baed5d8825072c89799be": {
             "text": "="
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + Beenden"
+        },
+        "1040873c1bf94b1995201c648a15989d": {
+            "text": "%s + Anzeigen"
+        },
+        "407911b74ab384304ea0190675a00894": {
+            "text": "%s + Neu hinzuf\u00fcgen"
+        },
+        "e1ccd342c70dde8fd239432c69aa55e0": {
+            "text": "Wiederhergestellter vorheriger Wert"
+        },
+        "f3e0ef028ad1fda84b2b567684c67846": {
+            "text": "Seite unver\u00f6ffentlicht weil Feld \"%s\" ein Pflichtfeld ist"
+        },
+        "90a2c610d9bb43ef59bc60c944c7633f": {
+            "text": "Standard Bereich\/Aktion bei \"Anzeigen\""
+        },
+        "d6b9987fabd38f232ada46d046aa4f88": {
+            "text": "Die standardm\u00e4\u00dfig genutzte Aktion wenn im Seiten-Editor der \"Ansehen\" Tab geklickt wird."
+        },
+        "25ed18e06e982b711a80310caf119563": {
+            "text": "Seitenansicht"
+        },
+        "43aaebd9ba4408c30e8e5164b4860ae6": {
+            "text": "="
+        },
+        "c772431f8a16790370305c86f948c6f5": {
+            "text": "="
+        },
+        "c97f398820bf360b28776372f47a115a": {
+            "text": "Neues Fenster\/Tab"
+        },
+        "7e7b8eaf9921d2a698937d925748e85b": {
+            "text": "Schliessen + Anzeigen"
+        },
+        "cc231fc91e42d1e391bbce1fc541959f": {
+            "text": "%s + N\u00e4chste"
+        },
+        "4c2915288e6804dd4b1adf9819439b19": {
+            "text": "Es gibt keine weitere bearbeitbare Seite."
+        },
+        "109f29a4bda4c9b4a00ffd5452fe9515": {
+            "text": "Sind Sie sicher? Im Moment l\u00e4uft ein Upload. Dieser geht verloren, wenn Sie fortfahren."
         }
     }
 }

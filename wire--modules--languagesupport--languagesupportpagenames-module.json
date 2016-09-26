@@ -8,9 +8,6 @@
         "35b837a5674ea74e192fc0fa8b68f46c": {
             "text": "Nummer f\u00fcr die Seitenzahlen (pagination)"
         },
-        "6119a76d8e8915737cda0e4151922c06": {
-            "text": "Die Seitennummer wird an das Wort in paginierten URLs f\u00fcr diese Sprache angeh\u00e4ngt. Falls ausgelassen, wird \"%s\" verwendet."
-        },
         "5b5fec43bb1313c56d2e944d9567cd96": {
             "text": "Die URL der Startseite in der Standardsprache ist identisch mit der Root-URL?"
         },
@@ -25,6 +22,9 @@
         },
         "f1bd84fbcee1b287fe538f7df1cbd700": {
             "text": "Nein - die Root-URL f\u00fchrt einen redirect aus auf: \/name\/"
+        },
+        "68d765216e3092d42524f9f6f14ce93c": {
+            "text": "Die Seitennummer wird an das Wort in paginierten URLs f\u00fcr diese Sprache angeh\u00e4ngt. Falls ausgelassen, wird \"%s\" verwendet."
         }
     }
 }

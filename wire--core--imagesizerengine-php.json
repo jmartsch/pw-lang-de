@@ -1,0 +1,39 @@
+{
+    "file": "wire\/core\/ImageSizerEngine.php",
+    "textdomain": "wire--core--imagesizerengine-php",
+    "translations": {
+        "4aede3b538343c5323a0f900ca4fa255": {
+            "text": "Priorit\u00e4t der Anwendung"
+        },
+        "3d50ad624e49f81b1f9f836a3b70b57c": {
+            "text": "Dies bestimmt, in welcher Reihenfolge diese Anwendung in Bezug auf andere ImageSizerEngine-Module angewandt wird."
+        },
+        "7556d21eaf163cc3e4019e7c065df022": {
+            "text": "Je niedriger die Zahl, desto h\u00f6her die Priorit\u00e4t."
+        },
+        "c57c3b5a8e7466e2c2940704b60d2a42": {
+            "text": "Falls Sie weitere ImageSizerEngine-Module installiert haben, achten Sie darauf dass nicht zwei die gleiche Priorit\u00e4t haben."
+        },
+        "1e97e73f1e45d465e23a2ea172bc3355": {
+            "text": "Sch\u00e4rfen"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nichts"
+        },
+        "682160fc6ad12f783f70608a9b46b9b9": {
+            "text": "="
+        },
+        "87f8a6ab85c9ced3702b4ea641ad4bb5": {
+            "text": "="
+        },
+        "c43e0fd449c758dab8f891d8e19eb1a9": {
+            "text": "Stark"
+        },
+        "571094bb27864b600d8e6b561a137a55": {
+            "text": "Qualit\u00e4t"
+        },
+        "c602090a02c41e9f67961fd513166846": {
+            "text": "Standardeinstellungen der Qualit\u00e4t von 1 bis 100, wobei 1 die niedrigste und 100 die h\u00f6chste Qualit\u00e4t ist."
+        }
+    }
+}

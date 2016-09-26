@@ -1,0 +1,24 @@
+{
+    "file": "wire\/core\/admin.php",
+    "textdomain": "wire--core--admin-php",
+    "translations": {
+        "657e7a4fc0a8b4f44a06c216edf02d64": {
+            "text": "Nicht erkannter HTTP-Host:"
+        },
+        "b6823820033b6cf18c3aa27d252861e0": {
+            "text": "Bitte aktualisieren Sie ihre Einstellung $config->httpHosts in \/site\/config.php"
+        },
+        "d959bbe25cc020e2db5276cb42927c7c": {
+            "text": "mehr lesen"
+        },
+        "c0e293a452a1d7be53a199d8b0a387bd": {
+            "text": "DEBUG MODUS ABLAUFVERFOLGUNG"
+        },
+        "af1595f0c5186db6cc35577429366e6d": {
+            "text": "Dieser Seite ist kein Prozess zugeordnet."
+        },
+        "905d286d5f512b563448eedeb744206d": {
+            "text": "Der Prozess hat keinen Inhalt ausgegeben."
+        }
+    }
+}

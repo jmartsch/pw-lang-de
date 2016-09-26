@@ -49,6 +49,15 @@
         },
         "a0faef0851b4294c06f2b94bb1cb2044": {
             "text": "="
+        },
+        "bf23ca4feca536a9667209e45869c2f1": {
+            "text": "Input Gr\u00f6\u00dfe"
+        },
+        "320e94493eb997536f4ec1eb75a61c38": {
+            "text": "Legen Sie das Attribut zur Gr\u00f6\u00dfe des Inputs fest, oder w\u00e4hlen Sie 0 f\u00fcr volle Breite."
+        },
+        "08adfc4e3f75347c88b665609425d43a": {
+            "text": "Der Standardwert ist %d."
         }
     }
 }

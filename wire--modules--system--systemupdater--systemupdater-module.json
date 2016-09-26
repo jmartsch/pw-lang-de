@@ -18,7 +18,10 @@
             "text": "System-Update-Protokoll"
         },
         "83d345108e3c4ebe46ec3d2de0b7e463": {
-            "text": "System-Version"
+            "text": "="
+        },
+        "75a1550235c0efb5d9dedd5f02f1fe86": {
+            "text": "Dateicompiler-Cache bereinigt"
         }
     }
 }

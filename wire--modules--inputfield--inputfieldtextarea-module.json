@@ -13,6 +13,9 @@
         },
         "b5d4d25fe3fa9f8263b5f279a372b709": {
             "text": "="
+        },
+        "8fe5e05f660fa7d2db7f9bd444d77358": {
+            "text": "Wert \u00fcberschreitet die maximal empfohlene L\u00e4nge von %1$d Zeichen (L\u00e4nge=%2$d)."
         }
     }
 }

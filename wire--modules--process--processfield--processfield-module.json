@@ -59,9 +59,6 @@
         "bfacb0dba61ee131e07daaacead869c5": {
             "text": "Grundlegende Einstellungen des Feldes"
         },
-        "5efc010f527cdfeaa2ef63b1c6898fb5": {
-            "text": "Jede Kombination aus ASCII-Buchstaben [a-z], Zahlen [0-9] und Unterstrich(en) (keine Bindestriche oder Leerzeichen)."
-        },
         "ab2e4f95a7971ee8077df62efa20d437": {
             "text": "Nachdem Sie den Feld-Typ gew\u00e4hlt und gespeichert haben, werden Ihnen vielleicht zus\u00e4tzliche spezifische Konfigurationsoptionen zum gew\u00e4hlten Feld-Typ angezeigt."
         },
@@ -124,12 +121,6 @@
         },
         "4b2bcb0478b24201a7d60fed561d1b42": {
             "text": "Einzelne Felder bearbeiten, die Seiten-Daten enthalten"
-        },
-        "588f35f32f53430bfc4199ef15c424db": {
-            "text": "Filter-Optionen in der Feld-Liste anzeigen?"
-        },
-        "887c58e4743e8c789e4ebea161c6fdfe": {
-            "text": "F\u00fcgt zwei select-Boxen \u00fcber der Feld-Liste ein, mit denen Sie die angezeigten Felder nach Template oder Typ filtern k\u00f6nnen."
         },
         "7cdb55d0d84a64ee84c14621892d8e10": {
             "text": "Zur Feld-Liste zur\u00fcckkehren, nachdem ein Feld gespeichert wurde?"
@@ -408,7 +399,7 @@
             "text": "Zugriff Umschalter"
         },
         "2a154a6134b85f7f936aac0194df1bc0": {
-            "text": "Zeige Feld in Seiten-Editor falls es sichtbar, aber nicht editierbar ist (Benutzer k\u00f6nnen es sehen, aber nicht \u00e4ndern)"
+            "text": "Zeige Feld in Seiten-Editor falls es sichtbar, aber nicht editiebar ist (Benutzer k\u00f6nnen es shen, aber nicht \u00e4ndern)"
         },
         "7d21b87f847b61b92648b2050c3c0529": {
             "text": "Feld-Name darf nicht identisch sein mit Namen einer Sprache"
@@ -504,7 +495,7 @@
             "text": "Sie k\u00f6nnen die Berechtigung zum Ansehen f\u00fcr dieses Feld über die API so pr\u00fcfen:"
         },
         "71f8bd77c0780518e62960d62ebd72bd": {
-            "text": "Kontext \u00fcberschreiben entfernt"
+            "text": "Kontext \u00fcberschreiben entfent"
         },
         "b98e1358fd47b54afceecd12ace8e18c": {
             "text": "Die folgenden Einstellungen f\u00fcr dieses Feld sind \u00fcberschrieben durch angegebene(s) Template(s). Markieren Sie die Box rechts von der Zeile um die \u00fcberschriebene Einstellung zu entfernen (stellt original Wert wieder her)."
@@ -562,6 +553,27 @@
         },
         "f46277b28f420e695210233a9f1401fc": {
             "text": "Bitte f\u00fchren Sie \"Aktionen > Daten des Feldes \u00fcberpr\u00fcfen\" auf Feld %s durch"
+        },
+        "4759b9b64d72e5a1a226e72b31ff919e": {
+            "text": "Front-End-Bearbeitung"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Installieren"
+        },
+        "b35a1460619c7aebb19fddf043d4953d": {
+            "text": "Bitte das Front-End-Seiten-Editor Modul installieren um die Front-End-Bearbeitung f\u00fcr Felder zu erm\u00f6glichen. Nach Installation, die Seite neu laden und hier weitere Optionen ausw\u00e4hlen."
+        },
+        "4b170345be16c4cee0984c08ab54614d": {
+            "text": "falls verwendet mit: %s"
+        },
+        "be777931cbea33cf8f3a5f5cd994ea93": {
+            "text": "\u00dcberschreiben einstellen f\u00fcr Feld Namensraum: %s"
+        },
+        "57a9412e7a9b1f328ffef4cd468dabeb": {
+            "text": "Als erstes Feld hinzuf\u00fcgen"
+        },
+        "927e2bece8a3ee4ce5f53aca157c04ec": {
+            "text": "Nur ASCII-Buchstaben (a-z A-Z), Zahlen (0-9) und Unterstriche verwenden."
         }
     }
 }

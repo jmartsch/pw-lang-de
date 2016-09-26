@@ -1,0 +1,75 @@
+{
+    "file": "wire\/core\/WireShutdown.php",
+    "textdomain": "wire--core--wireshutdown-php",
+    "translations": {
+        "902b0d55fddef6f8d651fe1035b7d4bd": {
+            "text": "Fehler"
+        },
+        "0eaadb4fcb48a0a0ed7bc9868be9fbaa": {
+            "text": "Warnung"
+        },
+        "fbc1408168142b8b97a61ea5ec60604c": {
+            "text": "Fehler parsen"
+        },
+        "24efa7ee4511563b16144f39706d594f": {
+            "text": "Hinweis"
+        },
+        "3e6a4da1a99015053b9f348a972ed817": {
+            "text": "Core Fehler"
+        },
+        "4077864c6efba13ed744a934c75c7a70": {
+            "text": "Core Warnung"
+        },
+        "a124cf63bf9447b8860734235130c4d0": {
+            "text": "Kompilier Fehler"
+        },
+        "89df0e5d8d2d164fecb95168ec427b22": {
+            "text": "Kompilier Warnung"
+        },
+        "dc59167792b6cc1035058bd91b38387a": {
+            "text": "Benutzer Warnung"
+        },
+        "4de99cbd6894308655b99aad3a328406": {
+            "text": "Benutzer Hinweis"
+        },
+        "20fa2ae21e1e86068218568c8ed8619e": {
+            "text": "Strikte Warnung"
+        },
+        "ff9b211b885af35007a56bc02c64cad8": {
+            "text": "Nachvollziehbarer fataler Fehler"
+        },
+        "ca8b21d06668c2193b3df3d8152240ec": {
+            "text": "Fehler wurde protokolliert."
+        },
+        "3653d35665e4ff97b9050e57a1399221": {
+            "text": "Administrator wurde benachrichtigt."
+        },
+        "e21ccea621de7c85101603acf22c9c79": {
+            "text": "Site ist im Debug-Modus."
+        },
+        "9e1be4a2ee25755f837aeab9f49549e0": {
+            "text": "Sie verwenden die Kommandozeilen API"
+        },
+        "94e7fb752e3990f6f676ffd6b9a42c46": {
+            "text": "Sie sind als Superuser angemeldet"
+        },
+        "7d0312c35f60f9727688c5d442054eaa": {
+            "text": "install.php existiert noch"
+        },
+        "1755ef83b3130baa9854b28e4990b8d5": {
+            "text": "Superuser war noch nie angemeldet."
+        },
+        "c3fde2eafc84400451d402a88c4e2efa": {
+            "text": "Diese Fehlermeldung wurde angezeigt wegen:"
+        },
+        "a9daf300020946318d20c57492171e60": {
+            "text": "Anfrage kann nicht durchgef\u00fchrt werden wegen eines Fehlers."
+        },
+        "6cb11cdff5ec8f7ab2a0cc4cb5635097": {
+            "text": "ProcessWire Fehler Hinweis"
+        },
+        "f4af86e3db12bdead0c6b4f370e361de": {
+            "text": "(Zeile %d in %s)"
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeTextareaHelper.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextareahelper-php",
+    "translations": {
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Eingabefeld-Typ"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "Dieser Feldtyp wird genutzt um Eingaben zu sammeln (Textarea ist Standard). Hinweis: falls Sie dies \u00e4ndern und best\u00e4tigen, k\u00f6nnen sich auch die m\u00f6glichen Optionen in den Einstellungen des Eingabefeldes \u00e4ndern."
+        },
+        "5d85f44b69f9d7e86c7f3f473f97f771": {
+            "text": "="
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "Inhaltstyp"
+        },
+        "a9b2702617bab3152e6c7018a2285a92": {
+            "text": "Unbekannt\/Text"
+        },
+        "d337592463bb66726521716a080b78da": {
+            "text": "Die [u]Markup\/HTML[\/u] Option wird empfohlen f\u00fcr Felder, welche einen Rich-Text-Editor (wie CKEditor) verwenden und welche HTML enthalten. Diese Option unterst\u00fctzt einen zus\u00e4tzlichen Filter zur Laufzeit f\u00fcr die Qualit\u00e4tssicherung."
+        },
+        "0601bf716a208a7476c5f97c040fc44c": {
+            "text": "Falls Sie die Option [u]Unbekannt\/Text[\/u] ausw\u00e4hlen, wird (zur Sicherheit) dringend empfohlen, ebenfalls den \"HTML Entity Encoder\" im oberen Feld [u]Textformatierung[\/u] zu w\u00e4hlen."
+        },
+        "f49044eb0f5ff823c157a2feedf2b9f8": {
+            "text": "Weitere Informationen zu den oben genannten Optionen finden Sie in der [Beschreibung f\u00fcr die Inhaltstypen](%s)."
+        },
+        "2addde1795e171e77196f84ba88dbcbf": {
+            "text": "HTML-Optionen"
+        },
+        "22f8b4c1c9e9fb845bebab08141575db": {
+            "text": "Die folgenen Optionen sorgen f\u00fcr eine zus\u00e4tzliche Qualit\u00e4tssicherung des HTML zur Laufzeit."
+        },
+        "6691dadd4bc16c7d23fee64a309e2eaa": {
+            "text": "**Hinweis:** Diese Optionen sind zur Zeit experimentell. Bitte achten Sie auf Probleme und melden alle Fehler."
+        },
+        "8985f62bfdbc5d278d07342bc4a7f5c2": {
+            "text": "Die oberen Optionen notieren Fehler unter Verwaltung > Protokolle > markup-qa-errors."
+        },
+        "4518ac1588b93d4b89d45741c610a3f5": {
+            "text": "Link-Abstraktion:"
+        },
+        "9bf757dce49f1b058b55e0234e5b422a": {
+            "text": "Href-Attribute automatisch aktualisieren bei \u00c4nderung interner Links"
+        },
+        "1721f5bf2ec99fbb54f5ff6cea84968c": {
+            "text": "Aktualisiere alt-Attribute der Bilder:"
+        },
+        "e18d0ae0d4d738e2afb687643527b107": {
+            "text": "Ersetze leere alt-Attribute mit der Bildbeschreibung"
+        },
+        "87b47dca906c93d9e1a035e8d14e6e95": {
+            "text": "Repariere defekte Bilder:"
+        },
+        "1d88fc19dbd058dc84585c30ab49b306": {
+            "text": "Entferne img-Tags welche zu einem 404 f\u00fchren, oder erstelle Bilder neu, falls m\u00f6glich"
+        },
+        "3b51a8c40e3436386b687d45ddb5f836": {
+            "text": "Bilder Zugriff:"
+        },
+        "4d1e0f588db26c2678b311717d9d5c65": {
+            "text": "Entferne Bilder aus Markup zu welchen der Benutzer keine Berechtigung zur Ansicht hat"
+        },
+        "8ab4f511bd5b2971beecbe09b1462818": {
+            "text": "HTML-Optionen jetzt anwenden"
+        },
+        "5fe0528e0c4b792b394749289ad392f1": {
+            "text": "Markieren Sie diese Box, um die oberen Optionen nun auf alle bestehenden Seiten anzuwenden. Dies konzentriert sich haupts\u00e4chlich auf die Option der Link-Abstraktion."
+        },
+        "7b4f1bb8cb43086b5d5f3b850d06a6c3": {
+            "text": "Achtung, dies f\u00fchrt eine Aktualisierung von m\u00f6glicherweise hunderten von Seiten (max 300 pro Lauf) durch und akualisiert die \u00c4nderungszeit der Seite. Falls Ihre Site sehr viele Seiten hat, m\u00fcssen Sie mehrere L\u00e4ufe durchf\u00fchren."
+        },
+        "d9acd327c0ee998a16c85324936d214d": {
+            "text": "**Als zus\u00e4tzliche Vorsichtsmassnahme wird empfohlen, vor Durchf\u00fchrung Ihre Datenbank zu sichern.**"
+        },
+        "0f754c670b9d8c02b22eaeebd630181e": {
+            "text": "Alles erledigt! Die HTML-Optionen sind nun vollst\u00e4ndig angewendet."
+        },
+        "2029a900eb62eecaaf188a654c2c084d": {
+            "text": "Zuk\u00fcnftige Aktualisierungen werden automatisch beim speichern einer Seite angewendet."
+        },
+        "4b9ad9f31022ef1c2c6d202da55a0365": {
+            "text": "Es sind noch weitere Seiten zur Verarbeitung bereit. Markieren Sie erneut die Box um dies auf die restlichen Seiten anzuwenden."
+        },
+        "2c1df5375d9f20282b3df677f8a4bc0c": {
+            "text": "M\u00fcssen Sie mehr Seiten auf einmal verarbeiten? Sie k\u00f6nnen eine %s Einstellung in ihrer \/site\/config.php Datei hinzuf\u00fcgen."
+        },
+        "d4705c271d7e1e75a05e9b6236ad836c": {
+            "text": "(siehe %s Log)"
+        },
+        "91032d1254768e880dbbeede54e35a79": {
+            "text": "%d lokale a[href] Tags', 'Link-Typ"
+        },
+        "5fcef18456ba78863a5a57e162279d2d": {
+            "text": "%d lokale img[src] Tags', 'Link-Typ"
+        },
+        "d53200ec5949152baffbeed6c4d58966": {
+            "text": "%1$d von %2$d Seiten f\u00fcr HTML Optionen aktualisiert."
+        },
+        "8a64cae4f29b541d3e532599d513e04e": {
+            "text": "Zusammenfassung der Markup\/HTML Qualit\u00e4tssicherung:"
+        },
+        "7b538279515341a88a5fcfb4197111f6": {
+            "text": "Andere HTML-Optionen wurden zur Laufzeit angewendet."
+        },
+        "9b039b000924bae6bb0977867cc455a0": {
+            "text": "%d externe a[href] Tags"
+        },
+        "bb83c854fd76ba88b57f700280e65291": {
+            "text": "%d interne\/abstrakte Seitenlinks"
+        },
+        "52b8044e625821dcc4f2002c70f05881": {
+            "text": "%d Datei\/Bestand Referenzen"
+        },
+        "b49218c47bb7e184c12776471a865612": {
+            "text": "%d relative a[href] Tags aktualisiert"
+        },
+        "84a543e559f6e8ae86ba9ca203f6c57f": {
+            "text": "%d lokale a[href] nicht-Seiten\/unerkannte Tags"
+        },
+        "2fb3cb1dbd223aca0a255df639afabb1": {
+            "text": "%d nicht-http a[href] Links wie mailto, tel, usw."
+        },
+        "a0b71249600398fd6f497273a8fbd0c6": {
+            "text": "%d nicht aufgel\u00f6ste a[href] Tags"
+        },
+        "1207ad89efff06ef7ff663d9b3a61af4": {
+            "text": "%d nicht aufgel\u00f6ste img[src] Tags"
+        },
+        "29cf35e7a0357a5a759b715afbcfa857": {
+            "text": "%d nicht aufgel\u00f6ste und reparierte img[src] Tags"
+        },
+        "bf488dca57621015b17e715b49053f72": {
+            "text": "%d leere img[alt] Tags welche zur Laufzeit ausgef\u00fcllt werden"
+        }
+    }
+}

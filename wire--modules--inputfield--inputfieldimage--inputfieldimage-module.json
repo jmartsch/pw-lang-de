@@ -5,17 +5,11 @@
         "7e4cc6c00140cefcecd178df1836fbba": {
             "text": "Das Bild wurde auf die maximal erlaubte Gr\u00f6\u00dfe skaliert"
         },
-        "95dde9286ff11d93e5f5ce0c832b9f2c": {
-            "text": "Vorschaubilder im Seiten-Editor anzeigen?"
-        },
-        "183cf71ab1252b747070605a2aa370c2": {
-            "text": "Vorschaubilder ben\u00f6tigen weniger Platz und erleichtern es, mehrere Bilder zu sortieren. Falls nicht ausgew\u00e4hlt, wird das Bild in voller (urspr\u00fcnglicher) Gr\u00f6\u00dfe im Seiten-Editor angezeigt."
-        },
         "7f0785e56befa113ce8fca2316a12a2e": {
             "text": "Maximale Bild-Dimensionen"
         },
         "ef375d406da59811c42dc0f5a245dca3": {
-            "text": "Sie k\u00f6nnen optional die maximale Breite und\/oder H\u00f6he hochgeladenener Bilder angeben. Falls angegeben werden Bilder beim Hochladen verkleinert, wenn sie entweder die maximale H\u00f6he oder Breite \u00fcberschreiten. Die Verkleinerung wird nur beim Hochladen ausgef\u00fchrt und betrifft daher weder Bilder, die bereits im System vorhanden sind, noch Bilder, die \u00fcber die API hinzugef\u00fcgt werden."
+            "text": "Sie k\u00f6nnen optional die maximale Breite und\/oder H\u00f6he hochgeladenener Bilder angeben. Falls angegeben werden Bilder beim Hochladen verkleinert, wenn sie entweder die maximale H\u00f6he oder Breite \u00fcberschreiten. Die Verkleinerung wird nur beim Hochladen ausgef\u00fchrt und betrifft daher weder Bilder, die bereits im System vorhanden sind, noch Bilder die \u00fcber die API hinzugef\u00fcgt werden."
         },
         "e69ccb31941d2fd7923c6b0c01957db3": {
             "text": "Maximale Breite f\u00fcr hochgeladene Bilder"
@@ -29,15 +23,6 @@
         "8a29508fcba587b8af0cfb36c544ee0d": {
             "text": "Ein oder mehrere hochzuladende Bilder (sortierbar)"
         },
-        "597c4d1113db01e43b62cd8a7112cf88": {
-            "text": "Standardansicht"
-        },
-        "530f488f7a9800411efc6926ab189708": {
-            "text": "Zeilen"
-        },
-        "b3da2ccb426643b265971f8085617aa0": {
-            "text": "Die Ansicht l\u00e4sst sich mit Klick auf das Raster\/Zeilen Symbol umschalten. Hiermit wird nur die Standardansicht festgelegt. Die Zeilen-Ansicht ist der empfohlene Standard."
-        },
         "126b21ce46c39d12c24058791a236777": {
             "text": "Nicht zul\u00e4ssiges Bild"
         },
@@ -48,7 +33,7 @@
             "text": "Minimale Bild-Dimensionen"
         },
         "a195023920e6ece61b6211755c9af27f": {
-            "text": "Optional kann die Mindestbreite und\/oder -h\u00f6he der hochzuladenden Bilder eingetragen werden. Falls festgelegt, werden Bilder mit nicht zutreffenden Werten abgewiesen."
+            "text": "Optional kann die Mindestbreite und \/oder -h\u00f6he der hochzuladenden Bilder eingetragen werden. Falls festgelegt, werden Bilder mit nicht zutreffenden Werten abgewiesen."
         },
         "d704e5da0e9e4ca2aa3e04201575f44c": {
             "text": "Mindestbreite f\u00fcr hochgeladene Bilder"
@@ -56,23 +41,8 @@
         "b477617de997199bdd26761085aea486": {
             "text": "Mindesth\u00f6he f\u00fcr hochgeladene Bilder"
         },
-        "f2a6c498fb90ee345d997f888fce3b18": {
-            "text": "L\u00f6schen"
-        },
-        "ad2ac1967f0165ebf04a84bc1819e0de": {
-            "text": "Nach unten bewegen"
-        },
-        "727b701bcc5f26422461f10c07a58d48": {
-            "text": "Nach oben bewegen"
-        },
         "1a2b9bdaad8fc3ebd6b83463a0def69e": {
             "text": "Geben Sie den Wert in Pixeln an oder lassen Sie es leer, um kein Limit vorzugeben."
-        },
-        "5174d1309f275ba6f275db3af9eb3e18": {
-            "text": "Raster"
-        },
-        "840ad8821e0c1db717493f17a054bd18": {
-            "text": "Varianten von %s"
         },
         "5e244fccb2d4cda18bebf756dacce94c": {
             "text": "Bild von %s \u00fcberschreitet die maximal erlaubte Gr\u00f6\u00dfe"
@@ -83,8 +53,62 @@
         "e0af28e6bea01f8a983ebd94ec3b7468": {
             "text": "Falls markiert werden Bilder, welche die maximale Breite\/H\u00f6he \u00fcberschreiten, abgewiesen anstatt neu skaliert."
         },
-        "6a1c2d713d3598f27c30a6c448197f0e": {
-            "text": "Datei kann nicht angezeigt werden"
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Zuschneiden"
+        },
+        "a4374740662193b987e63eb5b727c994": {
+            "text": "Varianten"
+        },
+        "f4843c1c797abf1a256c8802b6cd9f51": {
+            "text": "Dimensionen"
+        },
+        "b18c29b8470190a02813415a04a2191f": {
+            "text": "Dateigr\u00f6\u00dfe"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Bearbeiten"
+        },
+        "f6462f94fa453f425245109b06f64d22": {
+            "text": "neue Bilder per Drag und Drop oben einf\u00fcgen"
+        },
+        "382b0f5185773fa0f67a8ed8056c7759": {
+            "text": "N\/V"
+        },
+        "d6a369d29506d3151a76c33791fc80b6": {
+            "text": "zum Ersetzen neue Bilddatei einf\u00fcgen"
+        },
+        "f0823f4faa69306cc75fd14c8e5e38e3": {
+            "text": "bestehende Thumbnails werden beim Speichern wieder hergestellt"
+        },
+        "96733a97d96b04ddd6e06cdf3147df1e": {
+            "text": "Nicht bearbeitbar."
+        },
+        "36400352f439e8894099e79dc33fada1": {
+            "text": "Alle alten Thumbnails wieder hergestellt"
+        },
+        "f4795ac01103c68bc75e637665b7bd12": {
+            "text": "Dieses Bilderfeld k\u00f6nnte noch nicht gesicherte \u00c4nderungen haben, welche nach dieser Aktion verloren gehen. Bitte vor dem zuschneiden speichern oder mit Doppel-Klick des Buttons fortfahren."
+        },
+        "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
+            "text": "Es gibt oben Thumbnail-Vorschaubilder die \u00e4lter oder in geringerer Qualit\u00e4t sind - diese Box markieren zur Neuerstellung der Bilder."
+        },
+        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
+            "text": "Standardmodus des Bildrasters"
+        },
+        "c53c009277b900e7292c4b49f07ddaec": {
+            "text": "Im Adminbereich wird die Liste der Bilder standardm\u00e4\u00dfig in diesem Modus dargestellt. Der Benutzer kann es jederzeit \u00e4ndern, durch klicken auf die Symbole in der oberen rechten Ecke des Feldes."
+        },
+        "e6c7b90087278c53b5361182358a2d92": {
+            "text": "Falls Sie dieses Bilder-Feld gerade erst benutzt haben, m\u00fcssen Sie zuerst die Cookies l\u00f6schen, bevor man die ver\u00e4nderte Einstellung sieht."
+        },
+        "a188c29fb8020eee47113073e366f78e": {
+            "text": "Rechteckiges Bildraster"
+        },
+        "06d5ddb736061086ad90f364eca1c56d": {
+            "text": "Proportionales Bildraster"
+        },
+        "fa996d5ac4351e7e603f3ab1b9f77afe": {
+            "text": "Vertikale Liste (wortreich)"
         }
     }
 }

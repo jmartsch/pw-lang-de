@@ -2,18 +2,6 @@
     "file": "wire\/modules\/Process\/ProcessCommentsManager\/ProcessCommentsManager.module",
     "textdomain": "wire--modules--process--processcommentsmanager--processcommentsmanager-module",
     "translations": {
-        "787d5f05953ec39b108869dfdd7733e6": {
-            "text": "best\u00e4tigt"
-        },
-        "7c6c2e5d48ab37a007cbf70d3ea25fa4": {
-            "text": "wartet"
-        },
-        "e09f6a7593f8ae3994ea57e1117f67ec": {
-            "text": "Spam"
-        },
-        "099af53f601532dbd31e0ea99ffdeb64": {
-            "text": "l\u00f6schen"
-        },
         "98a0736c51255f757cf109bccfa1d7e2": {
             "text": "Es sind keine Kommentar-Felder installiert"
         },
@@ -41,9 +29,6 @@
         "de95b43bceeb4b998aed4aed5cef1ae7": {
             "text": "bearbeiten"
         },
-        "193cfc9be3b995831c6af2fea6650e60": {
-            "text": "Seite"
-        },
         "44749712dbec183e983dcd78a7736c41": {
             "text": "Datum"
         },
@@ -52,12 +37,6 @@
         },
         "4dfbb099eafd3c82e033bf92946d3ce6": {
             "text": "E-Mail"
-        },
-        "a1fa27779242b4902f7ae3bdd5c6d508": {
-            "text": "Typ"
-        },
-        "7f319b8ccad7e92033b9492ddbc4b522": {
-            "text": "Bewerten"
         },
         "f42d9d8fbfa2f6929ac7ee0d2e2871c5": {
             "text": "Antwort auf %s"
@@ -94,6 +73,60 @@
         },
         "e9dfd31cc505d51fc26975250750deab": {
             "text": "="
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "L\u00f6schen"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "="
+        },
+        "8c3560971347019d5f97199e943831f0": {
+            "text": "Bewertungen"
+        },
+        "d442d63d91aee0c27fffe480c591f6d8": {
+            "text": "Status setzen:"
+        },
+        "4f5d5f295ddc8fd8673e74dd5fbe114a": {
+            "text": "pro Seite"
+        },
+        "1ef29a5a234edee09d7e54a321740181": {
+            "text": "Alle ausw\u00e4hlen\/abw\u00e4hlen"
+        },
+        "67148361142da466e462aed78d201888": {
+            "text": "Es gibt keine ausgew\u00e4hlten Elemente"
+        },
+        "a46e2270222c49988714ec7916109fc4": {
+            "text": "Aktionen (gew\u00e4hlte Elemente)"
+        },
+        "e8eaf777c8e1f5b4e219d2e79cfd755f": {
+            "text": "Zur\u00fccksetzen: Aufwertungen"
+        },
+        "cf2dd3571dc6f61216f9f14785d7e227": {
+            "text": "Zur\u00fccksetzen: Abwertungen"
+        },
+        "dec8ba3ab6e0a24199eb5b6c43a9c846": {
+            "text": "Datum (neu-alt)"
+        },
+        "33abd1fd65941eb346da43ae77afbbb0": {
+            "text": "Datum (alt-neu)"
+        },
+        "ff138d55cfc1cb9ad05eff795e830b6c": {
+            "text": "Sterne (hoch-niedrig)"
+        },
+        "5a4745441b4ca1eaecd9d27664d7a667": {
+            "text": "Sterne (niedrig-hoch)"
+        },
+        "63e90287fd383e2e42e4778c0e9d7a71": {
+            "text": "Aufwertungen"
+        },
+        "b45352aeca3646b5fb15baa385d44224": {
+            "text": "Abwertungen"
+        },
+        "a4c295f303bd3ad4c69344a18dc68420": {
+            "text": "Sortieren:"
+        },
+        "eee1a3d85e91b9944c98c7558f706b27": {
+            "text": "Sie haben nicht gespeicherte \u00c4nderungen!"
         }
     }
 }
