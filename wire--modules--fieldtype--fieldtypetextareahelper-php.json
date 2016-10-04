@@ -33,16 +33,16 @@
             "text": "Die folgenen Optionen sorgen f\u00fcr eine zus\u00e4tzliche Qualit\u00e4tssicherung des HTML zur Laufzeit."
         },
         "6691dadd4bc16c7d23fee64a309e2eaa": {
-            "text": "**Hinweis:** Diese Optionen sind zur Zeit experimentell. Bitte achten Sie auf Probleme und melden alle Fehler."
+            "text": "**Hinweis:** Diese Optionen sind derzeit experimentell. Bitte achten Sie auf Probleme und melden alle Fehler."
         },
         "8985f62bfdbc5d278d07342bc4a7f5c2": {
-            "text": "Die oberen Optionen notieren Fehler unter Verwaltung > Protokolle > markup-qa-errors."
+            "text": "Die oberen Optionen protokollieren Fehler unter Verwaltung > Protokolle > markup-qa-errors."
         },
         "4518ac1588b93d4b89d45741c610a3f5": {
             "text": "Link-Abstraktion:"
         },
         "9bf757dce49f1b058b55e0234e5b422a": {
-            "text": "Href-Attribute automatisch aktualisieren bei \u00c4nderung interner Links"
+            "text": "href-Attribute automatisch aktualisieren bei \u00c4nderung interner Links"
         },
         "1721f5bf2ec99fbb54f5ff6cea84968c": {
             "text": "Aktualisiere alt-Attribute der Bilder:"
