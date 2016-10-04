@@ -31,6 +31,9 @@
         },
         "618400fc1b0f0b7a96f2d0c871bd2c6b": {
             "text": "Nutzen Sie den Bild-Editor zum Bearbeiten von Bildern (zuschneiden, Gr\u00f6\u00dfe \u00e4ndern, usw.)"
+        },
+        "7a3c0039ad0f29f74babc54b9d96467d": {
+            "text": "Benutzer kann selbst erstellte Seiten in den M\u00fclleimer schieben (ohne page-delete-permission)"
         }
     }
 }
