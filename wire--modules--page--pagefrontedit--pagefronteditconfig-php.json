@@ -3,16 +3,16 @@
     "textdomain": "wire--modules--page--pagefrontedit--pagefronteditconfig-php",
     "translations": {
         "2e3924cdf708580effa1682a30cc024c": {
-            "text": "Vor Verwendung der Front-End-Bearbeitung lesen Sie bitte die [Hilfe](%s)."
+            "text": "Vor Verwendung der Frontend-Bearbeitung lesen Sie bitte die [Hilfe](%s)."
         },
         "728f08c6a5722017ce7fb9747da7bac3": {
-            "text": "Inline Editor Einstellungen"
+            "text": "Einstellungen Inline-Editor"
         },
         "180efa8a9b1cfee25988715f7d673dbc": {
-            "text": "Option A: im Front-End bearbeitbare Felder"
+            "text": "Option A: im Frontend bearbeitbare Felder"
         },
         "97f5063cc7446aefa21ae4e7fb3cc146": {
-            "text": "Diese text-basierten Felder k\u00f6nnen im Front-End, direkt in der Seite, bearbeitet werden durch einfaches markieren der unteren Boxen."
+            "text": "Diese textbasierten Felder k\u00f6nnen im Frontend (direkt in der Seite) bearbeitet werden durch einfaches Markieren der unteren Boxen."
         },
         "d0526ac74110f73ee2926fd2d650c4a9": {
             "text": "**Bitte vorsichtig mit dieser Option:** Falls Sie den Wert eines Feldes an mehr als einer Stelle einer Seite ausgeben wollen, sollten Sie besser [Option B, C oder D](https:\/\/processwire.com\/api\/modules\/front-end-editing\/) w\u00e4hlen."
@@ -21,13 +21,13 @@
             "text": "(nicht empfohlen)"
         },
         "f16845125537677cf6b52cc53b2e1ee7": {
-            "text": "Option A: Editor Bereich"
+            "text": "Option A: Editor-Bereich"
         },
         "5fd733ebd21770ef2dff6a0382db2117": {
             "text": "Wenn die oben markierten Felder ausgegeben werden, wo sollen sie bearbeitbar sein?"
         },
         "2fac3d64842df30df607c68da216acd7": {
-            "text": "Felder nur bearbeitbar wenn sie von der gerenderten Seite stammen (empfohlen)"
+            "text": "Felder nur bearbeitbar, wenn sie von der gerenderten Seite stammen (empfohlen)"
         },
         "aa27ca4492b42802705a21889bb9a27e": {
             "text": "Felder bearbeitbar unabh\u00e4ngig von der Seite"
@@ -54,7 +54,7 @@
             "text": "Unten rechts"
         },
         "61a4338583e41efc9ecde01cc622f21c": {
-            "text": "Button Typ"
+            "text": "Button-Typ"
         },
         "de39b6da18c671eec0524a2bfc0da0c2": {
             "text": "Auto (Symbole und Text f\u00fcr Desktop, Symbole f\u00fcr Touch-Ger\u00e4te)"
@@ -72,13 +72,13 @@
             "text": "Mehr"
         },
         "fdf8ef9fa133d1852bef33c7c85144cb": {
-            "text": "Es gibt verschiedene Wege um das Front-End-Bearbeiten f\u00fcr dieses Feld zu aktivieren. Unabh\u00e4ngig davon welche Option Sie w\u00e4hlen, steht das Front-End-Bearbeiten nur zur Verf\u00fcgung, wenn der Benutzer die entsprechenden Berechtigungen f\u00fcr die Seite und das Feld hat."
+            "text": "Es gibt verschiedene Wege, um das Frontend-Bearbeiten f\u00fcr dieses Feld zu aktivieren. Unabh\u00e4ngig davon welche Option Sie w\u00e4hlen, steht das Frontend-Bearbeiten nur zur Verf\u00fcgung, wenn der Benutzer die entsprechenden Berechtigungen f\u00fcr die Seite und das Feld hat."
         },
         "4cb305eca1333573edc880819fc7c977": {
             "text": "Ben\u00f6tigte Berechtigungen sind [page-edit](%s) und [page-edit-front](%s)."
         },
         "5e7f95d663a3711b9965a6fa8707ef6f": {
-            "text": "Wenn ein Feld bearbeitbar ist, erscheint beim hovern ein Kontext-Maus-Zeiger anstatt des regul\u00e4ren Maus-Zeigers. Um das Feld im Front-End zu bearbeiten, m\u00fcssen Sie es **doppelt klicken**."
+            "text": "Wenn ein Feld bearbeitbar ist, erscheint beim hovern ein Kontext-Mauszeiger anstatt des regul\u00e4ren Mauszeigers. Um das Feld im Frontend zu bearbeiten, m\u00fcssen Sie es **doppelt klicken**."
         },
         "17dc7a031f9540dbeb3cf9e10a7a1ebf": {
             "text": "Diese Option wird f\u00fcr dieses Feld nicht unterst\u00fctzt."
@@ -105,13 +105,13 @@
             "text": "Jede der folgenden Syntax-Optionen wird unterst\u00fctzt (eine ausw\u00e4hlen). \"1001\" kann eine beliebige Seiten-ID oder Pfad sein, und \"...\" kann beliebiges Markup oder Code sein, idealerweise dort wo der Wert ihres Feldes ausgegeben wird."
         },
         "48f403566075715027bd7fc9e1902cbc": {
-            "text": "Option C: HTML Edit-Tags hinzuf\u00fcgen um einen bearbeitbaren Bereich zu erstellen"
+            "text": "Option C: HTML Edit-Tags hinzuf\u00fcgen, um einen bearbeitbaren Bereich zu erstellen"
         },
         "ee885b8843c6c111129d0eaca536bbbe": {
-            "text": "Option D: HTML Edit-Attribute zu bestehendem Markup hinzuf\u00fcgen um bearbeitbaren Bereich zu erstellen"
+            "text": "Option D: HTML Edit-Attribute zu bestehendem Markup hinzuf\u00fcgen, um bearbeitbaren Bereich zu erstellen"
         },
         "0e060a7eca98daf0e3c2e5280319e907": {
-            "text": "Der unten angezeigte div Tag kann jeder bestehende HTML Tag sein welcher ihren bearbeitbaren Bereich umschliesst."
+            "text": "Das unten angezeigte div-Tag kann jedes bestehende HTML-Tag sein, welches ihren bearbeitbaren Bereich umschliesst."
         },
         "5c23fae6f3e37e699b6663a4fa6dbf08": {
             "text": "Beachten Sie, dass bei Verwendung der Edit-Attribute immer der Modal-Editor genutzt wird. Alle anderen Optionen nutzen den Inline-Editor, falls unterst\u00fctzt."
