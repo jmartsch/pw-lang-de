@@ -111,7 +111,7 @@
             "text": "Eigenes Format (mehrere Felder)' . ' ..."
         },
         "ccfbd07eab619923148d98d09c91e15e": {
-            "text": "Eigenes Format für Seiten-Label"
+            "text": "Eigenes Format f\u00fcr Seiten-Label"
         },
         "ebebc537c9c3117a5e2304be412d83f3": {
             "text": "Legen Sie ein oder mehrere Felder mit geschweiften {Klammern} zusammen mit beliebigen zus\u00e4tzlichen Zeichen, Zwischenraum oder Zeichensetzung fest."
@@ -130,6 +130,12 @@
         },
         "db62b7d9ccb858fb53481683f5d1d813": {
             "text": "Dieses Feld muss vor der ersten Nutzung konfiguriert werden."
+        },
+        "5e1daea70649e788db6ead8cd50f791d": {
+            "text": "Die unver\u00f6ffentlichte Seite %1$s ist in Feld \"%2$s\" nicht erlaubt"
+        },
+        "1cc510dea04a978b3bb88514582eea6c": {
+            "text": "Um unver\u00f6ffentlichte Seiten zu erlauben, \u00e4ndern Sie die Einstellung f\u00fcr das Feld \"%s\" im Tab \"Erweitert\"."
         }
     }
 }

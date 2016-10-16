@@ -997,6 +997,12 @@
         },
         "1ad747442af37649526e00927b7d0a1f": {
             "text": "Zur Konfiguration der m\u00f6glichen Felder, welche ein Benutzer in seinem Profil bearbeiten kann, siehe in den [Einstellungen des Profilmoduls](%s)."
+        },
+        "044c72d21891e006e09a78d32a1e3226": {
+            "text": "Schliessen und Hinzuf\u00fcgen"
+        },
+        "363b220544077dba6890921e123486dc": {
+            "text": "Fehler beim Einsatz von Fieldset\/Tab \"%s\" - bitte korrigieren und erneut speichen"
         }
     }
 }
