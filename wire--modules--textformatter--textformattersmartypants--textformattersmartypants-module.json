@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterSmartypants\/TextformatterSmartypants.module",
+    "textdomain": "wire--modules--textformatter--textformattersmartypants--textformattersmartypants-module",
+    "translations": {
+        "34ba6fe92bd3442e28614da7804133f7": {
+            "text": "Nein (Standard)"
+        },
+        "438be7072bafe2bb92897edc240e45ae": {
+            "text": "Ja (Einige)"
+        },
+        "8265970592705983b3983796fe0bb408": {
+            "text": "Ja (Alle)"
+        },
+        "25311c7902557e01bc00f49ff049bcd5": {
+            "text": "Beim Ersetzen UTF-8 Zeichen anstatt HTML-Entit\u00e4ten verwenden?"
+        },
+        "0c5d2b49bcf5a803467880b04e70010d": {
+            "text": "Standardm\u00e4\u00dfig verwendet SmartyPants HTML-Entit\u00e4ten beim hinzuf\u00fcgen\/aktualisieren von Zeichen."
+        },
+        "1db1fb23d15114bebcd0b4c9451753ff": {
+            "text": "Wenn Sie Probleme mit doppelter Kodierung beobachten, k\u00f6nnen Sie es stattdessen mit UTF-8 ersetzen lassen."
+        },
+        "3dbbad2a19b63578a38458d5c9b08980": {
+            "text": "Bitte beachten Sie, dass die Option \"Alle\" folgende Zeichen dekodiert (wenn diese mit Entit\u00e4ten kodiert sind), selbst wenn die Zeichen nicht mit SmartyPants eingef\u00fcgt wurden:"
+        }
+    }
+}

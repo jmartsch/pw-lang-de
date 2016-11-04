@@ -1,0 +1,108 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageTranslator.php",
+    "textdomain": "wire--modules--languagesupport--languagetranslator-php",
+    "translations": {
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Bearbeiten"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "L\u00f6schen"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Speichern"
+        },
+        "4ec2fa1aa32d93e6fd11a255fc3507bc": {
+            "text": "Speichern + Beenden"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Abbrechen"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "Neu"
+        },
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "Hinzuf\u00fcgen"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Neu hinzuf\u00fcgen"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Sind Sie sicher?"
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Best\u00e4tigen"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "="
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "="
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Ja"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nein"
+        },
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "An"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Aus"
+        },
+        "00d23a76e43b46dae9ec7aa9dcbebb32": {
+            "text": "Aktiviert"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Deaktiviert"
+        },
+        "0a52730597fb4ffa01fc117d9e71e3a9": {
+            "text": "Beispiel"
+        },
+        "46889411c124e301871882ff4073fc92": {
+            "text": "Bitte beachten:"
+        },
+        "3b0649c72650c313a357338dcdfb64ec": {
+            "text": "Bemerkung"
+        },
+        "f4c6f851b00d5518bf888815de279aba": {
+            "text": "Bemerkungen"
+        },
+        "f4f70727dc34561dfde1a3c529b6205c": {
+            "text": "Einstellungen"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Typ"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "="
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "="
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Beschreibung"
+        },
+        "3ec365dd533ddb7ef3d1c111186ce872": {
+            "text": "="
+        },
+        "bf733d8a933c1601697f364223fc7ecb": {
+            "text": "Zugriff"
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "Erweitert"
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Symbol"
+        },
+        "a45da96d0bf6575970f2d27af22be28a": {
+            "text": "="
+        },
+        "35e0c8c0b180c95d4e122e55ed62cc64": {
+            "text": "Modifiziert"
+        },
+        "902b0d55fddef6f8d651fe1035b7d4bd": {
+            "text": "Fehler"
+        }
+    }
+}
