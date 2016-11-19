@@ -48,7 +48,7 @@
             "text": "Bild von %s \u00fcberschreitet die maximal erlaubte Gr\u00f6\u00dfe"
         },
         "dffe78c5f55b8a4187b91c40a03cf904": {
-            "text": "Bilder abweisen welche die maximalen Dimensionen \u00fcberschreiten?"
+            "text": "Bilder abweisen, welche die maximalen Dimensionen \u00fcberschreiten?"
         },
         "e0af28e6bea01f8a983ebd94ec3b7468": {
             "text": "Falls markiert werden Bilder, welche die maximale Breite\/H\u00f6he \u00fcberschreiten, abgewiesen anstatt neu skaliert."
@@ -109,6 +109,12 @@
         },
         "fa996d5ac4351e7e603f3ab1b9f77afe": {
             "text": "Vertikale Liste (wortreich)"
+        },
+        "a39e1de5e7b995d90322ab7d047428bc": {
+            "text": "Min\/Max Dimensionen tauschen f\u00fcr Hochformat?"
+        },
+        "7f3d934927a1c106f5191c01b36c7766": {
+            "text": "Falls ausgew\u00e4hlt, werden Mindestbreite\/-h\u00f6he und Maximalbreite\/-h\u00f6he getauscht, um dem unterschiedlichen Seitenverh\u00e4ltnis Rechnung zu tragen."
         }
     }
 }
