@@ -11,9 +11,6 @@
         "07be370e5cef3ea5961cdf07cb34f390": {
             "text": "Wenn 0 und leer gleichwertig sind (Ja-Option), ergibt eine Suche nach **field=0** oder **field=\"\"** das selbe Resultat."
         },
-        "33865caeae8ea654a7fef819270e40b3": {
-            "text": "Wenn sie nicht gleichwertig sind (Nein-Option), wird eine Suche nach **field=0** nur auf Felder mit dem Wert 0 und **field=\"\"** nur auf Felder ohne Wert zutreffen."
-        },
         "47ae95efefc63fa28854884d8c871228": {
             "text": "Als Beispiel: mit der Ja-Option wird **field<1** auf den Wert 0 wie auch ohne Wert zutreffen. Mit der Nein-Option trifft hier nur 0 zu."
         },
@@ -28,6 +25,9 @@
         },
         "40adc22d3ad8d2d7a5e2b17a44ac2658": {
             "text": "Dieser Wert wird diesem Feld als Standard auf neu erstellten Seiten zugewiesen. Existierende Seiten werden davon nicht beeinflusst."
+        },
+        "b4e4ee05aeb0d5812f77886c29c4bb53": {
+            "text": "Wenn sie nicht gleichwertig sind (Nein-Option), wird eine Suche nach **field=0** nur auf Felder mit dem Wert 0 und **field=\"\"** nur auf Felder ohne Wert zutreffen."
         }
     }
 }

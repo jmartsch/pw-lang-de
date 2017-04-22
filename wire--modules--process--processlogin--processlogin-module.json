@@ -43,6 +43,18 @@
         },
         "748befe7a5d432caba8b6cadc4076e92": {
             "text": "Lesen Sie \"Absichern von Dateiberechtigungen\" f\u00fcr weitere Details"
+        },
+        "efdf35a179a19ed3b3de0d3e7785f17d": {
+            "text": "Warnung: Ihr Server-Gebietsschema ist undefiniert und kann Probleme verursachen."
+        },
+        "25722c10f4f7abdc7297094d5d8f97e6": {
+            "text": "Bitte \u00fcbersetzen Sie die \"C\" Gebietsschema-Einstellung f\u00fcr jede Sprache in das richtige Gebietsschema in %s"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "Zum Beispiel k\u00f6nnte die Gebietsschema-Einstellung f\u00fcr US-Englisch sein: %s"
+        },
+        "58b0cb95c27f394bd4c6970b563153dd": {
+            "text": "Bitte f\u00fcgen Sie dies in der Datei \/site\/config.php hinzu (\"%s\" wie gew\u00fcnscht anpassen):"
         }
     }
 }

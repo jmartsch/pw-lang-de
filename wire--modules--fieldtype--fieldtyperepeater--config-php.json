@@ -71,24 +71,6 @@
         "9c539ab2317d7056d5d664b083557796": {
             "text": "Es gibt **%d** alte\/ungenutzte Repeater-Elemente. Zum l\u00f6schen diese Box markieren."
         },
-        "8c4f6c33cbae4831021c3dc17c991a23": {
-            "text": "AJAX f\u00fcr das hinzuf\u00fcgen von Elementen im Editor deaktivieren"
-        },
-        "78f74cbd5e74d0a401b6e91e2d11e812": {
-            "text": "Standardm\u00e4\u00dfig wird bei Klick auf den \"Element hinzuf\u00fcgen\" Link das neue Repeater-Element nahtlos via AJAX geladen. Unter Umst\u00e4nden sind aber einige Felder nicht kompatibel dazu. Markieren Sie diese Box um AJAX f\u00fcr das hinzuf\u00fcgen von Elementen zu deaktivieren."
-        },
-        "028dbbda0ea85c6b4ff5f2c9b38495de": {
-            "text": "Neue Repeater-Elemente fertig zum bearbeiten"
-        },
-        "903d3f840b615b110dd712afd0132f5f": {
-            "text": "Die Anzahl fertig bearbeitbarer (unver\u00f6ffentlichter) Elemente pro Seite, welche zum rendern vorgehalten werden als neue Elemente."
-        },
-        "e7fa825f7b362804c946096d4856f5ab": {
-            "text": "Falls auf 0 gesetzt, werden neue Elemente nur angelegt, soweit sie ben\u00f6tigt werden (effizienteste Einstellung)."
-        },
-        "0130612d3e112f71601647fe1201aeda": {
-            "text": "Falls auf 1 oder mehr gesetzt, werden so viele neue Elemente bearbeitbar bereitgestellt, sobald sie \u201eElemente hinzuf\u00fcgen\u201c anklicken. Erm\u00f6glicht eine schnelle Erstellung."
-        },
         "06f7e37d7cc093483d98d11772f75837": {
             "text": "Maximale Anzahl Repeater-Elemente"
         },
@@ -139,6 +121,39 @@
         },
         "2878ed508d1b136f7b170f593c0ff00f": {
             "text": "Ein Repeater-Element wird als alt bezeichnet, wenn es mindestens 3 Tage alt ist und noch nicht bef\u00fcllt oder ver\u00f6ffentlicht wurde."
+        },
+        "fc47b04d62211ce6992143d1e92e2fbe": {
+            "text": "Akkordeon-Modus verwenden?"
+        },
+        "d608f61f5c7a0e2b84a3ae252a596a48": {
+            "text": "Wenn markiert, wird nur ein Repeater-Element zum Zeitpunkt ge\u00f6ffnet sein."
+        },
+        "90ed744894b90ce9c561d6a428cad4ee": {
+            "text": "Maximale Anzahl von Elementen"
+        },
+        "528f529d4617eb805a332c782f8666fe": {
+            "text": "Falls Sie die Anzahl der erlaubten Elemente begrenzen wollen, geben Sie hier das Limit ein (0=kein Limit)."
+        },
+        "f504e6acf8424e003e90434b8f4ada08": {
+            "text": "Mindestanzahl von Elementen"
+        },
+        "d167f14d9682362265c133aca323b335": {
+            "text": "Diese Anzahl Elemente sind immer offen und bereit zum Bearbeiten (0=keine Mindestanzahl)"
+        },
+        "d0deefb333b608453cbec94b81a136de": {
+            "text": "Tiefe der Elemente"
+        },
+        "e316c9556c1be5b536576ce4b27d0575": {
+            "text": "Um eine Tiefe von Elementen zu unterst\u00fctzen, hier die maximal erlaubte Tiefe eingeben oder zur Deaktivierung leer lassen."
+        },
+        "ea3a2c41fc47d9150f65147b030a3ad8": {
+            "text": "Beim Bearbeiten eines Repeaters k\u00f6nnen Sie die Tiefe ver\u00e4ndern. Klicken Sie auf den Verschiebe-Pfeil des Repeater-Elements und schieben das Element nach rechts oder links."
+        },
+        "c8a9e54dcabe5cdebed9c5bd1fa334d4": {
+            "text": "Tiefen sind nullbasierend. Dies bedeutet, eine Tiefe von 3 erlaubt Tiefen von 0, 1, 2 und 3."
+        },
+        "8b3964c39c4eb2db458965c40689f5a0": {
+            "text": "Auf die Tiefe zugreifen kann man von einem Repeater-Seiten-Element \u00fcber $item->depth."
         }
     }
 }

@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Jquery\/JqueryUI\/JqueryUI.module",
+    "textdomain": "wire--modules--jquery--jqueryui--jqueryui-module",
+    "translations": {
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "="
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "+"
+        }
+    }
+}

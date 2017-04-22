@@ -2,9 +2,6 @@
     "file": "wire\/modules\/Inputfield\/InputfieldPageAutocomplete\/InputfieldPageAutocomplete.module",
     "textdomain": "wire--modules--inputfield--inputfieldpageautocomplete--inputfieldpageautocomplete-module",
     "translations": {
-        "a2324d16f834e2138b021bb90f1823dc": {
-            "text": "Erweiterte Optionen f\u00fcr Autocomplete"
-        },
         "5bd9a3b9fd04ef31e99e96b10ce5ac5f": {
             "text": "Suchoperator f\u00fcr Autocomplete"
         },
@@ -35,9 +32,6 @@
         "b956d301c10771357a356a80d9f0d3a5": {
             "text": "Felder, die f\u00fcr Autocomplete abgefragt werden"
         },
-        "0c458f5b668cdb153d43ffa89c2f2393": {
-            "text": "Geben sie die Namen der Felder ein, deren Text nach Autocomplete-Treffern durchsucht werden soll. Typischerweise ist dies das title-Feld, aber Sie k\u00f6nnen weitere durch Leerzeichen getrennt hinzuf\u00fcgen. Hinweis: Dies ist unterschiedlich zum \"Label-Feld\" (oben). Hier geben sie an, welche Felder durchsucht werden statt welche Felder angezeigt werden."
-        },
         "8fdfe6e949b4c07d26317e3e2f99a14d": {
             "text": "Indizierte Text-Felder enthalten:"
         },
@@ -55,6 +49,15 @@
         },
         "8d217dc9693abc1d1094fbc2c06a5605": {
             "text": "Neues Element:"
+        },
+        "b167d45586a5cb2582394b5ec1545065": {
+            "text": "Geben Sie die Namen der Felder ein, deren Text nach Autocomplete-Treffern durchsucht werden soll."
+        },
+        "6429d0ba1de3ee46f49581535ac36cf4": {
+            "text": "Typischerweise ist dies das title-Feld, aber Sie k\u00f6nnen weitere durch Leerzeichen getrennt hinzuf\u00fcgen."
+        },
+        "db47517eeed0761aad011565e44e8390": {
+            "text": "Hinweis: Dies ist unterschiedlich zum \"Label-Feld\". Hier geben Sie an, welche Felder durchsucht werden statt welche Felder angezeigt werden."
         }
     }
 }

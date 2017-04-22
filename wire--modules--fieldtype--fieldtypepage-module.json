@@ -14,9 +14,6 @@
         "94a53712b9a34f922a776fc5aa68d31f": {
             "text": "Einzelne Seite (Page) oder leere Seite (NullPage) wenn keine ausgew\u00e4hlt"
         },
-        "d1d7182c9905811b10bcd1f5bdcb9eda": {
-            "text": "Referenzieren in API als"
-        },
         "7d5f7f76b51ac880e91da28dbc52df35": {
             "text": "Unver\u00f6ffentlichte Seiten erlauben?"
         },
@@ -43,6 +40,18 @@
         },
         "e93f994f01c537c4e2f7d8528c3eb5e9": {
             "text": "Z\u00e4hlen"
+        },
+        "b163d440906ff7e0a02262fb1406e123": {
+            "text": "Seiten-Feldeintrag Typ"
+        },
+        "be288f506d4d5100260d915b396a83be": {
+            "text": "Beispiele zur Anwendung der API"
+        },
+        "c563103ae743ad1643e5f3e49a2c89d5": {
+            "text": "Das Gleiche wie oben mit alternativer Syntax"
+        },
+        "0a7cd2620545065d49a8ca58f5fc0b28": {
+            "text": "Mehr \u00fcber die %s Methode."
         }
     }
 }

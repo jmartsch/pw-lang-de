@@ -23,11 +23,32 @@
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "Neu hinzuf\u00fcgen"
         },
-        "a8a50b640956ab0334e76e86c168644c": {
-            "text": "Dieses Element l\u00f6schen"
+        "675056ad1441b6375b2c5abd48c27ef1": {
+            "text": "Tiefe"
         },
-        "75e43298796bd7ec058b10778d58bb72": {
-            "text": "Umschalten ver\u00f6ffentlicht\/unver\u00f6ffentlicht"
+        "4ee8d3067ffde7991e2c009f775ceb75": {
+            "text": "Warnung: nur die ersten %d Elemente werden genutzt."
+        },
+        "44a3084a1ce251fb76ba7fe540a18863": {
+            "text": "Diese Aktion ist deaktiviert durch Mindest- und\/oder Maximal-Einstellungen des Elements."
+        },
+        "84b9f1e68847c185ca36db3bc2f8de18": {
+            "text": "Klicken um dieses Element zu l\u00f6schen oder doppel-klicken um alle zu l\u00f6schen"
+        },
+        "9a04ad51e71ca7e14841c880abe89a44": {
+            "text": "Alle Elemente l\u00f6schen?"
+        },
+        "485c9b5a61ede20a8ccc332f120da1f9": {
+            "text": "Klicken um Element ein\/aus zu schalten oder doppel-klicken um alle Elemente zu \u00f6ffnen\/zuklappen"
+        },
+        "60f5703a75c6e7fa21be4247f0626dfb": {
+            "text": "Dieses Element klonen?"
+        },
+        "b5fab487adaf66b676d31b8fd16af85b": {
+            "text": "Alle Elemente \u00f6ffnen?"
+        },
+        "d7280b1cbbae6481f050a9184b8fa445": {
+            "text": "Alle Elemente zuklappen?"
         }
     }
 }

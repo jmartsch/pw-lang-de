@@ -61,6 +61,15 @@
         },
         "f0ebf50a114d563bc9bd51eb8df08f5a": {
             "text": "Falls der Standardwert beibehalten wird, kann diese Einstellung auch im $config->pageList Array festgelegt werden."
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Alle anzeigen"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "(%d Seiten)"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "+"
         }
     }
 }

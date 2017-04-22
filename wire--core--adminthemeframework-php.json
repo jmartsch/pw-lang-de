@@ -1,0 +1,27 @@
+{
+    "file": "wire\/core\/AdminThemeFramework.php",
+    "textdomain": "wire--core--adminthemeframework-php",
+    "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "+"
+        },
+        "90dd5a9776ef2638eebdd94ae76a1902": {
+            "text": "Seite ansehen"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profil"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "="
+        },
+        "fbbbb283efc814825613301c22951ba7": {
+            "text": "Alle schliessen"
+        },
+        "878620e7a3c84a803c9a70bfe346be57": {
+            "text": "Dieses Admin-Theme f\u00fcr den Anmeldebildschirm verwenden?"
+        },
+        "ffd8fa387acec9945788ad7c39400b1b": {
+            "text": "Wenn ausgew\u00e4hlt wird dieses Admin-Theme f\u00fcr den Anmeldebildschirm des Benutzers verwendet."
+        }
+    }
+}

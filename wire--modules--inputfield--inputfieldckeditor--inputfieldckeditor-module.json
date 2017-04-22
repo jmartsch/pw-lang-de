@@ -134,12 +134,6 @@
         "60eaab37de096deaa26bb3ff7b706095": {
             "text": "Pfade sollten relativ zum Root-Verzeichnis Ihrer ProcessWire-Installation sein (d.h. diesen Teil weglassen, wenn die Seite in einem Unterverzeichnis l\u00e4uft)."
         },
-        "9728a8f280cf7e8b0b89b52749f7e800": {
-            "text": "Bitte lesen Sie die [Anweisungen](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-css-file) zur Benutzung."
-        },
-        "63ba0561c6027fed354e6c5af252a77b": {
-            "text": "Bitte lesen Sie die [Anweisungen](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-js-styles-set) zur Benutzung."
-        },
         "8cd140c060d298234e0079cb77ee8190": {
             "text": "Folgende Plugins wurden gefunden. Markieren Sie die Box neben jedem Plugin, welches geladen werden soll."
         },
@@ -217,6 +211,12 @@
         },
         "fb946d5480a9eb75edd868079b14cfac": {
             "text": "Z\u00e4hler werden in regul\u00e4ren CKEditor-Feldern unterst\u00fctzt, aber nicht in Inline-CKEditor-Feldern."
+        },
+        "7a20fe498ae5ceab6766124b9cb7b2a9": {
+            "text": "Bitte lesen Sie die [Anweisungen](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-css-file) zur Benutzung."
+        },
+        "16176bde1adfb16f43ed136db778416d": {
+            "text": "Bitte lesen Sie die [Anweisungen](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-js-styles-set) zur Benutzung."
         }
     }
 }

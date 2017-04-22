@@ -8,9 +8,6 @@
         "49632d1c8309d42371ab31fe84d56c91": {
             "text": "Wie soll dieses Feld im Editor angezeigt werden?"
         },
-        "a785c32894aad6d7c1dc826a4bc0a4a3": {
-            "text": "Spaltenbreite (%d%%)"
-        },
         "0eb0b305235144ffe99e247b24200b09": {
             "text": "Breite im Verh\u00e4ltnis zum Container des Feldes (in Prozent, 10%-100%). Erzeugt nebeneinander angeordnete Spalten, falls es neben anderen Feldern mit reduzierter Breite positioniert ist."
         },
@@ -76,6 +73,9 @@
         },
         "2d7ff3fa8a1a844b270d96878d358762": {
             "text": "Lesen Sie mehr dazu [wie man dies anwendet](http:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/)."
+        },
+        "b26d2db211d5748ab5ca3f2b5124e63a": {
+            "text": "Spaltenbreite (%d%%)"
         }
     }
 }
