@@ -407,8 +407,8 @@
         "16e56a7f64aa21e73cf55bd8a6334cf8": {
             "text": "%s + Beenden"
         },
-        "cebc0576aea62c59ee4ab6b11793d0ab": {
-            "text": "Installation kann Probleme verursachen. Sind Sie sicher, dass Sie installieren wollen?"
+        "f83f6b012ba134e5168ab27e4587b2d3": {
+            "text": "Modulanforderungen sind nicht erf\u00fcllt, die Installation kann Probleme verursachen. Sind Sie sicher, dass Sie installieren wollen?"
         }
     }
 }
