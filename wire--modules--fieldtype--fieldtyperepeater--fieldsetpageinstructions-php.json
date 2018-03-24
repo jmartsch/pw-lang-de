@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldsetPageInstructions.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldsetpageinstructions-php",
+    "translations": {
+        "fce8db7e35654f2d39ed13c88caeb595": {
+            "text": "Dies ist ein Beispieltext"
+        },
+        "e24b5159feaf11cbc2866fc792dcb205": {
+            "text": "Anleitung zur Verwendung dieses Feldes"
+        },
+        "dda3c63808783d90468ffc36857b1ad2": {
+            "text": "Diese Art von Fieldset verwendet eine separate Seite (im Hintergrund), um Werte f\u00fcr die Felder zu speichern, die Sie oben ausw\u00e4hlen."
+        },
+        "43ef844d717ad05c793ebe3fc0bfa46f": {
+            "text": "Ein Vorteil ist, dass Sie Felder, die bereits auf Ihrer Seite vorhanden sind, au\u00dferhalb des Fieldsets wiederverwenden k\u00f6nnen."
+        },
+        "450f315bbf5a730f06d882603e2351ee": {
+            "text": "Zum Beispiel k\u00f6nnten Sie ein \"Titel\" -Feld auf Ihrer Seite und ein anderes in Ihrem Fieldset haben. Ebenso f\u00fcr alle anderen Felder."
+        },
+        "082323774f8bcc4a3b546017f4699653": {
+            "text": "Dies ist m\u00f6glich, weil sich die Felder im Fieldset in ihrem eigenen Namensraum befinden\u2014eine andere Seite\u2014getrennt von der Hauptseite."
+        },
+        "1c965c7b269c1b604d6490030b52cb9a": {
+            "text": "Im Folgenden finden Sie einige Beispiele, wie Sie dieses Feld in Ihren Templatedateien und aus der API verwenden k\u00f6nnen."
+        },
+        "2b9532c496c737a7d979ede12021cbfc": {
+            "text": "Einen Wert bekommen:"
+        },
+        "3cdf9e98ed82c4005e72a8d904f2c396": {
+            "text": "Einen Wert ausgeben:"
+        },
+        "e77be29cea913a45c5a64261aab889fe": {
+            "text": "Ausgeben eines Wertes bei Markup:"
+        },
+        "a1846e66c3581626834fa2b2b713a751": {
+            "text": "Einen Wert setzen:"
+        },
+        "c17698c4f96778fb0e1c2cf7e08354fa": {
+            "text": "Einen Wert setzen und speichern:"
+        },
+        "07eb153eceddb68a89d41166e566601a": {
+            "text": "Dies schaltet bei Bedarf die Ausgabeformatierung aus"
+        },
+        "d4dcb894c9c0f44c78175f84b15a0b57": {
+            "text": "Zuordnung eines Fieldsets zu einer anderen (k\u00fcrzeren) Variablen und Ausgabe eines Wertes:"
+        },
+        "89c8a04262edb041b1d1cf735fd36a4b": {
+            "text": "Suchen von Seiten mit Fieldset mit Feld \"%s\" mit Text \"Beispiel\":"
+        }
+    }
+}

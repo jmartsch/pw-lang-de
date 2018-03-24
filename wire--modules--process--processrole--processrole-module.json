@@ -17,20 +17,11 @@
         "e0c8b59640bc35bac606431203d2d9b0": {
             "text": "Detaillierte Beschreibungen zu diesen Berechtigungen finden Sie in der [Referenz](%s)."
         },
-        "ae9a363b2dfa9181da7ffde8e37813b5": {
-            "text": "durchgestrichen"
-        },
-        "c6cc7e92b9fc348360b34c024086432c": {
-            "text": "name|beschreibung"
-        },
         "dc3abfaff3190368a09f01d6589eeeea": {
             "text": "F\u00fcge Kindseiten zu Seiten hinzu mit Template"
         },
         "9c281188158fc34cf5afc9d2820a761c": {
             "text": "Erstelle Seiten mit Template"
-        },
-        "faa5826bce6656df7f63cbeb5b2a85fe": {
-            "text": "Diese Berechtigung kann nur durch die Einstellungen des Template-Zugriffs vergeben werden."
         },
         "3cac60e98937c01a72ef6e6cfe66f90f": {
             "text": "Diese Berechtigung ist Pflicht f\u00fcr alle Benutzerrollen."
@@ -44,26 +35,59 @@
         "37ef521112472af77d381e834922a7af": {
             "text": "%1$s durch Template %2$s verworfen, anklicken zum bearbeiten"
         },
-        "95c58584c58685c05c1a7cc706416455": {
-            "text": "im Moment keinem Template zugewiesen"
-        },
-        "64a4d3473343a325080c311b47099be6": {
-            "text": "Die page-add und page-create Berechtigungen k\u00f6nnen nur in den Einstellungen des Template-Zugriffs hinzugef\u00fcgt werden und sind hier nur zur Information aufgef\u00fchrt."
-        },
-        "cea791d6258d032e4742a9a99f1ecf11": {
-            "text": "Alleine das Markieren der page-edit Berechtigung hier erlaubt noch nicht den Zugriff zum bearbeiten auf beliebige Seiten. Stattdessen erm\u00f6glicht es Ihnen, f\u00fcr diese Benutzrrolle den Zugriff zum bearbeiten in den Einstellungen des Template-Zugriffs festzulegen. Durch die page-edit Berechtigung werden Seiten im Adminbereich f\u00fcr Benutzer sichtbar. Daher wird diese Berechtigung f\u00fcr alle administrativen Benutzer empfohlen."
-        },
-        "d923671ad010412a573db8ccdbddc911": {
-            "text": "Zeigt an, dass die Berechtigung f\u00fcr Benutzerrollen optional in den Einstellungen des Template-Zugriffs hinzugef\u00fcgt oder zur\u00fcckgenommen werden kann. Das Markieren der Berechtigung gibt diese f\u00fcr alle bearbeitbaren Templates frei. Falls Sie einer Benutzerrolle nur eine bestimmte Berechtigung f\u00fcr Seiten mit spezifischen Template(s) zuordnen m\u00f6chten, sollten Sie dies hier nicht markieren und stattdessen die Auswahl im Tab \"Zugriff\" eines Templates treffen."
-        },
-        "efc30c4ed12a9e95e4fad5ae9be115fb": {
-            "text": "Zeigt ein Template an, welches die Berechtigung hinzuf\u00fcgt. Hier klicken um ein Fenster zu den Zugriff-Einstellungen des Templates zu \u00f6ffnen. Falls der Templatename %s ist, ist die Berechtigung dem Template hinzugef\u00fcgt, wird aber durch Ihre Auswahl hier \u00fcberschrieben."
-        },
-        "dce4a957c0c6225be564be146d71b245": {
-            "text": "Das gleiche wie oben abgesehen davon, dass die Berechtigung durch dieses Template zur\u00fcckgenommen wird (anstatt hinzugef\u00fcgt)."
-        },
         "1754bfdd544e98486c2ed46753ca8edd": {
             "text": "Das markieren dieser Box f\u00fcgt diese Berechtigung allen bearbeitbaren Templates hinzu, aber diese Berechtigung wurde bereits von einem oder mehreren Templates angelegt. Um die Dinge \u00fcbersichtlicher zu gestalten, empfehlen wir, die Berechtigung von diesen Templates zu entfernen, bevor man sie f\u00fcr alle frei schaltet. M\u00f6chten Sie dies nun wirklich aktivieren?"
+        },
+        "10928cc0ee4f4ca5cd54b8f7d90fe439": {
+            "text": "Hinweis: Superuser-Rolle hat immer alle Berechtigungen, so dass das Berechtigungsfeld nicht angezeigt wird."
+        },
+        "e92cdb67062c4b4fa95179b9130677a9": {
+            "text": "name|beschreibung"
+        },
+        "73a0430d4108945b73c1d27c8d048339": {
+            "text": "Welche Arten von Seiten kann diese Benutzerrolle anzeigen?"
+        },
+        "1c572404150327a35e463b4638740073": {
+            "text": "Welche Arten von Seiten kann diese Benutzerrolle bearbeiten?"
+        },
+        "b2295468aae810dba114aeafc6affecc": {
+            "text": "Auf welche Arten von Seiten kann diese Benutzerrolle Kinder hinzuf\u00fcgen?"
+        },
+        "a94285c99473e5cb477bfebd41f5b479": {
+            "text": "Welche Arten von Seiten kann diese Benutzerrolle erstellen?"
+        },
+        "bdeb3e0cbe3d8f44757a86e8da219abc": {
+            "text": "Diese Berechtigung kann nur per Template zugewiesen werden."
+        },
+        "00abcc0a482965cd87aa000c253bf713": {
+            "text": "(von der Gastrolle \u00fcbernommen)"
+        },
+        "76ea2cfb7138b9f6db1ca5385ffd6bec": {
+            "text": "Hinzuf\u00fcgen zu: %s"
+        },
+        "484a603504d7ed70ae95310674989236": {
+            "text": "Widerrufen von: %s"
+        },
+        "2121718f2638e1afe762097a7981ea3c": {
+            "text": "Wenn Sie {permission} nur bestimmten Vorlagen hinzuf\u00fcgen m\u00f6chten, aktivieren Sie die folgenden K\u00e4stchen f\u00fcr die Vorlagen, denen Sie hinzuf\u00fcgen m\u00f6chten, und lassen Sie die Berechtigung {permission} nicht aktiviert."
+        },
+        "308b65bff5801587885912db1a2aacdf": {
+            "text": "Die Berechtigung {permission} ist aktiviert, sodass sie auf alle Templates angewendet werden kann, die f\u00fcr die Benutzerrolle bearbeitet werden k\u00f6nnen. Um die Berechtigung {permission} von bestimmten Templates zu widerrufen, aktivieren Sie die folgenden K\u00e4stchen. Um diese Berechtigung nur bestimmten Templates hinzuzuf\u00fcgen, deaktivieren Sie zun\u00e4chst die Berechtigung {permission}."
+        },
+        "0cb74f3f98993beb92d1fa5e9dbdeb64": {
+            "text": "Beachten Sie, dass diese Benutzerrolle f\u00fcr alle oben markierten Templates auch die page-edit Berechtigung haben muss."
+        },
+        "46e843d341c23fcc923e4057f2011f5e": {
+            "text": "Die meisten Berechtigungen, die von einem Template zugewiesen werden k\u00f6nnen, erfordern auch, dass der Benutzer \u00fcber die page-edit Berechtigung verf\u00fcgt. Wenn eine Vorlage, die Sie ben\u00f6tigen, nicht aufgef\u00fchrt ist, m\u00fcssen Sie zun\u00e4chst die Zugriffssteuerung aktivieren (siehe Tab \"Zugriff\" beim Bearbeiten einer Vorlage)."
+        },
+        "bd6e3218368542ea8b8ec79e212960c3": {
+            "text": "Im Gegensatz zu den meisten anderen Berechtigungen ist die page-edit Berechtigung f\u00fcr ein Template keine Vorbedingung f\u00fcr diese Berechtigung."
+        },
+        "862ca20a14a289ffa53aa7b458c0f288": {
+            "text": "Hier klicken, um die Berechtigungseinstellungen nach Vorlage zu \u00f6ffnen \/ zu schlie\u00dfen"
+        },
+        "4106d43df925487225450293085f8bad": {
+            "text": "Berechtigung \"%1$s\" f\u00fcr Template \"%2$s\" nicht erlaubt (erfordert \"%3$s\" Berechtigung)"
         }
     }
 }

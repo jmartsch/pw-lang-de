@@ -11,9 +11,6 @@
         "180efa8a9b1cfee25988715f7d673dbc": {
             "text": "Option A: im Frontend bearbeitbare Felder"
         },
-        "97f5063cc7446aefa21ae4e7fb3cc146": {
-            "text": "Diese textbasierten Felder k\u00f6nnen im Frontend (direkt in der Seite) bearbeitet werden durch einfaches Markieren der unteren Boxen."
-        },
         "d0526ac74110f73ee2926fd2d650c4a9": {
             "text": "**Bitte vorsichtig mit dieser Option:** Falls Sie den Wert eines Feldes an mehr als einer Stelle einer Seite ausgeben wollen, sollten Sie besser [Option B, C oder D](https:\/\/processwire.com\/api\/modules\/front-end-editing\/) w\u00e4hlen."
         },
@@ -115,6 +112,9 @@
         },
         "5c23fae6f3e37e699b6663a4fa6dbf08": {
             "text": "Beachten Sie, dass bei Verwendung der Edit-Attribute immer der Modal-Editor genutzt wird. Alle anderen Optionen nutzen den Inline-Editor, falls unterst\u00fctzt."
+        },
+        "6e8a63eb8616bdb680f111e0b1a5bea3": {
+            "text": "Diese textbasierten Felder k\u00f6nnen im Frontend (direkt in der Seite) bearbeitet werden durch einfaches Markieren der unteren Boxen."
         }
     }
 }

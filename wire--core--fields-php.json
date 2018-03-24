@@ -2,17 +2,17 @@
     "file": "wire\/core\/Fields.php",
     "textdomain": "wire--core--fields-php",
     "translations": {
-        "0c6ba1befbcac7213ccc923d1ecf573a": {
-            "text": "Daten von Feld \"%1$s\" in %2$d Zeile(n) auf %3$d Seite(n) gel\u00f6scht."
-        },
-        "b9e9528a32781ceaefec638ec3bfa62e": {
-            "text": "Fehler beim L\u00f6schen von Daten von Feld \"%1$s\" in %2$d Zeile(n) auf %3$d Seite(n)."
-        },
         "e1658097cf747de4696d2515e2e8b9a0": {
             "text": "Seite-f\u00fcr-Seite"
         },
         "68d1cb3da7a618bf1997d9d5149ae24a": {
             "text": "Einzel-Abfrage"
+        },
+        "95174709ea432bbeb2a0ec8d9862b8a5": {
+            "text": "Daten von Feld \"%1$s\" in %2$d Zeile(n) auf %3$d Seite(n) gel\u00f6scht unter Template \"%4$s\"."
+        },
+        "f9de29a177673a5d7f9bfe31fb3d94f3": {
+            "text": "Fehler beim L\u00f6schen der Daten von Feld \"%1$s\" in %2$d Zeile(n) auf %3$d Seite(n) unter Template \"%4$s\"."
         }
     }
 }

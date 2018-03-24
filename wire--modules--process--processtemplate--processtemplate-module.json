@@ -251,26 +251,17 @@
         "518270f594c5488ff1f8de2ac0429f0e": {
             "text": "Wenn Sie verhindern wollen, dass Seiten, die dieses Template nutzen, verschoben werden (und sich dabei die Elternseite \u00e4ndert), w\u00e4hlen Sie diese Box aus."
         },
-        "7ee14ea7ba968378f99fb3efa7ac22da": {
-            "text": "API: $template->noMove = 1; \/\/ oder mit 0 deaktivieren"
-        },
         "b919a5aafc6740109c0c58fe51916178": {
             "text": "Nicht erlauben, dass Seiten ihr Template wechseln?"
         },
         "6bb5af6d5240fb8b1d720a7e5bec4497": {
             "text": "Falls ausgew\u00e4hlt, wird Seiten, die dieses Template verwenden, nicht erlaubt, auf ein anderes Template zu wechseln."
         },
-        "5c9171f7b16eac3245d2e5f3e79aadbc": {
-            "text": "API: $template->noChangeTemplate = 1; \/\/ oder mit 0 deaktivieren"
-        },
         "29f47bc61ea7a6f45ee3d36da3a3feff": {
             "text": "Nicht ver\u00f6ffentlichte Seiten nicht erlauben"
         },
         "94c9fe9ddbd9380ceb726bef40232ea3": {
             "text": "Falls ausgew\u00e4hlt, d\u00fcrfen Seiten, die dieses Template verwenden, nur in ver\u00f6ffentlichtem Zustand bestehen und k\u00f6nnen nicht depubliziert werden."
-        },
-        "691edb2dd99517cf0e15dbf596e10cc5": {
-            "text": "API: $template->noUnpublish = 1; \/\/ oder mit 0 deaktivieren"
         },
         "19a460b1edf9cc0616cd0ce03e9a0ddf": {
             "text": "Papierkorb-Option deaktivieren?"
@@ -578,9 +569,6 @@
         "16a657e6bf4576ef101f1bcca129694c": {
             "text": "Falls ausgew\u00e4hlt, haben Seiten, die dieses Template nutzen, eine Option, den Teil 'Erstellt vom Benutzer' zu \u00e4ndern (nur f\u00fcr Superuser). Damit k\u00f6nnen auch die Felder $page->createdUser oder $page->created_users_id \u00fcber die API gespeichert werden."
         },
-        "1684cd1767cda6618ed92febec9e78c6": {
-            "text": "API: $template->allowChangeUser = 1; \/\/ oder mit 0 deaktivieren, Standard ist 0"
-        },
         "7f511c25eccff9ce7127eecfb136f443": {
             "text": "Jeder Tag muss ein Wort sein (Silbentrennung erlaubt)."
         },
@@ -634,21 +622,6 @@
         },
         "ce74097d91e1181f033e39e38736dd5a": {
             "text": "Cache"
-        },
-        "8a08c3b7f2922be4ad8e59744781b796": {
-            "text": "Format des Seiten-Name"
-        },
-        "8a396099e3eecefcbbbbac1715a464de": {
-            "text": "Legen Sie optional ein Format f\u00fcr die Seiten-Namen bei neu hinzugef\u00fcgten Seiten fest. Dies erm\u00f6glicht den Schritt \"Seite hinzuf\u00fcgen\" zu \u00fcberspringen. Voraussetzung ist, dass im Template der Elternseite(n) dieses Template (%s) als das einzige erlaubte f\u00fcr Unterseiten festgelegt ist (siehe Tab \"Familie\" im Template der Elternseite)."
-        },
-        "6058394e74833c97153b0edaec2fb369": {
-            "text": "Sie k\u00f6nnen hier beliebigen Text eintragen. Wenn eine neue Seite erstellt wurde und der Name ist bereits vorhanden, wird eine fortlaufende Zahl hinten angef\u00fcgt."
-        },
-        "026e4114c3bd578141d593edfdcba4b6": {
-            "text": "**Wenn Sie m\u00f6chten dass die Namen der Seiten die Eingabe aus dem Titel Feld \u00fcbernehmen:** unten \"title\" eintragen (ohne die Anf\u00fchrungszeichen)."
-        },
-        "cde43753349041653da0d29cc52a15fa": {
-            "text": "**Wenn Sie m\u00f6chten dass die Namen der Seiten das Erstellungsdatum\/-zeit wiedergeben:** oben ein [Datumsformat](http:\/\/www.php.net\/manual\/en\/function.date.php) eingeben. Das Format des Datums muss mindestens ein nicht-alphanumerisches Zeichen (z.B. Schr\u00e4gstrich \"\/\" oder Doppelpunkt \":\") enthalten, um als Datumsformat erkannt zu werden. Beispiel: \"Y\/m\/d H:i:s\" ergibt einen Seiten Name wie: \"2014-10-30-12-39-01\". Wie Sie sehen werden vorhandene nicht-alphanumerische Zeichen in einem formatierten Datum in Bindestriche umgewandelt."
         },
         "92fe79a8aa59b037f5f6e2b43f89fea8": {
             "text": "Namensformat f\u00fcr Unterseiten"
@@ -980,9 +953,6 @@
         "109da571222f1c753257a9ea7d9c0f23": {
             "text": "Falls ausgew\u00e4hlt, werden Seiten, welche dieses Template nutzen, nur die Standard-Sprache verwenden."
         },
-        "2ae2316266d64c1c1caa543c16fe62bc": {
-            "text": "API: $template->noLang = 1; \/\/ Standard ist 0."
-        },
         "4b5a4101eef9107a93653ecef0418ed1": {
             "text": "Geben Sie den Namen des neuen zu erstellenden Templates an. Der Klon wird angelegt, wenn Sie speichern. Falls Ihr Template-Verzeichnis beschreibbar ist und dem Template eine Datei zugeordnet ist, wird diese ebenfalls geklont."
         },
@@ -995,14 +965,17 @@
         "0ce8e11f27f5cff906b08ff533da5567": {
             "text": "Klon von Template \"%1$s\" erstellt mit Namen \"%2$s\"."
         },
-        "1ad747442af37649526e00927b7d0a1f": {
-            "text": "Zur Konfiguration der m\u00f6glichen Felder, welche ein Benutzer in seinem Profil bearbeiten kann, siehe in den [Einstellungen des Profilmoduls](%s)."
-        },
         "044c72d21891e006e09a78d32a1e3226": {
             "text": "Schliessen und Hinzuf\u00fcgen"
         },
         "363b220544077dba6890921e123486dc": {
             "text": "Fehler beim Einsatz von Fieldset\/Tab \"%s\" - bitte korrigieren und erneut speichen"
+        },
+        "b3a57cf1770883844c8e986675546d20": {
+            "text": "Wenn Sie oben nur Felder hinzugef\u00fcgt haben, speichern Sie zuerst und kehren Sie dann hierher zur\u00fcck, um sie auszuw\u00e4hlen."
+        },
+        "6be7133083e1d91f772589bf24aa5e48": {
+            "text": "Geben Sie 0 an, um sie zu deaktivieren"
         }
     }
 }

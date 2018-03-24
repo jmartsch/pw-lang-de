@@ -1,0 +1,36 @@
+{
+    "file": "wire\/core\/PagesExportImport.php",
+    "textdomain": "wire--core--pagesexportimport-php",
+    "translations": {
+        "9b1cc00dbcf068b1122b605e857eaa09": {
+            "text": "%d Datei hinzugef\u00fcgt"
+        },
+        "083adbc0f513ffcbf1b3d027b729d86b": {
+            "text": "%d Dateien hinzugef\u00fcgt"
+        },
+        "bdecf31cb76eacb6caf0208cfbbb592b": {
+            "text": "%s aktualisiert f\u00fcr %d Datei"
+        },
+        "da66c53d674b9fa0de56b687a0bfa5aa": {
+            "text": "%s aktualisiert f\u00fcr %d Dateien"
+        },
+        "3a7a95fd4d51c39124770ea8b6118b15": {
+            "text": "%d Datei gel\u00f6scht"
+        },
+        "d92a31c9965349af72b77222b20eff0d": {
+            "text": "%d Dateien gel\u00f6scht"
+        },
+        "624939f6a7a76d86e0b0e0938aacd940": {
+            "text": "Altes Verzeichnis entfernt"
+        },
+        "97da05bb97ff56336c27fa114d6b0207": {
+            "text": "Alte Datei entfernt"
+        },
+        "f303c7e39b87bd05f15c54af9495df45": {
+            "text": "%d Datei \u00fcber %s hinzugef\u00fcgt"
+        },
+        "619e03cdcca42ac2af53e413ad13c264": {
+            "text": "%d Dateien \u00fcber %s hinzugef\u00fcgt"
+        }
+    }
+}

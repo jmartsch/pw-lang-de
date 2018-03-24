@@ -98,12 +98,6 @@
         "77e23d8e1ff8e93bfc6e188f62e409bd": {
             "text": "Hinweise: Falls 'detached' gew\u00e4hlt wird, wird ProcessWire Eltern-Seite oder Template nicht l\u00f6schen, falls das Feld gel\u00f6scht wird."
         },
-        "1f8c0e21410e1c136bf780fc141b35ae": {
-            "text": "Feld \"%1$s\" zum Repeater \"%2$s\" hinzugef\u00fcgt"
-        },
-        "f54c2540ded6390c6328b2838850482d": {
-            "text": "Feld \"%1$s\" aus Repeater \"%2$s\" entfernt"
-        },
         "27dafd7f7794d09bc001fc0acac8e1ad": {
             "text": "%d alte\/ungenutzte Repeater-Elemente gel\u00f6scht"
         },
@@ -154,6 +148,12 @@
         },
         "8b3964c39c4eb2db458965c40689f5a0": {
             "text": "Auf die Tiefe zugreifen kann man von einem Repeater-Seiten-Element \u00fcber $item->depth."
+        },
+        "c79558badd020f417f148d0a7751e6e4": {
+            "text": "Feld \"%1$s\" zu \"%2$s\" hinzugef\u00fcgt"
+        },
+        "5222d983bada8088d0a86ac0ff1e5871": {
+            "text": "Feld \"%1$s\" aus \"%2$s\" entfernt"
         }
     }
 }

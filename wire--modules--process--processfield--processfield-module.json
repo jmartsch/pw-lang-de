@@ -56,9 +56,6 @@
         "1fa78a97c113bed4e867ec21d9ca918f": {
             "text": "Dieses Feld kann nicht gel\u00f6scht werden, da es von einem oder mehreren Template(s) verwendet wird."
         },
-        "bfacb0dba61ee131e07daaacead869c5": {
-            "text": "Grundlegende Einstellungen des Feldes"
-        },
         "ab2e4f95a7971ee8077df62efa20d437": {
             "text": "Nachdem Sie den Feld-Typ gew\u00e4hlt und gespeichert haben, werden Ihnen vielleicht zus\u00e4tzliche spezifische Konfigurationsoptionen zum gew\u00e4hlten Feld-Typ angezeigt."
         },
@@ -492,7 +489,7 @@
             "text": "Markieren Sie die obere Box um dieses Verhalten umgehen. Damit kann immer per API auf den Wert zugegriffen werden. Dies \u00fcberl\u00e4sst Ihnen jede \u00dcberpr\u00fcfung von Zugriffen."
         },
         "d96a1b8071d5f5f8eb8bc96839d85407": {
-            "text": "Sie k\u00f6nnen die Berechtigung zum Ansehen f\u00fcr dieses Feld über die API so pr\u00fcfen:"
+            "text": "Sie k\u00f6nnen die Berechtigung zum Ansehen f\u00fcr dieses Feld \u00fcber die API so pr\u00fcfen:"
         },
         "71f8bd77c0780518e62960d62ebd72bd": {
             "text": "Kontext \u00fcberschreiben entfent"
@@ -574,6 +571,45 @@
         },
         "927e2bece8a3ee4ce5f53aca157c04ec": {
             "text": "Nur ASCII-Buchstaben (a-z A-Z), Zahlen (0-9) und Unterstriche verwenden."
+        },
+        "760b4bbc37693597edf00f9eeda38cd0": {
+            "text": "Derzeit werden keine Einstellungen vom Template \u00fcberschrieben."
+        },
+        "89fa758424367d5caeb355f904d5bfc1": {
+            "text": "Erlaubte \u00dcberschreibungen"
+        },
+        "7710897a6218283716118180cd494f1e": {
+            "text": "\u00dcberpr\u00fcfte Einstellungen werden als Konfigurationsoptionen angezeigt, wenn Sie dieses Feld im Kontext eines bestimmten Templates bearbeiten."
+        },
+        "c4d3fb0af8e800de549531cccd8a19f8": {
+            "text": "Achtung: Das Ausf\u00fchren von Einstellungen, die \u00fcber die vom Autor des Moduls angegebenen Werte hinausgehen, funktioniert m\u00f6glicherweise nicht immer oder kann zu Problemen f\u00fchren."
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "="
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "="
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "+"
+        },
+        "2babe53026309ed1bc4d26626dbaf9b3": {
+            "text": "="
+        },
+        "c4e024e71ba191d41926d9fcfa7cde3a": {
+            "text": "Eingabe:"
+        },
+        "6ed7cdaf5655ad6feaf61425896fca0e": {
+            "text": "Fehler in Einstellung \"%s\""
+        },
+        "86cdc0e0ad458e6450b25153b0ca0248": {
+            "text": "(Sie haben \"%s\" angegeben)"
+        },
+        "ce1e5086faa587952093bfb31f7af1c1": {
+            "text": "Kann nicht validiert werden"
+        },
+        "07f32475d23721446e940087c7e26b53": {
+            "text": "Dies funktioniert nicht, da die Werte Seiten-IDs sein m\u00fcssen"
         }
     }
 }

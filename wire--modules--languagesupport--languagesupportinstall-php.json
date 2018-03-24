@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportInstall.php",
+    "textdomain": "wire--modules--languagesupport--languagesupportinstall-php",
+    "translations": {
+        "3ae44849cea119dd44333ce66ad5b388": {
+            "text": "Klicken Sie auf Installieren:"
+        },
+        "f62784baf73b04e9986e5e2e5141c1ac": {
+            "text": "Hinzuf\u00fcgen und Konfigurieren neuer Sprachen"
+        },
+        "b326de895188c390f00d3e3165a4e183": {
+            "text": "\u00c4ndern Sie den Typ Ihres Felds \"Titel\" von \"Seitentitel\" in \"Seitentitel (mehrsprachig)\""
+        },
+        "38655673ed547e757e9275d9132e8002": {
+            "text": "\u00c4ndern Sie den Typ der anderen gew\u00fcnschten \"Text\"-Felder in \"Text (mehrsprachig)\""
+        },
+        "e28586cd56c48fc4522b6f5838c69781": {
+            "text": "\u00c4ndern Sie den Typ aller anderen gew\u00fcnschten \"Textarea\"-Felder in \"Textarea (mehrsprachig)\""
+        },
+        "cce78dc6ebbec7385a01f2146d6d01c8": {
+            "text": "N\u00e4chste Schritte"
+        },
+        "11073190b7d624dffd2b0ed1d24e99be": {
+            "text": "Um mit der Einrichtung der Unterst\u00fctzung mehrerer Sprachen fortzufahren, empfehlen wir die folgenden n\u00e4chsten Schritte."
+        },
+        "03936c46ccc75e527d1c061c9307cb2b": {
+            "text": "Die folgenden Links werden in einem neuen Fenster\/Tab ge\u00f6ffnet. Schlie\u00dfen Sie jedes nach dem Beenden, um hierher zur\u00fcckzukehren."
+        },
+        "02860eb2acccc8d47fc0503ceae2b550": {
+            "text": "Installieren Sie das LanguageSupportFields-Modul, bevor Sie versuchen, Textfeldtypen zu \u00e4ndern."
+        }
+    }
+}
