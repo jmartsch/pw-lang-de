@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldtypeFieldsetPage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtypefieldsetpage-module",
+    "translations": {
+        "ad59ad3d4d7edf6963e2547a6436effd": {
+            "text": "Felder im Fieldset"
+        },
+        "cc50c812a69f0bae59a44a023c8c58b2": {
+            "text": "Legen Sie die Felder fest, welche von diesem Fieldset genutzt werden. Sie k\u00f6nnen auch Felder per Drag & Drop in die gew\u00fcnschte Reihenfolge ziehen."
+        },
+        "001059727a69c3158a6716b9430d5d1f": {
+            "text": "Fieldset (Seite)"
+        },
+        "c1aa12461889e9773f2c053ae68fb817": {
+            "text": "Fieldset mit Feldern, die getrennt sind, um den Namensraum zu trennen (Seite), um die Wiederverwendung von Feldern zu erm\u00f6glichen."
+        }
+    }
+}

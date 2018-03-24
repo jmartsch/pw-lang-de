@@ -14,9 +14,6 @@
         "3fc82a72e38b059cea88dcfbdaeafff8": {
             "text": "Tags verwenden?"
         },
-        "3a37a820d95c0f598d6ea38f34716c31": {
-            "text": "Falls ausgew\u00e4hlt, enth\u00e4lt das Feld auch eine Option f\u00fcr Tags zus\u00e4tzlich zur Beschreibung."
-        },
         "00f6c76a7a83b1d7aab61a93e513e9d5": {
             "text": "Eingabefeld-Typ"
         },
@@ -88,6 +85,27 @@
         },
         "9cdd19f51364783933fefd557c7cd644": {
             "text": "Dies nur \u00e4ndern, wenn es von einem Drittanbieter-Eingabefeld-Modul gefordert wird."
+        },
+        "e380459ef1125b0733738668d0bd747c": {
+            "text": "Falls ausgew\u00e4hlt, enth\u00e4lt das Feld auch eine Option f\u00fcr Tags zus\u00e4tzlich zur Beschreibung."
+        },
+        "b32f1d32240c3f4298baf57f5f0d88b1": {
+            "text": "Benutzer w\u00e4hlt aus Liste vordefinierter Tags"
+        },
+        "18856ebc636a3ce5a3e083ddd831c949": {
+            "text": "Tags deaktiviert"
+        },
+        "564d93d129c0a94937b12c4fafa4ad62": {
+            "text": "Benutzer gibt Tags per Texteingabe ein"
+        },
+        "83b7a060baaabcf327d37b63bf72bd63": {
+            "text": "K\u00f6nnen ihre eigenen eingeben"
+        },
+        "2f3446ffcef315485017078a9ed7cc76": {
+            "text": "Vordefinierte Tags"
+        },
+        "43bce07bd160232ee31114541357640c": {
+            "text": "Eingabe von Tags getrennt durch Leerzeichen. Tags k\u00f6nnen Buchstaben, Zahlen, Unterstriche oder Bindestriche enthalten."
         }
     }
 }

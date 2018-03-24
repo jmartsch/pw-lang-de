@@ -46,6 +46,18 @@
         },
         "a6a26b1340a7cbaf1b405484a8a74b98": {
             "text": "Dieses Feature ist aktiv weil ein Wert immer Pflicht ist."
+        },
+        "7a55572484844c1b337505ee266d3007": {
+            "text": "API-Verwendungsbeispiel"
+        },
+        "9786dd72ff72c22b5cde66e2ef3a6c6a": {
+            "text": "Ausgabe einer einzelnen Auswahl:"
+        },
+        "c575fc08137bccf13da4fff3117ff3e2": {
+            "text": "Ausgabe mehrerer Auswahlen:"
+        },
+        "d51f7ee41ebdd5252b9a4410e297b306": {
+            "text": "Wenn Sie Werte anstelle von Titeln ausgeben m\u00f6chten, ersetzen Sie in den obigen Beispielen \"title\" durch \"value\"."
         }
     }
 }

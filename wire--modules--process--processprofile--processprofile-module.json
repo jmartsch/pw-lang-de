@@ -22,6 +22,51 @@
         },
         "d57a97a659253e107095a0ad40576d9f": {
             "text": "E-Mail-Adresse \"%s\" wird bereits von anderem Nutzer verwendet."
+        },
+        "2ed85673c671a4f6a96ccccf154dab83": {
+            "text": "Benutzer-Login-Name"
+        },
+        "c5e601d1ba182fc5a8c177a4f5eb6661": {
+            "text": "Um dieses Feld zu \u00e4ndern, m\u00fcssen Sie auch Ihr aktuelles Passwort in das Feld \"Passwort setzen\" eingeben."
+        },
+        "cb6f985e3af3f01a7f7f9e2d3cc6fe77": {
+            "text": "Der Benutzername kann Kleinbuchstaben wie a-z, 0-9, Bindestrich oder Unterstrich enthalten."
+        },
+        "31ed16771212c1b9c52ea8680a61c5bb": {
+            "text": "Erforderliches Passwort wurde angegeben, ist aber nicht korrekt"
+        },
+        "b54db85c5475befbb8e4d05e3985853b": {
+            "text": "Erforderliches Passwort wurde nicht angegeben"
+        },
+        "c0902bb307af1c623dc07a6070c33261": {
+            "text": "Nicht erlaubt"
+        },
+        "c41276451b92f986f438a836dd99ed69": {
+            "text": "Bereinigt zu \"%s\", das sich von dem unterscheidet, was Sie eingegeben haben"
+        },
+        "c012e2a8b9e129403f8b93547086500a": {
+            "text": "Zu kurz"
+        },
+        "b2df7887a34999a0fee743420750a9ec": {
+            "text": "Zu lang"
+        },
+        "8d7dadc018de46d934c7f3a9c0ade8b7": {
+            "text": "Wird bereits verwendet"
+        },
+        "0be33c8c71eb4cbffd8ff2999d0660db": {
+            "text": "Darf nicht mit nicht-alphanumerischen Zeichen beginnen oder enden"
+        },
+        "642249113906da67a3b9d3d446555c93": {
+            "text": "Darf keine benachbarten Bindestriche, Unterstriche oder Punkte enthalten"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "="
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "="
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "+"
         }
     }
 }

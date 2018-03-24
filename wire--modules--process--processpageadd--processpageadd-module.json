@@ -8,9 +8,6 @@
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "Neue Seite hinzuf\u00fcgen"
         },
-        "9e31eadc87a42dd9b75f4b4d141c192b": {
-            "text": "Der Name, den Sie ausgew\u00e4hlt haben, wird bereits verwendet. Bitte w\u00e4hlen Sie einen anderen."
-        },
         "9c99ecab6aa8967c077e01a0b3f51668": {
             "text": "Die Seite %1$s, die das Template %2$s nutzt, wurde erstellt"
         },
@@ -82,6 +79,9 @@
         },
         "591d3e7786bdfa26890da22a5565f1f5": {
             "text": "Speichern + Ver\u00f6ffentlichen + Weitere hinzuf\u00fcgen"
+        },
+        "9d9c4e8d05601024166b9a3b0cb46ad6": {
+            "text": "Templateauswahl ist erforderlich"
         }
     }
 }

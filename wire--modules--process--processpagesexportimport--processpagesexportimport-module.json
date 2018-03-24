@@ -1,0 +1,315 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPagesExportImport\/ProcessPagesExportImport.module",
+    "textdomain": "wire--modules--process--processpagesexportimport--processpagesexportimport-module",
+    "translations": {
+        "352f3461a3066e2817043fb2e9e1f932": {
+            "text": "Export\/Import ist im Moment nur f\u00fcr Superuser verf\u00fcgbar"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "="
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "="
+        },
+        "8894de92408710885e26ee0d7419c76c": {
+            "text": "Import von JSON-String"
+        },
+        "1d2c7cbb668a639e64eb4d9d1e11dd21": {
+            "text": "Import von hochgeladener ZIP Datei"
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Fortfahren"
+        },
+        "9307d9361fab3e60165754816f70e52f": {
+            "text": "Keine Daten zum importieren gefunden"
+        },
+        "a6255d9c8319899dbe7c65dc74f9307a": {
+            "text": "Ung\u00fcltige Importdaten"
+        },
+        "6a50ab53f47b9f8f811ebbaf822fbb16": {
+            "text": "%d neu, %d vorhanden"
+        },
+        "bb762878d3e4d3b7a33da405fb77231d": {
+            "text": "Keine Importdetails anzeigbar"
+        },
+        "6c1d0fdc993bfa095bfa6a0cb500742e": {
+            "text": "W\u00e4hlen Sie beim Erstellen dieser Seiten ein Template aus."
+        },
+        "612bd2323b570ffd7610d860b5fc5b9a": {
+            "text": "OK: Ersetze TEMPLATE \"%1$s\" mit \"%2$s\""
+        },
+        "a700c516b508fc37ecbdd5ef3e4149c3": {
+            "text": "W\u00e4hle Ersatz f\u00fcr TEMPLATE mit Namen \"%s\""
+        },
+        "b27e66177b699de288b50b3736392350": {
+            "text": "OK: Ersetze FELD \"%1$s\" mit \"%2$s\""
+        },
+        "9f2156a6e113d013e84f6b3d0f787f70": {
+            "text": "W\u00e4hle Ersatz f\u00fcr FELD mit Namen \"%s\""
+        },
+        "ea41325267ff33833cdd6f91d5a323d1": {
+            "text": "Andere Felder (sind eventuell nicht kompatibel)"
+        },
+        "88a97d86b72eac1bb3a897239a5833c7": {
+            "text": "W\u00e4hle neue Elternseite"
+        },
+        "3b3a36a05707eb5bd0c5a9c6ef8b6bcc": {
+            "text": "OK: Ersetze ELTERNSEITE \"%1$s\" mit \"%2$s\""
+        },
+        "6d4769b2c4ab2c7c6596715d9a95b10a": {
+            "text": "W\u00e4hle Ersatz f\u00fcr ELTERNSEITE mit Namen \"%s\""
+        },
+        "5062a54bca446bff0013b7e3b83971ef": {
+            "text": "Import Zusammenfassung"
+        },
+        "b622b3c2bd4167573c69775914e6bb1c": {
+            "text": "Importmodus"
+        },
+        "a865157a6095cc25e9db226471350ac0": {
+            "text": "Erstelle neue Seiten und aktualisiere bestehende Seiten"
+        },
+        "093ee62b9967049d867742cc37db9ec6": {
+            "text": "Nur neue Seiten erstellen"
+        },
+        "5d22ed76c96cfc210e6659bf465c29d9": {
+            "text": "Bestehende Seiten in diesem Import \u00fcberspringen"
+        },
+        "8e0e1c009bd6cdb0c55e6d1ab601f9c5": {
+            "text": "Bestehende Seiten nur aktualisieren"
+        },
+        "c420555a575c97be4ef7ef4c6335eabd": {
+            "text": "Noch nicht bestehende Seiten in diesem Import \u00fcberspringen"
+        },
+        "fbd52bbf346d30a5a3c3735d4fd11249": {
+            "text": "Seiten unterhalb der Elternseite importieren"
+        },
+        "bc148f36b892cd236d9524d31b92ed3a": {
+            "text": "Elternseite w\u00e4hlen"
+        },
+        "56e30d5f1290e2bc227c986608645134": {
+            "text": "Erlaubte Felder im Import"
+        },
+        "75cd6d17fcfe896e1521bbec73924c68": {
+            "text": "Folgende Felder wurden in den Importdaten gefunden."
+        },
+        "21f3733b4c29eea78a95595e8fecfdbd": {
+            "text": "Deaktivieren Sie alle Felder, die Sie beim Import \u00fcberspringen m\u00f6chten."
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "="
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "="
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "+"
+        },
+        "c0a1f9eff88edb62c46edb084004e32b": {
+            "text": "Seitenname"
+        },
+        "0a47bbe324aa63b3431f8c3f89791928": {
+            "text": "Seitenstatus"
+        },
+        "a84ab456be63f90daf5d14573d3a4837": {
+            "text": "Importiere Seiten"
+        },
+        "993d770e8a02574766cb9e77f05166d1": {
+            "text": "Pr\u00fcfe Import"
+        },
+        "ae5736613c76f3a4222d0aa2986413c6": {
+            "text": "Erstelle neue Seite: %s"
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "="
+        },
+        "4fb4efe4086f5f135cdf92d1a6b4d865": {
+            "text": "Aktualisiere bestehende Seite: %s"
+        },
+        "ac4191b09ac955dce523147b4ae42732": {
+            "text": "Seite: %s - Fehler"
+        },
+        "eed35940c778016bb521e2e86594020f": {
+            "text": "Seite: %s"
+        },
+        "622fd1a9153d7f49d2ab40d3a42e9f2a": {
+            "text": "Gef\u00fcllte Felder:"
+        },
+        "d80c9a644617ba76da47a8d5e776ea2a": {
+            "text": "Ge\u00e4nderte Felder:"
+        },
+        "40fe8d33d2cf8c5f10422b0b229dbcc4": {
+            "text": "Keine \u00c4nderungen festgestellt"
+        },
+        "a6d6ed66ec9bac03cd0439959d6efc07": {
+            "text": "Seite kann nicht importiert werden"
+        },
+        "556843e4a406b780b0cf83c43366a8dd": {
+            "text": "Import erfolgreich"
+        },
+        "7cd0babd7de67eb353b6b61a3f86702e": {
+            "text": "Diese Seite importieren?"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "+"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "+"
+        },
+        "726d6246df516f81a1716ab64006f70a": {
+            "text": "Welche Seiten m\u00f6chten Sie exportieren?"
+        },
+        "9a4ecf5d3003837af473e07e59527178": {
+            "text": "Seiten, welche ich ausw\u00e4hle"
+        },
+        "d1ae61f175e8cff2fe2b233bd744601a": {
+            "text": "Seiten mit Eltern"
+        },
+        "0c0f61a363c410be945c0c948ce24dbd": {
+            "text": "Seiten auf welche die Suche zutrifft"
+        },
+        "4947db62e5b74b73e637f5c4533871c3": {
+            "text": "Seiten ausw\u00e4hlen"
+        },
+        "4fd182637e2da2b261886dfae6c01659": {
+            "text": "Eine oder mehrere Seiten f\u00fcr den Export ausw\u00e4hlen."
+        },
+        "dc52b4466bd46f4f22f8a5a3049a5357": {
+            "text": "Elternseite ausw\u00e4hlen"
+        },
+        "8a6a2112bdf498013db64d59f301d886": {
+            "text": "W\u00e4hlen Sie die Elternseite der zu exportierenden Seiten. Die Kinder dieser Seite werden exportiert."
+        },
+        "e128ece85361c066ea30a503fb868121": {
+            "text": "Zus\u00e4tzliche Optionen"
+        },
+        "3c96078602fbe987f0b60fbc8b946092": {
+            "text": "F\u00fcge die Elternseite in den Export ein"
+        },
+        "556c3dd912453ae5cb3095cd5054e6f4": {
+            "text": "Rekursiv"
+        },
+        "42fdbb35b46ad8e66130cc690f8d2e84": {
+            "text": "Versteckte Seiten mit einf\u00fcgen"
+        },
+        "c7b7b2c71efc438029169573f0c7e7d5": {
+            "text": "Versteckte und unver\u00f6ffentlichte Seiten mit einf\u00fcgen"
+        },
+        "28024f25f2a4009ee133f8b562b531d5": {
+            "text": "Export Felder"
+        },
+        "3aee85d275f14778870a9a59094a3248": {
+            "text": "Standardm\u00e4\u00dfig werden alle unterst\u00fctzten Felder einer Seite in den Export eingef\u00fcgt."
+        },
+        "e2fe1c296c63b89f877ed53a8be349a1": {
+            "text": "Wie m\u00f6chten Sie den Export speichern?"
+        },
+        "e97986e2d093cf22639cdabd17762178": {
+            "text": "ZIP-Datei herunterladen"
+        },
+        "216db75e2a4bd42aa6718a66268f5905": {
+            "text": "Text f\u00fcr Copy\/Paste"
+        },
+        "1828a21cc67aa04125984a6ca450c313": {
+            "text": "Jetzt exportieren"
+        },
+        "c5806d824bef9a5b89ffad8b8cc3c266": {
+            "text": "JSON f\u00fcr Copy\/Paste (Standard)"
+        },
+        "9e695fb18f1a97591ea92d09db081ff9": {
+            "text": "Anderen Export ausf\u00fchren"
+        },
+        "9a3d09c6f627ab8776c1511913bb6586": {
+            "text": "%d Seite importiert"
+        },
+        "76c8ca770c404ebb67fe48d039cf9956": {
+            "text": "%d Seiten importiert"
+        },
+        "99c9efe732e034ed4b07956b67ae8677": {
+            "text": "Import von %d Seite gepr\u00fcft"
+        },
+        "c856d1123aa9d66e1534cd282b3ce877": {
+            "text": "Import von %d Seiten gepr\u00fcft"
+        },
+        "c9b0a12dc552dbd618bd32115aff0a23": {
+            "text": "%d Seite f\u00fcr Import gefunden"
+        },
+        "cde6a4cf0bc2c5dea574eb1384c6d083": {
+            "text": "%d Seiten f\u00fcr Import gefunden"
+        },
+        "e952a9e4d7f52080bd9d79e49d50c57e": {
+            "text": "Dieser Export enth\u00e4lt %d Seite."
+        },
+        "a5e9f843454d6e5f8aef06784d94e3a2": {
+            "text": "Dieser Export enth\u00e4lt %d Seiten."
+        },
+        "15c369cf22656869f693431abfbabf35": {
+            "text": "Einf\u00fcgen des JSON-String, der zuvor aus diesem Tool exportiert wurde."
+        },
+        "710dea6bdf095f0b2112f36943789222": {
+            "text": "Seiten, welche Template \"%s\" haben, k\u00f6nnen nicht importiert werden weil dieses Template hier nicht existiert."
+        },
+        "037ef64f930a701f646e32b659309203": {
+            "text": "Das Feld \"%s\" vom Typ %s erscheint in den Importdaten, existiert aber nicht lokal."
+        },
+        "e7b3e14b8ea6b4e9b9ded5935a787200": {
+            "text": "Falls Sie dieses Feld importieren wollen, w\u00e4hlen Sie hier ein Ersatzfeld aus."
+        },
+        "f3418f35aed2653864c898b1fbfa7f89": {
+            "text": "M\u00f6gliche Ersatzfelder"
+        },
+        "39131ec4699f5661159842adf4828d87": {
+            "text": "Seiten mit Elternseite \"%s\" k\u00f6nnen nicht importiert werden weil diese Seite hier nicht existiert."
+        },
+        "9d9d340fef6ece85d9fa8cb168e4cc4b": {
+            "text": "W\u00e4hlen Sie eine Elternseite aus, anstatt diese Seiten zu erstellen."
+        },
+        "b8fd4cfffa13fd37bbb33085b3d99559": {
+            "text": "Ressourcenkonflikte"
+        },
+        "f725a6ddc1137ce2162d1adcfb06e5e5": {
+            "text": "Wenn ausgew\u00e4hlt, werden die Seiten zu der selektierten Elternseite importiert."
+        },
+        "dc5065164c53ccdaf2afab0a4e92821b": {
+            "text": "Importieren Sie Seiten in das ausgew\u00e4hlte Elternteil und pflegen Sie die Seitenpfadstruktur darunter"
+        },
+        "9a4182341877068a0de58ca06532a6b5": {
+            "text": "Importiere Seiten nur als Kinder der ausgew\u00e4hlten Elternseite"
+        },
+        "a6425901f3af36ae6ccc9a92b131595a": {
+            "text": "Seiten sortieren"
+        },
+        "5d762b248f371ac7a53ca63b5686689a": {
+            "text": "Import \u00fcbergeben"
+        },
+        "c98c2eece26a5aa7e2c47740d864c713": {
+            "text": "Exportiert Seitenbaum statt nur die direkten Kinder"
+        },
+        "afbe62b4d04b9023683b0b64f63fb629": {
+            "text": "Erstellen Sie eine Suche, um Seiten f\u00fcr den Export abzugleichen"
+        },
+        "5487c98ab1a908b9700fa20e3a3ffc1f": {
+            "text": "F\u00fcgen Sie der Suche ein oder mehrere Felder hinzu und gleichen Seiten f\u00fcr den Export ab"
+        },
+        "6a3dac44a256e9471b5fd2ed42b12c0f": {
+            "text": "Falls der Export nur bestimmte Felder enthalten soll, w\u00e4hlen Sie diese hier aus."
+        },
+        "cb8c3657faa795632ec15cbd7721a912": {
+            "text": "Falls keine Auswahl getroffen wird, werden alle unterst\u00fctzten Felder in den Export eingeschlossen."
+        },
+        "52bf0f8917ee90a9e2d755751c651cb3": {
+            "text": "W\u00e4hlen Sie immer die Option ZIP-Datei wenn Datei- oder Bild-Felder im Export enthalten sein sollen."
+        },
+        "f27cd90ca25ec83caa63a757fc2efcb4": {
+            "text": "Seiten exportieren Daten f\u00fcr copy\/paste"
+        },
+        "3e0018e76b5cc05092e1129c9b46dad7": {
+            "text": "Klicken Sie beliebig in den Text unten um ihn zum kopieren auszuw\u00e4hlen."
+        },
+        "abdb2686b241382010a3933e591a1cbb": {
+            "text": "Sie k\u00f6nnen den Text dann im Import-Tab einer anderen Installation einf\u00fcgen."
+        },
+        "7273b7477ad1aad558b4c4fbaba5e3ac": {
+            "text": "ZIP-Datei herunterladen"
+        }
+    }
+}

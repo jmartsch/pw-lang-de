@@ -5,9 +5,6 @@
         "7e4cc6c00140cefcecd178df1836fbba": {
             "text": "Das Bild wurde auf die maximal erlaubte Gr\u00f6\u00dfe skaliert"
         },
-        "7f0785e56befa113ce8fca2316a12a2e": {
-            "text": "Maximale Bild-Dimensionen"
-        },
         "ef375d406da59811c42dc0f5a245dca3": {
             "text": "Sie k\u00f6nnen optional die maximale Breite und\/oder H\u00f6he hochgeladenener Bilder angeben. Falls angegeben werden Bilder beim Hochladen verkleinert, wenn sie entweder die maximale H\u00f6he oder Breite \u00fcberschreiten. Die Verkleinerung wird nur beim Hochladen ausgef\u00fchrt und betrifft daher weder Bilder, die bereits im System vorhanden sind, noch Bilder die \u00fcber die API hinzugef\u00fcgt werden."
         },
@@ -29,11 +26,8 @@
         "41cfe40655c4b51507eff9d22bd777f2": {
             "text": "Bild von %s entspricht nicht der Mindestgr\u00f6\u00dfe"
         },
-        "6760d392e57247a882e160cdb8b3680c": {
-            "text": "Minimale Bild-Dimensionen"
-        },
         "a195023920e6ece61b6211755c9af27f": {
-            "text": "Optional kann die Mindestbreite und \/oder -h\u00f6he der hochzuladenden Bilder eingetragen werden. Falls festgelegt, werden Bilder mit nicht zutreffenden Werten abgewiesen."
+            "text": "Optional kann die Mindestbreite und\/oder -h\u00f6he der hochzuladenden Bilder eingetragen werden. Falls festgelegt, werden Bilder mit nicht zutreffenden Werten abgewiesen."
         },
         "d704e5da0e9e4ca2aa3e04201575f44c": {
             "text": "Mindestbreite f\u00fcr hochgeladene Bilder"
@@ -49,9 +43,6 @@
         },
         "dffe78c5f55b8a4187b91c40a03cf904": {
             "text": "Bilder abweisen, welche die maximalen Dimensionen \u00fcberschreiten?"
-        },
-        "e0af28e6bea01f8a983ebd94ec3b7468": {
-            "text": "Falls markiert werden Bilder, welche die maximale Breite\/H\u00f6he \u00fcberschreiten, abgewiesen anstatt neu skaliert."
         },
         "d388632d05e8826abe4b95de0b110529": {
             "text": "Zuschneiden"
@@ -112,6 +103,141 @@
         },
         "7f3d934927a1c106f5191c01b36c7766": {
             "text": "Falls ausgew\u00e4hlt, werden Mindestbreite\/-h\u00f6he und Maximalbreite\/-h\u00f6he getauscht, um dem unterschiedlichen Seitenverh\u00e4ltnis Rechnung zu tragen."
+        },
+        "84a327773a9172357f703ebdbb28680b": {
+            "text": "Maximale Bild-Dimensionen"
+        },
+        "16e3e850ce20fe9fa8340e6d27693f61": {
+            "text": "Gilt f\u00fcr JPG, PNG und GIF Bilder."
+        },
+        "9fdc5bac96032d0465aa6cc6543d1871": {
+            "text": "Wie man die Gr\u00f6\u00dfe auf maximale Dimensionen \u00e4ndert"
+        },
+        "434352c2b6134b909827f386b3644f0f": {
+            "text": "Die clientseitige Gr\u00f6\u00dfen\u00e4nderung erlaubt Ihnen, die Dateigr\u00f6\u00dfe und Dimensionen vor dem Hochladen zu reduzieren."
+        },
+        "c265ab5c0405e78595f05a15d5279278": {
+            "text": "Bei Verwendung der clientseitigen Gr\u00f6\u00dfen\u00e4nderung geben Sie bitte sowohl die maximale Breite als *auch* die maximale H\u00f6he in den Feldern oben oder die maximalen Megapixel im Feld unten an."
+        },
+        "edcf99dacdc6160d6eb8d2efb90ee189": {
+            "text": "Nutze clientseitige Gr\u00f6\u00dfen\u00e4nderung wenn m\u00f6glich"
+        },
+        "4421a363b922af1808ae2b258c9d11bb": {
+            "text": "Nutze nur serverseitige Gr\u00f6\u00dfen\u00e4nderung"
+        },
+        "41d833b452340b52caa65fdcfe181945": {
+            "text": "Maximale Megapixel f\u00fcr hochgeladene Bilder"
+        },
+        "86d448ef6f037ce16fc358a22921c45c": {
+            "text": "Dies kann als Alternative zur maximalen Breite\/H\u00f6he genutzt werden. Geben Sie einen Gleitkommawert an."
+        },
+        "bd035d6e1aa04d38e61f36c27150e39d": {
+            "text": "Gilt nur f\u00fcr clientseitige Gr\u00f6\u00dfen\u00e4nderung."
+        },
+        "c719e0f0e40f5193e0bbe6f9afc408e5": {
+            "text": "Andere Beispiele:"
+        },
+        "a29b9e543bb7bc0f4b7e2c04d0a1c820": {
+            "text": "Prozentwert der Qualit\u00e4t f\u00fcr Gr\u00f6\u00dfen\u00e4nderungen von JPEGs"
+        },
+        "ab00b0c8eb852647eee9553c75a100fe": {
+            "text": "Definiere eine Zahl zwischen 10 (niedrigste Qualit\u00e4t\/kleinste Dateigr\u00f6\u00dfe) und 100 (h\u00f6chste Qualit\u00e4t\/gr\u00f6\u00dfte Dateigr\u00f6\u00dfe). Standard ist 90."
+        },
+        "aa09d92fbba4044af814b7504798dec3": {
+            "text": "Falls markiert werden Bilder, welche die maximale Breite\/H\u00f6he (die nicht clientseitig verkleinert werden kann) \u00fcberschreiten, abgewiesen anstatt neu skaliert."
+        },
+        "2d77facadb02370d5dd7c076b5afbee7": {
+            "text": "Mindest Bild-Dimensionen"
+        },
+        "98ebe60c452735dc2ef2249c835eddfe": {
+            "text": "Gilt nur f\u00fcr serverseitige Gr\u00f6\u00dfen\u00e4nderungen."
+        },
+        "fe64c68c1aa30e687be4aa011b33f15f": {
+            "text": "Ein guter Wert f\u00fcr Webseiten ist 1.7 und entspricht etwa 1600x1000 Pixel, wobei 1600 und 1000 entweder Breite oder H\u00f6he sein k\u00f6nnen."
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Aktionen"
+        },
+        "9356bea0f207cd50faacd40798850038": {
+            "text": "Aktion beim Speichern angewendet."
+        },
+        "9ffbd422925a6839ee820ddbc59278c5": {
+            "text": "Umdrehen"
+        },
+        "8d2de5368588552fbae54044ac5c7b3d": {
+            "text": "Rotieren"
+        },
+        "ed75712b0eb1913c28a3872731ffd48d": {
+            "text": "Duplizieren"
+        },
+        "9d639c16d0e22f1f4f9b79593e260ce6": {
+            "text": "Varianten entfernen"
+        },
+        "baca1adb243ae63002bbb02b3ce5c28d": {
+            "text": "Varianten neu aufbauen"
+        },
+        "c9b416167392c2b301810695b92efa12": {
+            "text": "vertikal"
+        },
+        "2ef2dfb893d25c30e3e2bda1a10c8952": {
+            "text": "horizontal"
+        },
+        "f6cb3e816496528d4187db53bc66567f": {
+            "text": "beides"
+        },
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "Kopieren"
+        },
+        "36bb6559696dc9124986ae120515984f": {
+            "text": "Einf\u00fcgen"
+        },
+        "e4ddc7e3d69547eea44ee08c02eb350d": {
+            "text": "Reduziere 50%"
+        },
+        "60e7841801c8734e320b527cbfa8d022": {
+            "text": "S&W"
+        },
+        "b84a9a38377dc1ab6c6d5005cb461f0d": {
+            "text": "="
+        },
+        "0cb9400e4e73f627d6587cf549c60907": {
+            "text": "Duplizierte Datei %1$s => %2$s"
+        },
+        "80a599081d30053c4cf6bc91230a9e6c": {
+            "text": "Ausgef\u00fchrte Aktion \u201c%1$s\u201d auf Datei %2$s"
+        },
+        "a45c16f718396868c97a72efcc571842": {
+            "text": "Fehlgeschlagene Aktion \u201c%1$s\u201d auf Datei %2$s"
+        },
+        "ac8883f9998c8b328a96855575eebcc5": {
+            "text": "Kein Handler f\u00fcr Aktion \u201c%1$s\u201d auf Datei %2$s gefunden"
+        },
+        "e24ee2487879116dcab772c0ac4fe341": {
+            "text": "Fokus"
+        },
+        "819258e827e9ef9ba926940f30b2697e": {
+            "text": "Ziehen Sie den Kreis zum Fokuszentrum"
+        },
+        "40c760714d188227815e2e1ed3369c29": {
+            "text": "Fokus entfernen"
+        },
+        "e0f4085735da81540154c2c351147301": {
+            "text": "Fokuspunktauswahl"
+        },
+        "f6a9e8b3977d98dd0e4b7b13720c858b": {
+            "text": "Erm\u00f6glicht einen ziehbaren Fokuspunkt, um das Motiv eines Bildes auszuw\u00e4hlen. Dies hilft, nichtproportionale Zuschnitte zu erzeugen."
+        },
+        "17450a5a8844e5a36f3911d94bea2b72": {
+            "text": "Eine Vorschau des Fokuspunkts wird auch angezeigt, wenn sich Bilder im Modus \"Quadratische Rasterbilder\" befinden."
+        },
+        "470ede3fd1e5fcf4fca77d7fbf5df11a": {
+            "text": "Fokuspunkt"
+        },
+        "2d07823e1de7d7eb6f09477f9070524f": {
+            "text": "Fokuspunkt und zoomen"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "+"
         }
     }
 }

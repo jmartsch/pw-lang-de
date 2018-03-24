@@ -1,0 +1,180 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/config.php",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--config-php",
+    "translations": {
+        "de71102a6c8bba23cf43b10e6dc86adc": {
+            "text": "(EMPFOHLEN)"
+        },
+        "ff498dcc16878847ee1d01c38a0138f3": {
+            "text": "(EXPERIMENTELL)"
+        },
+        "ebd9bec4d70abc789d439c1f136b0538": {
+            "text": "="
+        },
+        "3c8286b98b6dfd2248df2a3d70cb8fc4": {
+            "text": "(links)"
+        },
+        "45c75f330de92569cb24cebab40a20fc": {
+            "text": "(rechts)"
+        },
+        "21924d98c4f369c97991af1760e5fc64": {
+            "text": "Traditionell mit Top-Navigation"
+        },
+        "81e3da80ad979591250cca7feb39720b": {
+            "text": "Eigene Dateien"
+        },
+        "6059a6e9b311f4cb4afd60c154f0bef5": {
+            "text": "Prim\u00e4re CSS Datei"
+        },
+        "990a068cf660ce4eaf87777c43d07057": {
+            "text": "Logo-Bilddatei"
+        },
+        "35c45261e46b5a1400aef3ecbf237879": {
+            "text": "Datei sollte PNG, GIF, JPG oder SVG sein, auf transparentem Hintergrund und mindestens 100px in beiden Dimensionen."
+        },
+        "ed9bcb3b4e6221f67a2543f66109248a": {
+            "text": "Wenn leer, wird die Standarddatei verwendet."
+        },
+        "a825c84dec047bf77ef218348c6496ed": {
+            "text": "Geben Sie den Pfad relativ zur Startseite-URL ein."
+        },
+        "77c0933cca4f9492cb03f4a2d091901e": {
+            "text": "Seitenbaumnavigation in der Seitenleiste"
+        },
+        "cdf0447c0bfca1430af1916d3695665e": {
+            "text": "Sidebar-Navigation (links) + Seitenbaum-Navigation (rechts)"
+        },
+        "cd49cb29b2424eb2cfa6526153e12f3f": {
+            "text": "*Seitenleistenlayouts sind nicht mit dem SystemNotifications-Modul kompatibel und k\u00f6nnen Probleme mit anderen Modulen haben."
+        },
+        "fd57cabd74aeddd5a95d662e680dd5ef": {
+            "text": "Wir empfehlen, dies nicht zu \u00e4ndern, es sei denn, Sie sind ein Admin-Designentwickler."
+        },
+        "6c6a6ca96d96fc13c06abbf98f38668f": {
+            "text": "Formularfeld-Sichtbarkeitseinstellungen"
+        },
+        "21909eb7e7cbb04d9c804458848a7af3": {
+            "text": "Diese Einstellungen betreffen alle Formularfelder im Admin."
+        },
+        "f695996235a3c704a6780cf5515b6fdb": {
+            "text": "Jede dieser Einstellungen (und andere) kann auch individuell f\u00fcr ein bestimmtes Feld angegeben werden."
+        },
+        "0b28aca953c7100643fcacab33dbf502": {
+            "text": "Wenn Sie hier eine Einstellung festlegen, werden die einzelnen Feldeinstellungen \u00fcberschrieben."
+        },
+        "15367a85a0239326ebf3b0294edd61ce": {
+            "text": "Siehe: Einstellungen > Felder > [beliebiges Feld] > Eingabe (Tab) > Admintheme Einstellungen"
+        },
+        "6dcf297b0d223e7a27081a7c4bd6497f": {
+            "text": "Eingabetypen, die keinen Rahmen haben sollen"
+        },
+        "141c494a39b11098554fc3d327578895": {
+            "text": "Diese Einstellung gilt f\u00fcr alle ausgew\u00e4hlten Typen, wenn sie mit 100% Breite verwendet werden."
+        },
+        "99be59c66e12e86aefeced8b65c1effc": {
+            "text": "Eingabetypen, die den \"Karten\" Stil verwenden sollen"
+        },
+        "949bcbdc5822582126d426c6f82f4fa4": {
+            "text": "Dieses Feld ist ein Beispiel f\u00fcr den Kartenstil."
+        },
+        "cf83a7d29c286d14e29a97334e9279a5": {
+            "text": "Trifft nicht auf Typen zu, die so ausgew\u00e4hlt sind, dass sie keinen Rahmen haben."
+        },
+        "391889c9ed085249fe76c0beb25ad304": {
+            "text": "Eingabetypen, die mit einem zus\u00e4tzlichen oberen\/unteren Au\u00dfenabstand versetzt werden sollen."
+        },
+        "0d638e3ac46bc8f0cf58d60281ff4ebc": {
+            "text": "Als Beispiel verwenden die Felder in diesem Fieldset diese Option."
+        },
+        "627a242af272f5913c8af08cff4cadf9": {
+            "text": "ALLE Eingabetypen vertikal versetzen?"
+        },
+        "0222ce0d1bbe27a8e1cd12c3c7f4814c": {
+            "text": "Wenn diese Option aktiviert ist, wird jedem Feld ein vertikaler Au\u00dfenabstand hinzugef\u00fcgt."
+        },
+        "1939d9deea3a9b379eca5948b1b3cfc6": {
+            "text": "Dies kann in einigen F\u00e4llen zus\u00e4tzliche Klarheit schaffen, verbraucht jedoch mehr vertikalen Raum."
+        },
+        "496160bbca5b6421fb40ff6676562b17": {
+            "text": "Titel-Logo-Klickaktion"
+        },
+        "96f31592de4b37ce5ff61db935fbfa81": {
+            "text": "Admin-Root-Seitenliste"
+        },
+        "2fcf0b21fb2e5b0c2ed8774ca91bd3a0": {
+            "text": "Off-Canvas-Navigation \u00f6ffnen"
+        },
+        "2d7e18586d2265fc63934ad26902effb": {
+            "text": "Top und Navigation"
+        },
+        "5580ceafc3f05d1b31e318f00e2d187c": {
+            "text": "Benutzeravatar"
+        },
+        "f9a6b1bbc44e674712c33ec4363ca698": {
+            "text": "Gravatar (externer Service, der Avatar aus E-Mails ermittelt)"
+        },
+        "33821a7c07464e5442de3b0aa1836854": {
+            "text": "W\u00e4hlen Sie ein Bildfeld, einen Gravatar oder ein Symbol aus, das f\u00fcr den Benutzeravatar im Top angezeigt werden soll."
+        },
+        "52d59ff487072b976a4e83f890f18c4e": {
+            "text": "Bildfeld: %s"
+        },
+        "8b5c3dc5e49d1be8ee1648a5bc454559": {
+            "text": "Momentan sind keine Bildfelder im Template \"Benutzer\" vorhanden, daher werden nur Symbole und Gravatar angezeigt."
+        },
+        "2ff62c17135d9704b59a98881cffa793": {
+            "text": "Symbol: %s"
+        },
+        "bb96132ad3ed6087cc9a11da0539a499": {
+            "text": "Format der Benutzer-Navigationsbeschriftung"
+        },
+        "ef36780437bb9746cb9e4a684be3d0ae": {
+            "text": "Diese Bezeichnung wird neben dem Benutzeravatarbild\/-symbol angezeigt."
+        },
+        "33f5c52210024a7906c33c262435d813": {
+            "text": "Geben Sie Feld(er) und Format an, das f\u00fcr die Benutzerbezeichnung verwendet werden soll, oder Leerzeichen f\u00fcr keine Benutzerbezeichnung."
+        },
+        "e4e4bda20c3f3d73a0ab8a162324a5ef": {
+            "text": "Verwenden Sie {Name} f\u00fcr Namen in Gro\u00dfbuchstaben, was die Standardeinstellung ist, oder verwenden Sie {name} f\u00fcr Kleinbuchstaben."
+        },
+        "94badcf29c95c51eb93549c399c1c91d": {
+            "text": "Beispiele: \u201c{name}\u201d, \u201c{Name}\u201d, \u201c{title}\u201d, \u201c{first_name} {last_name}\u201d, \u201c{company.title}\u201d, usw."
+        },
+        "1688f46c79b3285c9de79d60d63d32d0": {
+            "text": "Benutzeroberfl\u00e4chentyp"
+        },
+        "029ec5ac76207f4e7627a0e3ffbdb15b": {
+            "text": "Maximale Layoutbreite"
+        },
+        "c0a71759159badff6c9c45f730402dd6": {
+            "text": "Geben Sie die maximale Breite des Layouts (in Pixeln) oder 0 f\u00fcr kein Maximum an."
+        },
+        "c20f63b379f6b02a18439890f5ce535b": {
+            "text": "Gilt nur f\u00fcr die herk\u00f6mmliche Benutzeroberfl\u00e4che."
+        },
+        "08c95f3605e4e76b340174ba21b8462d": {
+            "text": "Sie k\u00f6nnen [hier](%s) Bildfelder zu Ihrem Benutzer-Template hinzuf\u00fcgen."
+        },
+        "9ac50f55fe0eb306162cdde72aee40db": {
+            "text": "Verwenden Sie beliebige Felder\/Eigenschaften aus Ihrem in {eckigen Klammern} eingeschlossenen [Benutzer-Template](%s)."
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(Standard)"
+        },
+        "1a79a4d60de6718e8e5b326e338ae533": {
+            "text": "+"
+        },
+        "37243206806c555c2dbce190b1f49f37": {
+            "text": "Benachrichtigungsstil"
+        },
+        "dff1a43f94a6ab1d04bef81420510e6c": {
+            "text": "Gilt nicht, wenn das SystemNotifications-Modul installiert ist."
+        },
+        "afae44a9309db56726837157afdd1a2a": {
+            "text": "Gruppieren nach Typ mit Steuerelement zum Erweitern\/Reduzieren"
+        },
+        "9d2e228039bb6eef2e6cbaff5c904b56": {
+            "text": "Zeige immer alles"
+        }
+    }
+}

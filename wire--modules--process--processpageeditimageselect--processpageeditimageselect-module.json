@@ -30,13 +30,13 @@
             "text": "Mittig positionieren"
         },
         "9909fb0aacb4a219f4b3cb8f57f63a87": {
-            "text": "class um Bilder links auszurichten"
+            "text": "Class um Bilder links auszurichten"
         },
         "5e37ad68682589a77a924cdffb018f23": {
-            "text": "class um Bilder rechts auszurichten"
+            "text": "Class um Bilder rechts auszurichten"
         },
         "9d2836f3ff372cd7964b90d118710202": {
-            "text": "class um Bilder mittig auszurichten"
+            "text": "Class um Bilder mittig auszurichten"
         },
         "36171be725b020fde0f22b3ceb047280": {
             "text": "Feldnamen welche in der Auswahl \u00fcbersprungen werden"
@@ -51,7 +51,7 @@
             "text": "Wenn markiert, wird die Bilderauswahl die volle Bildgr\u00f6\u00dfe verwenden anstatt der Thumbnail-Bilder."
         },
         "66e1d61daf21cfd5a9a0c3c172d7215d": {
-            "text": "Wir empfehlen nicht diese Box zu markieren weil einige Features beeinflusst werden (z.B. die Verwendung von HiDPI\/Retina-Grafiken)."
+            "text": "Wir empfehlen nicht, diese Box zu markieren, weil einige Features beeinflusst werden (z.B. die Verwendung von HiDPI\/Retina-Grafiken)."
         },
         "a39537e1c6a1b744127450b81c4f8173": {
             "text": "Gel\u00f6schte Bild-Variante"
@@ -205,6 +205,12 @@
         },
         "575acda05a24ee8b606cee4f25024afe": {
             "text": "Sie haben auf dieser Seite keine Berechtigung zum bearbeiten von Bildern."
+        },
+        "0bedb7a49466cc5abddacd2003be55b3": {
+            "text": "Breite Attribute f\u00fcr Bild-Tags auslassen?"
+        },
+        "522779383d7b7d46168fcc8ae1c5d4a5": {
+            "text": "Dieses Modul enth\u00e4lt standardm\u00e4\u00dfig Breite-Attribute im img-Tag. Wenn Sie Responsive Bilder verwenden, m\u00f6chten Sie dieses Verhalten m\u00f6glicherweise deaktivieren. Aktivieren Sie die Box, um die Attribute f\u00fcr Breite und H\u00f6he zu deaktivieren."
         }
     }
 }

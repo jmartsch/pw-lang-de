@@ -25,6 +25,9 @@
         },
         "68d765216e3092d42524f9f6f14ce93c": {
             "text": "Die Seitennummer wird an das Wort in paginierten URLs f\u00fcr diese Sprache angeh\u00e4ngt. Falls ausgelassen, wird \"%s\" verwendet."
+        },
+        "d5af3f8c985a3592422462cce67bc86c": {
+            "text": "Eine Geschwisterseite (id =%1$d) verwendet bereits den Namen \"%2$s\" f\u00fcr die Sprache: %3$s"
         }
     }
 }

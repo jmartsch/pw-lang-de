@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Image\/ImageSizerEngineAnimatedGif\/ImageSizerEngineAnimatedGif.module",
+    "textdomain": "wire--modules--image--imagesizerengineanimatedgif--imagesizerengineanimatedgif-module",
+    "translations": {
+        "fa08346eefc233da84efcce389e121f6": {
+            "text": "Die geladene Datei '%s' befindet sich nicht in der Liste der g\u00fcltigen Bilder"
+        }
+    }
+}

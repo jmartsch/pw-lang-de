@@ -213,10 +213,25 @@
             "text": "Z\u00e4hler werden in regul\u00e4ren CKEditor-Feldern unterst\u00fctzt, aber nicht in Inline-CKEditor-Feldern."
         },
         "7a20fe498ae5ceab6766124b9cb7b2a9": {
-            "text": "Bitte lesen Sie die [Anweisungen](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-css-file) zur Benutzung."
+            "text": "Bitte lesen Sie die [Anweisungen](%s) zur Benutzung."
         },
-        "16176bde1adfb16f43ed136db778416d": {
-            "text": "Bitte lesen Sie die [Anweisungen](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-js-styles-set) zur Benutzung."
+        "f05a8abeb447b6720621d879a9197d00": {
+            "text": "Verf\u00fcgbare Core-Toolbar-Elemente"
+        },
+        "2eba31ae40d6ac1bd4d48c72f1977364": {
+            "text": "Bilderfelder, die f\u00fcr hereingezogene oder eingef\u00fcgte Bilder verwendet werden k\u00f6nnen"
+        },
+        "556255b8390dd04b90c0dca2b07da0aa": {
+            "text": "Wenn keine Felder ausgew\u00e4hlt sind, wird automatisch ein verf\u00fcgbares Bildfeld zur Laufzeit ausgew\u00e4hlt. Wenn die Option \"Keine\" ausgew\u00e4hlt ist, wird die Funktion deaktiviert."
+        },
+        "ba5c4d2fefb66dfdc969030e8d4726a6": {
+            "text": "Keine (Bild-Upload per Drag\/Einf\u00fcgen deaktivieren)"
+        },
+        "27580e5542fe0d14d78016023f38829f": {
+            "text": "Seite f\u00fcr Bild\/Anlagen-Speicher verwenden"
+        },
+        "d17026399e4b0283ab382defdc5ac109": {
+            "text": "Standardm\u00e4\u00dfig werden hochgeladene Bilder mit der bearbeiteten Seite gespeichert. Wenn Sie stattdessen eine gemeinsame Seite f\u00fcr diese Anlagen verwenden m\u00f6chten, w\u00e4hlen Sie sie hier aus."
         }
     }
 }
