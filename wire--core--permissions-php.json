@@ -34,6 +34,9 @@
         },
         "7a3c0039ad0f29f74babc54b9d96467d": {
             "text": "Benutzer kann selbst erstellte Seiten in den Papierkorb schieben (ohne page-delete-permission)"
+        },
+        "021ae36974d48cf90a6b204c4abe221b": {
+            "text": "Bearbeiten von einsprachigen Feldern auf einer mehrsprachigen Seite"
         }
     }
 }

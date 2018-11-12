@@ -610,6 +610,48 @@
         },
         "07f32475d23721446e940087c7e26b53": {
             "text": "Dies funktioniert nicht, da die Werte Seiten-IDs sein m\u00fcssen"
+        },
+        "c145e5825899a7a53cf8a14b64e53639": {
+            "text": "Tags verwalten"
+        },
+        "f62aef3d1bcf85a63cf9af0e03a46c0f": {
+            "text": "Nach Template filtern"
+        },
+        "8870ba7044d8bb0fd95686ec955f9109": {
+            "text": "Nach Typ filtern"
+        },
+        "a922cb7ffa163fa26dfe9e44aaa24d32": {
+            "text": "Systemfelder anzeigen?"
+        },
+        "7db27839ce9f9208f2b52bb9a48220a9": {
+            "text": "Zeigt alle Felder an, einschlie\u00dflich der eingebauten System- und permanenten Felder."
+        },
+        "5da3b0e9c19f86443f6ad42f6d0d1456": {
+            "text": "W\u00e4hlen Sie alle Felder aus, die dieses Tag haben sollen"
+        },
+        "2eea24744a636478929cd8cbbe444ded": {
+            "text": "Zusammengeklappt in der Feldliste anzeigen?"
+        },
+        "cd83a77df71e48e6273b925549e0af71": {
+            "text": "Um dieses Tag zu l\u00f6schen, entfernen Sie alle Felder aus ihm."
+        },
+        "ed4def612e69863794dc9c98db08b464": {
+            "text": "Tag \"%1$s\" zum Feld hinzugef\u00fcgt: %2$s"
+        },
+        "ab7c81ccbce2415afa58b092a3c58162": {
+            "text": "Tag \"%1$s\" aus dem Feld entfernt: %2$s"
+        },
+        "d80b6b9388a3f3767f80be5c2ab78976": {
+            "text": "Tags erm\u00f6glichen es Ihnen, Sammlungen von Feldern f\u00fcr die Auflistung oder Suche zu erstellen."
+        },
+        "718bd4be79fcb0bac1a4ff2e4528d45d": {
+            "text": "Warnung: Der Tag \"%s\" hat den gleichen Namen wie ein Feld."
+        },
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "Neuen Tag hinzuf\u00fcgen"
+        },
+        "c6e44f0384ed0d130e044f153e7b772f": {
+            "text": "Jedes Tag muss ein Wort sein (Unterstriche sind in Ordnung)."
         }
     }
 }

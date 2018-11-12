@@ -7,6 +7,21 @@
         },
         "f7b20059533e8267e92eecda0b6eee8e": {
             "text": "Fehler beim speichern von Feld \"%s\""
+        },
+        "659a129a2ef73cd3628cdb82dd2ecfb7": {
+            "text": "Die Seite mit dem Template \"%s\" ist nicht verschiebbar."
+        },
+        "de2497c4afe885df1cae702f984bc35d": {
+            "text": "Der gew\u00e4hlte Elternteil \"%1$s\" verwendet die Vorlage \"%2$s\", die keine Kinder erlaubt."
+        },
+        "054467106726884f49f1059fa63c12a7": {
+            "text": "Kann \"%1$s\" nicht verschieben, da die von der Seite \"%3$s\" verwendete Template \"%2$s\" keine Kinder mit dem Template \"%4$s\" erlaubt."
+        },
+        "39f8623f438de062026d1508751a5e3d": {
+            "text": "Kann \"%1$s\" nicht verschieben, da die Vorlage \"%2$s\", die von dem neuen Elternteil \"%3$s\" verwendet wird, von der verschobenen Template \"%4$s\" nicht erlaubt ist."
+        },
+        "f99ff7a362ba2a69eb85a3e3f2bfe1e4": {
+            "text": "Der gew\u00e4hlte Elternteil \"%1$s\" hat bereits eine Seite namens \"%2$s\"."
         }
     }
 }

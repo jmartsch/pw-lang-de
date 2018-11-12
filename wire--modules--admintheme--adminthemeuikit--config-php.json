@@ -8,9 +8,6 @@
         "ff498dcc16878847ee1d01c38a0138f3": {
             "text": "(EXPERIMENTELL)"
         },
-        "ebd9bec4d70abc789d439c1f136b0538": {
-            "text": "="
-        },
         "3c8286b98b6dfd2248df2a3d70cb8fc4": {
             "text": "(links)"
         },
@@ -19,9 +16,6 @@
         },
         "21924d98c4f369c97991af1760e5fc64": {
             "text": "Traditionell mit Top-Navigation"
-        },
-        "81e3da80ad979591250cca7feb39720b": {
-            "text": "Eigene Dateien"
         },
         "6059a6e9b311f4cb4afd60c154f0bef5": {
             "text": "Prim\u00e4re CSS Datei"
@@ -50,9 +44,6 @@
         "fd57cabd74aeddd5a95d662e680dd5ef": {
             "text": "Wir empfehlen, dies nicht zu \u00e4ndern, es sei denn, Sie sind ein Admin-Designentwickler."
         },
-        "6c6a6ca96d96fc13c06abbf98f38668f": {
-            "text": "Formularfeld-Sichtbarkeitseinstellungen"
-        },
         "21909eb7e7cbb04d9c804458848a7af3": {
             "text": "Diese Einstellungen betreffen alle Formularfelder im Admin."
         },
@@ -80,9 +71,6 @@
         "cf83a7d29c286d14e29a97334e9279a5": {
             "text": "Trifft nicht auf Typen zu, die so ausgew\u00e4hlt sind, dass sie keinen Rahmen haben."
         },
-        "391889c9ed085249fe76c0beb25ad304": {
-            "text": "Eingabetypen, die mit einem zus\u00e4tzlichen oberen\/unteren Au\u00dfenabstand versetzt werden sollen."
-        },
         "0d638e3ac46bc8f0cf58d60281ff4ebc": {
             "text": "Als Beispiel verwenden die Felder in diesem Fieldset diese Option."
         },
@@ -95,17 +83,11 @@
         "1939d9deea3a9b379eca5948b1b3cfc6": {
             "text": "Dies kann in einigen F\u00e4llen zus\u00e4tzliche Klarheit schaffen, verbraucht jedoch mehr vertikalen Raum."
         },
-        "496160bbca5b6421fb40ff6676562b17": {
-            "text": "Titel-Logo-Klickaktion"
-        },
         "96f31592de4b37ce5ff61db935fbfa81": {
             "text": "Admin-Root-Seitenliste"
         },
         "2fcf0b21fb2e5b0c2ed8774ca91bd3a0": {
             "text": "Off-Canvas-Navigation \u00f6ffnen"
-        },
-        "2d7e18586d2265fc63934ad26902effb": {
-            "text": "Top und Navigation"
         },
         "5580ceafc3f05d1b31e318f00e2d187c": {
             "text": "Benutzeravatar"
@@ -140,26 +122,17 @@
         "94badcf29c95c51eb93549c399c1c91d": {
             "text": "Beispiele: \u201c{name}\u201d, \u201c{Name}\u201d, \u201c{title}\u201d, \u201c{first_name} {last_name}\u201d, \u201c{company.title}\u201d, usw."
         },
-        "1688f46c79b3285c9de79d60d63d32d0": {
-            "text": "Benutzeroberfl\u00e4chentyp"
-        },
         "029ec5ac76207f4e7627a0e3ffbdb15b": {
             "text": "Maximale Layoutbreite"
         },
         "c0a71759159badff6c9c45f730402dd6": {
             "text": "Geben Sie die maximale Breite des Layouts (in Pixeln) oder 0 f\u00fcr kein Maximum an."
         },
-        "c20f63b379f6b02a18439890f5ce535b": {
-            "text": "Gilt nur f\u00fcr die herk\u00f6mmliche Benutzeroberfl\u00e4che."
-        },
         "08c95f3605e4e76b340174ba21b8462d": {
             "text": "Sie k\u00f6nnen [hier](%s) Bildfelder zu Ihrem Benutzer-Template hinzuf\u00fcgen."
         },
         "9ac50f55fe0eb306162cdde72aee40db": {
             "text": "Verwenden Sie beliebige Felder\/Eigenschaften aus Ihrem in {eckigen Klammern} eingeschlossenen [Benutzer-Template](%s)."
-        },
-        "6f8d1b93e4aad53511c85e29ed36b3d0": {
-            "text": "(Standard)"
         },
         "1a79a4d60de6718e8e5b326e338ae533": {
             "text": "+"
@@ -175,6 +148,150 @@
         },
         "9d2e228039bb6eef2e6cbaff5c904b56": {
             "text": "Zeige immer alles"
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "Erweitert"
+        },
+        "0a52730597fb4ffa01fc117d9e71e3a9": {
+            "text": "Beispiel"
+        },
+        "38cb04b53f3f1cf755ff1bbd9cc88cd1": {
+            "text": "Mastkopf + Navigation"
+        },
+        "9bc773c48947ebcedc8c2e0a4cfe8f8f": {
+            "text": "Logo-Klick-Aktion"
+        },
+        "fd248b03e2d006b305f4a7896defe9cc": {
+            "text": "Layout + Schnittstelle"
+        },
+        "d4d0ee9985bf14169e809b164524b0b0": {
+            "text": "Layout-Typ"
+        },
+        "ed81bfff2c494916fd8a4f7f0526e14c": {
+            "text": "Spaltenbreiten des Eingabefeldes"
+        },
+        "39e84864692943ca0ba0c69e5039ed9a": {
+            "text": "W\u00e4hlen Sie Option B, wenn Sie Schwierigkeiten haben, die beabsichtigten Eingabefeld-Spaltenbreiten zu erreichen."
+        },
+        "775d588dfe892290c0bfa5e56590577f": {
+            "text": "Uikit uk-width Klassen (bis zu 6 Spalten)"
+        },
+        "3ae2bf644696505c219965a72b7cbb70": {
+            "text": "Prozentuale Breiten (zus\u00e4tzliche Flexibilit\u00e4t)"
+        },
+        "d4b002181224e7985e75a3913eb4ac2d": {
+            "text": "Gilt nur f\u00fcr das traditionelle Layout."
+        },
+        "683b41edb2bd91ba816cdbe8b67abed4": {
+            "text": "Formulare + Eingabefelder"
+        },
+        "16b7c3d9f12cdd91bac81d618a62f357": {
+            "text": "Eingabefeld Beispiel"
+        },
+        "8863450d1e8ee628cf02531395c1fb14": {
+            "text": "Gr\u00f6\u00dfenbeispiele ausw\u00e4hlen"
+        },
+        "cb4144ba5a55530ecbf14a45c4d0349d": {
+            "text": "Standardgr\u00f6\u00dfe f\u00fcr Eingabefelder"
+        },
+        "190d86032ba8b2f2522f36d983700c72": {
+            "text": "Dies wirkt sich auf das Aussehen vieler Text-, Textbereichs- und Auswahlfelder aus."
+        },
+        "3be905d0e0e23fa3e645f3d70e7d28d3": {
+            "text": "Nicht alle Eingabefelder unterst\u00fctzen die Optionen \"klein\" oder \"gro\u00df\"."
+        },
+        "2660064e68655415da2628c2ae2f7592": {
+            "text": "Klein"
+        },
+        "831dfeb03973957261415d12c1509f11": {
+            "text": "Mittel (Standard\/Empfehlung)"
+        },
+        "3a69b34ce86dacb205936a8094f6c743": {
+            "text": "Gro\u00df"
+        },
+        "dcf96c65e2763ec9e77c895af9d25cbe": {
+            "text": "Eingabetypen, die mit einem zus\u00e4tzlichen oberen\/unteren Rand versetzt werden sollen."
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "Automatisch"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Keine"
+        },
+        "b2dd4aca1dc11bb2c4efcbd9ab347789": {
+            "text": "Einstellungen des Admin-Themes"
+        },
+        "838ee308c6474d98feac3ebbff4c08a8": {
+            "text": "Diese Einstellungen beeinflussen die Darstellung dieses Feldes bei Verwendung mit dem Uikit-Administrationstheme."
+        },
+        "2a94ec4e40704b025161d175bc18fe53": {
+            "text": "Bei Auswahl der Option \"Auto\" werden die Einstellungen zur Laufzeit festgelegt."
+        },
+        "54e4e4fb8f8494b61dc7407161cff620": {
+            "text": "Die Einstellung \"Margin\" gilt nur f\u00fcr Felder mit 100%iger Breite."
+        },
+        "741b3715dff40fc66d023ffe7d2ec932": {
+            "text": "Die Option \"Automatisch\" ist die empfohlene Voreinstellung."
+        },
+        "4c7c5ab57475a86d54c99e99e8cbb5e7": {
+            "text": "Extraklein"
+        },
+        "87f8a6ab85c9ced3702b4ea641ad4bb5": {
+            "text": "Mittel"
+        },
+        "5b176800a4fa5f818733bbc47bf50c58": {
+            "text": "Eingabefeld Gr\u00f6\u00dfe"
+        },
+        "81508f718ba3c39f2614a6384da3d565": {
+            "text": "Eingabefeld Breite"
+        },
+        "db3e3f51c9107e26c9bccf9a188ce2ed": {
+            "text": "F\u00fcllen"
+        },
+        "98369609669478919c74c916440e9978": {
+            "text": "Rand"
+        },
+        "070554647306343cbea29ebfdd278ba8": {
+            "text": "Rahmen"
+        },
+        "cb5feb1b7314637725a2e73bdc9f7295": {
+            "text": "Farbe"
+        },
+        "2bd5addcf7653a473e310fc64bcbac60": {
+            "text": "Minimierung des Stylings von Formularsteuerelementen"
+        },
+        "c0bfe90a485c1e5db5e8fd63193fe65f": {
+            "text": "Dieses Feld zeigt lediglich die von Ihnen oben gew\u00e4hlten Einstellungen an."
+        },
+        "127278ab533d9fcec53fa6c0947df913": {
+            "text": "Ein weiteres Feld"
+        },
+        "661262f88b0f998e147baacf8778d340": {
+            "text": "\u00d6ffnen Sie das Feld \"%s\" oben f\u00fcr ein Live-Beispiel der Spaltenbreite."
+        },
+        "7ce481195c78d64795db8cf62a6df04d": {
+            "text": "Umriss"
+        },
+        "0afa7ae71fac97af574e05f44f2296c5": {
+            "text": "Karte"
+        },
+        "8101df5a8d382ef957a02876d08a6f0f": {
+            "text": "Transparent"
+        },
+        "eed661e12b91dcdc202ea5682df87a83": {
+            "text": "Prim\u00e4r"
+        },
+        "702f41f09f0670ea93e1bb7121a835eb": {
+            "text": "Sekund\u00e4r"
+        },
+        "d819318a32ee146ed8fec4feb03aab02": {
+            "text": "Hervorhebung"
+        },
+        "42d6b04b169e71af86e5bff6ca177f11": {
+            "text": "Warnung"
+        },
+        "5a9e33ceafdb38535a8dcee28ff0cd68": {
+            "text": "Gefahr"
         }
     }
 }

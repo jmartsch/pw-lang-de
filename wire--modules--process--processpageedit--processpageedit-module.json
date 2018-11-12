@@ -250,6 +250,111 @@
         },
         "109f29a4bda4c9b4a00ffd5452fe9515": {
             "text": "Sind Sie sicher? Im Moment l\u00e4uft ein Upload. Dieser geht verloren, wenn Sie fortfahren."
+        },
+        "ea1056a7e305406e5662eb74ed8eb9f1": {
+            "text": "L\u00f6schen"
+        },
+        "e4d5ce77afa1ac8b139234c7e641d5cd": {
+            "text": "Welche Seiten verlinken auf diese Seite?"
+        },
+        "60c6e03c99253b3bca28a08aa5102fdc": {
+            "text": "%d andere Seiten gefunden, die in Seitenfeldern oder mittels href-Links auf diese verweisen."
+        },
+        "bd3cc7d2c61580ec64f4225eae3a330e": {
+            "text": "(in Seitenfeld)"
+        },
+        "ccab4e644acf8e1bc8a9bef59f811803": {
+            "text": "(in href Link)"
+        },
+        "ea31b3f98bd7b1a8e71fad1f47ab4bae": {
+            "text": "%d zus\u00e4tzliche Seiten nicht angezeigt."
+        },
+        "3b3ad8a776bd0a0e7498a58c538a95b9": {
+            "text": "Es wurden keine weiteren Seiten gefunden, die in Seitenfeldern oder href-Links auf diese verweisen."
+        },
+        "3efee15199d0046c4a68bd6c96c66800": {
+            "text": "Welche anderen URLs leiten auf diese Seite weiter?"
+        },
+        "c665039391ab01a70f17f05adcc566df": {
+            "text": "Wann immer eine Seite verschoben wird oder sich der Name \u00e4ndert, erinnern wir uns an die vorherige Position f\u00fcr Umleitungen."
+        },
+        "d9a0149000506e68eb258bab1ef93e2f": {
+            "text": "Nachfolgend finden Sie eine Liste von URLs (Pfaden), die automatisch auf diese Seite weitergeleitet werden (mittels 301 permanenter Umleitung)."
+        },
+        "bc84a6916935bff7a425f45f894a18a6": {
+            "text": "Sie k\u00f6nnen alle Pfade und URLs l\u00f6schen oder manuell neue hinzuf\u00fcgen."
+        },
+        "1324a129fbb956748409f981833c0736": {
+            "text": "Keine Umleitungspfade"
+        },
+        "593d4b34403b76f5c134df5b3c033420": {
+            "text": "Umleitung f\u00fcr vorherige URL gel\u00f6scht: %s"
+        },
+        "ca2593b9cdd313f5fc57d68fb0e94470": {
+            "text": "Neue Redirect-URLs hinzuf\u00fcgen"
+        },
+        "71fc4eb5d7649ced69d2936060e7774c": {
+            "text": "Geben Sie zus\u00e4tzliche Pfade \/ URLs (eine pro Zeile) ein, die auf diese Seite weitergeleitet werden sollen."
+        },
+        "1715e12396d2512d6a079d39809bd855": {
+            "text": "Geben Sie nur den URL-Pfad ein (z.B. \"\/hello\/world\/\"), schlie\u00dfen Sie Schema, Domain, Port, Query-String oder Fragmente NICHT ein."
+        },
+        "05977549ad6511429ee4d274f710771d": {
+            "text": "Pfade sind relativ zur Site-Root, daher sollten Sie das Unterverzeichnis %s NICHT am Anfang einbeziehen."
+        },
+        "b74adc728406a06b4e47a2bcfd534281": {
+            "text": "Um eine Sprache f\u00fcr die Umleitung anzugeben, geben Sie den Pfad\/URL ein, dem der Sprachname vorangestellt ist:"
+        },
+        "e638e85311e9a6c568c715cb46e7ac01": {
+            "text": "Umleitung hinzugef\u00fcgt: %s"
+        },
+        "4ece098a04808389cd88f5e62f8a6fa0": {
+            "text": "Umleitung %s kann nicht hinzugef\u00fcgt werden, da sie mit einem anderen Pfad in Konflikt zu stehen scheint."
+        },
+        "0f9445b68a3d6fffc41f65efa9711f6e": {
+            "text": "Aus dem Papierkorb nehmen und an Originalort wiederherstellen"
+        },
+        "514327d866bf40803bfdf3a678af92ba": {
+            "text": "Aktivieren Sie die Checkbox, um zu best\u00e4tigen, dass Sie diese Seite wiederherstellen m\u00f6chten."
+        },
+        "d8514ace7bcb47e0d419377402b13142": {
+            "text": "Die Seite wird wiederhergestellt: %s."
+        },
+        "e6c6e3f3e972de9c735faefa037529ab": {
+            "text": "Der urspr\u00fcngliche Name wird von %1$s bis %2$s angepasst, um eindeutig zu sein."
+        },
+        "91ce4ed84b455bf383570b705a732cd6": {
+            "text": "Die Seite kann nicht wiederhergestellt werden, wenn Fehler vorliegen."
+        },
+        "e4da3fa39ff5ce0fd581bc97389b5cdf": {
+            "text": "Seite: %s wiederhergestellt"
+        },
+        "e8691f66b2ae08756dac17d0e3b91eb2": {
+            "text": "Fehler bei der Wiederherstellung der Seite"
+        },
+        "5ee35a979708ef27ee71dcc13f862da0": {
+            "text": "Sprache"
+        },
+        "2623934b184a9c5b44a0c9992499b5f6": {
+            "text": "Elternseite"
+        },
+        "b9c25fdc76ccaff0426b33dc56852e77": {
+            "text": "Nicht auflistbar"
+        },
+        "9d76aca60838d896fb7754d4a890eb9d": {
+            "text": "Noch nicht"
+        },
+        "ab2435deb08297062617b30c57c0ef9e": {
+            "text": "(f\u00fcr %s)"
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "Wiederherstellen"
+        },
+        "a413997b3fa1374648ebd250435071c5": {
+            "text": "Wann"
+        },
+        "1443a205d4656be20da9f81a5b7a5da9": {
+            "text": "Aktuell"
         }
     }
 }

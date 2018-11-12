@@ -44,9 +44,6 @@
         "7d4be9f67818bd22d064880270a3e4af": {
             "text": "Speichern + Ver\u00f6ffentlichen"
         },
-        "bd71df4fde063d60b0fe33d87f52f7ff": {
-            "text": "Achtung, der gew\u00e4hlte Name \"%1$s\" wird bereits verwendet und wurde ge\u00e4ndert auf \"%2$s\"."
-        },
         "1f03189503b2b085455900a07777134c": {
             "text": "Bereits belegt"
         },
@@ -82,6 +79,9 @@
         },
         "9d9c4e8d05601024166b9a3b0cb46ad6": {
             "text": "Templateauswahl ist erforderlich"
+        },
+        "6649c293aa8a0af33c071f946674fc31": {
+            "text": "Achtung, der von Ihnen gew\u00e4hlte Name \"%1$s\" wurde in \"%2$s\" ge\u00e4ndert."
         }
     }
 }

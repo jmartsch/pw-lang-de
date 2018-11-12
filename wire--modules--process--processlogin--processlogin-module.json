@@ -58,6 +58,24 @@
         },
         "1860fb17b107cbb39cf6bbfa61130803": {
             "text": "Profil bearbeiten"
+        },
+        "8b10281154afa6312e3e8448c14f7134": {
+            "text": "Zwei-Faktor-Authentifizierung"
+        },
+        "c32dc189adbf7de6a1277780634d1a75": {
+            "text": "Die folgenden Tfa-Module wurden gefunden:"
+        },
+        "f00ee62461e9cc7a824e71feff114251": {
+            "text": "Empfehlen Sie nachdr\u00fccklich eine Zwei-Faktor-Authentifizierung f\u00fcr diese Rollen"
+        },
+        "ab848ea82288648eb2aabe4e9e2f4dc6": {
+            "text": "Nach der Anmeldung beim Admin-Backend fordert ProcessWire die Benutzer in den hier ausgew\u00e4hlten Rollen auf, die Zwei-Faktor-Authentifizierung f\u00fcr ihre Konten zu verwenden."
+        },
+        "ab77fff843383131e8f774ba78654a91": {
+            "text": "Um dies zu konfigurieren, m\u00fcssen Sie zuerst ein oder mehrere Tfa-Module installieren und dann hierher zur\u00fcckkehren."
+        },
+        "aef111cc10b28b4cf297865dbc1253bb": {
+            "text": "Tfa-Module im ProcessWire-Modulverzeichnis"
         }
     }
 }
