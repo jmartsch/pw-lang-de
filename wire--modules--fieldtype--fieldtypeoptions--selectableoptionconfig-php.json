@@ -42,10 +42,10 @@
             "text": "Hinweis zu Mehrsprachigkeit: Optionen zuerst in der Standard-Sprache festlegen und speichern, bevor man diese in andere Sprachen \u00fcbersetzt."
         },
         "810906cf431b89762465d39dd3402ba7": {
-            "text": "Bitte beachten: Ihre Auswahl hier wird nicht aktiviert, solange kein Wert in diesem Feld steht (Pflicht). Achten Sie auf die Option \"Pflichtfeld\" im Eingabe-Tab der Einstellungen des Feldes."
+            "text": "Bitte beachten: Ihre Vorauswahl ist nicht aktiv, da dieses Feld kein Pflichtfeld ist. Aktivieren Sie dazu die Option \"Pflichtfeld\" im Eingabe-Tab des Feldes."
         },
         "a6a26b1340a7cbaf1b405484a8a74b98": {
-            "text": "Dieses Feature ist aktiv weil ein Wert immer Pflicht ist."
+            "text": "Die Vorauswahl ist aktiv, weil dieses Feld ein Pflichtfeld ist."
         },
         "7a55572484844c1b337505ee266d3007": {
             "text": "API-Verwendungsbeispiel"

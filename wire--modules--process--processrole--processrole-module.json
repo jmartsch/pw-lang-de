@@ -59,9 +59,6 @@
         "bdeb3e0cbe3d8f44757a86e8da219abc": {
             "text": "Diese Berechtigung kann nur per Template zugewiesen werden."
         },
-        "00abcc0a482965cd87aa000c253bf713": {
-            "text": "(von der Gastrolle \u00fcbernommen)"
-        },
         "76ea2cfb7138b9f6db1ca5385ffd6bec": {
             "text": "Hinzuf\u00fcgen zu: %s"
         },
@@ -88,6 +85,9 @@
         },
         "4106d43df925487225450293085f8bad": {
             "text": "Berechtigung \"%1$s\" f\u00fcr Template \"%2$s\" nicht erlaubt (erfordert \"%3$s\" Berechtigung)"
+        },
+        "596d1c90537af3c3c588dceedde6bf03": {
+            "text": "(erforderlich, da von der Rolle Gast geerbt)"
         }
     }
 }

@@ -44,17 +44,8 @@
         "748befe7a5d432caba8b6cadc4076e92": {
             "text": "Lesen Sie \"Absichern von Dateiberechtigungen\" f\u00fcr weitere Details"
         },
-        "efdf35a179a19ed3b3de0d3e7785f17d": {
-            "text": "Warnung: Ihr Server-Gebietsschema ist undefiniert und kann Probleme verursachen."
-        },
-        "25722c10f4f7abdc7297094d5d8f97e6": {
-            "text": "Bitte \u00fcbersetzen Sie die \"C\" Gebietsschema-Einstellung f\u00fcr jede Sprache in das richtige Gebietsschema in %s"
-        },
         "d5877d284caca4c9b4d55adb8e6e758c": {
             "text": "Zum Beispiel k\u00f6nnte die Gebietsschema-Einstellung f\u00fcr US-Englisch sein: %s"
-        },
-        "58b0cb95c27f394bd4c6970b563153dd": {
-            "text": "Bitte f\u00fcgen Sie dies in der Datei \/site\/config.php hinzu (\"%s\" wie gew\u00fcnscht anpassen):"
         },
         "1860fb17b107cbb39cf6bbfa61130803": {
             "text": "Profil bearbeiten"
@@ -76,6 +67,18 @@
         },
         "aef111cc10b28b4cf297865dbc1253bb": {
             "text": "Tfa-Module im ProcessWire-Modulverzeichnis"
+        },
+        "60d0f1128804dfd5fa013c3d02c67012": {
+            "text": "Ihre aktuelle Gebietsschema-Einstellung ist \"%s\"."
+        },
+        "9cdeee8e8a463c558dc372434cc5dbb1": {
+            "text": "Hinweis: Ihre aktuelle Gebietsschema-Einstellung (locale) funktioniert nicht wie erwartet mit dem UTF-8 Zeichensatz und kann kleinere Probleme verursachen."
+        },
+        "f8239d6a9013fae244731a805aa50b09": {
+            "text": "Bitte \u00fcbersetzen Sie die \"C\" Gebietsschema-Einstellung (locale) f\u00fcr jede Sprache in das richtige Gebietsschema (locale) in %s"
+        },
+        "7ca79a1980d88028a56fcee7c711685e": {
+            "text": "Bitte f\u00fcgt dies zu Ihrer %1$s Datei hinzu (passen Sie \"%2$s\" bei Bedarf an):"
         }
     }
 }

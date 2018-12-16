@@ -39,7 +39,7 @@
             "text": "Zur Auswahl einer Standardseite, w\u00e4re dies die Seiten ID Nummer."
         },
         "5c6d4a4ac74797a290100dc74f6cd79d": {
-            "text": "WICHTIG: Der Standardwert wird nicht verwendet, es sei denn, das Feld ist erforderlich (siehe Checkbox \"Pflichtfeld\" auf diesem Schirm)."
+            "text": "WICHTIG: Der Standardwert wird nur verwendet wenn dieses Feld ein Pflichtfeld ist (siehe Checkbox \"Pflichtfeld\")."
         },
         "be1ae5e510797cd29556ba58e16bb3cd": {
             "text": "Um mehrsprachige Option-Labels zu verwenden, lesen Sie bitte die Anweisungen unter diesem Feld."
