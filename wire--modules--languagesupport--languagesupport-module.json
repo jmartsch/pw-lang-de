@@ -11,11 +11,14 @@
         "b78a3223503896721cca1303f776159b": {
             "text": "Titel"
         },
-        "0d61f8370cad1d412f80b84d143e1257": {
-            "text": "de_DE"
-        },
         "3f94f86633491ad8e5d18f5e481330c2": {
             "text": "\u00c4nderungen zu diesem Feld werden nicht gespeichert weil Sie nicht berechtigt sind f\u00fcr folgende Sprache: %s."
+        },
+        "0d61f8370cad1d412f80b84d143e1257": {
+            "text": "de_DE.UTF-8"
+        },
+        "49eb6a44db57cba8d66b3404fa9f0ad4": {
+            "text": "d-m-Y H:i:s"
         }
     }
 }

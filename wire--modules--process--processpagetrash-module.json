@@ -5,15 +5,6 @@
         "2f8f6dfb12d1ccfb64a4bc419130dd5a": {
             "text": "Der Papierkorb ist leer"
         },
-        "b93325ff37316801eaf36f95c25a75e3": {
-            "text": "Die folgenden Seiten befinden sich im Papierkorb"
-        },
-        "206c3d86254559ad3cd3b88e8e002113": {
-            "text": "Papierkorb ausleeren"
-        },
-        "80a9994143f3ef28a7ba4fd1dd67436a": {
-            "text": "Bitte best\u00e4tigen Sie, dass sie den Papierkorb leeren m\u00f6chten."
-        },
         "920202a83e840023ebf5ac6e31ccfbf3": {
             "text": "Handhabt das Leeren des Papierkorbs f\u00fcr Seiten"
         },
@@ -23,17 +14,41 @@
         "1012544490a2eae7e9782116062941b6": {
             "text": "Falls zuviele Elemente im Papierkorb sind m\u00fcssen Sie diesen eventuell mehrmals leeren."
         },
-        "671ad2168f66a9b66f8d97c8a4ad2794": {
-            "text": "Der Papierkorb wurde geleert"
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Abbrechen"
         },
-        "de1fd0d21eb1f64deec95ed694fffed0": {
-            "text": "Es konnten nicht alle Seiten gel\u00f6scht werden"
+        "d97ed15efb05fad91c607749ebcab79e": {
+            "text": "Sie m\u00fcssen das Kontrollk\u00e4stchen aktivieren, um zu best\u00e4tigen."
         },
-        "7c9ca1a0395393577cf4cf3f3e7f0b8d": {
-            "text": "(%d Seite)"
+        "dc097f8cfcf3251cf70e684e28515eb5": {
+            "text": "(%d Seiten pro Sekunde)"
         },
-        "9f8ce5c6cbebc34795f4241c8932573a": {
-            "text": "(%d Seiten)"
+        "7f3d24328c95805774f2fd34fc2a79e2": {
+            "text": "Es konnten nicht alle Seiten gel\u00f6scht werden (%d bleibt erhalten)."
+        },
+        "d7dd8da0daa978390eb2d2d08495b0f8": {
+            "text": "Zeitlimit erreicht (%d Sekunden)"
+        },
+        "a7ba99f8126601330132e87659987ca3": {
+            "text": "Den Papierkorb leeren (best\u00e4tigen)"
+        },
+        "449d5f439f475ea845545769d93ec42f": {
+            "text": "Seiten im Papierkorb"
+        },
+        "b7750c7b7ef35775735ea2133810d06b": {
+            "text": "Zeitlimit (in Sekunden)"
+        },
+        "b246b52c4b32fcf1d8ef0c6144f3fb53": {
+            "text": "%d Seite gel\u00f6scht"
+        },
+        "adc38f6c0e8a0f6296294e08a2ca3c64": {
+            "text": "%d Seiten gel\u00f6scht"
+        },
+        "5f489bcc97cbc73f35cbd127c5c0053a": {
+            "text": "%d Seite dauerhaft aus dem Papierkorb l\u00f6schen?"
+        },
+        "7d45095d03e58ce1a62afd6e0d149bf0": {
+            "text": "%d Seiten dauerhaft aus dem Papierkorb l\u00f6schen?"
         }
     }
 }

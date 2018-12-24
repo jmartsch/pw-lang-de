@@ -22,6 +22,15 @@
         },
         "baa866af125aefed417409d878f6d013": {
             "text": "Optionale Berechtigung hinzugef\u00fcgt: %s"
+        },
+        "f42c0a03ea62c2f657939fd15ef033cb": {
+            "text": "Wenn installiert, muss der Benutzer diese Berechtigung besitzen, um die beschriebene Aufgabe auszuf\u00fchren."
+        },
+        "76455df332216051d893a89ac3b39deb": {
+            "text": "Wenn NICHT installiert, wird die Berechtigung angenommen, wenn der Benutzer bereits Bearbeitungszugriff auf die beschriebene Ressource hat."
+        },
+        "3900b58fd6fe4828f0595efc2d4f574f": {
+            "text": "Daher kann diese Berechtigung, wenn sie installiert ist, bestehende Zugriffsrechte entfernen, bis sie den Rollen zugewiesen wird."
         }
     }
 }

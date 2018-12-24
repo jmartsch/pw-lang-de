@@ -70,6 +70,39 @@
         },
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "+"
+        },
+        "e834b638a7a5df6f0de0c57b1d6ac901": {
+            "text": "Nicht-Superusern die Verwendung des Papierkorbs erlauben?"
+        },
+        "6288d796be4065eb3b00cf1fe1f7b613": {
+            "text": "Wenn diese Option aktiviert ist, k\u00f6nnen Benutzer Seiten im Papierkorb sehen (nur Seiten, auf die sie Zugriff haben)."
+        },
+        "98ee3deee3a12fa7795a82801d19a020": {
+            "text": "Dadurch werden auch die Aktionen \"Papierkorb\" und \"Wiederherstellen\" aktiviert, sofern die Zugriffskontrolle dies erlaubt."
+        },
+        "a8a530c941af87d6dc1d0d907cd4ee3f": {
+            "text": "Kindelemente Anzahlart"
+        },
+        "f472347ec718962a0e4560a410768cf1": {
+            "text": "In der Seitenliste wird bei Bedarf neben jeder Seite eine Anzahl von Kindern angezeigt. Welche Art von Anzahl soll sie aufweisen?"
+        },
+        "8c06d8c7bf685599eb5de83ad4d79d08": {
+            "text": "Bei der Anzeige von Nachkommen umfasst die Menge alle Nachkommen, unabh\u00e4ngig davon, ob sie f\u00fcr den Benutzer aufrufbar sind oder nicht."
+        },
+        "1cf8145a75b3d3d0f52759b1808c9cac": {
+            "text": "Direkte Kinder (Standard)"
+        },
+        "f9e98f3e587cf5da4ddb460f0aa52437": {
+            "text": "Nachkommen: Kinder, Enkelkinder, Urenkel, Urenkel, und so weiter....."
+        },
+        "3f842a2d7d72a4f7fb3e400a5b569f0b": {
+            "text": "Beide: Kinder\/Nachkommende"
+        },
+        "d86d2e0723883a6f48c9c0c05d3584b6": {
+            "text": "Beide: Nachkommen\/Kinder"
+        },
+        "69ff054adc667458622b780aabe13d60": {
+            "text": "Stattdessen Seiten-ID-Nummer anzeigen"
         }
     }
 }

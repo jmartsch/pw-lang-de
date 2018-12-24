@@ -49,6 +49,9 @@
         },
         "d7280b1cbbae6481f050a9184b8fa445": {
             "text": "Alle Elemente zuklappen?"
+        },
+        "be3fb8f18ddcd8f47b92e020f1474b1b": {
+            "text": "Fehler in \"%s\" Objekt %d"
         }
     }
 }

@@ -70,6 +70,9 @@
         },
         "f4af86e3db12bdead0c6b4f370e361de": {
             "text": "(Zeile %d in %s)"
+        },
+        "65b0f2becffb61cb9f5fba232f7b9987": {
+            "text": "Schwerwiegender Fehler"
         }
     }
 }

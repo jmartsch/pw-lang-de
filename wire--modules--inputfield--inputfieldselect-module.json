@@ -39,7 +39,31 @@
             "text": "Zur Auswahl einer Standardseite, w\u00e4re dies die Seiten ID Nummer."
         },
         "5c6d4a4ac74797a290100dc74f6cd79d": {
-            "text": "WICHTIG: Der Standardwert wird nicht verwendet, es sei denn, das Feld ist erforderlich (siehe Checkbox \"Pflichtfeld\" auf diesem Schirm)."
+            "text": "WICHTIG: Der Standardwert wird nur verwendet wenn dieses Feld ein Pflichtfeld ist (siehe Checkbox \"Pflichtfeld\")."
+        },
+        "be1ae5e510797cd29556ba58e16bb3cd": {
+            "text": "Um mehrsprachige Option-Labels zu verwenden, lesen Sie bitte die Anweisungen unter diesem Feld."
+        },
+        "e1d42070d11f4e125dd41933a7931336": {
+            "text": "Anweisungen"
+        },
+        "c3a5b7cc9aad41a355971c9da775b523": {
+            "text": "Geben Sie eine Option pro Zeile an."
+        },
+        "318d7ecad4ade4ae80008273a964b97d": {
+            "text": "Mehrsprachige Anweisungen:"
+        },
+        "f79f891c4cdcad35f5c97b6d5abf6338": {
+            "text": "Wir empfehlen die Verwendung von value=label, wobei der Wert in allen Sprachen gleich ist und das Label \u00fcbersetzt wird."
+        },
+        "276062e72d8dad493a3c12ee48129c09": {
+            "text": "Definieren Sie zun\u00e4chst Ihre Standard-Sprachoptionen, und kopieren Sie dann in die anderen Sprachen und \u00fcbersetzen Sie Labels."
+        },
+        "1de150b2c32ea78f720ed5680ede3e36": {
+            "text": "Ausgew\u00e4hlte Optionen und Optionsgruppen werden in der Standardsprache definiert; die anderen Eingabefelder dienen nur der Label-\u00dcbersetzung."
+        },
+        "6fad098a8ac595a164cf68a53d2669ec": {
+            "text": "Labels, die nicht \u00fcbersetzt werden, erben das Standard-Sprachlabel."
         }
     }
 }

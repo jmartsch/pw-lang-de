@@ -14,9 +14,6 @@
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filter"
         },
-        "1ada25378d2f81d6394cb823cda822ad": {
-            "text": "Nach Feld filtern"
-        },
         "602717d1b0adbf6ff41366d6371e375d": {
             "text": "W\u00e4hlen Sie ein Feld. Nur Templates, die das Feld benutzen, werden angezeigt."
         },
@@ -49,9 +46,6 @@
         },
         "524fe63ba99d979ba854d38529c9abc1": {
             "text": "Wenn Sie ein neues Template anlegen m\u00f6chten, obwohl zur Zeit keine Datei damit verkn\u00fcpft ist, geben Sie hier den Namen des Templates ein."
-        },
-        "088244ca195e0e9e57bd38027406b66b": {
-            "text": "Keine Datei-Endung einschlie\u00dfen"
         },
         "24a144ffc0e6aae299d3a23c2152e7fa": {
             "text": "Template bearbeiten: %s"
@@ -560,9 +554,6 @@
         "dcc07e185c0c88ca7c4439fbaa56e4cb": {
             "text": "Wenn die Template-Ausgabe gecached wird, ist die Standardeinstellung, Variablen dieses Typs zu ignorieren. Sie k\u00f6nnen optional eine oder mehrere Variablennamen angeben, die Caching f\u00fcr diese Anfrage deaktivieren, also daf\u00fcr sorgen, dass die Seite ohne Cache gerendert wird."
         },
-        "e1f4b06346cdbed5063a5e42a9593f59": {
-            "text": "Geben Sie eine beliebige Kombination aus Buchstaben (a-z), Zahlen (0-9), Binde- oder Unterstrichen (keine Leerzeichen) an, ohne die .php-Dateiendung anzugeben."
-        },
         "6064635b0dec3189859052c02adc0fc5": {
             "text": "Erlauben, dass der 'anlegende Benutzer' der Seiten ge\u00e4ndert werden darf?"
         },
@@ -679,9 +670,6 @@
         },
         "323686db2bb70f95c6bedc86d5c3387d": {
             "text": "Dateien"
-        },
-        "6703f01fb2662a497ae2d29163ed68c2": {
-            "text": "Name wird bereits verwendet"
         },
         "f578ef5a7330291e151dc6052fe85bfe": {
             "text": "Optional das Label f\u00fcr den Tab \"Inhalt\" (Standard) \u00fcberschreiben."
@@ -956,12 +944,6 @@
         "4b5a4101eef9107a93653ecef0418ed1": {
             "text": "Geben Sie den Namen des neuen zu erstellenden Templates an. Der Klon wird angelegt, wenn Sie speichern. Falls Ihr Template-Verzeichnis beschreibbar ist und dem Template eine Datei zugeordnet ist, wird diese ebenfalls geklont."
         },
-        "dd086c8dc23fef8fb9543424864aa9cb": {
-            "text": "Ung\u00fcltiger Templatename zum klonen festgelegt"
-        },
-        "ab64903a1bc47ab8cf1767e8d6581c2d": {
-            "text": "Klonen nicht m\u00f6glich weil ein Template mit diesem Namen bereits existiert"
-        },
         "0ce8e11f27f5cff906b08ff533da5567": {
             "text": "Klon von Template \"%1$s\" erstellt mit Namen \"%2$s\"."
         },
@@ -976,6 +958,27 @@
         },
         "6be7133083e1d91f772589bf24aa5e48": {
             "text": "Geben Sie 0 an, um sie zu deaktivieren"
+        },
+        "1f1e0f35a65380b2fb521f45ebe074d4": {
+            "text": "Template-Namen k\u00f6nnen Buchstaben (a-z A-Z), Zahlen (0-9), Bindestriche und Unterstriche verwenden."
+        },
+        "121b570925fe79a1a61a5af3597db410": {
+            "text": "Kleinbuchstaben sind optional, werden aber empfohlen."
+        },
+        "f2b378843f03d80972622754302da574": {
+            "text": "F\u00fcgen Sie keine Dateierweiterung hinzu."
+        },
+        "9cc59ab6a716c29aa5e36e79f150552c": {
+            "text": "Der Name des Templates stimmt nicht mit dem erforderlichen Format \u00fcberein."
+        },
+        "d52ab043aebc166d5bbf3b73e0bffb0f": {
+            "text": "Nach Feld filtern"
+        },
+        "8ce07bc265e6bec0335b8d17460ff715": {
+            "text": "%d Feld"
+        },
+        "f31f5e50313e32f1b8a1d38913e26023": {
+            "text": "$d Felder"
         }
     }
 }

@@ -11,9 +11,6 @@
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filter"
         },
-        "89872ab3eb9af52f34b4dd82077758fc": {
-            "text": "Nach Template filtern"
-        },
         "410267bd4e3c99784bab90c5e64b5209": {
             "text": "Falls ausgew\u00e4hlt, werden nur die Felder eines bestimmten Templates angezeigt. Integrierte Felder werden ebenfalls angezeigt, wenn nach Template gefiltert wird. Ein Asterisk (*) markiert System-Templates."
         },
@@ -23,23 +20,14 @@
         "a81c2112e97c64099ff86d5b97cb13c6": {
             "text": "Felder nach Template"
         },
-        "d9a45316e3230df36980cf6ab8983485": {
-            "text": "Nach Feld-Typ filtern"
-        },
         "db2b4f5915e2053955edfec38776a17f": {
             "text": "Falls angegeben, werden nur Felder des ausgew\u00e4hlten Typs angezeigt. Integrierte Felder werden ebenfalls angezeigt, wenn nach Feld-Typ gefiltert wird."
         },
         "cca90d2e0854b62dc0c77ad0e1679be4": {
             "text": "Zeige Felder des Typs: %s"
         },
-        "380f82872d1eb16c53b69ce4cfb45c9f": {
-            "text": "Integrierte Felder anzeigen?"
-        },
         "2a7b956033d031e555889f8ddd52754f": {
             "text": "Falls ausgew\u00e4hlt, werden auch integrierte Felder angezeigt, inklusive dauerhaften und System-Feldern. System-Felder werden vom System ben\u00f6tigt; sie k\u00f6nnen weder gel\u00f6scht noch kann Ihr Name ge\u00e4ndert werden. Dauerhafte Felder sind diejenigen, die nicht aus einem Template entfernt werden k\u00f6nnen. Diese Felder werden intern von ProcessWire verwendet."
-        },
-        "1535d0228ba3626bad19ec55142ffcc6": {
-            "text": "Alle Felder anzeigen, inklusive dauerhaften und integrierten System-Feldern."
         },
         "288fc0452049b753c8a75464d299ffe3": {
             "text": "Keine Felder entsprachen Ihrem Filter"
@@ -137,17 +125,11 @@
         "f98b1dd6f292ac2dfa3f8b0f9a8df9b0": {
             "text": "Neues Feld hinzuf\u00fcgen"
         },
-        "cba80ebc9ff6059cddbf49c3f46172a6": {
-            "text": "Keines (Standard)"
-        },
         "1f2b73286f18ea71c594652199e86dff": {
             "text": "Abbrechen"
         },
         "b2a6343356c7cf0f4c1aae50c2cac1b7": {
             "text": "L\u00f6schen"
-        },
-        "0071819b4ba5f6d112dbf1eab7cbe2ae": {
-            "text": "Typ"
         },
         "9ea1f3769ad9c72e3ebf7de539b53aa1": {
             "text": "Beschreibung"
@@ -158,9 +140,6 @@
         "46c5d71a7ab758f0ce5b9124cd8c53a4": {
             "text": "dauerhaft"
         },
-        "7f511c25eccff9ce7127eecfb136f443": {
-            "text": "Jedes Tag muss ein Wort sein (Silbentrennung erlaubt)."
-        },
         "4cca2a863deef0fc4de9115b9164537b": {
             "text": "Ohne Stichworte"
         },
@@ -169,12 +148,6 @@
         },
         "3df354a032179f36ea493c3df6643ce1": {
             "text": "Wenn Sie Templates gruppieren wollen, tragen Sie bitte ein Stichwort ein. Nutzen Sie dieses Stichwort um andere Template zu dieser Gruppe hinzuzuf\u00fcgen. Um mehrere Stichworte zu definieren, trennen Sie sie durch ein Leerzeichen. Die Stichworte machen Sinn wenn Sie eine gro\u00dfe Seite nutzen."
-        },
-        "78bd709db99c927f3a59a1983f18c237": {
-            "text": "Um Stichworte zusammen klappen zu k\u00f6nnen, f\u00fcgen Sie einen Strich ein. Beispiel: -hallo"
-        },
-        "bcb2ce4355834a060bef50afb9127603": {
-            "text": "Integriert"
         },
         "a90b5efafea041e94da7fffd2bd530a3": {
             "text": "Grundlagen"
@@ -533,15 +506,6 @@
         "7f8ceb624f94b152f89f7bfd06a2dff2": {
             "text": "="
         },
-        "7facb165145d489aeaa6743a6f9f1f55": {
-            "text": "="
-        },
-        "0e26a613a19dbe1752912c253f5b2e37": {
-            "text": "="
-        },
-        "0e6b389782e160492d4fe3a397e392df": {
-            "text": "="
-        },
         "47ee982b17f699a3dffff43c76df78ec": {
             "text": "="
         },
@@ -584,15 +548,6 @@
         "c4d3fb0af8e800de549531cccd8a19f8": {
             "text": "Achtung: Das Ausf\u00fchren von Einstellungen, die \u00fcber die vom Autor des Moduls angegebenen Werte hinausgehen, funktioniert m\u00f6glicherweise nicht immer oder kann zu Problemen f\u00fchren."
         },
-        "b021df6aac4654c454f46c77646e745f": {
-            "text": "="
-        },
-        "49ee3087348e8d44e1feda1917443987": {
-            "text": "="
-        },
-        "a1fa27779242b4902f7ae3bdd5c6d508": {
-            "text": "+"
-        },
         "2babe53026309ed1bc4d26626dbaf9b3": {
             "text": "="
         },
@@ -610,6 +565,54 @@
         },
         "07f32475d23721446e940087c7e26b53": {
             "text": "Dies funktioniert nicht, da die Werte Seiten-IDs sein m\u00fcssen"
+        },
+        "c145e5825899a7a53cf8a14b64e53639": {
+            "text": "Stichworte verwalten"
+        },
+        "f62aef3d1bcf85a63cf9af0e03a46c0f": {
+            "text": "Nach Template filtern"
+        },
+        "8870ba7044d8bb0fd95686ec955f9109": {
+            "text": "Nach Typ filtern"
+        },
+        "a922cb7ffa163fa26dfe9e44aaa24d32": {
+            "text": "Systemfelder anzeigen?"
+        },
+        "7db27839ce9f9208f2b52bb9a48220a9": {
+            "text": "Zeigt alle Felder an, einschlie\u00dflich der eingebauten System- und permanenten Felder."
+        },
+        "5da3b0e9c19f86443f6ad42f6d0d1456": {
+            "text": "W\u00e4hlen Sie alle Felder aus, die dieses Stichwort haben sollen"
+        },
+        "2eea24744a636478929cd8cbbe444ded": {
+            "text": "Zusammengeklappt in der Feldliste anzeigen?"
+        },
+        "cd83a77df71e48e6273b925549e0af71": {
+            "text": "Um dieses Stichwort zu l\u00f6schen, entfernen Sie alle Felder aus ihm."
+        },
+        "ed4def612e69863794dc9c98db08b464": {
+            "text": "Stichwort \"%1$s\" zum Feld hinzugef\u00fcgt: %2$s"
+        },
+        "ab7c81ccbce2415afa58b092a3c58162": {
+            "text": "Stichwort \"%1$s\" aus dem Feld entfernt: %2$s"
+        },
+        "d80b6b9388a3f3767f80be5c2ab78976": {
+            "text": "Stichworte erm\u00f6glichen es Ihnen, Sammlungen von Feldern f\u00fcr die Auflistung oder Suche zu erstellen."
+        },
+        "718bd4be79fcb0bac1a4ff2e4528d45d": {
+            "text": "Warnung: Das Stichwort \"%s\" hat den gleichen Namen wie ein Feld."
+        },
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "Neues Stichwort hinzuf\u00fcgen"
+        },
+        "c6e44f0384ed0d130e044f153e7b772f": {
+            "text": "Jedes Stichwort muss ein Wort sein (Unterstriche sind in Ordnung)."
+        },
+        "c101058e7ea21bbbf2a5ac893088e90b": {
+            "text": "Stichwort"
+        },
+        "1bd8f22fdbf8e9e0ca28f3f1e276b085": {
+            "text": "Stichwort: %s"
         }
     }
 }

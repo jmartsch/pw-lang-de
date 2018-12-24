@@ -26,9 +26,6 @@
         "2ed85673c671a4f6a96ccccf154dab83": {
             "text": "Benutzer-Login-Name"
         },
-        "c5e601d1ba182fc5a8c177a4f5eb6661": {
-            "text": "Um dieses Feld zu \u00e4ndern, m\u00fcssen Sie auch Ihr aktuelles Passwort in das Feld \"Passwort setzen\" eingeben."
-        },
         "cb6f985e3af3f01a7f7f9e2d3cc6fe77": {
             "text": "Der Benutzername kann Kleinbuchstaben wie a-z, 0-9, Bindestrich oder Unterstrich enthalten."
         },
@@ -67,6 +64,9 @@
         },
         "a1fa27779242b4902f7ae3bdd5c6d508": {
             "text": "+"
+        },
+        "75ac88c5fefdf1235b5f0484d3c88a2b": {
+            "text": "Zur Sicherheit geben Sie bitte Ihr aktuelles Passwort ein, um diese \u00c4nderungen zu speichern:"
         }
     }
 }

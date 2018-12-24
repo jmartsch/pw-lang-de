@@ -2,77 +2,8 @@
     "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/AdminThemeUikit.module",
     "textdomain": "wire--modules--admintheme--adminthemeuikit--adminthemeuikit-module",
     "translations": {
-        "40b99901bce42a7638315b36c0bec462": {
-            "text": "(empfohlen)"
-        },
-        "06b9281e396db002010bde1de57262eb": {
-            "text": "="
-        },
-        "6adf97f83acf6453d4a6a4b1070f3754": {
-            "text": "Nichts"
-        },
-        "2660064e68655415da2628c2ae2f7592": {
-            "text": "Klein"
-        },
-        "87f8a6ab85c9ced3702b4ea641ad4bb5": {
-            "text": "="
-        },
-        "3a69b34ce86dacb205936a8094f6c743": {
-            "text": "Gro\u00df"
-        },
-        "070554647306343cbea29ebfdd278ba8": {
-            "text": "Rahmen"
-        },
-        "cb5feb1b7314637725a2e73bdc9f7295": {
-            "text": "Farbe"
-        },
-        "0a52730597fb4ffa01fc117d9e71e3a9": {
-            "text": "+"
-        },
         "3b0c14770e6bd663518496da60f524da": {
             "text": "Baum"
-        },
-        "7ce481195c78d64795db8cf62a6df04d": {
-            "text": "Umriss"
-        },
-        "0afa7ae71fac97af574e05f44f2296c5": {
-            "text": "Karte"
-        },
-        "8101df5a8d382ef957a02876d08a6f0f": {
-            "text": "="
-        },
-        "eed661e12b91dcdc202ea5682df87a83": {
-            "text": "Prim\u00e4r"
-        },
-        "702f41f09f0670ea93e1bb7121a835eb": {
-            "text": "Sekund\u00e4r"
-        },
-        "d819318a32ee146ed8fec4feb03aab02": {
-            "text": "Hervorgehoben"
-        },
-        "42d6b04b169e71af86e5bff6ca177f11": {
-            "text": "Warnung"
-        },
-        "5a9e33ceafdb38535a8dcee28ff0cd68": {
-            "text": "Gefahr"
-        },
-        "b2dd4aca1dc11bb2c4efcbd9ab347789": {
-            "text": "Admintheme Einstellungen"
-        },
-        "838ee308c6474d98feac3ebbff4c08a8": {
-            "text": "Diese Einstellungen beeinflussen, wie dieses Feld angezeigt wird, wenn es mit dem Uikit-Admin-Design verwendet wird."
-        },
-        "2a94ec4e40704b025161d175bc18fe53": {
-            "text": "Bei der Auswahl der Option \"Auto\" werden die Einstellungen zur Laufzeit festgelegt."
-        },
-        "54e4e4fb8f8494b61dc7407161cff620": {
-            "text": "Die Einstellung \"Au\u00dfenabstand\" gilt nur f\u00fcr Felder mit 100% Breite."
-        },
-        "98369609669478919c74c916440e9978": {
-            "text": "Au\u00dfenabstand"
-        },
-        "c0bfe90a485c1e5db5e8fd63193fe65f": {
-            "text": "Dieses Feld zeigt einfach die Einstellungen an, die Sie oben ausgew\u00e4hlt haben."
         }
     }
 }

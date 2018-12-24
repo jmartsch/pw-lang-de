@@ -14,12 +14,6 @@
         "bbddef2b960b6e14a0c9510c2312192e": {
             "text": "Optionen-Label"
         },
-        "0900a3f6adfa931e0130c02c436e7e7f": {
-            "text": "Modulklassen-Name"
-        },
-        "335fdfd0673e7e457d51384f686b00dc": {
-            "text": "Modultitel"
-        },
         "a749642e2afeea63aac9d550e51abf64": {
             "text": "Eingabetyp"
         },
@@ -31,6 +25,21 @@
         },
         "d5a4c326398e96cdf97b6d4a3cc300c1": {
             "text": "="
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Keine"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titel"
+        },
+        "3d0e52e8f34a293de17317f094e676b6": {
+            "text": "Titel und Zusammenfassung"
+        },
+        "daf361912b4d4260a6a0c3dc31a60312": {
+            "text": "Eine \"Keine\" Option anzeigen?"
+        },
+        "1177fb816ddc2935c2a8bc55d22b93b1": {
+            "text": "Typ f\u00fcr leeren Wert"
         }
     }
 }

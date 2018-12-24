@@ -92,9 +92,6 @@
         "5e1daea70649e788db6ead8cd50f791d": {
             "text": "Die unver\u00f6ffentlichte Seite %1$s ist in Feld \"%2$s\" nicht erlaubt"
         },
-        "1cc510dea04a978b3bb88514582eea6c": {
-            "text": "Um unver\u00f6ffentlichte Seiten zu erlauben, \u00e4ndern Sie die Einstellung f\u00fcr das Feld \"%s\" im Tab \"Erweitert\"."
-        },
         "309980b76124ca15c19a948edcd2b820": {
             "text": "W\u00e4hlbare Seiten"
         },
@@ -190,6 +187,9 @@
         },
         "533e8044020cfac547586cacca582fca": {
             "text": "Eigenes Suchergebnis"
+        },
+        "1f6147d9cbae7fa8c3e213824bce6405": {
+            "text": "Um unver\u00f6ffentlichte Seiten zuzulassen, bearbeiten Sie das Feld \"%s\" und lesen Sie die Einstellung auf der Registerkarte \"Details\"."
         }
     }
 }

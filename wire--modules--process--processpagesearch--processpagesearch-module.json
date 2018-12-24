@@ -77,40 +77,16 @@
         "1da914fe3f639d8b3d977a006d2b0c69": {
             "text": "Es wurde %1$d Seite gefunden, die diesen Selektor nutzt: %2$s"
         },
-        "c488b358fae501da3848f9faeb83dd35": {
-            "text": "Felder"
-        },
-        "c26ba1dd54d52630a0aedf779e5926af": {
-            "text": "Module"
-        },
         "8aa55d906b86496efeb66b0eae7d75ce": {
             "text": "Seiten"
-        },
-        "d60c090c3c99aaae5f57da3eb85fe008": {
-            "text": "Standardfelder der Suche"
         },
         "2d29cf36f3ebbd5bab570d70070e5102": {
             "text": "Standard-Feldname(n) zur Anzeige im Suchergebnis"
         },
-        "51e1d489ac4198969f8daf52b7cdfaf6": {
-            "text": "Standard Such Operator"
-        },
-        "6278e5dbbd21048091f612f55185257e": {
-            "text": "Gesuchte(s) Feld(er) in der Admin Suche (Ajax) Modus"
-        },
         "6cfd6f09104bdac467bb40624aae4e9c": {
             "text": "Wenn mehr als ein Feld angegeben, bitte mit Leerzeichen trennen."
         },
-        "bfe2201d3b973b0d8c3c5b0ea08e1736": {
-            "text": "Namen f\u00fcr ein oder mehrere textbasierte Felder zur Suche eintragen. Mehrere Eintr\u00e4ge mit Leerzeichen trennen."
-        },
-        "cc10d38a176ad7cde1228d2e22f1122b": {
-            "text": "Wir empfehlen dies auf h\u00f6chstens ein oder zwei Felder zu begrenzen, da das Ergebnis ein autocomplete Feld live bef\u00fcllt. Typischerweise sucht man nur nach dem 'title'."
-        },
         "29e9d8e295b1d5b3002d2d3d5baa4c37": {
-            "text": "="
-        },
-        "736f3e2669c68c02be0fb19d1e70622f": {
             "text": "="
         },
         "13a4a02c365a44407beebb73dddbc554": {
@@ -118,6 +94,66 @@
         },
         "6950a77d131f284826099392fd57701c": {
             "text": "Endet mit"
+        },
+        "03164877c3d4b788308e3fbfe3199751": {
+            "text": "Admin-Live-Suche"
+        },
+        "d1032e06eff58a781d56ae06b0ebeb85": {
+            "text": "Suchreihenfolge"
+        },
+        "e8159c4a91a92ac26a6c03ef7aaf6dac": {
+            "text": "Dies sind die Arten von Suchanfragen, die w\u00e4hrend einer Admin-Live-Suche durchgef\u00fchrt werden."
+        },
+        "e6325f7d83769dd875f667c2dbcd5fd7": {
+            "text": "Ziehen Sie sie in die Reihenfolge, in der die Suchergebnisse aufgelistet werden sollen."
+        },
+        "94d8d93a863e2724dc409c7b5771bf76": {
+            "text": "(ausgeschlossen)"
+        },
+        "8cf4111a5e458360994845128c2b07b3": {
+            "text": "Suchtypen ausschlie\u00dfen"
+        },
+        "fbb4e524dc820fa07f82c23211611ad9": {
+            "text": "W\u00e4hlen Sie alle Suchtypen aus, die Sie von der Live-Suche ausschlie\u00dfen m\u00f6chten. Dies k\u00f6nnen Typen sein, die Sie nicht oft suchen m\u00fcssen."
+        },
+        "cee52fb451f657b046988a3535ad9fad": {
+            "text": "Je mehr Typen ausgeschlossen sind, desto schneller wird die Live-Suche durchgef\u00fchrt."
+        },
+        "1b803e4573be96837e8a286f9ba111c4": {
+            "text": "Alle ausgew\u00e4hlten Typen k\u00f6nnen weiterhin durchsucht werden, wenn sie bei der Suche gezielt abgefragt werden."
+        },
+        "5b2201bc8bf61333c472ab98b9f3b2c3": {
+            "text": "Wenn Sie beispielsweise den Typ \"trash\" ausgeschlossen haben, kann er trotzdem durchsucht werden, wenn Sie Ihrer Suche \"trash=\" vorangestellt haben, wie z.B. \"trash=hello\"."
+        },
+        "e1eee8c1f21fe51aa15f3006cd6419f4": {
+            "text": "Seitenfelder zur Suche"
+        },
+        "14521e8e790db172e8c476f9d77291c0": {
+            "text": "Dies gilt nur f\u00fcr Suchergebnisse von \"Seiten\" und \"Papierkorb\"."
+        },
+        "4f745aea666e6efcb5ff18f1d9275693": {
+            "text": "Wir empfehlen, dies auf maximal 1 oder 2 Felder zu beschr\u00e4nken, um eine schnelle Live-Suche zu gew\u00e4hrleisten. Normalerweise w\u00fcrden Sie einfach das Feld \"Titel\" durchsuchen."
+        },
+        "719994663f2fff9ce4cd0935acc6c6a5": {
+            "text": "Seitenfelder die durchsucht werden, wenn der Benutzer im Suchfeld \"Enter\" dr\u00fcckt"
+        },
+        "50570447523d04b47c7c79f8c135a3ae": {
+            "text": "Normalerweise w\u00e4re dies das gleiche wie oben, aber Sie k\u00f6nnen auch zus\u00e4tzliche Felder hinzuf\u00fcgen."
+        },
+        "72dc6e522da22345e91fd3dde26d792e": {
+            "text": "Anstatt nur das Feld \"Titel\" zu durchsuchen, k\u00f6nnen Sie beispielsweise auch ein Feld \"body\" durchsuchen."
+        },
+        "f9702fc01ddd6b314fe6d74ac54995b6": {
+            "text": "Standard-Suchoperator f\u00fcr Einzel- und Teilwortsuche"
+        },
+        "5187ed7cdf401218d2ae7263781350b8": {
+            "text": "Zeigt die Unterst\u00fctzung von teilweisen Wort\u00fcbereinstimmungen an"
+        },
+        "bbeff731bf48359f60959f600e6240c2": {
+            "text": "Standard-Suchoperator f\u00fcr die Suche nach mehreren W\u00f6rtern (Phrasen)"
+        },
+        "3aaf625865081e0b0f1f8d001a9a06be": {
+            "text": "(in beliebiger Reihenfolge)"
         }
     }
 }
