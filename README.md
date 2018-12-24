@@ -7,9 +7,9 @@ For use with a **dev** version, [see here](https://github.com/jmartsch/pw-lang-d
 
 Language packs for (some) older versions of ProcessWire are available on the [releases page](https://github.com/jmartsch/pw-lang-de/releases) of this repository.
 
-Pull requests are welcome. Let's try to work together, to get fast updates of the german language pack when a new stable version is published.
-
 ## How to help updating the language pack (draft, not ready yet)
+
+Pull requests are welcome. Let's try to work together, to get fast updates of the german language pack when a new stable version is published.
 
 * Admin > Setup > Languages > Add New
 * Save
