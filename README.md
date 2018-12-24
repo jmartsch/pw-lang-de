@@ -36,4 +36,3 @@ Pull requests are welcome. Let's try to work together, to get fast updates of th
 Look for abandoned and empty phrases.
 abandoned are not needed any more and can safely be removed
 empty phrases are new additions, which need to be translated
-changed word "tag" and "tags" to "Stichwort" and "Stichworte"
