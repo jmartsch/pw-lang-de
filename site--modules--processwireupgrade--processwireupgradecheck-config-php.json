@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/ProcessWireUpgrade\/ProcessWireUpgradeCheck.config.php",
+    "textdomain": "site--modules--processwireupgrade--processwireupgradecheck-config-php",
+    "translations": {
+        "050e62291bde7f21c9f4b1c54ba6706a": {
+            "text": "Auf Upgrades beim Login eines Superusers \u00fcberpr\u00fcfen?"
+        },
+        "cfcc31ef0aa4f562eb31a9ba4226317f": {
+            "text": "Wenn \"Nein\" ausgew\u00e4hlt ist, werden Upgrades nur dann manuell gepr\u00fcft, wenn Sie auf Setup > Upgrades klicken."
+        },
+        "716f5e2e44f2093376d9ea23d3616180": {
+            "text": "F\u00fcr die automatische Upgrade-Pr\u00fcfung ist ProcessWire 2.5.20 oder neuer erforderlich."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "+"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "+"
+        }
+    }
+}

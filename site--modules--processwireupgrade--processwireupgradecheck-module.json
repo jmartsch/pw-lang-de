@@ -1,0 +1,30 @@
+{
+    "file": "site\/modules\/ProcessWireUpgrade\/ProcessWireUpgradeCheck.module",
+    "textdomain": "site--modules--processwireupgrade--processwireupgradecheck-module",
+    "translations": {
+        "04b18c0ac7afa894014866938bd856d4": {
+            "text": "Ein ProcessWire Core-Upgrade ist verf\u00fcgbar"
+        },
+        "393de78bf85a95a53886232d99820a1c": {
+            "text": "Ihr ProcessWire Core ist auf dem neuesten Stand"
+        },
+        "7497711b88af126d4b9c4af232b9edb0": {
+            "text": "Ein Upgrade f\u00fcr %s ist verf\u00fcgbar."
+        },
+        "c846f7ac91ff68daa1c144c84bd2e5b3": {
+            "text": "Ihre Module sind aktuell"
+        },
+        "9b44a8c5e5876b8400e951550c089f31": {
+            "text": "Fehler beim Abruf des Modul-Verzeichnisses"
+        },
+        "fa4802a893bc19546fc43bbf1dad7875": {
+            "text": "Fehler beim Laden von GitHub-Branches"
+        },
+        "567ffb892d40da02f5ed597de39ad682": {
+            "text": "HTTP-Fehler:"
+        },
+        "4ad1a107963bcc746173406586cd34e1": {
+            "text": "Pr\u00fcfen Sie, ob HTTP-Requests nicht von Ihrem Server blockiert werden."
+        }
+    }
+}

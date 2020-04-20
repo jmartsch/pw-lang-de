@@ -1,0 +1,51 @@
+{
+    "file": "site\/modules\/ProcessWireUpgrade\/ProcessWireUpgrade.module",
+    "textdomain": "site--modules--processwireupgrade--processwireupgrade-module",
+    "translations": {
+        "1063e38cb53d94d386f21227fcd84717": {
+            "text": "Entfernen"
+        },
+        "e55f75a29310d7b60f7ac1d390c8ae42": {
+            "text": "Modul"
+        },
+        "9bd81329febf6efe22788e03ddeaf0af": {
+            "text": "Klassenname"
+        },
+        "98dd43dfae05b11befe1f140e0ec787a": {
+            "text": "Installiert"
+        },
+        "cd118d21c3b0b4762c6e0063661e6e45": {
+            "text": "Neueste"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Status"
+        },
+        "33307683980623bb7962b8808d4054a1": {
+            "text": "Aktuell"
+        },
+        "228e8380ee42b3ba5d59cdc502dc154d": {
+            "text": "Upgrade verf\u00fcgbar"
+        },
+        "aea66fece551d7c7d294ba4c56e83db1": {
+            "text": "Nicht im Verzeichnis"
+        },
+        "3c6392d21eded83348fcd9ba6fbf3784": {
+            "text": "Jetzt herunterladen"
+        },
+        "727b63583e01fa2b3952dab580c84dc2": {
+            "text": "Abbrechen"
+        },
+        "b1140bb2be70b80074a7864f2569c362": {
+            "text": "Datenbank jetzt sichern"
+        },
+        "5533efe60eb3a7a5827c524ca21757ce": {
+            "text": "Datenbank-Sicherung \u00fcberspringen"
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "+"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Installieren"
+        }
+    }
+}
