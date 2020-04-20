@@ -170,9 +170,6 @@
         "ed81bfff2c494916fd8a4f7f0526e14c": {
             "text": "Spaltenbreiten des Eingabefeldes"
         },
-        "39e84864692943ca0ba0c69e5039ed9a": {
-            "text": "W\u00e4hlen Sie Option B, wenn Sie Schwierigkeiten haben, die beabsichtigten Eingabefeld-Spaltenbreiten zu erreichen."
-        },
         "775d588dfe892290c0bfa5e56590577f": {
             "text": "Uikit uk-width Klassen (bis zu 6 Spalten)"
         },
@@ -275,9 +272,6 @@
         "0afa7ae71fac97af574e05f44f2296c5": {
             "text": "Karte"
         },
-        "8101df5a8d382ef957a02876d08a6f0f": {
-            "text": "Transparent"
-        },
         "eed661e12b91dcdc202ea5682df87a83": {
             "text": "Prim\u00e4r"
         },
@@ -292,6 +286,12 @@
         },
         "5a9e33ceafdb38535a8dcee28ff0cd68": {
             "text": "Gefahr"
+        },
+        "5d6497b7aaafbba82795cd9626c2f508": {
+            "text": "W\u00e4hlen Sie Option B, wenn Sie Probleme haben, die beabsichtigten Spaltenbreiten der Eingabefelder zu erzielen."
+        },
+        "8101df5a8d382ef957a02876d08a6f0f": {
+            "text": "="
         }
     }
 }

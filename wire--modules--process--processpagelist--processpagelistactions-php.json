@@ -28,6 +28,9 @@
         },
         "9e2e4fbd398b11af3aabb1866bbb3e25": {
             "text": "Aktionen im Demo-Modus deaktiviert"
+        },
+        "b0af6f1b4969f0f41389c860f006ca6f": {
+            "text": "Fehler beim Ausf\u00fchren: %s"
         }
     }
 }

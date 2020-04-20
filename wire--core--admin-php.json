@@ -3,7 +3,7 @@
     "textdomain": "wire--core--admin-php",
     "translations": {
         "657e7a4fc0a8b4f44a06c216edf02d64": {
-            "text": "Nicht erkannter HTTP-Host:"
+            "text": "Unbekannter HTTP-Host:"
         },
         "b6823820033b6cf18c3aa27d252861e0": {
             "text": "Bitte aktualisieren Sie ihre Einstellung $config->httpHosts in \/site\/config.php"
@@ -25,6 +25,9 @@
         },
         "cfdf33cbd93768327b807066fb473750": {
             "text": "Zwei-Faktor-Authentifizierung aktivieren"
+        },
+        "7d1e877f40bcb7e917038fddfbc95043": {
+            "text": "Sie haben die PHP-Einstellung \"max_input_vars\" von %d erreicht - bitte erh\u00f6hen Sie diese."
         }
     }
 }

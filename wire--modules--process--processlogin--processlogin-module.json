@@ -14,9 +14,6 @@
         "48649d8c2d04aa439d10bc45eaba8f75": {
             "text": "Login fehlgeschlagen"
         },
-        "646d9e77201093e05380ead006df9975": {
-            "text": "Sicherheitswarnung: %s existiert und sollte so schnell wie m\u00f6glich gel\u00f6scht werden."
-        },
         "f6039d44b29456b20f8f373155ae4973": {
             "text": "Benutzername"
         },
@@ -34,18 +31,6 @@
         },
         "d837cc5a72556c5e2abf4b9fe10ddef8": {
             "text": "Login"
-        },
-        "4c429484c06b2d2901b3a582f300af56": {
-            "text": "Achtung, in Ihrer \/site\/config.php sind Dateiberechtigungen definiert, welche f\u00fcr viele Umgebungen zu locker sind:"
-        },
-        "00796cc045b871fe7b2867edef6aaaf7": {
-            "text": "Um diese Warnung zu unterdr\u00fccken, setzen Sie in ihrer \/site\/config.php Datei die Einstellung $config->chmodWarn = false;"
-        },
-        "748befe7a5d432caba8b6cadc4076e92": {
-            "text": "Lesen Sie \"Absichern von Dateiberechtigungen\" f\u00fcr weitere Details"
-        },
-        "d5877d284caca4c9b4d55adb8e6e758c": {
-            "text": "Zum Beispiel k\u00f6nnte die Gebietsschema-Einstellung f\u00fcr US-Englisch sein: %s"
         },
         "1860fb17b107cbb39cf6bbfa61130803": {
             "text": "Profil bearbeiten"
@@ -68,17 +53,14 @@
         "aef111cc10b28b4cf297865dbc1253bb": {
             "text": "Tfa-Module im ProcessWire-Modulverzeichnis"
         },
-        "60d0f1128804dfd5fa013c3d02c67012": {
-            "text": "Ihre aktuelle Gebietsschema-Einstellung ist \"%s\"."
+        "9b74fc37d2e8f56c60b51adb9cfc4b4b": {
+            "text": "\u00dcberspringen von Systempr\u00fcfungen nach dem Einloggen, weil Aktualisierungen vorgenommen wurden (%s)"
         },
-        "9cdeee8e8a463c558dc372434cc5dbb1": {
-            "text": "Hinweis: Ihre aktuelle Gebietsschema-Einstellung (locale) funktioniert nicht wie erwartet mit dem UTF-8 Zeichensatz und kann kleinere Probleme verursachen."
+        "d03d931ed70198dc13af35410030754c": {
+            "text": "Javascript-Pr\u00fcfung fehlgeschlagen: Bitte aktivieren Sie JavaScript, um sich anzumelden."
         },
-        "f8239d6a9013fae244731a805aa50b09": {
-            "text": "Bitte \u00fcbersetzen Sie die \"C\" Gebietsschema-Einstellung (locale) f\u00fcr jede Sprache in das richtige Gebietsschema (locale) in %s"
-        },
-        "7ca79a1980d88028a56fcee7c711685e": {
-            "text": "Bitte f\u00fcgt dies zu Ihrer %1$s Datei hinzu (passen Sie \"%2$s\" bei Bedarf an):"
+        "355f835c4f5fd628f83983152533363c": {
+            "text": "Cookie-Pr\u00fcfung fehlgeschlagen: Bitte aktivieren Sie Cookies f\u00fcr die Anmeldung."
         }
     }
 }

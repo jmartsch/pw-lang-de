@@ -358,6 +358,21 @@
         },
         "beb808c0ab58b957ea0350e633392cee": {
             "text": "\/ihre\/%s\/url\/"
+        },
+        "19959897b0f9d04ebbea294594c10f5d": {
+            "text": "Diese Seite kann ein oder mehrere unvollst\u00e4ndige Felder enthalten (versuchen Sie zu speichern oder zu ver\u00f6ffentlichen, um weitere Informationen zu erhalten)"
+        },
+        "0bcdea7c9e6f5289b7cf4c51e001a8fa": {
+            "text": "Einzigartig: Der Seitenname \"%s\" muss global eindeutig sein."
+        },
+        "9d4409be42bd401755ef515b91df93bc": {
+            "text": "(nur in der Standardsprache)"
+        },
+        "c71458ba699635fcdbc6a15dd2b81c4c": {
+            "text": "Markierter Status entfernt, da beim Speichern keine Fehler gemeldet wurden"
+        },
+        "c28806887f7038aa8c83cef389bfcec6": {
+            "text": "="
         }
     }
 }

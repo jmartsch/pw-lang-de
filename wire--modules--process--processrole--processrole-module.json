@@ -88,6 +88,12 @@
         },
         "596d1c90537af3c3c588dceedde6bf03": {
             "text": "(erforderlich, da von der Rolle Gast geerbt)"
+        },
+        "2c32a8fe6caf47e8f89b0929211639df": {
+            "text": "Templates mit einem Sternchen (*) werden f\u00fcr bearbeitungsbezogene Berechtigungen so konfiguriert, dass sie auch auf Kinder und \u00fcber den Seitenbaum vererbt werden, sofern sie nicht von einer Seite mit einer anderen zugriffskontrollierten Vorlage \u00fcberschrieben werden."
+        },
+        "1900cd4f8e202940060d2129a70df995": {
+            "text": "Diese Berechtigung wird auch an Kinder und \u00fcber den Seitenbaum vererbt, sofern sie nicht von einer Seite, die eine andere zugriffskontrollierte Vorlage verwendet, \u00fcberschrieben wird."
         }
     }
 }

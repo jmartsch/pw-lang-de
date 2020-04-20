@@ -1,0 +1,81 @@
+{
+    "file": "wire\/modules\/System\/SystemUpdater\/SystemUpdaterChecks.php",
+    "textdomain": "wire--modules--system--systemupdater--systemupdaterchecks-php",
+    "translations": {
+        "b39229143b1147a73a48df31c1231d8c": {
+            "text": "Mehrere Probleme entdeckt, bitte \u00fcberpr\u00fcfen:"
+        },
+        "cea2995cd3259dca15a20b501b1e458b": {
+            "text": "Bitte beachten Sie, dass Ihre %s-Stammdatei nicht auf dem neuesten Stand dieser ProcessWire-Version ist. Bitte aktualisieren Sie sie, wenn m\u00f6glich."
+        },
+        "18dd427864e5d5894d6427b120729661": {
+            "text": "Um diese Warnung zu unterdr\u00fccken, ersetzen oder f\u00fcgen Sie Folgendes oben in Ihrer vorhandenen .htaccess-Datei hinzu:"
+        },
+        "3ce93c026eb9e6490b97440cb30648ac": {
+            "text": "Willkommen bei ProcessWire!"
+        },
+        "b5e8bf8e4ff52c6a5284ed10f7951738": {
+            "text": "Wenn diese Installation derzeit f\u00fcr Entwicklungs- oder Testzwecke verwendet wird, empfehlen wir, den Debug-Modus zu aktivieren."
+        },
+        "ecd4a06df60ea2b6392432bbd11f1d76": {
+            "text": "Der Debug-Modus stellt sicher, dass alle Fehler sichtbar sind, was bei der Entwicklung oder Fehlerbehebung hilfreich sein kann."
+        },
+        "917cf9b7a671b533087c8f7b0bf8d157": {
+            "text": "Au\u00dferdem k\u00f6nnen hier im Admin zus\u00e4tzliche Entwicklerinformationen erscheinen."
+        },
+        "cb6a03bb5f07396e7eca71a86ad46e43": {
+            "text": "Sie k\u00f6nnen den Debug-Modus aktivieren, indem Sie Ihre %s-Datei bearbeiten und Folgendes hinzuf\u00fcgen:"
+        },
+        "f1d50e08fba3212773302367c8513449": {
+            "text": "Bitte beachten Sie: Diese Benachrichtigung wird nicht mehr angezeigt. Denken Sie daran, den Debug-Modus zu deaktivieren, bevor Sie live gehen."
+        },
+        "233b54b5df8647fadbfb62e9c4def925": {
+            "text": "Sicherheitswarnung: Datei '%s' existiert und sollte so schnell wie m\u00f6glich gel\u00f6scht werden."
+        },
+        "7ba9982e6cae459db14db8bad5ad68b9": {
+            "text": "Warnung, Ihre %s-Datei gibt Dateiberechtigungen an, die f\u00fcr viele Umgebungen zu locker sind:"
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "Lesen Sie \"Sichern von Dateiberechtigungen\" f\u00fcr weitere Details"
+        },
+        "5ff81a1ae7c80f730595ed1100007665": {
+            "text": "Um diese Warnung zu unterdr\u00fccken, f\u00fcgen Sie Folgendes zu Ihrer %s-Datei hinzu:"
+        },
+        "359a712bdea64131ff4e83fbc7233af6": {
+            "text": "Warnung: Sie haben ein Feld mit dem Namen \"published\", das mit der Eigenschaft der Seite \"published\" in Konflikt steht."
+        },
+        "e51b9afa44f26fb147585eda2b708808": {
+            "text": "Bitte benennen Sie Ihr Feld in etwas anderes um und aktualisieren Sie alle Templates, die auf dieses Feld verweisen."
+        },
+        "60d0f1128804dfd5fa013c3d02c67012": {
+            "text": "Ihre aktuelle Gebietsschema-Einstellung ist \"%s\"."
+        },
+        "9cdeee8e8a463c558dc372434cc5dbb1": {
+            "text": "Hinweis: Ihre aktuelle Server-Locale-Einstellung funktioniert nicht wie erwartet mit dem UTF-8-Zeichensatz und kann kleinere Probleme verursachen."
+        },
+        "f8239d6a9013fae244731a805aa50b09": {
+            "text": "Bitte \u00fcbersetzen Sie die \"C\"-Locale-Einstellung f\u00fcr jede Sprache in die kompatible Locale in %s"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "Beispielsweise k\u00f6nnte die Gebietsschema-Einstellung f\u00fcr US-Englisch lauten: %s"
+        },
+        "7ca79a1980d88028a56fcee7c711685e": {
+            "text": "Bitte f\u00fcgen Sie dies zu Ihrer %1$s-Datei hinzu (passen Sie \"%2$s\" nach Bedarf an):"
+        },
+        "6ed94bc4b5b5d4c1bfd4c90792c39c68": {
+            "text": "Die Website befindet sich im Debug-Modus, geeignet f\u00fcr Websites in Entwicklung"
+        },
+        "1ffd655d9788eba2b285e4363eab7b51": {
+            "text": "Wenn dies eine Live-\/Produktions-Site ist, sollten Sie den Debug-Modus in %1$s mit %2$s deaktivieren:"
+        },
+        "8f0362971b64ae326b6a57f21f9d5ce4": {
+            "text": "Erforderliche Version: %1$s, Gefundene Version: %2$s."
+        },
+        "d331f06185da085f65656f31a7a8a795": {
+            "text": "Die erforderliche Datei konnte nicht gefunden werden: %s"
+        },
+        "0d61f8370cad1d412f80b84d143e1257": {
+            "text": "="
+        }
+    }
+}

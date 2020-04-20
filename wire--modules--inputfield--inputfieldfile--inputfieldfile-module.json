@@ -82,6 +82,15 @@
         },
         "96baacdc276036c2b8fb65264750a3b4": {
             "text": "Dateien ausw\u00e4hlen"
+        },
+        "e72ce31f0ee80699eb03ad6cc894fe3a": {
+            "text": "Nicht unterst\u00fctzte Dateierweiterung, bitte nur verwenden: EXTENSIONS"
+        },
+        "6ebd01ddd3a5422eb7dcdd0ce4b677c7": {
+            "text": "Datei ist zu gro\u00df - maximal zul\u00e4ssige Gr\u00f6\u00dfe ist MAX_KB kb"
+        },
+        "c62fc670ac122455cc5853bf97130711": {
+            "text": "Feld \"%1$s\" Typ \"%2$s\" wird im Feld \"%3$s\" nicht unterst\u00fctzt"
         }
     }
 }

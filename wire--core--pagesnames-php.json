@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/PagesNames.php",
+    "textdomain": "wire--core--pagesnames-php",
+    "translations": {
+        "b0c7034324356a3debb02f65432da4cb": {
+            "text": "Eine andere Seite verwendet den Namen \"%s\" und verlangt, dass er global eindeutig sein muss."
+        },
+        "dc4285f03b7d0a9a40a437530f567e94": {
+            "text": "Eine andere Seite mit demselben Vorfahren verwendet bereits den Namen \"%s\"."
+        },
+        "fca123eb0b6f4465da6e62e5b07927e9": {
+            "text": "Der Name \"%s\" kann nicht als global eindeutig verwendet werden, da er bereits von anderen Seiten verwendet wird."
+        }
+    }
+}

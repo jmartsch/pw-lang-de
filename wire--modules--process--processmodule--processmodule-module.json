@@ -418,6 +418,9 @@
         },
         "a2eff7125bf22d0665eb96166b471821": {
             "text": "Geben Sie den Klassennamen f\u00fcr das zu installierende Modul ein oder f\u00fcgen Sie ihn ein und klicken Sie dann auf die Schaltfl\u00e4che \"%s\", um fortzufahren."
+        },
+        "fb61fc284cf893013b55de02da9c9948": {
+            "text": "Modul: %s"
         }
     }
 }
