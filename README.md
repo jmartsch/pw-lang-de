@@ -7,9 +7,13 @@ The repository will (try to) be up to date with the most recent **stable** versi
 
 Language packs for (some) older versions of ProcessWire are available on the [releases page](https://github.com/jmartsch/pw-lang-de/releases) of this repository.
 
+Big thanks to Matthias Mees and Nico Knoll for their initial work.
+
 ## Installation
 
 To install a language pack, you must have the ProcessWire Language Support module installed. This is included with ProcessWire, so all you have to do is click to Modules > Language > Language Support > install.
+
+### Install as additional language
 
 Once you have Language Support installed, you can install this language pack by going to Setup > Languages > Add New Language. Enter a title and name for the language and save.
 
@@ -19,7 +23,30 @@ Now you can test out the new language by editing our profile and selecting the n
 
 Menu items are translated after you log out and log in again.
 
-Big thanks to yellowled and nico for their initial work.
+### Install and replace the default language
+With this installation type your ProcessWire admin would also be translated to the new language.
+
+Horst Nogajski wrote a [great tutorial with screenshots](https://processwire.com/talk/topic/11451-change-default-language-revisited/?do=findComment&comment=201305) how to replace the default language.
+
+In short it works like this (taken from Horst's writing):
+1) enable languages support 
+
+2) set title / label of the default language to your desired none english native language, (e.g. 'Deutsch' (German))
+
+3) drop in the none english language pack (for admin backend) into the default language, (e.g. german langpack)
+
+4) Now you are ready to start with a single language site of your choice.
+
+5) If you want to use a multi language site
+, you now can add as many additional languages you want. If one of them should be english, you add it, but do not need to apply a language pack.
+
+    - add a new language to it and drop in a language pack for any none english language or simply don't drop in a language pack to get the english version (but not as the default one!)
+
+For single language sites you only need to enable "ProcessWire Language Support". 
+
+NOT language inputfields!
+
+NOT language pagenames!
 
 ## How to help updating the language pack
 
