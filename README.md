@@ -26,7 +26,7 @@ Menu items are translated after you log out and log in again.
 ### Install and replace the default language
 With this installation type your ProcessWire admin would also be translated to the new language.
 
-Horst Nogajski wrote a [great tutorial with screenshots](https://processwire.com/talk/topic/11451-change-default-language-revisited/?do=findComment&comment=201305) how to replace the default language.
+Horst Nogajski wrote a [great tutorial with screenshots](https://processwire.com/talk/topic/23627-change-default-language-to-be-none-english-walk-trough/) how to replace the default language.
 
 In short it works like this (taken from Horst's writing):
 1) enable languages support 
