@@ -1,5 +1,15 @@
 {
     "file": "wire\/modules\/PagePathHistory.module",
     "textdomain": "wire--modules--pagepathhistory-module",
-    "translations": []
+    "translations": {
+        "112a51baa056cba6320b36b7a71bcb1c": {
+            "text": "Mindestalter (Sekunden)"
+        },
+        "6f6974b30b7af85a0b0b8e3382fc9345": {
+            "text": "Beginnen Sie die Aufzeichnung der Historie f\u00fcr eine Seite so viele Sekunden nach ihrer Erstellung. Mindestens 2 oder mehr Sekunden empfohlen."
+        },
+        "b26126a5fdfea23d379aa813c392d533": {
+            "text": "Voreinstellung: %s"
+        }
+    }
 }

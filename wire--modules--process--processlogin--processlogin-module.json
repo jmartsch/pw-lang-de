@@ -8,9 +8,6 @@
         "a0bfb8e59e6c13fc8d990781f77694fe": {
             "text": "Fortsetzen"
         },
-        "847549ae30061a6767a4b17c6fb4f53c": {
-            "text": "Erfolgreich eingeloggt"
-        },
         "48649d8c2d04aa439d10bc45eaba8f75": {
             "text": "Login fehlgeschlagen"
         },
@@ -28,9 +25,6 @@
         },
         "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
             "text": "Sie haben sich ausgeloggt"
-        },
-        "d837cc5a72556c5e2abf4b9fe10ddef8": {
-            "text": "Login"
         },
         "1860fb17b107cbb39cf6bbfa61130803": {
             "text": "Profil bearbeiten"
@@ -61,6 +55,78 @@
         },
         "355f835c4f5fd628f83983152533363c": {
             "text": "Cookie-Pr\u00fcfung fehlgeschlagen: Bitte aktivieren Sie Cookies f\u00fcr die Anmeldung."
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "E-Mail"
+        },
+        "7b27f5e583e36dc50e5648f38c65ac55": {
+            "text": "Die Anmeldung wird f\u00fcr diese E-Mail-Adresse nicht unterst\u00fctzt."
+        },
+        "fbda2a5cde5a86fc243eb050230f25a6": {
+            "text": "Ung\u00fcltiger Anmeldename"
+        },
+        "1c315fe64c02f0dc4a605373f68d911b": {
+            "text": "Benutzername oder E-Mail"
+        },
+        "a1413ed049a4bed0e649c409b4462b49": {
+            "text": "Art der Anmeldung"
+        },
+        "987dce661afca3372aa3e05702fb1d06": {
+            "text": "Benutzername"
+        },
+        "b357b524e740bc85b9790a0712d84a30": {
+            "text": "E-Mail-Adresse"
+        },
+        "9e70a5d3dab1960c04b55a29f310331e": {
+            "text": "Entweder , oder"
+        },
+        "d619a734f94b65d5137233c7d9a8fe69": {
+            "text": "Um die E-Mail-Anmeldung zu verwenden, m\u00fcssen Sie die \"eindeutig\" Einstellung f\u00fcr Ihr E-Mail-Feld aktivieren."
+        },
+        "b88a66937b3f8fa44719aa2d7b5ea94d": {
+            "text": "Geben Sie Benutzern die M\u00f6glichkeit, die Code-Eingabe zu \u00fcberspringen, wenn ihr Browser\/Standort gespeichert ist?"
+        },
+        "eee86113756d9d5d046fab51f977086c": {
+            "text": "Geben Sie die Anzahl der Tage ein, die der Browser\/Standort gespeichert wird, oder 0 zum Deaktivieren."
+        },
+        "37eb4d02a9ee33ced10a5ad495bc7ad8": {
+            "text": "Benutzer-Agent (Browser, Plattform und deren Versionen)"
+        },
+        "6b7e493b999bf8d0c92bdc3b29024968": {
+            "text": "Nicht versionierter User-Agent (Browser und Plattform, aber keine Versionen - es ist unwahrscheinlich, dass diese h\u00e4ufig ge\u00e4ndert werden)"
+        },
+        "cff941a9aa13dfcab50294eeaa022925": {
+            "text": "Header akzeptieren (Inhaltstypen, die der Browser des Benutzers akzeptiert)"
+        },
+        "00a49b9092610102db06e4608e243215": {
+            "text": "Server-Hostname (Wert von $config->httpHost)"
+        },
+        "06ed01dbecaff9408ecd32c52b79017a": {
+            "text": "IP-Adresse des Benutzers (REMOTE_ADDR)"
+        },
+        "3add8b73a114f103016f69709c744c6b": {
+            "text": "Die weitergeleitete oder Client-IP-Adresse des Benutzers (HTTP_X_FORWARDED_FOR oder HTTP_CLIENT_IP)"
+        },
+        "4b5d3e81071a18d907f2cb045c473d68": {
+            "text": "Erlauben Sie dem Benutzer nicht, die Codeeingabe zu \u00fcberspringen, wenn sich eine dieser Eigenschaften \u00e4ndert"
+        },
+        "ef162e74cf4f410e781d7527ff762b2d": {
+            "text": "\u00c4nderungen des Passworts, des Namens, der E-Mail oder eines zuf\u00e4lligen Cookies im Browser des Benutzers erfordern immer die Eingabe eines Codes bei der Anmeldung."
+        },
+        "93e378bb66b2ea325b7f8af83f060341": {
+            "text": "Dar\u00fcber hinaus erfordern \u00c4nderungen an allen unten angekreuzten Punkten auch die Eingabe eines Codes bei der Anmeldung."
+        },
+        "5b83708cddebc0c2b79a0aa6a9fe3b41": {
+            "text": "Diese Eigenschaften bilden einen Fingerabdruck des Browsers des Benutzers \u00fcber das von uns gesetzte Zufallscookie hinaus."
+        },
+        "f4ccf290dcc14df62d1579062d98f413": {
+            "text": "Diese Einstellung gilt nur, wenn die Option zum Merken des Browsers\/Standortes aktiviert ist."
+        },
+        "987180bcb4c386f67e0922affbf79d0b": {
+            "text": "Anmeldung"
+        },
+        "c672dab899263b4175d85bfc8cb7e101": {
+            "text": "Aktuelles Anfrage-Schema, ob HTTP oder HTTPS"
         }
     }
 }

@@ -13,6 +13,9 @@
         },
         "4cc6684df7b4a92b1dec6fce3264fac8": {
             "text": "="
+        },
+        "5afefa68ee72cf2f670f570a15a81106": {
+            "text": "Wert f\u00fcr Feld \"%2$s\" nicht erlaubt, weil er bereits verwendet wird"
         }
     }
 }
