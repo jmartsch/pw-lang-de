@@ -330,7 +330,7 @@
             "text": "Falls Ihre Site ein SSL-Zertifikat besitzt und \u00fcber HTTPS erreichbar ist, k\u00f6nnen Sie einstellen, dass Seiten, die dieses Template nutzen, nur per HTTPS oder HTTP abrufbar sind. Falls Sie unten zum Beispiel 'Nur HTTPS' ausw\u00e4hlen und eine Anfrage f\u00fcr eine Seite per HTTP erfolgt, wird sie automatisch auf die HTTPS-Version umgeleitet. Standard ist, dass ProcessWire Verbindungen \u00fcber HTTP oder HTTPS zul\u00e4sst."
         },
         "707380d7bcc2ece9eead5a5879fb1c22": {
-            "text": "M\u00f6chten Sie die Berechtigung verwalten, Seiten, die dieses Template verwenden, zu betrachten und zu bearbeiten?"
+            "text": "M\u00f6chten Sie auf Seiten welche dieses Template benutzen, die Berechtigung zum betrachten und bearbeiten verwalten?"
         },
         "22ac5f69365966a7ce509e349b23539a": {
             "text": "Falls Sie 'Ja' ausw\u00e4hlen, k\u00f6nnen Sie festlegen, welche Benutzerrollen Zugriff auf Seiten haben, die dieses Template verwenden. Falls Sie 'Nein' ausw\u00e4hlen, erben Seiten, die dieses Template verwenden, die Zugriffsrechte Ihrer Elternseiten."
