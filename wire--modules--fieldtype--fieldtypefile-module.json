@@ -108,10 +108,10 @@
             "text": "Eingabe von Tags getrennt durch Leerzeichen. Tags k\u00f6nnen Buchstaben, Zahlen, Unterstriche oder Bindestriche enthalten."
         },
         "d51491292f62e94821f0fb6802cc1849": {
-            "text": "Zugelassene Fieldtype-Module f\u00fcr benutzerdefinierte Felder"
+            "text": "Erlaubte Feldtyp-Module f\u00fcr benutzerdefinierte Felder"
         },
         "100061c6a3b1c84e1a3617988f77bd88": {
-            "text": "Durchgestrichene Arten sind wahrscheinlich nicht zu 100% kompatibel."
+            "text": "Typen die durchgestrichen sind, sind wahrscheinlich nicht zu 100% kompatibel."
         }
     }
 }

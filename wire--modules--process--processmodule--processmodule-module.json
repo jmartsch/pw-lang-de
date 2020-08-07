@@ -107,9 +107,6 @@
         "03c2e7e41ffc181a4e84080b4710e81e": {
             "text": "Neu"
         },
-        "3b0798392299a74418470d3f13b5eec2": {
-            "text": "Das Modul Verzeichnis befindet sich unter [modules.processwire.com](http:\/\/modules.processwire.com)"
-        },
         "5975f55a2bcd254c58d9fe16d7a21417": {
             "text": "Falls Sie neue Module unter \/site\/modules\/ abgelegt haben, klicken sie diesen Button um sie zu finden."
         },
@@ -418,6 +415,27 @@
         },
         "a2eff7125bf22d0665eb96166b471821": {
             "text": "Geben Sie den Klassennamen f\u00fcr das zu installierende Modul ein oder f\u00fcgen Sie ihn ein und klicken Sie dann auf die Schaltfl\u00e4che \"%s\", um fortzufahren."
+        },
+        "9508427b7e6579d141f8c3b79dae6d96": {
+            "text": "Modul manuell hinzuf\u00fcgen"
+        },
+        "5e836e5f23db2e182bbf94e2c151afd7": {
+            "text": "Das Modulverzeichnis befindet sich unter %s"
+        },
+        "dc54208b35a531502358bc307e9366ed": {
+            "text": "Modulname"
+        },
+        "35d7f630296905e9a75b2419e1b94182": {
+            "text": "1. Kopieren Sie die Dateien eines Moduls in ein neues Verzeichnis %s auf dem Server."
+        },
+        "f7cc8104813457b0243bd76df9c6a3e6": {
+            "text": "2. Klicken Sie auf die Schaltfl\u00e4che \"%s\" unten, um das neue Modul zu finden."
+        },
+        "850f7ec6c49d2fb734785a8f52ad4a0e": {
+            "text": "3. Suchen Sie das neue Modul und klicken Sie auf die Schaltfl\u00e4che \"%s\" neben dem neuen Modul."
+        },
+        "aad2eb78d1969fc8b53488a5f5a054ba": {
+            "text": "Ersetzen Sie \"%s\" durch den tats\u00e4chlichen Modulnamen, der in der Regel der PHP-Klassenname ist."
         },
         "fb61fc284cf893013b55de02da9c9948": {
             "text": "Modul: %s"

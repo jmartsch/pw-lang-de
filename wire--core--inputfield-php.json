@@ -76,6 +76,12 @@
         },
         "b26d2db211d5748ab5ca3f2b5124e63a": {
             "text": "Spaltenbreite (%d%%)"
+        },
+        "4049392fac457a50d9eb641c5873f41e": {
+            "text": "Soll auch das HTML5 \"erforderlich\" Attribut verwendet werden?"
+        },
+        "e20047e93328484a90fd0cf82642d0ff": {
+            "text": "Nur f\u00fcr Felder verwenden, die f\u00fcr den Benutzer immer sichtbar sind."
         }
     }
 }

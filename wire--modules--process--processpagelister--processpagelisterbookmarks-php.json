@@ -47,11 +47,11 @@
         "7f4b49b68a661359eaa86b12fd09cdce": {
             "text": "\u00d6ffentliche Lesezeichen"
         },
+        "639bae9ac6b3e1a84cebb7b403297b79": {
+            "text": "Sie"
+        },
         "4195dd0db33f6f97904fd72fa4386de9": {
             "text": "Bitte markieren Sie das K\u00e4stchen, um zu best\u00e4tigen, dass Sie dieses Lesezeichen l\u00f6schen m\u00f6chten."
-        },
-        "ea4788705e6873b424c65e91c2846b19": {
-            "text": "+"
         },
         "d448b4319171ecbd0c92be8ddbff245b": {
             "text": "Lesezeichen-Typ"
@@ -69,37 +69,25 @@
             "text": "Wenn Sie die Lesezeichen-URL an eine andere Person senden, die bereits beim Admin angemeldet ist, kann diese Person das Lesezeichen sehen, wenn Sie dieses K\u00e4stchen ankreuzen."
         },
         "aea2613b569e126e1bf04794045d9214": {
-            "text": "Teilbare Lesezeichen-URL:"
+            "text": "Freigabe-Lesezeichen-URL: Anzeigen"
         },
         "a240fa27925a635b08dc28c9e4f9216d": {
             "text": "Reihenfolge"
         },
         "6756b991b141463aebfaa74809adb83c": {
-            "text": "Gel\u00f6schtes Lesezeichen"
+            "text": "Lesezeichen gel\u00f6scht"
         },
         "4192fc415b996e703cd7368de70024b2": {
             "text": "Lesezeichen ist nicht l\u00f6schbar"
-        },
-        "611554e91bd3fc300cb89db36b831c82": {
-            "text": "+"
         },
         "5a8bc98a8e1cbe7e4aa65ef02ca4626e": {
             "text": "Aktionen"
         },
         "3964c1856a3770efc8de99fb7d71854f": {
-            "text": "anzeigen"
+            "text": "Anzeigen"
         },
         "2403884dadada347eaf8537a2dc0e572": {
-            "text": "bearbeiten"
-        },
-        "2ae0c04d53921492ca01d03f4913b75b": {
-            "text": "+"
-        },
-        "997a44675b11fac14a95280eda5557f5": {
-            "text": "+"
-        },
-        "639bae9ac6b3e1a84cebb7b403297b79": {
-            "text": "Sie"
+            "text": "Bearbeiten"
         }
     }
 }

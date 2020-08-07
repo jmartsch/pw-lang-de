@@ -41,9 +41,6 @@
         "21b1483780050057a84adbf35ec57c05": {
             "text": "Hochladen kann nicht abgeschlossen werden"
         },
-        "c8e5b4f1bb72c62949a522f6925e80c8": {
-            "text": "Herunterladen kann nicht abgeschlossen werden"
-        },
         "a4e29333ef852fef776eecdb5b3ac6a1": {
             "text": "Ung\u00fcltige Download-URL festgelegt"
         },
@@ -52,6 +49,27 @@
         },
         "04abd66e622f247f079329fcbc51b97c": {
             "text": "Bitte beachten: %s war ein symbolischer Link und wurde in ein regul\u00e4res Verzeichnis umgewandelt"
+        },
+        "38933d5ecc7b9e5ac7859a9b6a1de7eb": {
+            "text": "Modul-Installationsoption \"%s\"."
+        },
+        "5fcb2e65954f268db4a5e500f8187817": {
+            "text": "immer zu erm\u00f6glichen"
+        },
+        "5e13c331fbe3baf04626f93b56d7fb30": {
+            "text": "vorl\u00e4ufig"
+        },
+        "a1af683d99a3a6a621a2c27ec9e468fb": {
+            "text": "nur im Debug-Modus zu aktivieren"
+        },
+        "060aa54c407428fd1b33c89d00abb0db": {
+            "text": "Zum Aktivieren bearbeiten Sie die Datei %1$s und geben Sie an: %2$s ...oder... %3$s"
+        },
+        "7c67236ffb79ce4bb59a4ec3b5a3de0e": {
+            "text": "Diese Installationsoption ist so konfiguriert, dass sie nur im Debug-Modus verf\u00fcgbar ist."
+        },
+        "3d32978a99cfd1c17aa9effcace86b1c": {
+            "text": "Diese Installationsoption ist derzeit deaktiviert."
         }
     }
 }

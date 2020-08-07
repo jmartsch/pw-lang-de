@@ -11,24 +11,6 @@
         "ddc1a98a2c8309eab3292b5fda7e0506": {
             "text": "Falls Sie unsicher sind, was Sie hier verwenden sollen, behalten Sie den Standardwert bei: *="
         },
-        "6774b148e1f242760726e4c88d08931a": {
-            "text": "Enth\u00e4lt eine Phrase oder einen Wortteil (benutzt den Volltext-Index) - empfohlen"
-        },
-        "10723caf0a8012a762b741f821060ea9": {
-            "text": "Enth\u00e4lt eine Phrase oder einen Wortteil (benutzt LIKE)"
-        },
-        "5aebeca1891bcef0142167dda686b4a7": {
-            "text": "Enth\u00e4lt alle (vollst\u00e4ndigen) W\u00f6rter in beliebiger Reihenfolge"
-        },
-        "0626526d691a7bf48a099a2330fde59f": {
-            "text": "Beginn mit Wort\/Phrase"
-        },
-        "a606a68c3a2a799b75998b7be8d48aea": {
-            "text": "Endet mit Wort\/Phrase"
-        },
-        "0a06fd6fea29497256d43910fde22cd3": {
-            "text": "Entspricht [exakt]"
-        },
         "b956d301c10771357a356a80d9f0d3a5": {
             "text": "Felder, die f\u00fcr Autocomplete abgefragt werden"
         },
@@ -43,9 +25,6 @@
         },
         "f2f3cd9d4e91a577333b66f5818b9d3b": {
             "text": "Mehrfach-Seitenauswahl mit Autovervollst\u00e4ndigung und Sortierbarkeit. Vorgesehen als Eingabefeld f\u00fcr Page reference-Felder."
-        },
-        "654866693fd91ce8e9764a218f569918": {
-            "text": "Empfohlen"
         },
         "8d217dc9693abc1d1094fbc2c06a5605": {
             "text": "Neues Element:"
