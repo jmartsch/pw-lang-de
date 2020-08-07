@@ -1,0 +1,9 @@
+{
+    "file": "wire\/core\/ProcessWire.php",
+    "textdomain": "wire--core--processwire-php",
+    "translations": {
+        "1cb251ec0d568de6a929b520c4aed8d1": {
+            "text": "Text"
+        }
+    }
+}

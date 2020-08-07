@@ -1,0 +1,42 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeToggle.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetoggle-module",
+    "translations": {
+        "261e3b04ea1f3b5603314ddcc479e0cc": {
+            "text": "Wie soll der formatierte Wert Ihres Umschaltfeldes aussehen?"
+        },
+        "6309837e6ce0a3f0fa946345c7167eb3": {
+            "text": "W\u00e4hlen Sie den von %s zur\u00fcckgegebenen formatierten Wert."
+        },
+        "be626e72635b0ea8fbdafa5d3028fcb4": {
+            "text": "Bitte beachten Sie auch den Reiter \"Eingabe\" f\u00fcr alle anderen Umschaltfeld-Einstellungen."
+        },
+        "f94e479441f41c15b899438240ca67d1": {
+            "text": "F\u00fcr alle oben genannten F\u00e4lle wird die Nichtauswahl immer durch eine leere Zeichenfolge dargestellt."
+        },
+        "fa3b8249dcb2b9a523c69ba62614753f": {
+            "text": "Wenn eine 3.\/andere Option aktiviert ist, wird sie durch die Ganzzahl 2 dargestellt."
+        },
+        "5e17d8d5bf6e642f015706c44be5b32c": {
+            "text": "Wenn die Ausgabeformatierung einer Seite ausgeschaltet ist, ist der Wert immer ganzzahlig 0, 1, 2 (f\u00fcr Nein, Ja, Andere) oder eine leere Zeichenfolge, wenn keine Auswahl getroffen wurde."
+        },
+        "3826ef10fef22663ed856d6a34ae4991": {
+            "text": "Ganzzahl: 0=nein, 1=ja (gleichbedeutend mit keiner Formatierung)."
+        },
+        "e4233a81c5260370b0c97ab1ee5364ba": {
+            "text": "Boolisch: Wahr oder falsch f\u00fcr Ja\/Nein-Zust\u00e4nde."
+        },
+        "53559d654a38f34b067b188cde584853": {
+            "text": "String: Verwenden Sie Textbeschriftungen, die mit den \"Eingabe\"-Einstellungen konfiguriert sind."
+        },
+        "047f245cdf987a38461e1a12559ff71a": {
+            "text": "Entit\u00e4ten: Wie oben (String), aber f\u00fcr die HTML-Ausgabe kodierte Entit\u00e4t."
+        },
+        "87947648d1451650784ef832cbdc0983": {
+            "text": "Umschalter (Ja\/Nein)"
+        },
+        "ed4f448d518712aadb3a62be1b48236e": {
+            "text": "Konfigurierbares Ja\/Nein, Ein-\/Ausschalten als Alternative zu einem Kontrollk\u00e4stchen, plus optionale \"andere\" Option."
+        }
+    }
+}
