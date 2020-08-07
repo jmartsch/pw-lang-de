@@ -347,12 +347,6 @@
         "1adb25e12d2b0d06683c3dc04e833631": {
             "text": "Login-Seite anzeigen: %s"
         },
-        "225237dc381e612f4bbf08dd75efdb71": {
-            "text": "Auf eine andere URL umleiten"
-        },
-        "b12715241d6f9d36629e189651930f08": {
-            "text": "Dieses Feld ist nur relevant, falls Sie oben \"Auf eine andere URL umleiten\" gew\u00e4hlt haben."
-        },
         "2f2055affca16d8404e278fc1d6c3a07": {
             "text": "Optional: Bei Bedarf k\u00f6nnen Sie Ihrer URL das Tag '{id}' (vielleicht als GET-Variable) hinzuf\u00fcgen. Es wird durch die ID der angeforderten Seite ersetzt."
         },
@@ -773,9 +767,6 @@
         "4a49f761ce504d9c073de20eba6ca069": {
             "text": "Optional das Label f\u00fcr die Eigenschaft vom \"Name\" (Standard) \u00fcberschreiben."
         },
-        "57f844c4a5ccb54207fa22705e7729a3": {
-            "text": "Geben Sie die URL oder Seiten-ID an, auf die umgeleitet werden soll, falls ein Benutzer keine Zugriffsrechte hat."
-        },
         "13138fdee141d39a065f3fe82c0e0676": {
             "text": "Label f\u00fcr Eigenschaft des Seitenname"
         },
@@ -979,6 +970,30 @@
         },
         "f31f5e50313e32f1b8a1d38913e26023": {
             "text": "$d Felder"
+        },
+        "8ad0889e260991fdddd4730a35287dad": {
+            "text": "Klicken und ziehen, um die Feldbreite anzupassen"
+        },
+        "710392d799626a77535d30648716ddd3": {
+            "text": "Vorlage speichern, bevor die Breite des neuen Feldes angepasst wird"
+        },
+        "491b2e7db94dabf054ee83c101755e87": {
+            "text": "Umleitung auf eine andere URL oder Rendern einer Seite nach ID"
+        },
+        "9f461848426762d3cf5e46a83b9f2657": {
+            "text": "Login-URL oder Seiten-ID zum Rendern umleiten"
+        },
+        "ba5068f94547142a71a790f6dedc9a77": {
+            "text": "Geben Sie die URL ein, zu der Sie umleiten m\u00f6chten ODER die Seiten-ID, die Sie rendern m\u00f6chten, wenn ein Benutzer keinen Zugriff hat."
+        },
+        "9f0e0bbab28d57fef318155ea51c6d68": {
+            "text": "Wenn Sie eine Seiten-ID angeben, beachten Sie bitte, dass die resultierende Seite f\u00fcr den Benutzer gerendert wird, unabh\u00e4ngig davon, ob er Ansichtsrechte hat oder nicht."
+        },
+        "1fa93855c234c32d0a9451ce1ef4fa6c": {
+            "text": "Dies ist n\u00fctzlich in F\u00e4llen, in denen Ihre Anmeldeseite selbst m\u00f6glicherweise zugriffsgesch\u00fctzt ist."
+        },
+        "793e0cc1771feadd7a91c0031e7ad663": {
+            "text": "Diese Einstellung ist nur anwendbar, wenn Sie im obigen Feld die Option \"C\" gew\u00e4hlt haben."
         }
     }
 }

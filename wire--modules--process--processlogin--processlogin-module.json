@@ -8,14 +8,8 @@
         "a0bfb8e59e6c13fc8d990781f77694fe": {
             "text": "Fortsetzen"
         },
-        "847549ae30061a6767a4b17c6fb4f53c": {
-            "text": "Erfolgreich eingeloggt"
-        },
         "48649d8c2d04aa439d10bc45eaba8f75": {
             "text": "Login fehlgeschlagen"
-        },
-        "646d9e77201093e05380ead006df9975": {
-            "text": "Sicherheitswarnung: %s existiert und sollte so schnell wie m\u00f6glich gel\u00f6scht werden."
         },
         "f6039d44b29456b20f8f373155ae4973": {
             "text": "Benutzername"
@@ -31,21 +25,6 @@
         },
         "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
             "text": "Sie haben sich ausgeloggt"
-        },
-        "d837cc5a72556c5e2abf4b9fe10ddef8": {
-            "text": "Login"
-        },
-        "4c429484c06b2d2901b3a582f300af56": {
-            "text": "Achtung, in Ihrer \/site\/config.php sind Dateiberechtigungen definiert, welche f\u00fcr viele Umgebungen zu locker sind:"
-        },
-        "00796cc045b871fe7b2867edef6aaaf7": {
-            "text": "Um diese Warnung zu unterdr\u00fccken, setzen Sie in ihrer \/site\/config.php Datei die Einstellung $config->chmodWarn = false;"
-        },
-        "748befe7a5d432caba8b6cadc4076e92": {
-            "text": "Lesen Sie \"Absichern von Dateiberechtigungen\" f\u00fcr weitere Details"
-        },
-        "d5877d284caca4c9b4d55adb8e6e758c": {
-            "text": "Zum Beispiel k\u00f6nnte die Gebietsschema-Einstellung f\u00fcr US-Englisch sein: %s"
         },
         "1860fb17b107cbb39cf6bbfa61130803": {
             "text": "Profil bearbeiten"
@@ -68,17 +47,101 @@
         "aef111cc10b28b4cf297865dbc1253bb": {
             "text": "Tfa-Module im ProcessWire-Modulverzeichnis"
         },
-        "60d0f1128804dfd5fa013c3d02c67012": {
-            "text": "Ihre aktuelle Gebietsschema-Einstellung ist \"%s\"."
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "E-Mail"
         },
-        "9cdeee8e8a463c558dc372434cc5dbb1": {
-            "text": "Hinweis: Ihre aktuelle Gebietsschema-Einstellung (locale) funktioniert nicht wie erwartet mit dem UTF-8 Zeichensatz und kann kleinere Probleme verursachen."
+        "7b27f5e583e36dc50e5648f38c65ac55": {
+            "text": "Die Anmeldung wird f\u00fcr diese E-Mail-Adresse nicht unterst\u00fctzt."
         },
-        "f8239d6a9013fae244731a805aa50b09": {
-            "text": "Bitte \u00fcbersetzen Sie die \"C\" Gebietsschema-Einstellung (locale) f\u00fcr jede Sprache in das richtige Gebietsschema (locale) in %s"
+        "355f835c4f5fd628f83983152533363c": {
+            "text": "Cookie-Pr\u00fcfung fehlgeschlagen: Bitte aktivieren Sie Cookies f\u00fcr die Anmeldung."
         },
-        "7ca79a1980d88028a56fcee7c711685e": {
-            "text": "Bitte f\u00fcgt dies zu Ihrer %1$s Datei hinzu (passen Sie \"%2$s\" bei Bedarf an):"
+        "d03d931ed70198dc13af35410030754c": {
+            "text": "Javascript-Pr\u00fcfung fehlgeschlagen: Bitte aktivieren Sie Javascript, um sich anzumelden."
+        },
+        "fbda2a5cde5a86fc243eb050230f25a6": {
+            "text": "Ung\u00fcltiger Login-Name"
+        },
+        "1c315fe64c02f0dc4a605373f68d911b": {
+            "text": "Benutzername oder E-Mail"
+        },
+        "9b74fc37d2e8f56c60b51adb9cfc4b4b": {
+            "text": "\u00dcberspringen von Systempr\u00fcfungen nach dem Einloggen, weil Aktualisierungen vorgenommen wurden (%s)"
+        },
+        "a1413ed049a4bed0e649c409b4462b49": {
+            "text": "Art der Anmeldung"
+        },
+        "987dce661afca3372aa3e05702fb1d06": {
+            "text": "Benutzername"
+        },
+        "b357b524e740bc85b9790a0712d84a30": {
+            "text": "E-Mail-Adresse"
+        },
+        "9e70a5d3dab1960c04b55a29f310331e": {
+            "text": "Entweder , oder"
+        },
+        "d619a734f94b65d5137233c7d9a8fe69": {
+            "text": "Um die E-Mail-Anmeldung zu verwenden, m\u00fcssen Sie die \"eindeutig\" Einstellung f\u00fcr Ihr E-Mail-Feld aktivieren."
+        },
+        "ef8f23f26034e25bcf827a963aa8c8b7": {
+            "text": "(zum Konfigurieren anklicken)"
+        },
+        "cd718f93e76d48331ff1f6c8a86226a2": {
+            "text": "Zwei-Faktor-Authentifizierung erzwingen"
+        },
+        "23baebcb2653b738b5e1eb8a93e3ee28": {
+            "text": "Wenn hier ein Tfa-Modul ausgew\u00e4hlt wird, wird es automatisch (bei der Anmeldung) f\u00fcr Benutzer aktiviert, die keine Zwei-Faktor-Authentifizierung verwenden."
+        },
+        "2af7712565017bd05b828e1a625c7375": {
+            "text": "\u00dcberpr\u00fcfen Sie die Rollen, um eine Zwei-Faktor-Authentifizierung zu erzwingen, oder lassen Sie alles ungepr\u00fcft, um eine Zwei-Faktor-Authentifizierung f\u00fcr ALLE Rollen zu erzwingen (wenn\/wo m\u00f6glich)."
+        },
+        "b88a66937b3f8fa44719aa2d7b5ea94d": {
+            "text": "Erlauben Sie Benutzern die Option, die Code-Eingabe zu \u00fcberspringen, wenn ihr Browser\/Standort gespeichert ist?"
+        },
+        "d6340b7e300601dbe176deca28d5e216": {
+            "text": "Dadurch wird den Benutzern bei der Anmeldung auf der Codeeingabeseite die Option \"An diesen Computer erinnern\" angezeigt."
+        },
+        "275269a543b575d0897e5a56d291cbf1": {
+            "text": "Geben Sie die Anzahl der Tage ein, f\u00fcr die der Browser\/Standort eines Benutzers gespeichert werden kann, oder 0, um ihn zu deaktivieren."
+        },
+        "37eb4d02a9ee33ced10a5ad495bc7ad8": {
+            "text": "Benutzer-Agent (Browser, Plattform und deren Versionen)"
+        },
+        "6b7e493b999bf8d0c92bdc3b29024968": {
+            "text": "Nicht versionierter User-Agent (Browser und Plattform, aber keine Versionen - es ist unwahrscheinlich, dass diese h\u00e4ufig ge\u00e4ndert werden)"
+        },
+        "cff941a9aa13dfcab50294eeaa022925": {
+            "text": "Kopfzeile akzeptieren (Inhaltstypen, die der Browser des Benutzers akzeptiert)"
+        },
+        "c672dab899263b4175d85bfc8cb7e101": {
+            "text": "Aktuelles Anfrage-Schema, ob HTTP oder HTTPS"
+        },
+        "00a49b9092610102db06e4608e243215": {
+            "text": "Server-Hostname (Wert von $config->httpHost)"
+        },
+        "06ed01dbecaff9408ecd32c52b79017a": {
+            "text": "IP-Adresse des Benutzers (REMOTE_ADDR)"
+        },
+        "3add8b73a114f103016f69709c744c6b": {
+            "text": "Die weitergeleitete oder Client-IP-Adresse des Benutzers (HTTP_X_FORWARDED_FOR oder HTTP_CLIENT_IP)"
+        },
+        "4b5d3e81071a18d907f2cb045c473d68": {
+            "text": "Erlauben Sie dem Benutzer nicht, die Codeeingabe zu \u00fcberspringen, wenn sich eine dieser Eigenschaften \u00e4ndert"
+        },
+        "ef162e74cf4f410e781d7527ff762b2d": {
+            "text": "\u00c4nderungen des Passworts, des Namens, der E-Mail oder eines zuf\u00e4lligen Cookies im Browser des Benutzers erfordern immer die Eingabe eines Codes bei der Anmeldung."
+        },
+        "93e378bb66b2ea325b7f8af83f060341": {
+            "text": "Dar\u00fcber hinaus erfordern \u00c4nderungen an allen unten angekreuzten Punkten auch die Eingabe eines Codes bei der Anmeldung."
+        },
+        "5b83708cddebc0c2b79a0aa6a9fe3b41": {
+            "text": "Diese Eigenschaften bilden einen Fingerabdruck des Browsers des Benutzers \u00fcber das von uns gesetzte Zufallscookie hinaus."
+        },
+        "f4ccf290dcc14df62d1579062d98f413": {
+            "text": "Diese Einstellung gilt nur, wenn die Option zum Merken des Browsers\/Standortes aktiviert ist."
+        },
+        "eb85010d3dccc246aa17a0a4671be4a4": {
+            "text": "Rollen"
         }
     }
 }

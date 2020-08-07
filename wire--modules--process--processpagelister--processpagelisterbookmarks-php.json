@@ -2,9 +2,6 @@
     "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageListerBookmarks.php",
     "textdomain": "wire--modules--process--processpagelister--processpagelisterbookmarks-php",
     "translations": {
-        "369edfa695c186fc693c7cdfea26b6d2": {
-            "text": "Hinweis f\u00fcr Superuser: andere Benutzer k\u00f6nnen Lesezeichen sehen und anklicken, aber nicht hinzuf\u00fcgen oder bearbeiten."
-        },
         "1dd63dcbc0f27a97c60433bff0936901": {
             "text": "Lesezeichen bearbeiten"
         },
@@ -17,17 +14,8 @@
         "644a574fca8608c6447c23ba5c9fb907": {
             "text": "Welche Benutzerrollen werden dieses Lesezeichen sehen? Falls keine Benutzerrolle ausgew\u00e4hlt ist, k\u00f6nnen alle Rollen, mit Berechtigung f\u00fcr die Benutzung dieser Liste, das Lesezeichen sehen."
         },
-        "b527a6bf9b3ed589e44e5a4dc8cc40d4": {
-            "text": "Sortierreihenfolge der Lesezeichen"
-        },
         "bfa974ff994bf6af816d695d88659fda": {
             "text": "Dieses Lesezeichen l\u00f6schen?"
-        },
-        "33d64e5e020fcfcd6bf5b5edc3634211": {
-            "text": "Lesezeichen gel\u00f6scht: %s"
-        },
-        "d04ee192f5a72f20e89abe7acb7225f3": {
-            "text": "Lesezeichen gespeichert: %s"
         },
         "84233339a29fc410e77ac95e377b0318": {
             "text": "Lesezeichen"
@@ -35,23 +23,11 @@
         "bdb19863504282bccbd04237092c8ecb": {
             "text": "Lesezeichen"
         },
-        "25f8473f61fb614f277d48e8bf5be8d2": {
-            "text": "Selektor"
-        },
-        "cd765bc6c6872048db5bb4cb9181392f": {
-            "text": "Spalten"
-        },
         "0a88328254c6d3104aaf5aa1416e5493": {
             "text": "Zugriff"
         },
-        "16f46652aa3bae21e3e051daba507193": {
-            "text": "Aktion"
-        },
         "97d0cf512abc18c75dc4200fb4102696": {
             "text": "alle"
-        },
-        "fbfa318e948c32434209e9dec12f5342": {
-            "text": "Bearbeiten"
         },
         "624cb003e73151369680ecae1fe53f47": {
             "text": "Titel"
@@ -65,8 +41,53 @@
         "a68194569adc7b00a73840fceb912c24": {
             "text": "Zugriff"
         },
-        "5979876e287f07dc59597ec2139675c2": {
-            "text": "L\u00f6schen"
+        "7cdd12aae1c258859c039c4d544338ef": {
+            "text": "Meine Lesezeichen"
+        },
+        "7f4b49b68a661359eaa86b12fd09cdce": {
+            "text": "\u00d6ffentliche Lesezeichen"
+        },
+        "639bae9ac6b3e1a84cebb7b403297b79": {
+            "text": "Sie"
+        },
+        "4195dd0db33f6f97904fd72fa4386de9": {
+            "text": "Bitte markieren Sie das K\u00e4stchen, um zu best\u00e4tigen, dass Sie dieses Lesezeichen l\u00f6schen m\u00f6chten."
+        },
+        "d448b4319171ecbd0c92be8ddbff245b": {
+            "text": "Lesezeichen-Typ"
+        },
+        "47f9082fc380ca62d531096aa1d110f1": {
+            "text": "Privat"
+        },
+        "3d067bedfe2f4677470dd6ccf64d05ed": {
+            "text": "\u00d6ffentlich"
+        },
+        "c8a5544122c29a7c5ad0d117b19851d6": {
+            "text": "Anderen Benutzern den Zugriff auf diese Lesezeichen-URL gestatten?"
+        },
+        "c3cb8a8cca3fc5a906f5c4aa252a856a": {
+            "text": "Wenn Sie die Lesezeichen-URL an eine andere Person senden, die bereits beim Admin angemeldet ist, kann diese Person das Lesezeichen sehen, wenn Sie dieses K\u00e4stchen ankreuzen."
+        },
+        "aea2613b569e126e1bf04794045d9214": {
+            "text": "Freigabe-Lesezeichen-URL: Anzeigen"
+        },
+        "a240fa27925a635b08dc28c9e4f9216d": {
+            "text": "Reihenfolge"
+        },
+        "6756b991b141463aebfaa74809adb83c": {
+            "text": "Lesezeichen gel\u00f6scht"
+        },
+        "4192fc415b996e703cd7368de70024b2": {
+            "text": "Lesezeichen ist nicht l\u00f6schbar"
+        },
+        "5a8bc98a8e1cbe7e4aa65ef02ca4626e": {
+            "text": "Aktionen"
+        },
+        "3964c1856a3770efc8de99fb7d71854f": {
+            "text": "Anzeigen"
+        },
+        "2403884dadada347eaf8537a2dc0e572": {
+            "text": "Bearbeiten"
         }
     }
 }

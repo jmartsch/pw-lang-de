@@ -419,12 +419,6 @@
         "a360c947f7ea8bd51220987c073edf15": {
             "text": "Einstellung"
         },
-        "f4aa6607ad257caa74e12b30eab4b8c6": {
-            "text": "\u00dcberschrieben"
-        },
-        "0255524701bd52455b1ae33bf39818ff": {
-            "text": "Einstellung entfernen"
-        },
         "799ef6a367b3b36deb5be25ef8e7c91a": {
             "text": "Zugriff"
         },
@@ -473,15 +467,6 @@
         "62d09c342e50351059153e99a2fdbb47": {
             "text": "Zum bearbeiten einer \u00dcberschreib-Einstellung oder \u00fcberschreiben anderer Einstellungen, ein Template bearbeiten und in der Feld-Liste den Feld-Namen anklicken."
         },
-        "2452cab12330c0a3ce62f7974eb82ba6": {
-            "text": "Entfernt \u00dcberschreibungen im Kontext"
-        },
-        "7ce33a363647f83aa612fc538dcb8214": {
-            "text": "Die folgenden Einstellungen \u00fcberschreiben die originalen Einstellungen des Feldes wenn dieses Feld im Kontext zum \"%s\" Template verwendet wird."
-        },
-        "b5781496c3e514537473d4edd038152a": {
-            "text": "Um beliebige \u00fcberschriebene Werte zu entfernen (und den originalen Feld-Wert wieder herzustellen) markieren Sie die Box rechts neben jeder Einstellung, welche entfernt\/wieder hergestellt werden soll."
-        },
         "a60852f204ed8028c1c58808b746d115": {
             "text": "="
         },
@@ -501,9 +486,6 @@
             "text": "="
         },
         "f1cb39a9250fe6002851375559d8bd85": {
-            "text": "="
-        },
-        "7f8ceb624f94b152f89f7bfd06a2dff2": {
             "text": "="
         },
         "47ee982b17f699a3dffff43c76df78ec": {
@@ -539,14 +521,8 @@
         "760b4bbc37693597edf00f9eeda38cd0": {
             "text": "Derzeit werden keine Einstellungen vom Template \u00fcberschrieben."
         },
-        "89fa758424367d5caeb355f904d5bfc1": {
-            "text": "Erlaubte \u00dcberschreibungen"
-        },
         "7710897a6218283716118180cd494f1e": {
             "text": "\u00dcberpr\u00fcfte Einstellungen werden als Konfigurationsoptionen angezeigt, wenn Sie dieses Feld im Kontext eines bestimmten Templates bearbeiten."
-        },
-        "c4d3fb0af8e800de549531cccd8a19f8": {
-            "text": "Achtung: Das Ausf\u00fchren von Einstellungen, die \u00fcber die vom Autor des Moduls angegebenen Werte hinausgehen, funktioniert m\u00f6glicherweise nicht immer oder kann zu Problemen f\u00fchren."
         },
         "2babe53026309ed1bc4d26626dbaf9b3": {
             "text": "="
@@ -613,6 +589,36 @@
         },
         "1bd8f22fdbf8e9e0ca28f3f1e276b085": {
             "text": "Stichwort: %s"
+        },
+        "aa4c25b56e75fc2bb56256932d820a04": {
+            "text": "bei Verwendung mit dem Template \"%1$s\" im Kontext \"%2$s\""
+        },
+        "f08b82b9bcde7ff240df5ed0057e7b08": {
+            "text": "Um einzustellen, welche Einstellungen f\u00fcr \u00dcberschreibungen erlaubt sind, siehe das Feld unten."
+        },
+        "ecd6ac32b4369912ca3321c1dd169dc9": {
+            "text": "Einstellungen, die von der Vorlage \u00fcberschrieben werden d\u00fcrfen"
+        },
+        "089ff074f0a08e950aae098cce20eff4": {
+            "text": "**WARNUNG:** Aktivieren von Einstellungen, die \u00fcber die durch das Modul Feldtyp\/Eingabefeld angegebenen Einstellungen hinausgehen, funktionieren m\u00f6glicherweise nicht immer oder k\u00f6nnen Probleme verursachen."
+        },
+        "8b55debf249cfc13cc6dc6791ee5d69f": {
+            "text": "Daher empfehlen wir, alle \u00c4nderungen an diesen Einstellungen zun\u00e4chst in einer Nicht-Produktions-(Entwicklungs-)Umgebung zu testen."
+        },
+        "a28cb5dda04811b1ee1749f8b7a5b51d": {
+            "text": "Bitte beachten Sie:"
+        },
+        "cb69676cc6783d1f5bf44dc1680f6e2a": {
+            "text": "Fettgedruckte Einstellungen sind solche, die das Modul Feldtyp\/Eingabefeld als immer zur \u00dcberschreibung erlaubt gekennzeichnet hat."
+        },
+        "efd28a1fcd7d855ff111e2f110ae0b20": {
+            "text": "Andere Einstellungen k\u00f6nnen f\u00fcr Kontext\u00fcberschreibungen funktionieren oder auch nicht."
+        },
+        "da23f7900566628f7658f3a693d6bfda": {
+            "text": "Sie sollten alle Einstellungen deaktivieren, die nicht funktionieren oder anderweitig Probleme verursachen."
+        },
+        "e036648db74b48abc2b6af1d56d4596c": {
+            "text": "\u00c4nderungen"
         }
     }
 }

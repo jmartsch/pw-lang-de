@@ -211,6 +211,9 @@
         },
         "522779383d7b7d46168fcc8ae1c5d4a5": {
             "text": "Dieses Modul enth\u00e4lt standardm\u00e4\u00dfig Breite-Attribute im img-Tag. Wenn Sie Responsive Bilder verwenden, m\u00f6chten Sie dieses Verhalten m\u00f6glicherweise deaktivieren. Aktivieren Sie die Box, um die Attribute f\u00fcr Breite und H\u00f6he zu deaktivieren."
+        },
+        "4ea9ef823adbf374c74a5ef6316a18e2": {
+            "text": "%s von oben"
         }
     }
 }

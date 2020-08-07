@@ -5,39 +5,6 @@
         "6daa35fd97a645b8e37cae080eab3de9": {
             "text": "Feld hinzuf\u00fcgen"
         },
-        "0ccb67e7eaae09d9e4078d161eeca100": {
-            "text": "Gleich"
-        },
-        "fb83c9b66919b4a757a43a807b6af2cf": {
-            "text": "Ungleich"
-        },
-        "7288454fa442d48bc741c5cbadc2621b": {
-            "text": "Gr\u00f6\u00dfer als"
-        },
-        "45ed1ce04bcf6003d4702422e1221c85": {
-            "text": "Kleiner als"
-        },
-        "948f7ffb9d1e26622df83711e20e2fb2": {
-            "text": "Gr\u00f6\u00dfer oder gleich"
-        },
-        "189ce8ec24447eef9869d18043c9e303": {
-            "text": "Kleiner oder gleich"
-        },
-        "7842f2dabc6c53dca4319818c88ebeb9": {
-            "text": "Enth\u00e4lt Text"
-        },
-        "8354008c16032b35e36589957a3bd65f": {
-            "text": "Enth\u00e4lt Phrase"
-        },
-        "7df149c48f0508977c06be79341a40ed": {
-            "text": "Enth\u00e4lt Worte"
-        },
-        "062e49c0f9af31da4f7314124191d9ef": {
-            "text": "Beginnt mit"
-        },
-        "3ad33d3cec01f7125e3cd0575cada7ef": {
-            "text": "Endet mit"
-        },
         "1bb628612045d3d012de22cb249f83fc": {
             "text": "Aufsteigend nach"
         },
@@ -227,23 +194,14 @@
         "eae4975b49e9af4e0b024b1c44c7fe4f": {
             "text": "Hier k\u00f6nnen Sie bei Bedarf die Funktionalit\u00e4t dieses Eingabefeldes testen."
         },
-        "f9b4bd2025de32122aca0de287601aa0": {
-            "text": "Enth\u00e4lt keinen Text"
-        },
-        "c792d413c780e14f2ab0cd586af2940a": {
-            "text": "Enth\u00e4lt keine Phrase"
-        },
-        "f97418feca88d6e3a1747a59883b35fe": {
-            "text": "Enth\u00e4lt keine Worte"
-        },
-        "256511287ee7ec2a36613f761a24370c": {
-            "text": "Beginnt nicht mit"
-        },
-        "70e54ebce37af51191725a9b2451e1b0": {
-            "text": "Endet nicht mit"
-        },
         "2627637e263ef687fa978b576580b8b1": {
             "text": "Ausgew\u00e4hlt"
+        },
+        "f89b7999f24e670f71368f38ac517530": {
+            "text": "Nicht: %s"
+        },
+        "689202409e48743b914713f96d93947c": {
+            "text": "Wert"
         }
     }
 }

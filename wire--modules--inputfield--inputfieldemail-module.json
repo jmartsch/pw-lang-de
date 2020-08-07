@@ -25,6 +25,12 @@
         },
         "f98e5e5fd93bc01f60e2a0a30c90618a": {
             "text": "Wenn markiert, erscheinen zwei Eingabefelder. Der Nutzer muss dann die E-Mail-Adresse zur Best\u00e4tigung zweimal eingeben."
+        },
+        "14d866744fd30744389cd711c4a8d4c7": {
+            "text": "E-Mail \"%s\" wird bereits verwendet, bitte verwenden Sie eine andere"
+        },
+        "f462a55cf22cc9382696a17a198c2aae": {
+            "text": "E-Mail \u00fcberschritt die maximal zul\u00e4ssige L\u00e4nge von %d-Zeichen"
         }
     }
 }

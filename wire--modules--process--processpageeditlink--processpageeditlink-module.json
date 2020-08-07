@@ -14,9 +14,6 @@
         "eb629addbfc0dd4a0353d6defff81923": {
             "text": "URL-Typ f\u00fcr Seiten-Links"
         },
-        "6b02648ef824ca0a58b9a40518ff1152": {
-            "text": "Absolut (Standard)"
-        },
         "2c8a0fad581fd58be051633bfdaa53d0": {
             "text": "Relative URLs nur im selben Zweig"
         },
@@ -118,6 +115,9 @@
         },
         "9bd81329febf6efe22788e03ddeaf0af": {
             "text": "="
+        },
+        "9d622cf09c8c619959d7e4712908b73a": {
+            "text": "Vollst\u00e4ndiger\/absoluter Pfad vom Stammverzeichnis aus (Standard)"
         }
     }
 }
