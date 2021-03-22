@@ -22,4 +22,4 @@ jobs:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
           prerelease: false
-          title: "German language files for ProcessWire master 3.0.148"
+          title: "German language files for ProcessWire"
