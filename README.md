@@ -48,8 +48,10 @@ NOT language inputfields!
 
 NOT language pagenames!
 
-## How to help updating the language pack
+## Contribute to the language pack
 
-To update the translations use the repo at (yet to be determined)
+You have discovered a spelling mistake? You have a suggestion for an alternative word? Or a translation makes no sense at all?
 
-It comes with a full processwire installation and allows you to easily update the translations.
+Great, then follow the instructions in the repo https://github.com/jmartsch/processwire-language-pack-helper
+
+It comes with a full ProcessWire installation and allows you to easily update the translations.
