@@ -14,8 +14,8 @@
         "4cc6684df7b4a92b1dec6fce3264fac8": {
             "text": "="
         },
-        "5afefa68ee72cf2f670f570a15a81106": {
-            "text": "Wert f\u00fcr Feld \"%2$s\" nicht erlaubt, weil es bereits verwendet wird"
+        "cacb4064843717606a3301b974b6f959": {
+            "text": "Wert f\u00fcr Feld \"%s\" nicht erlaubt, da es bereits verwendet wird"
         }
     }
 }

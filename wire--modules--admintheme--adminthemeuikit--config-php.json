@@ -292,6 +292,45 @@
         },
         "8101df5a8d382ef957a02876d08a6f0f": {
             "text": "="
+        },
+        "03bc7984b022876df391184e362104c2": {
+            "text": "Wenn Sie SVG verwenden, k\u00f6nnen Sie optional \"?uk-svg\" an die URL anh\u00e4ngen, damit das Attribut uk-svg hinzugef\u00fcgt wird."
+        },
+        "28fb66ed224d7a166862203d74cacb8b": {
+            "text": "Die meisten erweiterten Einstellungen sind \u00fcber das Array \"$config->AdminThemeUikit settings\" verf\u00fcgbar."
+        },
+        "c03e0af8dbd18d53753b92b02753e865": {
+            "text": "Sie finden sie in \/wire\/config.php. Kopieren Sie sie in Ihre Datei \/site\/config.php, um sie zu \u00e4ndern."
+        },
+        "59a3041f943c85af8edcf623308809e0": {
+            "text": "Achtung: Dies \u00fcberschreibt die benutzerdefinierten Einstellungen von $config->AdminThemeUikit, den Basisstil und die benutzerdefinierten Stile."
+        },
+        "d63e134e027a638f911ac2e099758c3e": {
+            "text": "Umschaltverhalten des Inputfield Labels"
+        },
+        "be91d7f8b5e6fd1f0c5cdca8d18a04b5": {
+            "text": "Eingabefeldelemente in ProcessWire k\u00f6nnen einen offenen oder geschlossenen Zustand haben."
+        },
+        "0dcb71ef852b35149ab9c3445b480953": {
+            "text": "Diese Einstellung bestimmt, was passiert, wenn ein Benutzer auf eine beliebige Eingabefeldbeschriftung (label) klickt, die als Kopfzeile \u00fcber der Eingabe erscheint."
+        },
+        "7675e95bb6ab79a2b07bc1d32530e20d": {
+            "text": "Die Option \"Standard\" bewirkt, dass ein Klick auf eine Beschriftung (label) in einem ge\u00f6ffneten Eingabefeld das Eingabeelement fokussiert, ein Standard-HTML-Formularverhalten."
+        },
+        "08f2a1074dae6032681157b928a93dac": {
+            "text": "W\u00e4hrend ein Klick auf eine geschlossene Eingabefeldbeschriftung (label) das Eingabefeld \u00f6ffnet und dann fokussiert (und bei erneutem Klick wieder schlie\u00dft)."
+        },
+        "b18ca92e72ab16203ccf67e4cfffb1c0": {
+            "text": "Die Option \"Konsistent\" bewirkt, dass sich die Beschriftung des Eingabefelds immer konsistent als Umschalter zum \u00d6ffnen\/Schlie\u00dfen verh\u00e4lt, unabh\u00e4ngig davon, in welchem Zustand sich das Eingabefeld befindet."
+        },
+        "c5fb3c81ba85771e0f107fc5a57efc62": {
+            "text": "Unabh\u00e4ngig davon, welche Einstellung Sie w\u00e4hlen, schaltet das Umschaltsymbol oben rechts in jedem Eingabefeld immer den Zustand \"offen\/geschlossen\" um."
+        },
+        "eb6d8ae6f20283755b339c0dc273988b": {
+            "text": "="
+        },
+        "30a61870b0726430151d669fd3459ac1": {
+            "text": "Konsistent"
         }
     }
 }

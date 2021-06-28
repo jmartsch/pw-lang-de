@@ -235,6 +235,12 @@
         },
         "e9dfd31cc505d51fc26975250750deab": {
             "text": "="
+        },
+        "13bf9d7a10643fcd246e4c242499f945": {
+            "text": "Kommentartext in Benachrichtigungen zulassen?"
+        },
+        "898ded7b2375a02a2642e39971e59cd3": {
+            "text": "Wenn diese Checkbox aktiviert ist, wird der gesamte Kommentartext auch in den Benachrichtigungs-E-Mails angezeigt und nicht nur ein Link dazu."
         }
     }
 }

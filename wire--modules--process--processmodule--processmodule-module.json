@@ -439,6 +439,33 @@
         },
         "fb61fc284cf893013b55de02da9c9948": {
             "text": "Modul: %s"
+        },
+        "f464b54239700029744e7426935c782b": {
+            "text": "Fehlende Moduldatei(en) in: %s"
+        },
+        "2aee0be2678ee90fd327cc186826438e": {
+            "text": "Fehlend"
+        },
+        "95044757c9e0df8925fe4a63a324d3d8": {
+            "text": "Module in der Datenbank, die nicht im Dateisystem gefunden werden. Klicken Sie unten auf einen beliebigen Modulnamen, um Optionen zum Beheben anzuzeigen."
+        },
+        "4cd91aa9e2204807c18ccb578305c357": {
+            "text": "Moduldatei nicht gefunden"
+        },
+        "3f7ac7b9e02123a6f7ad6b0a30d22b6d": {
+            "text": "Modul \"%s\" existiert in der Datenbank, aber nicht auf dem Dateisystem."
+        },
+        "5726ea1babd2fd38df90eb9181ccc652": {
+            "text": "Dieses Modul aus der Datenbank entfernen?"
+        },
+        "20cdc25923bd223a0616adb565cd34c4": {
+            "text": "Modul aus der Datenbank entfernt"
+        },
+        "608c857d1ec057cf85a2776ae9d2e0f1": {
+            "text": "Modul \"%s\" existiert in der Datenbank, aber nicht auf dem Dateisystem."
+        },
+        "7d571db09020671aab5f5a8eb76c4b06": {
+            "text": "Das Modul %1$s wurde aktualisiert, um die Datei zu verwenden: %2$s"
         }
     }
 }

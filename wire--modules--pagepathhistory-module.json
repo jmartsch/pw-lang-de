@@ -10,6 +10,21 @@
         },
         "b26126a5fdfea23d379aa813c392d533": {
             "text": "Voreinstellung: %s"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Sind Sie sicher?"
+        },
+        "2bcf586c695b0ada1781efb8ac78d294": {
+            "text": "Gel\u00f6schte %d historische Seitenpfade"
+        },
+        "c6d134febe49205b49a3d50c095359e1": {
+            "text": "Den gesamten Seitenpfadverlauf l\u00f6schen?"
+        },
+        "49ec38867ac66d1ebc5e03d7d27b5939": {
+            "text": "Es befinden sich derzeit %d historische Seitenpfade in der Datenbank."
+        },
+        "7d77cfb1efb2f2ae3b3870708b58d7ee": {
+            "text": "Diese Informationen werden f\u00fcr automatische Weiterleitungen und mehr verwendet. Sie k\u00f6nnen nach dem L\u00f6schen nicht wiederhergestellt werden. Aktivieren Sie das Kontrollk\u00e4stchen, um zu best\u00e4tigen, dass Sie dies wirklich tun m\u00f6chten."
         }
     }
 }

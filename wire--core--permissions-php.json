@@ -37,6 +37,15 @@
         },
         "021ae36974d48cf90a6b204c4abe221b": {
             "text": "Bearbeiten von einsprachigen Feldern auf einer mehrsprachigen Seite"
+        },
+        "5a1dc311dc716c30ccdb008bee94e9d6": {
+            "text": "Benutzer kann andere Benutzer in jeder Rolle (einschlie\u00dflich Superuser) anzeigen"
+        },
+        "d341b36940e0a17c1d212ab5b32fafa8": {
+            "text": "Benutzer kann sich selbst anzeigen (wenn nicht schon durch andere Berechtigung)"
+        },
+        "9d7f65dc30d669d9000ef19ed549228e": {
+            "text": "Benutzer in Rolle anzeigen: %s"
         }
     }
 }

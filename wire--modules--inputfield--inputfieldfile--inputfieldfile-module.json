@@ -23,44 +23,17 @@
         "53fbb1f98e15224437792f2ea80847a2": {
             "text": "Zielpfad ist nicht beschreibbar"
         },
-        "bed8a5795ff53ecfd7b9dab0face84b6": {
-            "text": "ZIP-Dateien entpacken?"
-        },
-        "fab7f7d0de48baa58342b39e975c9aab": {
-            "text": "Falls ausgew\u00e4hlt, werden ZIP-Archive entpackt und alle g\u00fcltigen Dateien hochgeladen und hinzugef\u00fcgt (falls die Hosting-Umgebung dies unterst\u00fctzt). Die maximale Anzahl Dateien muss auf 0 (kein Maximum) gesetzt werden, damit das Hochladen von ZIP-Dateien funktioniert."
-        },
-        "91015caeadb6afed86544257b5d796f5": {
-            "text": "Anzahl Zeilen im Beschreibungs-Feld?"
-        },
-        "27eebd9281cfaa6f4173d02986c9ad71": {
-            "text": "Geben Sie die Anzahl der verf\u00fcgbaren Zeilen f\u00fcr das Beschreibungs-Feld der Datei oder 0 an, um kein Beschreibungs-Feld auszugeben."
-        },
         "91f3a2c0e4424c87689525da44c4db11": {
             "text": "Dateien"
         },
         "fbf221ff984c277d7fea5d290e817767": {
             "text": "Eine oder mehrere hochzuladende Dateien (sortierbar)"
         },
-        "1aac69c83eb57d215a710401956430f1": {
-            "text": "Mehrsprachige Beschreibungen deaktivieren?"
-        },
-        "9c0e34e99b5acfb622d682dabefa5578": {
-            "text": "Als Standard sind Beschreibungen mehrsprachig wenn Sie die Unterst\u00fctzung f\u00fcr Sprachen installiert haben. Diese Box markieren, falls die mehrsprachigen Beschreibungen deaktiviert werden sollen."
-        },
         "004a10c5de4a2eea5fc8f15e97a8030c": {
             "text": "Keine Dateiendung f\u00fcr dieses Feld festgelegt."
         },
         "5d28dcd09c5073bb0e454aee16d9b349": {
             "text": "Datei %s verworfen. Diese ist bereits im System vorhanden und geh\u00f6rt zu einem anderen Feld."
-        },
-        "4839f7d2588943e6763c3c91cbd8d7f2": {
-            "text": "Bestehende Dateien \u00fcberschreiben?"
-        },
-        "35a96944722fb825db8bf04ab791c209": {
-            "text": "Falls markiert, wird bei einer hochgeladenen Datei mit identischem Namen eine bereits vorhandene Datei ersetzt (Beschreibung und Tags bleiben erhalten). Falls nicht markiert, werden hochgeladene Dateinamen eindeutig umbenannt."
-        },
-        "2713d4f20fb5e7947fb2bb844d57322d": {
-            "text": "Bitte beachten: Wenn diese Option aktiviert ist, werden per AJAX hochgeladene Dateien sofort beim Hochladen auf der Seite gespeichert, anstatt erst nach dem Klick auf \"Speichern\". Markieren Sie diese Option nicht, sofern sie diese nicht speziell ben\u00f6tigen."
         },
         "f2a6c498fb90ee345d997f888fce3b18": {
             "text": "L\u00f6schen"

@@ -41,9 +41,6 @@
         "92295f3f7fe39fd61f8ce27b523aa341": {
             "text": "Erstellt von: %s"
         },
-        "c835168989fcff535a5d12f1fe9a9d51": {
-            "text": "Benachrichtigungen abschalten"
-        },
         "c7c47e22cdf07075fbc40c3197b822e0": {
             "text": "Benachrichtigung bitte best\u00e4tigen"
         },
@@ -71,9 +68,6 @@
         "0182aa91273730ac7c4f3df026234683": {
             "text": "Sterne"
         },
-        "1e0d36c28b3b237af18c36e171a50484": {
-            "text": "="
-        },
         "5be3f30f5db8303d4baac9920be07c45": {
             "text": "="
         },
@@ -85,6 +79,15 @@
         },
         "2bdedaef502bd65a7190ee7077fc9d23": {
             "text": "Kommentar von %d zu \"%s\" aktualisiert"
+        },
+        "27d7f48b990974bef40abd6a857c4e0c": {
+            "text": "Geschrieben am %s von %s"
+        },
+        "f6c4779fa5259e211efefe8cae45f4b2": {
+            "text": "Ansicht oder Antwort"
+        },
+        "3b5617424ffc943d996c686a376e807c": {
+            "text": "Diese Benachrichtigungen abbestellen"
         }
     }
 }

@@ -56,9 +56,6 @@
         "983f66857047c1e6fc8878e54c5c9939": {
             "text": "Feld klonen\/duplizieren?"
         },
-        "ee2d3754b6e7f57898d9d8670f78ae71": {
-            "text": "Erweiterte Optionen"
-        },
         "89e1299f98120a24c999cdffa860d2cb": {
             "text": "Feld gel\u00f6scht"
         },
@@ -127,9 +124,6 @@
         },
         "1f2b73286f18ea71c594652199e86dff": {
             "text": "Abbrechen"
-        },
-        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
-            "text": "L\u00f6schen"
         },
         "9ea1f3769ad9c72e3ebf7de539b53aa1": {
             "text": "Beschreibung"
@@ -619,6 +613,15 @@
         },
         "e036648db74b48abc2b6af1d56d4596c": {
             "text": "\u00c4nderungen"
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "="
+        },
+        "28ac344e871bb5931c25502670d3e2fd": {
+            "text": "Beschriftung, die oberhalb der Feldeingabe erscheint."
+        },
+        "405231013da488699f3761636027e651": {
+            "text": "Die Beschreibung erscheint hier und sieht so aus."
         }
     }
 }

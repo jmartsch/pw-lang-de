@@ -3,7 +3,7 @@
     "textdomain": "wire--core--admin-php",
     "translations": {
         "657e7a4fc0a8b4f44a06c216edf02d64": {
-            "text": "Nicht erkannter HTTP-Host:"
+            "text": "Unbekannter HTTP-Host:"
         },
         "b6823820033b6cf18c3aa27d252861e0": {
             "text": "Bitte aktualisieren Sie ihre Einstellung $config->httpHosts in \/site\/config.php"

@@ -41,12 +41,6 @@
         "ebe68b1a7edd199230885058ca3f3351": {
             "text": "Hinweis zu Mehrsprachigkeit: Optionen zuerst in der Standard-Sprache festlegen und speichern, bevor man diese in andere Sprachen \u00fcbersetzt."
         },
-        "810906cf431b89762465d39dd3402ba7": {
-            "text": "Bitte beachten: Ihre Vorauswahl ist nicht aktiv, da dieses Feld kein Pflichtfeld ist. Aktivieren Sie dazu die Option \"Pflichtfeld\" im Eingabe-Tab des Feldes."
-        },
-        "a6a26b1340a7cbaf1b405484a8a74b98": {
-            "text": "Die Vorauswahl ist aktiv, weil dieses Feld ein Pflichtfeld ist."
-        },
         "7a55572484844c1b337505ee266d3007": {
             "text": "API-Verwendungsbeispiel"
         },
@@ -58,6 +52,15 @@
         },
         "d51f7ee41ebdd5252b9a4410e297b306": {
             "text": "Wenn Sie Werte anstelle von Titeln ausgeben m\u00f6chten, ersetzen Sie in den obigen Beispielen \"title\" durch \"value\"."
+        },
+        "d8773b3c985910685f4f4aca03604c14": {
+            "text": "Mehrere sortierbare Werte"
+        },
+        "69a114a946943d26c4ea03ba031b4124": {
+            "text": "Bitte beachten: Ihre Vorauswahl ist nicht aktiv, da dieses Feld kein Pflichtfeld ist. Aktivieren Sie dazu die Option \"Pflichtfeld\" im Eingabe-Tab des Feldes."
+        },
+        "67f541f6547ed8217b9d81909acc241f": {
+            "text": "Die Vorauswahl ist aktiv, weil dieses Feld ein Pflichtfeld ist."
         }
     }
 }
