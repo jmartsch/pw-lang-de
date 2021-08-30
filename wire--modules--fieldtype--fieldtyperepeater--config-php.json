@@ -154,6 +154,18 @@
         },
         "5222d983bada8088d0a86ac0ff1e5871": {
             "text": "Feld \"%1$s\" aus \"%2$s\" entfernt"
+        },
+        "b88543bf2626f096ed455b862390b4e3": {
+            "text": "Familienfreundliche Artikeltiefe verwenden?"
+        },
+        "9b7bbf35ecde2744bc2b120d7a19e425": {
+            "text": "Diese Einstellung bewirkt, dass der Admin-Seiteneditor die Elementtiefe als eine Eltern-Kind-Beziehung behandelt."
+        },
+        "fc26899013e5130bf0f035bcb6645e36": {
+            "text": "Das bedeutet, dass das Verschieben\/Sortieren eines Elements auch untergeordnete Elemente mit einschlie\u00dft."
+        },
+        "239509c1f5621ac1d950faf5de9d9111": {
+            "text": "Au\u00dferdem wird verhindert, dass ein untergeordnetes Element so gezogen wird, dass es eine Tiefe hat, die seine \u00fcbergeordnete Ebene um mehr als 1 \u00fcbersteigt."
         }
     }
 }

@@ -10,6 +10,9 @@
         },
         "fca123eb0b6f4465da6e62e5b07927e9": {
             "text": "Der Name \"%s\" kann nicht als global eindeutig verwendet werden, da er bereits von anderen Seiten verwendet wird."
+        },
+        "0bfad70a433eea8a1d6211bc771098b5": {
+            "text": "Ein anderer Benutzer verwendet bereits den Namen \"%s\""
         }
     }
 }

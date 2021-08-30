@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--fieldtype--fieldtypeoptions--fieldtypeoptions-module",
     "translations": {
         "69b3176dd209b9a908446d55ceb0cfd2": {
-            "text": "Damit die Vorauswahl aktiv ist, müssen Sie für dieses Feld die Option 'Pflichtfeld' aktivieren. Sie finden Sie unter dem Reiter 'Eingabe' des Feldes."
+            "text": "Damit die Vorauswahl aktiv ist, m\u00fcssen Sie f\u00fcr dieses Feld die Option 'Pflichtfeld' aktivieren. Sie finden Sie unter dem Reiter 'Eingabe' des Feldes."
         },
         "aee44a384657fe502a5b91c94fbc7713": {
             "text": "Der Import von Optionen wird noch nicht unterst\u00fctzt. Sie k\u00f6nnen aber einfach, von einer Seite zu einer anderen, importiert werden durch direktes Copy\/Paste im Eingabebereich des Feldes."
@@ -13,6 +13,12 @@
         },
         "33568d5ff03072672cce95681df20964": {
             "text": "="
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titel"
+        },
+        "d88cb87988c18a5b8e9652d49d857d4c": {
+            "text": "Wert Text"
         }
     }
 }

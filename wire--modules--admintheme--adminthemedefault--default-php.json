@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeDefault\/default.php",
+    "textdomain": "wire--modules--admintheme--adminthemedefault--default-php",
+    "translations": {
+        "aa0e46d2e05217acb9d70a1bbb546845": {
+            "text": "F\u00dcR \u00dcBERSETZER: Bitte \u00fcbersetzen Sie die Datei \/wire\/templates-admin\/default.php und nicht diese Datei."
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "+"
+        }
+    }
+}

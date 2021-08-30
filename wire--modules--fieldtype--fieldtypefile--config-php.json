@@ -1,0 +1,216 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile\/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile--config-php",
+    "translations": {
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Dateien"
+        },
+        "130b3d918858ab70e130f882bed5edbe": {
+            "text": "Erlaubte Dateierweiterungen"
+        },
+        "b3f2fb9ff683cc6bb4e353a8c443260c": {
+            "text": "Geben Sie alle Dateierweiterungen ein, die in diesem Upload-Feld zul\u00e4ssig sind. Trennen Sie jede Erweiterung durch ein Leerzeichen. Keine Punkte oder Kommas. In diesem Feld wird nicht zwischen Gro\u00df- und Kleinschreibung unterschieden."
+        },
+        "ecc79534d4d067624a9ff21c9007cf0f": {
+            "text": "Die Dateierweiterung %s muss entfernt werden, auf der Whitelist stehen oder es muss ein Dateivalidierungsmodul installiert sein."
+        },
+        "02c7048fd25999ef0196b9c702031e69": {
+            "text": "Dateierweiterungen, die ohne Validierung zugelassen werden sollen (Whitelist)"
+        },
+        "8d0d44f9431f8dbb6599425c0d0a38a2": {
+            "text": "F\u00fcr diese Dateierweiterungen muss ein Dateivalidierungsmodul installiert sein. Nicht \u00fcberpr\u00fcfte Erweiterungen wurden aus Sicherheitsgr\u00fcnden deaktiviert."
+        },
+        "3cf5aa280976802bec73910581f4dbe5": {
+            "text": "Um die Dateierweiterung zu ignorieren und ohne Dateivalidierung zuzulassen, aktivieren Sie das K\u00e4stchen daneben (nicht empfohlen)."
+        },
+        "4c8ec65a891b88ab97e4c0ca89b1e161": {
+            "text": "Wenn Sie eine Erweiterung nicht ben\u00f6tigen, entfernen Sie sie bitte aus der Liste der g\u00fcltigen Dateierweiterungen."
+        },
+        "34f7d8569876cb1a4b73390d2d3528cd": {
+            "text": "Maximale Anzahl von Dateien"
+        },
+        "de38bb7cf785c7c8bdfc0e1011d3056a": {
+            "text": "(ein Wert von 0 bedeutet keine Begrenzung)"
+        },
+        "6dab09cc3298db0a1910fa57b90351a2": {
+            "text": "Jede Datei kann einen optionalen Beschreibungstext haben, der im Seiteneditor eingegeben und im Frontend ausgegeben werden kann."
+        },
+        "445c10f03463258c5646dfb9ddfc2622": {
+            "text": "Es ist zum Beispiel \u00fcblich, den Beschreibungstext als \"alt\"-Attribut zu verwenden, wenn <img>-Tags f\u00fcr Bilddateien wiedergegeben werden."
+        },
+        "b17288f2ed130badc7ac8919f95fd5f1": {
+            "text": "Textformatierer (f\u00fcr Dateibeschreibungen)"
+        },
+        "32409f0b1cd120b66cea293a46c8032e": {
+            "text": "Datei-Tags"
+        },
+        "b55655b900ccd6c743eec6ca69d47a9a": {
+            "text": "Mit Tags k\u00f6nnen Sie vordefinierte oder benutzerdefinierte 1-Wort-Tags zu jeder Datei hinzuf\u00fcgen."
+        },
+        "6ab8e7e456ae5d6187a05f5c1a2c40ae": {
+            "text": "Wenn sie verwendet werden, k\u00f6nnen Dateien eine beliebige Anzahl von Tags haben."
+        },
+        "46b47d6ebfaf955b2ea2c4deb8acb7fa": {
+            "text": "Tags k\u00f6nnen n\u00fctzlich sein, um eine Datei zu kategorisieren."
+        },
+        "7a1bc94ff553f83b21c9ad1248543c18": {
+            "text": "Ein Tag \"sidebar\" kann zum Beispiel ein Bild bezeichnen, das automatisch in einer Seitenleiste angezeigt werden soll."
+        },
+        "4727ffde45e752b8d1c5ec4740b25444": {
+            "text": "Datei-Tags verwenden?"
+        },
+        "8d550b9f7f5bde97eac6e78eea9f4ed2": {
+            "text": "Wenn es aktiviert ist, enth\u00e4lt das Feld auch eine Option f\u00fcr vom Benutzer ausgew\u00e4hlte (oder eingegebene) Tags f\u00fcr jede Datei."
+        },
+        "b32f1d32240c3f4298baf57f5f0d88b1": {
+            "text": "Benutzer w\u00e4hlt aus einer Liste von vordefinierten Tags aus"
+        },
+        "18856ebc636a3ce5a3e083ddd831c949": {
+            "text": "Tags deaktiviert"
+        },
+        "564d93d129c0a94937b12c4fafa4ad62": {
+            "text": "Benutzer gibt Tags per Texteingabe ein"
+        },
+        "83b7a060baaabcf327d37b63bf72bd63": {
+            "text": "k\u00f6nnen eigene eingeben"
+        },
+        "3dc8049d67dc4088f705f9d94bc48652": {
+            "text": "Vordefinierte Datei-Tags"
+        },
+        "43bce07bd160232ee31114541357640c": {
+            "text": "Geben Sie die Tags durch ein Leerzeichen getrennt ein. Tags k\u00f6nnen Buchstaben, Ziffern, Unterstriche oder Bindestriche enthalten."
+        },
+        "a0af6bad96d7e79b06174600be6b480b": {
+            "text": "Beispiele f\u00fcr die Verwendung von Tags"
+        },
+        "30b3b29a9b14045e591d7409bf9b8172": {
+            "text": "Alle Dateien mit dem Tag \"sidebar\" anzeigen"
+        },
+        "720288cbab99d3ca6e8994693a15df81": {
+            "text": "Wie oben, aber mit einer anderen Methode"
+        },
+        "d7c60080cfa6bf0157407cf8e592e9ca": {
+            "text": "Eine Datei mit Tag holen"
+        },
+        "14d16d497322288077ddb51e1c9bad84": {
+            "text": "Tags f\u00fcr alle Dateien anzeigen"
+        },
+        "8faa7616b66ec7990abd90e6eb970b03": {
+            "text": "Dokumentation:"
+        },
+        "f217d0fdc1aad53234d09e7107b25316": {
+            "text": "Formatierter Wert"
+        },
+        "f09906b55a7a66786de08cb25550a2c8": {
+            "text": "W\u00e4hlen Sie die Art des Wertes, den dieses Feld beim Zugriff von der API auf dem Front-End Ihrer Website liefern soll."
+        },
+        "c0e161ac2ecec98d0c8bb5f163c4b279": {
+            "text": "Wenn die Ausgabeformatierung ausgeschaltet ist, ist der Wert immer ein %s-Array."
+        },
+        "086247a9b57fde6eefee2a0c4752242d": {
+            "text": "Automatisch"
+        },
+        "4baa1a5e2258639723ac2c8c258297a5": {
+            "text": "(eine einzelne Datei oder null, wenn max files auf 1 gesetzt ist, andernfalls ein Array von Elementen aus mehreren Dateien)"
+        },
+        "a9c9e7818e56124f98fd90168c0bb08c": {
+            "text": "Array von mehreren Dateien"
+        },
+        "d19baaf6e0b64fcdc34a386b7c2298a6": {
+            "text": "Einzeldatei falls ausgef\u00fcllt, ansonsten null"
+        },
+        "c175f71a9a4f1e8a8c4aa7187be25d63": {
+            "text": "Gerenderte Zeichenfolge aus Markup\/Text"
+        },
+        "4a989703a6000c30a09f5857fb7f20f0": {
+            "text": "(konfigurierbar)"
+        },
+        "cc58528899ff92480114494c1a8cbc7e": {
+            "text": "Beispiel f\u00fcr die Verwendung mehrerer Dateien"
+        },
+        "1bc580809c796e521316a1a495084d38": {
+            "text": "z.B."
+        },
+        "fefb41e13016890d511b8d55d8057c37": {
+            "text": "Geben Sie die gerenderte Textzeichenfolge an, die Sie als Wert dieses Feldes ausgeben m\u00f6chten. Enth\u00e4lt das Feld mehrere Elemente, wird diese Zeichenfolge mehrfach wiedergegeben. Enth\u00e4lt das Feld keine Eintr\u00e4ge, wird eine leere Zeichenfolge verwendet."
+        },
+        "bc87ae1cea1ec39d98cb68f7198a23a4": {
+            "text": "Sie k\u00f6nnen jeden der folgenden Platzhalter-Tags verwenden:"
+        },
+        "7b9324fd1b6cc33da6065e0338fd1828": {
+            "text": "Benutzerdefinierte Felder"
+        },
+        "464b7386b281c4351c2b22a2968be583": {
+            "text": "Mit benutzerdefinierten Feldern k\u00f6nnen Sie zus\u00e4tzliche Text-, Zahlen- und Auswahlfelder definieren, die jede Datei als Metadaten begleiten."
+        },
+        "bd02d4cb90800173cbefee03c4e39d1c": {
+            "text": "Verwenden Sie diese Option, wenn Sie mehr als nur eine Dateibeschreibung und\/oder Tags ben\u00f6tigen."
+        },
+        "e96b5e4a44489720ddfd5c8f0bc7c8d4": {
+            "text": "F\u00fcr weitere Informationen lesen Sie bitte: %s."
+        },
+        "674c8abf6416d34295dca28c074b951d": {
+            "text": "So funktionieren benutzerdefinierte Felder f\u00fcr Dateien\/Bilder"
+        },
+        "3301a70ba35b82ff2d2c48d2303befd4": {
+            "text": "Benutzerdefinierte Felder f\u00fcr jede Datei verwenden?"
+        },
+        "edff576be0da9025ff8cdbc845f42557": {
+            "text": "Template f\u00fcr benutzerdefinierte Felder erstellt: %s"
+        },
+        "eddbb22443a358c25b523a2b1ea13a27": {
+            "text": "Benutzerdefinierte Felder werden \u00fcber ein Template aktiviert und verwaltet."
+        },
+        "ca2a3a8473fef6a68aa88445b8a3f862": {
+            "text": "Verwenden Sie die Schaltfl\u00e4che \"Benutzerdefinierte Felder bearbeiten\" unten, um die Felder, die Sie f\u00fcr jede Datei pflegen m\u00f6chten, hinzuzuf\u00fcgen oder zu \u00e4ndern."
+        },
+        "9cd6a4fe3407c8aa92eb4ed3b4066c49": {
+            "text": "Die meisten Text-, Zahlen- und Auswahlfelder funktionieren hier, aber einige Feldtypen m\u00f6glicherweise nicht."
+        },
+        "8aa4af0a95c0601cf5b9ff0db1abdb16": {
+            "text": "Benutzerdefinierte Felder bearbeiten"
+        },
+        "2f91f0d53d469e691f68554022e7426b": {
+            "text": "Das Template f\u00fcr benutzerdefinierte Felder ist: %s"
+        },
+        "411de45d712bc52bf20397e686ced665": {
+            "text": "Um benutzerdefinierte Felder f\u00fcr dieses Feld dauerhaft zu deaktivieren, l\u00f6schen Sie das Template %s."
+        },
+        "b232b3febcd514c94d3a01ec7c90b727": {
+            "text": "Wenn Sie benutzerdefinierte Felder aktivieren, speichern Sie und kehren Sie dann hierher zur\u00fcck, um sie zu konfigurieren."
+        },
+        "918339f9d2be43fb1343a0999d91f7e2": {
+            "text": "Seite mit Standard-\/Fallback-Wert f\u00fcr dieses Feld"
+        },
+        "f4adf511dd72b27244f802b5ca027eca": {
+            "text": "Optional k\u00f6nnen Sie in diesem Feld auch eine Seite ausw\u00e4hlen, die den Standard-\/Fallback-Wert enth\u00e4lt."
+        },
+        "8d664d296530bbabc76043e4e499b272": {
+            "text": "W\u00e4hlen Sie einen oder mehrere Textformatierer (und deren Reihenfolge), die auf die Dateibeschreibung angewendet werden, wenn die Ausgabeformatierung aktiv ist. Als Minimum wird der HTML Entity Encoder empfohlen."
+        },
+        "b74176f4828823f7800a9deafd8b0f4d": {
+            "text": "Beispiel f\u00fcr die Verwendung mehrerer Dateien"
+        },
+        "39eb21d8ba89f126ca77c936092fe041": {
+            "text": "Gegebenenfalls m\u00f6chten Sie eine Seite speziell f\u00fcr diesen Zweck erstellen."
+        },
+        "0debf9bf73234ccd8ef3a4f6f0afc5c8": {
+            "text": "Die ausgew\u00e4hlte Seite muss ein %s-Feld mit einer oder mehreren Dateien enthalten."
+        },
+        "a0d1f6d231d53462451ca80f74dce859": {
+            "text": "Eingabefeldtyp f\u00fcr das Feld Dateien"
+        },
+        "d5d6f34e6e58f9351e36d93c982eff52": {
+            "text": "Die Art des Feldes, das zur Erfassung von Eingaben f\u00fcr dieses Dateifeld verwendet werden soll."
+        },
+        "9cdd19f51364783933fefd557c7cd644": {
+            "text": "\u00c4ndern Sie dies nur, wenn Sie in der Anleitung des Inputfield-Moduls eines Drittanbieters dazu aufgefordert werden."
+        },
+        "d51491292f62e94821f0fb6802cc1849": {
+            "text": "Erlaubte Fieldtype-Module f\u00fcr benutzerdefinierte Felder"
+        },
+        "100061c6a3b1c84e1a3617988f77bd88": {
+            "text": "Durchgestrichene Fieldtypes sind wahrscheinlich nicht zu 100% kompatibel."
+        }
+    }
+}

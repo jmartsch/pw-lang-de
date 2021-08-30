@@ -1,0 +1,84 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearchLive.php",
+    "textdomain": "wire--modules--process--processpagesearch--processpagesearchlive-php",
+    "translations": {
+        "2c44229630ad7e2758a89bd14435a31b": {
+            "text": "Keine Suche angegeben"
+        },
+        "453aceb005ceaf54a47da15fee8b2a26": {
+            "text": "Seiten"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Papierkorb"
+        },
+        "bf17ac149e2e7a530c677e9bd51d3fd2": {
+            "text": "Module"
+        },
+        "d8d7ad6abfd08c27baa8bedb78c72ddb": {
+            "text": "Alle anzeigen"
+        },
+        "32df01b9cf0491a879250b58ba2744ba": {
+            "text": "Suchergebnisse"
+        },
+        "945331eb8feee661c7a01a7da50e7e7e": {
+            "text": "oder ein beliebiger Feldname"
+        },
+        "098f6bcd4621d373cade4e832627b4f6": {
+            "text": "Test"
+        },
+        "9da4c632d92b0a319e8e963f8b7dd19f": {
+            "text": "Sucht %1$s nach: %2$s"
+        },
+        "0c79bedd451ec4becdb006eabf461f3b": {
+            "text": "Sucht die Eigenschaft \"%1$s\" von %2$s nach: %3$s"
+        },
+        "aa22617dfe85dc625769bb90cf1edc82": {
+            "text": "Beispiele verwenden den Gleichheitsoperator \"=\"."
+        },
+        "9b39d6b66fd46b375480103f46850760": {
+            "text": "In manchen F\u00e4llen k\u00f6nnen Sie auch diese verwenden:"
+        },
+        "3e31303f6c94d429ef522d10a2d421d8": {
+            "text": "Operatoren:"
+        },
+        "e2d5a00791bce9a01f99bc6fd613a39d": {
+            "text": "konfigurieren"
+        },
+        "64a16c6ab0b0e6113aa92f7f6d40410b": {
+            "text": "Klicken Sie hier, um die Sucheinstellungen zu konfigurieren"
+        },
+        "b7208f6d5abab822d6ab05b1016d409a": {
+            "text": "Wie oben (k\u00fcrzere Syntax, wenn keine Namen kollidieren)"
+        },
+        "963e1f84e80d24245a65e61120d9d212": {
+            "text": "Ergebnisse auf Template beschr\u00e4nken: %s"
+        },
+        "29a251084e8675a8d52d945e2f58d726": {
+            "text": "Ergebnisse auf %s-Feld auf Template beschr\u00e4nken"
+        },
+        "bd42869f654344076a72479ecdb1d45f": {
+            "text": "Templates finden, die das Feld: %s haben"
+        },
+        "173512440f350caacc754ddd1a392b71": {
+            "text": "Felder mit \"ckeditor\" in den Einstellungen finden"
+        },
+        "1624b2059f3271b1213456999221e2df": {
+            "text": "(Hover f\u00fcr mehr)"
+        },
+        "d6b75fe82918572d3828601219286147": {
+            "text": "Die Beispiele verwenden die Eigenschaft \"%s\"."
+        },
+        "c3f4f45cbebefe1b25a8c7965516a79b": {
+            "text": "Sie k\u00f6nnen auch jede dieser Eigenschaften verwenden:"
+        },
+        "74693d2fc58b46bd06410f278e39aa71": {
+            "text": "Eigenschaften"
+        },
+        "627b11fa495dc928e31ab76310d934f9": {
+            "text": "%s-Hilfe"
+        },
+        "cf1e3d72714f82f85aa7f326af340459": {
+            "text": "%d Elemente"
+        }
+    }
+}

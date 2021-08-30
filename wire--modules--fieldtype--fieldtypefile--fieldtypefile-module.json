@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile\/FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile--fieldtypefile-module",
+    "translations": {
+        "3e560c05ba6d07bcd41ac1053b5b9437": {
+            "text": "Das Feld \"%s\" ist noch nicht einsatzbereit und muss noch konfiguriert werden."
+        },
+        "a8d5114d10f7846bf0263c4e4207137e": {
+            "text": "Die Einstellungen sind noch nicht festgelegt worden."
+        },
+        "d950e30995efd1abcc2dc812404f03c5": {
+            "text": "Bitte \u00fcberpr\u00fcfen Sie die Einstellungen auf dieser Seite und speichern Sie noch einmal (auch wenn Sie nichts \u00e4ndern), um zu best\u00e4tigen, dass Sie sie akzeptieren."
+        },
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "Dateiname"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Dateien"
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "Feld, das eine oder mehrere Dateien speichert"
+        }
+    }
+}

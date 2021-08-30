@@ -1,0 +1,132 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTextTags\/InputfieldTextTags.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtexttags--inputfieldtexttags-module",
+    "translations": {
+        "5ada8a9286e44da2221cd82e3ec857be": {
+            "text": "Ung\u00fcltigen Tag-Wert entfernt: %s"
+        },
+        "fcf2ecb6c5c5991e49690fd12f0950dd": {
+            "text": "W\u00e4hlbare Optionen\/Tags Quelle"
+        },
+        "a1d8d28cd17bc9713cb6d9bf779b1422": {
+            "text": "Geben Sie diese hier an"
+        },
+        "2d4026ab7ebafbc34d0c0cee4bc6a8f9": {
+            "text": "Laden von einer von Ihnen angegebenen URL (Ajax)"
+        },
+        "6b1b91dab4876004505181d49ae7bc27": {
+            "text": "Ajax-Optionen\/Seiten verwenden?"
+        },
+        "e793cb635b6f498edd8f78ecaa4f1cc3": {
+            "text": "Wenn diese Funktion aktiviert ist, verh\u00e4lt sie sich wie eine automatische Vervollst\u00e4ndigung, bei der der Benutzer mit der Eingabe beginnt und eine URL nach passenden Seiten abfragt wird."
+        },
+        "26644aceea0417eed7cc9b89b5d217fe": {
+            "text": "Sie m\u00fcssen auch eine \"Ajax-URL\" angeben (siehe unten, wenn \"Ja\" ausgew\u00e4hlt ist), um die Abfrage durchzuf\u00fchren. Ein funktionierender Beispielcode ist enthalten."
+        },
+        "113e5eb7479e4757efe217b2b4df3a9c": {
+            "text": "Ist diese Option nicht aktiviert, werden alle ausw\u00e4hlbaren Optionen zur Laufzeit ausgef\u00fcllt."
+        },
+        "860b7a69d838e2a510f79123bb657026": {
+            "text": "Die Verwendung von Ajax-Optionen\/Seiten ist n\u00fctzlich, wenn die potenzielle Anzahl der ausw\u00e4hlbaren Seiten gro\u00df ist."
+        },
+        "9cba2db480057b2c65e239915198a3bc": {
+            "text": "Erw\u00e4gen Sie dies, wenn mehrere hundert oder tausend (oder mehr) Seiten zur Auswahl stehen."
+        },
+        "8d303ccb1721972ffbf890a84a24c7a5": {
+            "text": "Liste der vordefinierten Optionen\/Tags"
+        },
+        "dcf387ef8e5f3f0bbd745b1855a2a9a5": {
+            "text": "Geben Sie vordefinierte Tags ein, 1 pro Zeile. Um einen separaten Wert und eine Bezeichnung f\u00fcr die Markierung zu definieren, geben Sie value=label in der Zeile an."
+        },
+        "b23854b10090d03184c424927a1c221f": {
+            "text": "Tags d\u00fcrfen das unten ausgew\u00e4hlte Trennzeichen nicht enthalten, Labels aber schon."
+        },
+        "3f29cea14274476fd290ab2357acf53b": {
+            "text": "Um getrennte Bezeichnungen f\u00fcr jede Sprache zu definieren, geben Sie f\u00fcr jede Sprache den Tag `value=label` ein, wobei der `value` f\u00fcr jede Sprache gleich ist, w\u00e4hrend der `label` unterschiedlich ist."
+        },
+        "863a617186799199c167888e3f858ed7": {
+            "text": "URL-Handler-Beispiel in Datei %s f\u00fcr URL %s"
+        },
+        "0e3fd3cf510a091336f62cffa8fed928": {
+            "text": "Kopieren Sie diese URL und f\u00fcgen Sie sie in das obige Feld ein, wenn Sie das unten stehende Beispiel verwenden m\u00f6chten."
+        },
+        "ae43497613e9bce166e79c93a3a3288f": {
+            "text": "Ajax-URL"
+        },
+        "578b189f9605804a55dec2f726107836": {
+            "text": "Wenn Sie eine URL eingeben, wird diese nach Elementen abgefragt, die den Benutzereingaben entsprechen, und automatisch vervollst\u00e4ndigt."
+        },
+        "3094591b42aeeae0f6f5743dd58ff360": {
+            "text": "Die angegebene URL muss irgendwo den Platzhalter {q} enthalten, der durch den vom Benutzer eingegebenen Text ersetzt wird."
+        },
+        "6de08d5e99d2f49b707fbe84bf2babc4": {
+            "text": "Sie k\u00f6nnen eine vollst\u00e4ndige http\/https-URL oder eine relative URL angeben."
+        },
+        "b9b2836d05319756a7f9b1797166d2c5": {
+            "text": "Wenn Sie eine relative URL (ohne Schema\/Host) angeben, werden ihr zur Laufzeit das aktuelle Schema, der aktuelle Host und die Root-URL vorangestellt."
+        },
+        "3d68dddcd3aa8f6a61b89149dc3cd5ac": {
+            "text": "Sie m\u00fcssen auch einen URL-Handler definieren, wie im folgenden Beispiel gezeigt."
+        },
+        "c55228ab9fb65392d44a1ad232555e5b": {
+            "text": "Der URL-Pfad %s ist nur ein Beispiel, Sie k\u00f6nnen ihn nach Belieben ersetzen."
+        },
+        "61900119c9b2f987bb0f2784d219d460": {
+            "text": "In diesem Beispiel werden die Titel von Seiten gesucht, die als Tags verwendet werden sollen, aber Sie k\u00f6nnen jede beliebige Datenquelle verwenden."
+        },
+        "a4ead355e5bbbd25f264cae5a69d5d72": {
+            "text": "Ihr Selektor f\u00fcr das finden von Seiten hier"
+        },
+        "1505f61747adf41e94a27b064a284b40": {
+            "text": "Bitte beachten Sie, dass Sie, wenn Sie Ihre Einstellungen f\u00fcr \"Ausw\u00e4hlbare Seiten\" oder \" Beschriftungsfeld\" \u00e4ndern, auch Ihren URL-Handler-Code daf\u00fcr aktualisieren m\u00fcssen."
+        },
+        "6aa01c4fdc82ff85bc6299056ef15167": {
+            "text": "Der Platzhalter \"{q}\" ist irgendwo in Ihrer Ajax-URL erforderlich."
+        },
+        "4c38a85c32ea7ee51ac917693c988269": {
+            "text": "Erlauben Sie den Benutzern, ihre eigenen Tags einzugeben?"
+        },
+        "f03041db1e5b27242c249d020d997331": {
+            "text": "Dropdown nach jeder Auswahl schlie\u00dfen?"
+        },
+        "e077077fcf3ef41f3ad162f4cc681209": {
+            "text": "(f\u00fcr Einzelwort-Tags)"
+        },
+        "826be3095514fef3d79e6f899b887ecc": {
+            "text": "(f\u00fcr Mehrwort-Tags)"
+        },
+        "dfb1a97826511d6e6732545b6e536bd5": {
+            "text": "Tag-Trennzeichen"
+        },
+        "d511f8439ecde36647437fbba67a4394": {
+            "text": "Leerzeichen"
+        },
+        "58be47db9455679e6a44df2eff9c9fa6": {
+            "text": "Komma"
+        },
+        "2ab1f3f893823298751fdf60b4e0365a": {
+            "text": "Strich\/Pipe"
+        },
+        "4192f616db902e9df5391f247482d3b8": {
+            "text": "Maximale Tags\/Optionen"
+        },
+        "66553e3b94c6fdf004b777c7e8187afd": {
+            "text": "Verwenden Sie 0 f\u00fcr keine Begrenzung oder geben Sie die maximale Anzahl von Optionen\/Tags ein, die der Benutzer ausw\u00e4hlen oder eingeben kann."
+        },
+        "fd9b78d0ec0b8004cc27a0872e531698": {
+            "text": "Beachten Sie, dass die Eingabe von 1 die Eingabe eher wie eine Auswahl als eine Texteingabe erscheinen l\u00e4sst."
+        },
+        "910370309c0af1e93df0ae98ff8cfe5a": {
+            "text": "Platzhaltertext"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Optionaler Platzhaltertext, der in dem Feld erscheint, wenn es leer ist."
+        },
+        "350efb22a387fd0b416e2835e7ddd4e8": {
+            "text": "Text tags"
+        },
+        "28e1cc9b637fcfb04e136e18800240ff": {
+            "text": "Erm\u00f6glicht die Eingabe von vom Benutzer eingegebenen Tags oder die Auswahl vordefinierter Tags."
+        }
+    }
+}

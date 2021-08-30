@@ -78,7 +78,7 @@
             "text": "E-Mail-Adresse"
         },
         "9e70a5d3dab1960c04b55a29f310331e": {
-            "text": "Entweder , oder"
+            "text": "Entweder E-Mail-Adresse oder Benutzername"
         },
         "d619a734f94b65d5137233c7d9a8fe69": {
             "text": "Um die E-Mail-Anmeldung zu verwenden, m\u00fcssen Sie die \"eindeutig\" Einstellung f\u00fcr Ihr E-Mail-Feld aktivieren."
@@ -142,6 +142,15 @@
         },
         "eb85010d3dccc246aa17a0a4671be4a4": {
             "text": "Rollen"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Deaktiviert"
+        },
+        "2eeb1b1520e3542ede796b6245e1695a": {
+            "text": "Typ"
+        },
+        "987180bcb4c386f67e0922affbf79d0b": {
+            "text": "Anmelden"
         }
     }
 }

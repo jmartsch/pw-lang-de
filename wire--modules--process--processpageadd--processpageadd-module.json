@@ -18,7 +18,7 @@
             "text": "Eine neue Seite hinzuf\u00fcgen"
         },
         "bb8bbda58833ce19eef6193e1918e8cf": {
-            "text": "Automatisches ver\u00f6ffentlichen deaktivieren"
+            "text": "Automatisches Ver\u00f6ffentlichen deaktivieren"
         },
         "13148993e6c4399880e879c88a664347": {
             "text": "Standardm\u00e4\u00dfig werden Seiten, welche nur ein globales Feld (in der Regel \"title\") enthalten, automatisch ver\u00f6ffentlicht. Dort wird der \u00fcbliche \"unver\u00f6ffentlicht\" Status umgangen. Normalerweise ist dies eine erw\u00fcnschte Zeitersparnis. Aber Sie k\u00f6nnen dies mit Auswahl der unteren Box deaktivieren."

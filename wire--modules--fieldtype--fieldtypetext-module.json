@@ -2,14 +2,32 @@
     "file": "wire\/modules\/Fieldtype\/FieldtypeText.module",
     "textdomain": "wire--modules--fieldtype--fieldtypetext-module",
     "translations": {
-        "82829c5912f395b029a87c565359835c": {
-            "text": "Textformatierung"
-        },
-        "965a2e6ce23bd9e9ca5122fb9862be60": {
-            "text": "Wenn Sie w\u00e4hrend der Vorbereitung f\u00fcr die Ausgabe eine automatische Formatierung anwenden m\u00f6chten, w\u00e4hlen Sie eine oder mehrere Formatierungen von oben."
-        },
         "ed0f8be4615cf14dc76c1bb2629edf41": {
             "text": "F\u00fcr einfache Textfelder, welche kein HTML oder sonstiges Markup enthalten, empfehlen wir oben die Option **HTML Entity Encoder** zu w\u00e4hlen."
+        },
+        "d8519baaabde7d5b04b001afff86b1c9": {
+            "text": "Text-Einstellungen"
+        },
+        "41d534244071f567ec8887353f125f86": {
+            "text": "Text-Formatierer"
+        },
+        "9bf6e7e02fcf9320c882455021560f5b": {
+            "text": "Wenn Sie eine automatische Formatierung auf das Feld anwenden m\u00f6chten, wenn es f\u00fcr die Ausgabe vorbereitet wird, w\u00e4hlen Sie hier einen oder mehrere Textformatierer aus."
+        },
+        "8b77c2ae8c7851a0bbc6c4a7914815c2": {
+            "text": "Wenn Sie mehrere ausgew\u00e4hlt haben, ziehen Sie sie in die Reihenfolge, in der sie angewendet werden sollen."
+        },
+        "7c09c7fa6cd2ade15be9247528c4d4e9": {
+            "text": "Weitere finden Sie im Verzeichnis der Textformatierungsmodule."
+        },
+        "7a1920d61156abc05a60135aefe8bc67": {
+            "text": "Standard"
+        },
+        "9f66b905cac6adfee97389b0d11b2db2": {
+            "text": "Speichern Sie, nachdem Sie diese Einstellung ge\u00e4ndert haben, da es sich auf die Einstellungen auswirken kann, die auf der Registerkarte \"Eingabe\" verf\u00fcgbar sind."
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "="
         }
     }
 }

@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentListCustom.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentlistcustom-php",
+    "translations": {
+        "8725214cdd9f9af24e914b5da135793d": {
+            "text": "+"
+        },
+        "25d8df6e580905091a0d5ef5b9e05bf0": {
+            "text": "Antwort"
+        },
+        "bdcb3f3a08600f5cf561115f90253bb4": {
+            "text": "%d Antwort"
+        },
+        "e7176629340ee4244be7962d5ed68616": {
+            "text": "%d Antworten"
+        }
+    }
+}

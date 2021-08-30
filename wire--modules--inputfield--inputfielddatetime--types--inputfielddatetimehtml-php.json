@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/types\/InputfieldDatetimeHtml.php",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--types--inputfielddatetimehtml-php",
+    "translations": {
+        "0e8f21f09ae327a89b030e9df934de30": {
+            "text": "HTML5 natives Datum, Uhrzeit oder beides"
+        },
+        "3d6b7b2eaab198f0dca6f741d6cd7178": {
+            "text": "HTML-Eingabetyp"
+        },
+        "44749712dbec183e983dcd78a7736c41": {
+            "text": "Datum"
+        },
+        "a76d4ef5f3f6a672bbfab2865563e530": {
+            "text": "Uhrzeit"
+        },
+        "d060352fa78723b152199ca69e02ff18": {
+            "text": "Datum und Uhrzeit"
+        },
+        "d836d96f45dbb0d871fc892d4a4dc073": {
+            "text": "Schritt Tage zur Datumseingabe"
+        },
+        "0ad6f617180d27600edab7be9a079f90": {
+            "text": "Minimal zul\u00e4ssiges Datum"
+        },
+        "62d2ced9bc40c8d0d5bed70b2b32d9e5": {
+            "text": "Maximal zul\u00e4ssiges Datum"
+        },
+        "d5a7df727e5b8e2f4beae7377e5e00be": {
+            "text": "Schritt Sekunden f\u00fcr Zeiteingabe"
+        },
+        "881f6f061eac7055ad209a17121c5130": {
+            "text": "Mindeste Uhrzeit"
+        },
+        "65a779047df07c9cd6b487739e402ddf": {
+            "text": "Maximale Uhrzeit"
+        }
+    }
+}

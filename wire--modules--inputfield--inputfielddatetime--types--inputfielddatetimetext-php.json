@@ -1,0 +1,108 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/types\/InputfieldDatetimeText.php",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--types--inputfielddatetimetext-php",
+    "translations": {
+        "ce7581417b903cd7bb99be8785822ce8": {
+            "text": "Texteingabe mit jQuery UI datepicker"
+        },
+        "566235c7913fdded5a84d4578758515f": {
+            "text": "Datumsauswahl"
+        },
+        "7962180f3333f0ccaa9e208cccaac049": {
+            "text": "Keine Datums-\/Zeitauswahl"
+        },
+        "aa547f01eea89a5b845b6db3870ba757": {
+            "text": "Datum\/Uhrzeit-Auswahl bei Feldfokus"
+        },
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(empfohlen)"
+        },
+        "edcc19a354ad1b61e258b993a1ff09c4": {
+            "text": "Datums-\/Zeitauswahl beim Klicken auf die Schaltfl\u00e4che"
+        },
+        "c3119c40400e0c55178bba8a9b8e36d8": {
+            "text": "Inline-Datumsauswahl immer sichtbar (keine Zeitauswahl)"
+        },
+        "53e628836cd60f6dbb5fe56320f776ef": {
+            "text": "Eingabeformate f\u00fcr Datum\/Uhrzeit"
+        },
+        "38322714c2bfe9eba81ea980714fd0a6": {
+            "text": "Datumseingabeformat"
+        },
+        "7656e28d6e435ffecc453794149e6a0d": {
+            "text": "W\u00e4hlen Sie das Format, das f\u00fcr die Benutzereingabe in dieses Feld verwendet werden soll. Ihre Auswahl f\u00fcllt das Feld darunter, das Sie bei Bedarf weiter anpassen k\u00f6nnen."
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(Unix-Zeitstempel)"
+        },
+        "91c0a51785efc109b0fdb5d710a2656e": {
+            "text": "Format der Zeiteingabe"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Keine"
+        },
+        "44d9d932f51a771c8c76c2dc6ff57e1f": {
+            "text": "W\u00e4hlen Sie ein optionales Zeitformat, das f\u00fcr die Eingabe verwendet werden soll. Falls verwendet, enth\u00e4lt die Kalenderoption eine Zeitauswahl."
+        },
+        "91c4223a8591eed0ecab28c3a1a880b2": {
+            "text": "Zeiteingabe Typ"
+        },
+        "08d3eb379def33331427b243c363eef5": {
+            "text": "Mit Schiebereglern (Standard) kann der Benutzer die Zeit mit Hilfe von Schiebereglern ausw\u00e4hlen, w\u00e4hrend er mit Select die Zeit aus einem Dropdown-Men\u00fc ausw\u00e4hlen kann."
+        },
+        "9ad46d2d4f10955abfc9ca97565bba87": {
+            "text": "Schieberegler"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "+"
+        },
+        "4dc865ad9218b271e212f2656a4415e4": {
+            "text": "Datumseingabeformat Code"
+        },
+        "20f706119fa58d0787ea397d413bf1e0": {
+            "text": "Dieses wird automatisch aus dem oben ausgew\u00e4hlten Datum erstellt, sofern Sie es nicht \u00e4ndern."
+        },
+        "e87ce06927649f8cdfff9e27c4ac8e3d": {
+            "text": "Weitere Informationen \u00fcber die Anpassung dieser Formate finden Sie in der Referenz der Funktion [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php)."
+        },
+        "3668c3ec43f4b401c6de009e3abb73f9": {
+            "text": "Optional k\u00f6nnen Sie hier auch Formate f\u00fcr andere Sprachen angeben. Alle Sprachen, die Sie leer lassen, \u00fcbernehmen die Standardeinstellung."
+        },
+        "b3641a0b694cd7a82856611ce58d4979": {
+            "text": "Uhrzeit Eingabeformat Code"
+        },
+        "3dd984b18a5880f9279e17ff2e53a5de": {
+            "text": "Diese wird automatisch aus der oben ausgew\u00e4hlten Zeit erstellt, sofern Sie sie nicht \u00e4ndern."
+        },
+        "6485c7641245873388f0170f472183c6": {
+            "text": "Platzhaltertext"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Optionaler Platzhaltertext, der in dem Feld erscheint, wenn es leer ist."
+        },
+        "6f6cb72d544962fa333e2e34ce64f719": {
+            "text": "Gr\u00f6\u00dfe"
+        },
+        "49e0e66405106d4f9cf741207255476f": {
+            "text": "Die angezeigte Breite dieses Feldes (in Zeichen)."
+        },
+        "0825dd56fbac59b910dff90abf30024d": {
+            "text": "Jahreszeitraum"
+        },
+        "105145f02985f6f81d519b78eaca6dfb": {
+            "text": "Wenn eine vordefinierte Jahresauswahl m\u00f6glich ist, gibt es einen Bereich von plus oder minus 10 Jahren ab dem aktuellen Jahr."
+        },
+        "57bed892b74c37659d8705088727032e": {
+            "text": "Um diesen Zeitraum zu \u00e4ndern, geben Sie die Anzahl der Jahre vor und nach dem aktuellen Jahr in diesem Format an: 30:+20\", was 30 Jahre vor dem aktuellen Jahr und 20 Jahre nach dem aktuellen Jahr anzeigen w\u00fcrde."
+        },
+        "ef538874da76f56a05956925c0a162bb": {
+            "text": "Die Standardeinstellung ist -10:+10, was einen Jahresbereich von 10 Jahren vor und nach dem jetzigen Zeitpunkt anzeigt."
+        },
+        "b69f42ea4444ae5aa888b53cf6045710": {
+            "text": "\/wire\/modules\/Jquery\/JqueryUI\/i18n\/jquery.ui.datepicker-de.js"
+        },
+        "7db50c3ca59f3f55260013a5e3481f47": {
+            "text": "timepicker\/i18n\/jquery-ui-timepicker-de.js"
+        }
+    }
+}

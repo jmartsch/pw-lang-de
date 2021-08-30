@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDecimal.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedecimal-module",
+    "translations": {
+        "0f26309b1be1b637d35f604c298b57df": {
+            "text": "Feld \"%1$s\" Schema aktualisiert: %2$s => %3$s"
+        },
+        "506c2c0c7f5b70af3df68c45c46f45a7": {
+            "text": "Zum Beispiel:"
+        },
+        "a495e52f576ff7677bb1ebe793e5cc9e": {
+            "text": "Gesamtzahl der unterst\u00fctzten Zahlen"
+        },
+        "6bc3814dd7bc238bb8c0f906e323d4d7": {
+            "text": "Beinhaltet sowohl Vor- als auch Nachkommastellen."
+        },
+        "7a12767f99c7a4fcac27286992c2030f": {
+            "text": "999,99 ist insgesamt 5-stellig und erfordert daher einen Wert von 5 oder h\u00f6her."
+        },
+        "7d06ba10369f702102235f72dc0f34c8": {
+            "text": "Anzahl der Nachkommastellen"
+        },
+        "0e2cec5723266f020033868d628d6061": {
+            "text": "Dieser Wert ist kleiner (oder in manchen F\u00e4llen gleich) als die Gesamtzahl der Ziffern."
+        },
+        "6acc82c74212c97024e366c4c20d7e3c": {
+            "text": "999,99 und 100,00 haben 2 Ziffern nach dem Komma"
+        },
+        "937504f318f04eaf0f1d701df4c4d7f3": {
+            "text": "Dezimal"
+        },
+        "c9abe09f2a14ec066fadf2954ea16aa6": {
+            "text": "Feld, das eine Dezimalzahl speichert"
+        }
+    }
+}

@@ -25,6 +25,15 @@
         },
         "8883240d9c18322fd43dfd39c8b32e14": {
             "text": "Die vorherige Anmeldesitzung f\u00fcr \"%s\" wurde entfernt bzw. abgemeldet."
+        },
+        "b0736da4c0683db9382ba750a5f0073b": {
+            "text": "Wenn eine DB-Sperre f\u00fcr die Sitzung nicht in so vielen Sekunden erhalten werden kann, wird ein \"%s\"-Fehler gesendet, der den Client auffordert, es in %d Sekunden erneut zu versuchen."
+        },
+        "c1ab83af87ac0bb0dab8511d14260c73": {
+            "text": "429: Zu viele Anfragen"
+        },
+        "38c612b0c7404dbf10629354dfc1ec43": {
+            "text": "Zeit\u00fcberschreitung der Sitzungssperre (Sekunden)"
         }
     }
 }

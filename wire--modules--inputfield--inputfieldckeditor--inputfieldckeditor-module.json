@@ -35,9 +35,6 @@
         "dfabf65177db13369e6f60e33d626a25": {
             "text": "Editor-Modus"
         },
-        "0e0da14bdea5e80af97115d05779bdc4": {
-            "text": "Regul\u00e4rer Editor"
-        },
         "f4bbbce516de30f80d2025ca9cc9a595": {
             "text": "Wenn der Inline-Modus aktiviert ist, wird der Editor erst geladen wenn Sie in den Text klicken. Dies ist schneller und effizienter wenn mehrere CKEditor-Felder auf der Seite sind. Es kann jedoch sein, dass nicht alle M\u00f6glichkeiten oder spezielle Einstellungen wie im regul\u00e4ren Modus unterst\u00fctzt werden."
         },
@@ -197,9 +194,6 @@
         "29c6f6d4517d673b2003e604b4efb687": {
             "text": "="
         },
-        "9f1f94725c69ad201b156e002476104c": {
-            "text": "="
-        },
         "bb38096ab39160dc20d44f3ea6b44507": {
             "text": "="
         },
@@ -232,6 +226,21 @@
         },
         "d17026399e4b0283ab382defdc5ac109": {
             "text": "Standardm\u00e4\u00dfig werden hochgeladene Bilder mit der bearbeiteten Seite gespeichert. Wenn Sie stattdessen eine gemeinsame Seite f\u00fcr diese Anlagen verwenden m\u00f6chten, w\u00e4hlen Sie sie hier aus."
+        },
+        "ddfa2d60092cf3c924e8e03b1d2749ad": {
+            "text": "Inline Editor"
+        },
+        "cece69f97e96edb257b883fcf95e4230": {
+            "text": "Regul\u00e4rer Editor"
+        },
+        "5876f9779e64d0cac98b54f9885e4f84": {
+            "text": "(flexible H\u00f6he, vom Benutzer einstellbar)"
+        },
+        "ea87bd3358b07649df3149bfffc791c8": {
+            "text": "(variable H\u00f6he, entspricht dem Inhalt)"
+        },
+        "47d8cf2fe51854ad3028ba151ef9f3a1": {
+            "text": "(feste H\u00f6he, verwendet Zeilen Einstellung)"
         }
     }
 }

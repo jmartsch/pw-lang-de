@@ -120,16 +120,13 @@
             "text": "Falls Sie wollen, dass alle derzeitigen und zuk\u00fcnftigen Unterseiten automatisch nach einem bestimmten Feld sortiert werden, w\u00e4hlen Sie das Feld unten aus und kreuzen Sie ggf. die \"Umgekehrte Sortierreihenfolge?\"-Checkbox an, um eine absteigende Sortierreihenfolge zu nutzen. Ignorieren Sie die Sortiereinstellungen einfach, falls Sie die Seiten per Drag'n'Drop selbst ordnen wollen."
         },
         "62a92c8e1a013dc0c9a67f2769642e9f": {
-            "text": "Kreuzen Sie die Box an, um zu best\u00e4tigen, dass Sie dies wollen."
+            "text": "Kreuzen sie die Box an, um zu best\u00e4tigen, dass sie dies wollen."
         },
         "6e2e3de95055596f315a073f771342e3": {
             "text": "Diese Seite kann zur Zeit nicht gel\u00f6scht werden."
         },
         "d2387a51d9f67d60dfc2cbb23bd04af2": {
             "text": "Wer hat Zugriff auf diese Seite?"
-        },
-        "eec429d33814974270e5ab8a04a3d23e": {
-            "text": "Der Zugriff ist durch dieses Template geregelt: %s"
         },
         "890e4f4dd63b6c580cbf534f25914565": {
             "text": "Der Zugriff ist von \"%1$s\" geerbt und wird durch dieses Template geregelt: %2$s"
@@ -373,6 +370,18 @@
         },
         "c28806887f7038aa8c83cef389bfcec6": {
             "text": "="
+        },
+        "802d4ac742bc4c352f14d68f10856b2d": {
+            "text": "Der Zugriff ist durch dieses Template geregelt: %s"
+        },
+        "be308063778a2b4976cb94b0e8c7ee84": {
+            "text": "Sichtbar \u00fcber die URL, wenn die Seite eine Templatedatei hat (derzeit ist das nicht der Fall)."
+        },
+        "f5fafb7927ee3b6486882051f8f1c9b4": {
+            "text": "Status hinzugef\u00fcgt: %s"
+        },
+        "a8e9b386531e893ec224b5712121f1fe": {
+            "text": "Status entfernt: %s"
         }
     }
 }

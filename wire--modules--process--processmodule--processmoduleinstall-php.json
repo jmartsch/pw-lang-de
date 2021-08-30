@@ -70,6 +70,15 @@
         },
         "3d32978a99cfd1c17aa9effcace86b1c": {
             "text": "Diese Installationsoption ist derzeit deaktiviert."
+        },
+        "d83612969f53282acff312397c6d8fa8": {
+            "text": "Extrahiert: %s"
+        },
+        "43b2e82a51daa1adee20374e35b3caa9": {
+            "text": "Extrahierte Datei %d"
+        },
+        "aeb9dc1c219e430958416b2390306776": {
+            "text": "Extrahierte Dateien %d"
         }
     }
 }

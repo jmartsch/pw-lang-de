@@ -89,12 +89,6 @@
         "d4705c271d7e1e75a05e9b6236ad836c": {
             "text": "(siehe %s Log)"
         },
-        "91032d1254768e880dbbeede54e35a79": {
-            "text": "%d lokale a[href] Tags', 'Link-Typ"
-        },
-        "5fcef18456ba78863a5a57e162279d2d": {
-            "text": "%d lokale img[src] Tags', 'Link-Typ"
-        },
         "d53200ec5949152baffbeed6c4d58966": {
             "text": "%1$d von %2$d Seiten f\u00fcr HTML Optionen aktualisiert."
         },
@@ -133,6 +127,12 @@
         },
         "bf488dca57621015b17e715b49053f72": {
             "text": "%d leere img[alt] Tags welche zur Laufzeit ausgef\u00fcllt werden"
+        },
+        "211db397a32350b16b977f65a9acada6": {
+            "text": "%d lokale a[href] tags"
+        },
+        "9a2c2c21237a6938a98824b3993a9623": {
+            "text": "%d lokale img[src] tags"
         }
     }
 }

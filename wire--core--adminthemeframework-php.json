@@ -25,6 +25,18 @@
         },
         "9d228734f81e102a94540a1508e69d1d": {
             "text": "="
+        },
+        "5d245d16dae6579f37c78f49f078b36a": {
+            "text": "Benutzer zu diesem Admin-Theme \u00e4ndern"
+        },
+        "5b5cb08a3f289568f6d628e8f4858906": {
+            "text": "W\u00e4hlen Sie die Benutzerrolle aus, um passende Benutzer auf dieses Admin-Thema zu aktualisieren."
+        },
+        "bb387a29dee8d495ac6a7870d5e10442": {
+            "text": "Rolle: %s"
+        },
+        "f590c9f5400a3be977d2027832a99e02": {
+            "text": "%d Benutzer sollen dieses Admin Theme bekommen"
         }
     }
 }
