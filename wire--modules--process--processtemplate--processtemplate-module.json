@@ -692,9 +692,6 @@
         "2d234a37f1f09a868ff9e51cbec93c0a": {
             "text": "Schema\/Protokoll"
         },
-        "ae89f7319ca951efb3ce055e92b8ade2": {
-            "text": "Definieren Sie die Felder, welche von diesem Template benutzt werden. Sie k\u00f6nnen diese mittels Drag 'n' Drop umsortieren oder [ein neues Feld erstellen](..\/field\/add)."
-        },
         "70445e42e2f9089020b0ba1c23063287": {
             "text": "Cache f\u00fcr die gespeicherte Seite und andere Seiten mit zutreffendem Selektor leeren..."
         },
@@ -1063,6 +1060,15 @@
         },
         "7a53b43fab8ccbe670792e7832ef2588": {
             "text": "Tag \"%1$s\" aus Template entfernt: %2$s"
+        },
+        "1ee7f0f967f1817a4d0df8dac4105ebc": {
+            "text": "W\u00e4hlen Sie die Felder aus, die von diesem Template verwendet werden, und bringen Sie sie per Drag & Drop in die gew\u00fcnschte Reihenfolge."
+        },
+        "2e5b330cc3f63247217f9a7aff0ba468": {
+            "text": "Sie k\u00f6nnen auch auf den Feldnamen oder die Beschriftung klicken, um sie im Kontext dieses Templates zu bearbeiten. Klicken\/Ziehen Sie die Prozentanzeige, um die Breite anzupassen, oder [ein neues Feld erstellen](%s)."
+        },
+        "5b55d084858290c6852cb1b0bd6be400": {
+            "text": "Speichern Sie dieses Template, damit neu hinzugef\u00fcgte Felder hier bearbeitet werden k\u00f6nnen."
         }
     }
 }

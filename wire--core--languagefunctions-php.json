@@ -1,0 +1,51 @@
+{
+    "file": "wire\/core\/LanguageFunctions.php",
+    "textdomain": "wire--core--languagefunctions-php",
+    "translations": {
+        "1cb251ec0d568de6a929b520c4aed8d1": {
+            "text": "Text"
+        },
+        "fb5bc6b1ef6713a60dc29d381c94f0c0": {
+            "text": "Dies ist \u00fcbersetzbarer Text"
+        },
+        "83378236d008605772b0b7ad762cfad4": {
+            "text": "Sie lesen gerade die Seite %s"
+        },
+        "f49588184356b1846ce48469ae3843ac": {
+            "text": "%d ist die aktuelle Seiten-ID"
+        },
+        "e1fe2670bb21367812b567146e61221d": {
+            "text": "Heute ist %1$s und die Zeit ist %2$s"
+        },
+        "355e4477dc80f629e33f018fac3d9836": {
+            "text": "Willkommen, mein Freund!"
+        },
+        "e0e5bd63c9d415c7fb84eecaa74c78fc": {
+            "text": "Neuer Text"
+        },
+        "777005300b355c69534803c6407f99e7": {
+            "text": "Kanadagans"
+        },
+        "d1346524ac7f6fe232016c077a9fc6ec": {
+            "text": "Klicken Sie f\u00fcr mehr"
+        },
+        "59e4da1ec2723e6d05ec5feeaf7f7924": {
+            "text": "Klicken Sie f\u00fcr mehr"
+        },
+        "eadea3a747e3696d7959fb28d1d18230": {
+            "text": "Suche"
+        },
+        "fbe3c412d3a00ee92f603be1b42465d5": {
+            "text": "+"
+        },
+        "5fc84d0317482d09f3ddd893414e51dd": {
+            "text": "Ein Element gefunden"
+        },
+        "b676034ffa6131761ecc1b8e151c44ef": {
+            "text": "Mehrere Elemente gefunden"
+        },
+        "a91d611a962e2baf78e47b720f43bfdd": {
+            "text": "%d Elemente gefunden"
+        }
+    }
+}

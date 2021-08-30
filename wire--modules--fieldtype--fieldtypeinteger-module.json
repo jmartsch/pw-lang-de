@@ -23,11 +23,11 @@
         "31ce3cdcd67850870b616f75b555bbc5": {
             "text": "Standardwert"
         },
-        "40adc22d3ad8d2d7a5e2b17a44ac2658": {
-            "text": "Dieser Wert wird diesem Feld als Standard auf neu erstellten Seiten zugewiesen. Existierende Seiten werden davon nicht beeinflusst."
-        },
         "b4e4ee05aeb0d5812f77886c29c4bb53": {
             "text": "Wenn sie nicht gleichwertig sind (Nein-Option), wird eine Suche nach **field=0** nur auf Felder mit dem Wert 0 und **field=\"\"** nur auf Felder ohne Wert zutreffen."
+        },
+        "382ee7815f7200f67e7a5735816c78d2": {
+            "text": "Dieser Wert wird als Standardwert f\u00fcr dieses Feld auf Seiten zugewiesen, auf denen kein Wert eingegeben wurde."
         }
     }
 }

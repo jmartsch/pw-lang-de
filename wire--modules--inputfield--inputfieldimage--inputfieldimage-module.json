@@ -5,15 +5,6 @@
         "7e4cc6c00140cefcecd178df1836fbba": {
             "text": "Das Bild wurde auf die maximal erlaubte Gr\u00f6\u00dfe skaliert"
         },
-        "ef375d406da59811c42dc0f5a245dca3": {
-            "text": "Sie k\u00f6nnen optional die maximale Breite und\/oder H\u00f6he hochgeladenener Bilder angeben. Falls angegeben werden Bilder beim Hochladen verkleinert, wenn sie entweder die maximale H\u00f6he oder Breite \u00fcberschreiten. Die Verkleinerung wird nur beim Hochladen ausgef\u00fchrt und betrifft daher weder Bilder, die bereits im System vorhanden sind, noch Bilder die \u00fcber die API hinzugef\u00fcgt werden."
-        },
-        "e69ccb31941d2fd7923c6b0c01957db3": {
-            "text": "Maximale Breite f\u00fcr hochgeladene Bilder"
-        },
-        "c58e466902d0ff945d0677114e41682b": {
-            "text": "Maximale H\u00f6he f\u00fcr hochgeladene Bilder"
-        },
         "fff0d600f8a0b5e19e88bfb821dd1157": {
             "text": "Bilder"
         },
@@ -26,23 +17,8 @@
         "41cfe40655c4b51507eff9d22bd777f2": {
             "text": "Bild von %s entspricht nicht der Mindestgr\u00f6\u00dfe"
         },
-        "a195023920e6ece61b6211755c9af27f": {
-            "text": "Optional kann die Mindestbreite und\/oder -h\u00f6he der hochzuladenden Bilder eingetragen werden. Falls festgelegt, werden Bilder mit nicht zutreffenden Werten abgewiesen."
-        },
-        "d704e5da0e9e4ca2aa3e04201575f44c": {
-            "text": "Mindestbreite f\u00fcr hochgeladene Bilder"
-        },
-        "b477617de997199bdd26761085aea486": {
-            "text": "Mindesth\u00f6he f\u00fcr hochgeladene Bilder"
-        },
-        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
-            "text": "Geben Sie den Wert in Pixeln an oder lassen Sie es leer, um kein Limit vorzugeben."
-        },
         "5e244fccb2d4cda18bebf756dacce94c": {
             "text": "Bild von %s \u00fcberschreitet die maximal erlaubte Gr\u00f6\u00dfe"
-        },
-        "dffe78c5f55b8a4187b91c40a03cf904": {
-            "text": "Bilder abweisen, welche die maximalen Dimensionen \u00fcberschreiten?"
         },
         "d388632d05e8826abe4b95de0b110529": {
             "text": "Zuschneiden"
@@ -63,7 +39,7 @@
             "text": "neue Bilder per Drag und Drop oben einf\u00fcgen"
         },
         "382b0f5185773fa0f67a8ed8056c7759": {
-            "text": "N\/V"
+            "text": "Nicht verf\u00fcgbar"
         },
         "d6a369d29506d3151a76c33791fc80b6": {
             "text": "zum Ersetzen neue Bilddatei einf\u00fcgen"
@@ -79,81 +55,6 @@
         },
         "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
             "text": "Es gibt oben Thumbnail-Vorschaubilder die \u00e4lter oder in geringerer Qualit\u00e4t sind - diese Box markieren zur Neuerstellung der Bilder."
-        },
-        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
-            "text": "Standardmodus des Bildrasters"
-        },
-        "c53c009277b900e7292c4b49f07ddaec": {
-            "text": "Im Adminbereich wird die Liste der Bilder standardm\u00e4\u00dfig in diesem Modus dargestellt. Der Benutzer kann es jederzeit \u00e4ndern, durch klicken auf die Symbole in der oberen rechten Ecke des Feldes."
-        },
-        "e6c7b90087278c53b5361182358a2d92": {
-            "text": "Falls Sie dieses Bilder-Feld gerade erst benutzt haben, m\u00fcssen Sie zuerst die Cookies l\u00f6schen, bevor man die ver\u00e4nderte Einstellung sieht."
-        },
-        "a188c29fb8020eee47113073e366f78e": {
-            "text": "Rechteckiges Bildraster"
-        },
-        "06d5ddb736061086ad90f364eca1c56d": {
-            "text": "Proportionales Bildraster"
-        },
-        "fa996d5ac4351e7e603f3ab1b9f77afe": {
-            "text": "Vertikale Liste (ausführlich)"
-        },
-        "a39e1de5e7b995d90322ab7d047428bc": {
-            "text": "Min\/Max Dimensionen tauschen f\u00fcr Hochformat?"
-        },
-        "7f3d934927a1c106f5191c01b36c7766": {
-            "text": "Falls ausgew\u00e4hlt, werden Mindestbreite\/-h\u00f6he und Maximalbreite\/-h\u00f6he getauscht, um dem unterschiedlichen Seitenverh\u00e4ltnis Rechnung zu tragen."
-        },
-        "84a327773a9172357f703ebdbb28680b": {
-            "text": "Maximale Bild-Dimensionen"
-        },
-        "16e3e850ce20fe9fa8340e6d27693f61": {
-            "text": "Gilt f\u00fcr JPG, PNG und GIF Bilder."
-        },
-        "9fdc5bac96032d0465aa6cc6543d1871": {
-            "text": "Wie man die Gr\u00f6\u00dfe auf maximale Dimensionen \u00e4ndert"
-        },
-        "434352c2b6134b909827f386b3644f0f": {
-            "text": "Die clientseitige Gr\u00f6\u00dfen\u00e4nderung erlaubt Ihnen, die Dateigr\u00f6\u00dfe und Dimensionen vor dem Hochladen zu reduzieren."
-        },
-        "c265ab5c0405e78595f05a15d5279278": {
-            "text": "Bei Verwendung der clientseitigen Gr\u00f6\u00dfen\u00e4nderung geben Sie bitte sowohl die maximale Breite als *auch* die maximale H\u00f6he in den Feldern oben oder die maximalen Megapixel im Feld unten an."
-        },
-        "edcf99dacdc6160d6eb8d2efb90ee189": {
-            "text": "Nutze clientseitige Gr\u00f6\u00dfen\u00e4nderung wenn m\u00f6glich"
-        },
-        "4421a363b922af1808ae2b258c9d11bb": {
-            "text": "Nutze nur serverseitige Gr\u00f6\u00dfen\u00e4nderung"
-        },
-        "41d833b452340b52caa65fdcfe181945": {
-            "text": "Maximale Megapixel f\u00fcr hochgeladene Bilder"
-        },
-        "86d448ef6f037ce16fc358a22921c45c": {
-            "text": "Dies kann als Alternative zur maximalen Breite\/H\u00f6he genutzt werden. Geben Sie einen Gleitkommawert an."
-        },
-        "bd035d6e1aa04d38e61f36c27150e39d": {
-            "text": "Gilt nur f\u00fcr clientseitige Gr\u00f6\u00dfen\u00e4nderung."
-        },
-        "c719e0f0e40f5193e0bbe6f9afc408e5": {
-            "text": "Andere Beispiele:"
-        },
-        "a29b9e543bb7bc0f4b7e2c04d0a1c820": {
-            "text": "Prozentwert der Qualit\u00e4t f\u00fcr Gr\u00f6\u00dfen\u00e4nderungen von JPEGs"
-        },
-        "ab00b0c8eb852647eee9553c75a100fe": {
-            "text": "Definiere eine Zahl zwischen 10 (niedrigste Qualit\u00e4t\/kleinste Dateigr\u00f6\u00dfe) und 100 (h\u00f6chste Qualit\u00e4t\/gr\u00f6\u00dfte Dateigr\u00f6\u00dfe). Standard ist 90."
-        },
-        "aa09d92fbba4044af814b7504798dec3": {
-            "text": "Falls markiert werden Bilder, welche die maximale Breite\/H\u00f6he (die nicht clientseitig verkleinert werden kann) \u00fcberschreiten, abgewiesen anstatt neu skaliert."
-        },
-        "2d77facadb02370d5dd7c076b5afbee7": {
-            "text": "Mindest Bild-Dimensionen"
-        },
-        "98ebe60c452735dc2ef2249c835eddfe": {
-            "text": "Gilt nur f\u00fcr serverseitige Gr\u00f6\u00dfen\u00e4nderungen."
-        },
-        "fe64c68c1aa30e687be4aa011b33f15f": {
-            "text": "Ein guter Wert f\u00fcr Webseiten ist 1.7 und entspricht etwa 1600x1000 Pixel, wobei 1600 und 1000 entweder Breite oder H\u00f6he sein k\u00f6nnen."
         },
         "06df33001c1d7187fdd81ea1f5b277aa": {
             "text": "Aktionen"
@@ -220,24 +121,6 @@
         },
         "40c760714d188227815e2e1ed3369c29": {
             "text": "Fokus entfernen"
-        },
-        "e0f4085735da81540154c2c351147301": {
-            "text": "Fokuspunktauswahl"
-        },
-        "f6a9e8b3977d98dd0e4b7b13720c858b": {
-            "text": "Erm\u00f6glicht einen ziehbaren Fokuspunkt, um das Motiv eines Bildes auszuw\u00e4hlen. Dies hilft, nichtproportionale Zuschnitte zu erzeugen."
-        },
-        "17450a5a8844e5a36f3911d94bea2b72": {
-            "text": "Eine Vorschau des Fokuspunkts wird auch angezeigt, wenn sich Bilder im Modus \"Quadratische Rasterbilder\" befinden."
-        },
-        "470ede3fd1e5fcf4fca77d7fbf5df11a": {
-            "text": "Fokuspunkt"
-        },
-        "2d07823e1de7d7eb6f09477f9070524f": {
-            "text": "Fokuspunkt und zoomen"
-        },
-        "b9f5c797ebbf55adccdd8539a65a0241": {
-            "text": "+"
         }
     }
 }

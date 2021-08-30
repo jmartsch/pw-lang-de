@@ -1,0 +1,126 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/config.php",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--config-php",
+    "translations": {
+        "fefc3e3c3400216f77f0b3c6b12adfb7": {
+            "text": "Merkmale der Eingabe"
+        },
+        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
+            "text": "Standard Rastermodus f\u00fcr Bilder"
+        },
+        "c53c009277b900e7292c4b49f07ddaec": {
+            "text": "Im Admin wird die Liste der Bilder standardm\u00e4\u00dfig in diesem Modus angezeigt. Der Benutzer kann dies jederzeit \u00e4ndern, indem er auf die Symbole in der oberen rechten Ecke des Feldes klickt."
+        },
+        "e6c7b90087278c53b5361182358a2d92": {
+            "text": "Wenn Sie dieses Bildfeld k\u00fcrzlich verwendet haben, m\u00fcssen Sie Ihre Cookies l\u00f6schen, bevor Sie die \u00c4nderungen in dieser Einstellung sehen."
+        },
+        "a188c29fb8020eee47113073e366f78e": {
+            "text": "Quadratische Bilder"
+        },
+        "06d5ddb736061086ad90f364eca1c56d": {
+            "text": "Proportionale Bilder"
+        },
+        "fa996d5ac4351e7e603f3ab1b9f77afe": {
+            "text": "Vertikale Liste (ausf\u00fchrlich)"
+        },
+        "e0f4085735da81540154c2c351147301": {
+            "text": "Auswahl des Fokuspunkts"
+        },
+        "f6a9e8b3977d98dd0e4b7b13720c858b": {
+            "text": "Erm\u00f6glicht die Auswahl eines verschiebbaren Fokuspunktes, um das Motiv eines Bildes auszuw\u00e4hlen. Dies hilft bei der Erstellung nichtproportionaler Ausschnitte."
+        },
+        "17450a5a8844e5a36f3911d94bea2b72": {
+            "text": "Eine Vorschau des Fokuspunkts wird auch angezeigt, wenn sich die Bilder im Modus \"Quadratische Bilder\" befinden."
+        },
+        "470ede3fd1e5fcf4fca77d7fbf5df11a": {
+            "text": "Fokuspunkt"
+        },
+        "2d07823e1de7d7eb6f09477f9070524f": {
+            "text": "Fokuspunkt und Zoom"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "+"
+        },
+        "84a327773a9172357f703ebdbb28680b": {
+            "text": "Maximale Bilddimensionen"
+        },
+        "ef375d406da59811c42dc0f5a245dca3": {
+            "text": "Geben Sie optional die maximale Breite und\/oder H\u00f6he der hochgeladenen Bilder an. Falls angegeben, wird die Gr\u00f6\u00dfe der Bilder beim Hochladen angepasst, wenn sie die maximale Breite oder H\u00f6he \u00fcberschreiten. Die Gr\u00f6\u00dfen\u00e4nderung wird zum Zeitpunkt des Hochladens durchgef\u00fchrt und wirkt sich daher nicht auf Bilder im System oder \u00fcber die API hinzugef\u00fcgte Bilder aus."
+        },
+        "16e3e850ce20fe9fa8340e6d27693f61": {
+            "text": "Gilt f\u00fcr JPG-, PNG- und GIF-Bilder."
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "Geben Sie den Wert in Pixel ein oder lassen Sie ihn leer, wenn es keine Begrenzung gibt."
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "Maximale Breite f\u00fcr hochgeladene Bilder"
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "Maximale H\u00f6he f\u00fcr hochgeladene Bilder"
+        },
+        "9fdc5bac96032d0465aa6cc6543d1871": {
+            "text": "Wie soll die Gr\u00f6\u00dfe f\u00fcr die maximalen Dimensionen erfolgen?"
+        },
+        "434352c2b6134b909827f386b3644f0f": {
+            "text": "Mit der clientseitigen Gr\u00f6\u00dfen\u00e4nderung k\u00f6nnen Sie die Dateigr\u00f6\u00dfe und -abmessungen vor dem Hochladen reduzieren."
+        },
+        "c265ab5c0405e78595f05a15d5279278": {
+            "text": "Wenn Sie die clientseitige Gr\u00f6\u00dfen\u00e4nderung verwenden, geben Sie bitte sowohl die maximale Breite *als auch* die maximale H\u00f6he in den Feldern oben oder die maximalen Megapixel in dem Feld unten an."
+        },
+        "edcf99dacdc6160d6eb8d2efb90ee189": {
+            "text": "Client-seitige Gr\u00f6\u00dfen\u00e4nderung verwenden, wenn m\u00f6glich"
+        },
+        "4421a363b922af1808ae2b258c9d11bb": {
+            "text": "Nur die serverseitige Gr\u00f6\u00dfen\u00e4nderung verwenden"
+        },
+        "41d833b452340b52caa65fdcfe181945": {
+            "text": "Maximale Megapixel f\u00fcr hochgeladene Bilder"
+        },
+        "86d448ef6f037ce16fc358a22921c45c": {
+            "text": "Dies kann als Alternative zu max width\/height verwendet werden. Geben Sie einen Flie\u00dfkommawert an."
+        },
+        "bd035d6e1aa04d38e61f36c27150e39d": {
+            "text": "Gilt nur f\u00fcr die client-seitige Gr\u00f6\u00dfen\u00e4nderung."
+        },
+        "fe64c68c1aa30e687be4aa011b33f15f": {
+            "text": "Ein guter Wert f\u00fcr Websites ist 1,7, was ungef\u00e4hr 1600x1000 Pixeln entspricht, wobei 1600 und 1000 entweder Breite oder H\u00f6he bedeuten k\u00f6nnen."
+        },
+        "c719e0f0e40f5193e0bbe6f9afc408e5": {
+            "text": "Andere Beispiele:"
+        },
+        "a29b9e543bb7bc0f4b7e2c04d0a1c820": {
+            "text": "Clientseitige Gr\u00f6\u00dfen\u00e4nderung Qualit\u00e4tsstufe f\u00fcr JPEGs in Prozent"
+        },
+        "ab00b0c8eb852647eee9553c75a100fe": {
+            "text": "Geben Sie eine Zahl zwischen 10 (niedrigste Qualit\u00e4t\/kleinste Dateigr\u00f6\u00dfe) und 100 (h\u00f6chste Qualit\u00e4t\/gr\u00f6\u00dfte Dateigr\u00f6\u00dfe) an. Standardwert ist 90."
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Bilder, die die maximalen Abmessungen \u00fcberschreiten, ablehnen?"
+        },
+        "aa09d92fbba4044af814b7504798dec3": {
+            "text": "Wenn diese Option aktiviert ist, werden Bilder, die die maximale Breite\/H\u00f6he \u00fcberschreiten (und deren Gr\u00f6\u00dfe nicht client-seitig ge\u00e4ndert werden kann), abgelehnt und nicht in ihrer Gr\u00f6\u00dfe ge\u00e4ndert."
+        },
+        "2d77facadb02370d5dd7c076b5afbee7": {
+            "text": "Minimale Bildabmessungen"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "Geben Sie optional die Mindestbreite und\/oder -h\u00f6he der hochgeladenen Bilder an. Falls angegeben, werden Bilder, die diese Mindestma\u00dfe nicht erf\u00fcllen, abgelehnt."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "Mindestbreite f\u00fcr hochgeladene Bilder"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "Mindesth\u00f6he f\u00fcr hochgeladene Bilder"
+        },
+        "a39e1de5e7b995d90322ab7d047428bc": {
+            "text": "Minimal-\/Maximalabmessungen f\u00fcr Hochformatbilder (Portrait) vertauschen?"
+        },
+        "7f3d934927a1c106f5191c01b36c7766": {
+            "text": "Wenn diese Option aktiviert ist, werden die Mindestma\u00dfe f\u00fcr Breite und H\u00f6he und die H\u00f6chstma\u00dfe f\u00fcr Breite und H\u00f6he bei Hochformatbildern vertauscht, um dem unterschiedlichen Seitenverh\u00e4ltnis Rechnung zu tragen."
+        },
+        "98ebe60c452735dc2ef2249c835eddfe": {
+            "text": "Gilt nur f\u00fcr serverseitige Gr\u00f6\u00dfen\u00e4nderungen."
+        }
+    }
+}

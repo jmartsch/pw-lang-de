@@ -1,0 +1,66 @@
+{
+    "file": "wire\/core\/Tfa.php",
+    "textdomain": "wire--core--tfa-php",
+    "translations": {
+        "c8cf6eea8f096ed51160b484d97c5bbd": {
+            "text": "Enabled"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "+"
+        },
+        "f9be528468706e84485c5baa7f553fb9": {
+            "text": "Bitte konfigurieren"
+        },
+        "3b4101362473ebcc69709f89fb96660b": {
+            "text": "Zwei-Faktor-Authentifizierung aktiviert!"
+        },
+        "6e7655b2bfff79f61f88c1d0b503ff48": {
+            "text": "Um die Einstellungen zu deaktivieren oder zu \u00e4ndern, w\u00e4hlen Sie oben die Option \"Keine\" und speichern Sie."
+        },
+        "8ced11807059756862f53c217354b63a": {
+            "text": "Abgelaufener Code"
+        },
+        "e9b342b9b4fa34f406761f626823a71b": {
+            "text": "Typ der 2-Faktor-Authentifizierung"
+        },
+        "90d6f81578cb44ed4be183c66d52c7f9": {
+            "text": "Nachdem Sie eine Auswahl getroffen oder ge\u00e4ndert haben, senden Sie das Formular ab und kehren hierher zur\u00fcck, um es zu konfigurieren."
+        },
+        "80a295c9fe7bed66295f4d8c1b52e110": {
+            "text": "Authentifizierungscode"
+        },
+        "e4282a24d0473bcf155064341f71e92b": {
+            "text": "Ung\u00fcltiger Code"
+        },
+        "659bdd9c46c5d70535873ddb56cafd06": {
+            "text": "Maximale Versuche erreicht"
+        },
+        "e8b4a77d06cf81dc696a4a31e6a46ae2": {
+            "text": "L\u00f6sche erinnerte Browser, die den Authentifizierungscode \u00fcberspringen"
+        },
+        "f8b67530ae39d240111ec69291985123": {
+            "text": "Erinnerte Browser gel\u00f6scht"
+        },
+        "02737b9a82aa8e3b6e9090dcdbcd2431": {
+            "text": "An diesen Computer erinnern?"
+        },
+        "4e74313cb658d8e75c33cc16caa0b078": {
+            "text": "Dieser Computer\/Browser wird nun f\u00fcr bis zu %d Tage erinnert."
+        },
+        "5e54e7c01119f2724ce0acbd4c8f6ed3": {
+            "text": "\u00c4nderungen des Browsers und\/oder des Standorts k\u00f6nnen einen neuen Code erfordern."
+        },
+        "287f75369eba76b6634a6cdf2f1cb915": {
+            "text": "Ein Code war nicht erforderlich, da der Browser von einer fr\u00fcheren Anmeldung erkannt wurde."
+        },
+        "cbb29c6546b8bc6d75f7601de9fbf02b": {
+            "text": "Fehler beim Erstellen oder Senden des Authentifizierungscodes"
+        },
+        "fcb94183c23245426ccf40bd6d531c69": {
+            "text": "Zeitlimit erreicht"
+        },
+        "2f8ed7fafd3c1784a3be4da8eb3d106a": {
+            "text": "+"
+        }
+    }
+}

@@ -1,18 +1,39 @@
 {
-   "file":"wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module",
-   "textdomain":"wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
-   "translations":{
-      "d3f3236393ce7a48198cde99acaed365":{
-         "text":"Checkboxen in Spalten"
-      },
-      "c425f296c6b905c91fb3f6da1a1702b6":{
-         "text":"Checkboxen"
-      },
-      "632ae34b804c1914c3a51af327a3379d":{
-         "text":"Auswahl zwischen mehreren Checkboxen"
-      },
-      "50bad9e0658dd79a35545ebcd18f92ac":{
-         "text":"Falls Sie die Checkboxen in Spalten (anstatt gestapelt) ausgeben m\u00f6chten, geben Sie die gew\u00fcnschte Anzahl Spalten (bis zu zehn) ein. Um Checkboxen nebeneinander (inline) anzuzeigen, geben Sie 1 ein."
-      }
-   }
+    "file": "wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "c425f296c6b905c91fb3f6da1a1702b6": {
+            "text": "Checkboxen"
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "Auswahl zwischen mehreren Checkboxen"
+        },
+        "7bcfe5241d76d75be6c2edd188a3c8d4": {
+            "text": "Option Spaltenbreite"
+        },
+        "7eb9cb961fc6bd6179e41f543c3d7551": {
+            "text": "Verwenden Sie diese Einstellung, damit die Optionen in Spalten mit fester Breite angezeigt werden, die je nach Breite des Ansichtsfensters verschoben oder reduziert werden."
+        },
+        "f1a23bf1974a4b1cbbeaddc284117fd9": {
+            "text": "Geben Sie eine CSS-Breitenzahl und eine Einheit ein, z. B. 100px oder 10em. Wenn keine Einheit angegeben wird, wird px (Pixel) angenommen."
+        },
+        "434bbaa0ab37f1ebd26e7509715e1aa3": {
+            "text": "Geben Sie die Zahl 1 ein, um zur Laufzeit automatisch eine geeignete Breite zu berechnen."
+        },
+        "e2698e70a4505aa9809823dda815aaa0": {
+            "text": "F\u00fcr ein optimales Erscheinungsbild geben Sie eine Breite ein, in die die l\u00e4ngste Option ohne Wortumbruch passt, oder geben Sie 1 ein, um eine automatische Breite zu erhalten."
+        },
+        "730f32bc95f78291755d63422278eea6": {
+            "text": "Option Spaltenanzahl"
+        },
+        "4628aba09e517657ce64b1604e3156c5": {
+            "text": "Falls Sie die Checkboxen in Spalten (anstatt gestapelt) ausgeben m\u00f6chten, geben Sie die gew\u00fcnschte Anzahl Spalten (bis zu zehn) ein. Um Checkboxen nebeneinander (inline) anzuzeigen, geben Sie 1 ein."
+        },
+        "197eb3e7501c01299bce92e0abaace6c": {
+            "text": "Um die Optionen nebeneinander anzuzeigen, geben Sie die Zahl 1 ein."
+        },
+        "9593e6f3bc34b5f5866e4f69f54ac96f": {
+            "text": "Beachten Sie, dass die Einstellung \"Option Spaltenbreite\" f\u00fcr das responsive Verhalten vorzuziehen ist."
+        }
+    }
 }

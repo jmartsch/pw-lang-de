@@ -4,6 +4,21 @@
     "translations": {
         "b4f85b935dcf717fdd8df0117de0cdee": {
             "text": "Gew\u00fcnschte Markdown-Variante"
+        },
+        "077f8270bf59fe6ccd6e4991ff7ee37c": {
+            "text": "Abgesicherter Modus?"
+        },
+        "089dca9f11d830e3dc229be0fef45547": {
+            "text": "Aktivieren Sie dies, um Markdown mitzuteilen, dass es nicht vertrauensw\u00fcrdige Benutzereingaben verarbeitet."
+        },
+        "3ec365dd533ddb7ef3d1c111186ce872": {
+            "text": "+"
+        },
+        "24145e5174d7d87b5a7339a5ecb355ca": {
+            "text": "Markdown \u00fcberpr\u00fcfen"
+        },
+        "6d232b51019138d0685ce7cd48803013": {
+            "text": "Geben Sie Markdown ein und klicken Sie auf Abschicken, um das Ergebnis mit Ihren aktuellen Einstellungen zu testen."
         }
     }
 }

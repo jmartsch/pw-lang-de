@@ -466,6 +466,30 @@
         },
         "7d571db09020671aab5f5a8eb76c4b06": {
             "text": "Das Modul %1$s wurde aktualisiert, um die Datei zu verwenden: %2$s"
+        },
+        "744cbb13a2d60fe8be0889a49e0bee00": {
+            "text": "Die Modulklasse muss die Schnittstelle \"ProcessWire\\Module\" implementieren."
+        },
+        "8569fe11869eab4756b242c9cdc6ad92": {
+            "text": "Installiere \u00dcbersetzungen"
+        },
+        "bf07f89fd86a5f3f7e8adb1833ce11bb": {
+            "text": "Keine Sprachdateien f\u00fcr das Modul verf\u00fcgbar"
+        },
+        "4ba2c3760d90822344a0ef877706ceca": {
+            "text": "Modul-\u00dcbersetzungen"
+        },
+        "b7b039d0210f657d8600e7356ac5016c": {
+            "text": "\u00dcbersetzungen f\u00fcr das Modul %s importieren"
+        },
+        "aa62c21c0ac6b3651b220804c8633047": {
+            "text": "Importieren in %s"
+        },
+        "a73e218ed0a476a4a5ac1a3f5aef776f": {
+            "text": "CSV-Datei kann nicht gefunden werden"
+        },
+        "1ce6b5b21ba628d92d00fd22b0c87730": {
+            "text": "Sprachen"
         }
     }
 }

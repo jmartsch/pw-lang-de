@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/ImageSizerEngineGD.php",
+    "textdomain": "wire--core--imagesizerenginegd-php",
+    "translations": {
+        "fa08346eefc233da84efcce389e121f6": {
+            "text": "geladene Datei '%s' ist nicht in der Liste der g\u00fcltigen Bilder enthalten"
+        },
+        "c95521fede03ff8a1b5d17b5b8bcdef7": {
+            "text": "Nicht gen\u00fcgend Speicher f\u00fcr \"%1$s\" in der Bilddatei: %2$s"
+        }
+    }
+}

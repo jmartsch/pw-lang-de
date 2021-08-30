@@ -17,9 +17,6 @@
         "7d5f7f76b51ac880e91da28dbc52df35": {
             "text": "Unver\u00f6ffentlichte Seiten erlauben?"
         },
-        "58b4f6dae2009a3d22a395a94de85360": {
-            "text": "Wenn ausgew\u00e4hlt, sind unver\u00f6ffentlichte Seiten als Feld-Eintrag erlaubt. Unver\u00f6ffentlichte Seiten sind nicht im Frontend sichtbar, mit Ausnahme derer, welche bearbeitbar sind."
-        },
         "2d6565614947b2a6daba1a06515124da": {
             "text": "Verwaiste Seitenverweise finden und bereinigen."
         },
@@ -52,6 +49,9 @@
         },
         "0a7cd2620545065d49a8ca58f5fc0b28": {
             "text": "Mehr \u00fcber die %s Methode."
+        },
+        "147ca86a29ed518210e0864f1e0d49ad": {
+            "text": "Falls aktiviert, k\u00f6nnen unver\u00f6ffentlichte Seiten f\u00fcr die Eingabe ausgew\u00e4hlt und in den *unformatierten* Feldwert aufgenommen werden. Im Feld *Formatiert* sind sie in jedem Fall ausgeschlossen."
         }
     }
 }

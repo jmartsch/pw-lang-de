@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/AdminThemeUikitCss.php",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--adminthemeuikitcss-php",
+    "translations": {
+        "2c20129fc07f932b155494c2e6efcdbe": {
+            "text": "Kompiliert: %s"
+        },
+        "415fccb35a2b92d5fe61ed5dde2f26ad": {
+            "text": "Admin base style - Datei nicht gefunden: %s"
+        }
+    }
+}
