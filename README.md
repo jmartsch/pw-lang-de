@@ -50,8 +50,8 @@ NOT language pagenames!
 
 ## Contribute to the language pack
 
-You have discovered a spelling mistake? You have a suggestion for an alternative word? Or a translation makes no sense at all?
+You have discovered a spelling mistake? You have a suggestion for an alternative word or sentence? Or a translation makes no sense at all?
 
-Great, then follow the instructions in the repo https://github.com/jmartsch/processwire-language-pack-helper
+Great, then please follow the instructions in the repo https://github.com/jmartsch/processwire-language-pack-helper and submit a pull request, or create an issue here.
 
-It comes with a full ProcessWire installation and allows you to easily update the translations.
+The processwire-language-pack-helper comes with a full ProcessWire installation and allows you to easily update the translations.
