@@ -63,7 +63,7 @@
             "text": "Aktion wird beim Speichern angewendet."
         },
         "9ffbd422925a6839ee820ddbc59278c5": {
-            "text": "Umdrehen"
+            "text": "Spiegeln"
         },
         "8d2de5368588552fbae54044ac5c7b3d": {
             "text": "Rotieren"
@@ -84,7 +84,7 @@
             "text": "horizontal"
         },
         "f6cb3e816496528d4187db53bc66567f": {
-            "text": "beides"
+            "text": "horizontal und vertikal"
         },
         "5fb63579fc981698f97d55bfecb213ea": {
             "text": "Kopieren"
