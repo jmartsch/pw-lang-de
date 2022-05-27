@@ -10,6 +10,15 @@
         },
         "4795bb99893dc26981eb889746b21499": {
             "text": "Beispiel: template=product"
+        },
+        "8de040fe605622e9683d5c72a79d28b4": {
+            "text": "Vorschau der Spalten"
+        },
+        "e4dad406b489c052036f2de2bd7dc3a5": {
+            "text": "Geben Sie eine CSV-Zeichenkette mit Spalten-\/Feldnamen ein, die in den aus diesem Feld generierten Vorschauen angezeigt werden sollen."
+        },
+        "9079d8cb5302982d2d861798bc2a2d38": {
+            "text": "Beispiel: name, template, parent, id"
         }
     }
 }

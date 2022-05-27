@@ -3,73 +3,73 @@
     "textdomain": "wire--core--selector-php",
     "translations": {
         "0ccb67e7eaae09d9e4078d161eeca100": {
-            "text": "Ist gleich"
+            "text": "Entspricht"
         },
         "fca4ff540452f89822f15c83de8bb8c4": {
-            "text": "Der eingegebene Wert ist derselbe wie der Wert, mit dem er verglichen wird."
+            "text": "Der gegebene Wert ist derselbe wie der Wert, mit dem er verglichen wird."
         },
         "2fbafa06d82b006195754ddd3bf01edc": {
-            "text": "Ist nicht gleich"
+            "text": "Nicht gleichwertig"
         },
         "1a865de2ca7e05f3fa1477b125a1eb3c": {
-            "text": "Der eingegebene Wert ist nicht derselbe wie der Wert, mit dem er verglichen wird."
+            "text": "Der angegebene Wert ist nicht derselbe wie der Wert, mit dem er verglichen wird."
         },
         "05824b7be006782aaefd1fdb97c71e06": {
             "text": "Gr\u00f6\u00dfer als"
         },
         "acc783a86f7a99b039300bdc0205245f": {
-            "text": "Der eingegebene Wert ist gr\u00f6\u00dfer als der angegebene Wert."
+            "text": "Der Vergleichswert ist gr\u00f6\u00dfer als der angegebene Wert."
         },
         "ad647e4ae904c7ed54ee93040d8298c7": {
             "text": "Kleiner als"
         },
         "2172d09507f89b8199b4b6cbd100b141": {
-            "text": "Der eingegebene Wert ist kleiner als der angegebene Wert."
+            "text": "Der Vergleichswert ist kleiner als der angegebene Wert."
         },
         "338131a3a3f4a2649c1d1ed2d2107589": {
             "text": "Gr\u00f6\u00dfer als oder gleich"
         },
         "2d7fc49398b2dadc319c632313444b1c": {
-            "text": "Der verglichene Wert ist gr\u00f6\u00dfer oder gleich dem angegebenen Wert."
+            "text": "Der Vergleichswert  ist gr\u00f6\u00dfer oder gleich dem angegebenen Wert."
         },
         "6d3fe9fca3f08ca0a55fd9c655f7b5cf": {
-            "text": "Kleiner oder gleich"
+            "text": "Kleiner als oder gleich"
         },
         "2b1e18ec3e770ce9cf5c0e74f893b653": {
-            "text": "Der verglichene Wert ist kleiner als oder gleich dem angegebenen Wert."
+            "text": "Der Vergleichswert ist kleiner als oder gleich dem angegebenen Wert."
         },
         "ccb979faf1731ac84eacb61a8a30a309": {
             "text": "Enth\u00e4lt die Phrase"
         },
         "d6cafb5b9a6d5fb02a5bf5a2b039b436": {
-            "text": "Der angegebene Text erscheint im Wert im Vergleich zu."
+            "text": "Der angegebene Text ist im Vergleichswert enthalten."
         },
         "694fa795bb560275200877a98153bf50": {
-            "text": "Die gegebene Phrase oder das gegebene Wort erscheint im Wert im Vergleich zu."
+            "text": "Die gegebene Phrase oder das gegebene Wort ist im Vergleichswert enthalten."
         },
         "5aa919e6d2b38f2462d83fd9b2513257": {
-            "text": "Das gegebene Wort oder die gegebene Phrase erscheint am Anfang des verglichenen Wertes."
+            "text": "Die gegebene Phrase oder das gegebene Wort ist am Anfang des Vergleichswerts enthalten."
         },
         "8e272ff6747ebe4eb258cb9a94b56902": {
-            "text": "Das gegebene Wort oder die gegebene Phrase erscheint am Ende des verglichenen Wertes."
+            "text": "Das gegebene Wort oder die gegebene Phrase befindet sich am Ende des Vergleichswertes."
         },
         "e0df0786238e11ca0d41f67eaf6d3701": {
             "text": "Erweitern Sie die Suche um potenziell verwandte Begriffe und Wortvarianten."
         },
         "64c83a96645ef7012024814ec8667639": {
-            "text": "Alle angegebenen W\u00f6rter erscheinen im Vergleichswert, in beliebiger Reihenfolge."
+            "text": "Alle angegebenen W\u00f6rter kommen im Vergleichswert vor, in beliebiger Reihenfolge."
         },
         "9e71a2e4d3bd54f1b6474e5f5d8cb130": {
-            "text": "Jedes beliebige Wort erscheint im Vergleichswert, in beliebiger Reihenfolge."
+            "text": "Alle angegebenen W\u00f6rter kommen im Vergleichswert vor, in beliebiger Reihenfolge."
         },
         "33a59aa39e09c5978b2b2d141957c557": {
-            "text": "Jedes gegebene Wort wird mit dem verglichenen Wert verglichen."
+            "text": "Jedes gegebene Wort entspricht dem Vergleichswert."
         },
         "40fb05e192ca57e10d5c3493ac87ce9a": {
             "text": "Stimmt mit ganzen W\u00f6rtern \u00fcberein."
         },
         "bbb78155a83a765a9db9a5a62b5aef13": {
-            "text": "Stimmt mit ganzen W\u00f6rtern oder Wortteilen \u00fcberein."
+            "text": "Findet ganze W\u00f6rter oder Wortteile."
         },
         "e669879b2f0030034d4e297c9be34893": {
             "text": "Teilweise \u00dcbereinstimmungen innerhalb von W\u00f6rtern."
@@ -84,10 +84,10 @@
             "text": "Verwendet einen \"Volltext\"-Index."
         },
         "b95c9268b2e2bd8bf23ac47accef8675": {
-            "text": "\u00dcbereinstimmung durch Einsatz von \"like\"."
+            "text": "Entspricht der Verwendung von \"like\"."
         },
         "5e6b838ff481a8b752ac3b3884880c26": {
-            "text": "\u00dcbereinstimmung ohne R\u00fccksicht auf Wortgrenzen (mit \"like\")."
+            "text": "Entspricht ohne R\u00fccksicht auf Wortgrenzen (mit \"like\")."
         },
         "b7afa694212b1d893f5322e280dcb0ff": {
             "text": "Enth\u00e4lt Phrase erweitern"
@@ -96,7 +96,7 @@
             "text": "Enth\u00e4lt Text wie"
         },
         "d9e14c66bbffdeccdde58be4d05eb381": {
-            "text": "Beinhaltet alle W\u00f6rter"
+            "text": "Enth\u00e4lt alle W\u00f6rter"
         },
         "b6c1660ddf4644820efed7c7341462f2": {
             "text": "Enth\u00e4lt alle Teilw\u00f6rter"
@@ -114,7 +114,7 @@
             "text": "Enth\u00e4lt beliebige W\u00f6rter"
         },
         "06a1edb024c5ba42ef55fc00a9a69172": {
-            "text": "Enth\u00e4lt beliebige Teilw\u00f6rter"
+            "text": "Enth\u00e4lt beliebige Wortteile"
         },
         "d37f826e5014cdf5c92bb5e9d4a6e3fa": {
             "text": "Enth\u00e4lt beliebige W\u00f6rter wie"
@@ -122,14 +122,11 @@
         "60349069f28257eaf778759dd771316e": {
             "text": "Enth\u00e4lt beliebige W\u00f6rter erweitern"
         },
-        "5bd610060ed9f4ff92d6dbabc797255a": {
-            "text": "Enth\u00e4lt \u00dcbereinstimmung"
-        },
         "86a004f4206d0f2133e3aa81d0247c3c": {
             "text": "Erweiterte Textsuche"
         },
         "be60d8e8a8aafeefb880343bcaddb16e": {
-            "text": "Werte mit Befehlen abgleichen: (+Wort MUST) muss vorkommen, (-Wort MUST NOT) darf nicht vorkommen, und ohne Pr\u00e4fix kann das Wort vorkommen."
+            "text": "Werte mit Befehlen abgleichen: +Wort MUSS vorkommen, -Wort MUSS NICHT vorkommen, und Wort ohne Pr\u00e4fix kann vorkommen."
         },
         "9004a4ff1e6a2ceda507ea1986986057": {
             "text": "F\u00fcgen Sie ein Sternchen f\u00fcr eine teilweise \u00dcbereinstimmung hinzu: Bar oder +Bar passt zu bar, barn, barge; w\u00e4hrend -Bar* verhindert, dass sie gefunden werden."
@@ -153,10 +150,13 @@
             "text": "Bitweises UND"
         },
         "ca03f0701dadffbc2a9b6b25da2792d3": {
-            "text": "Der gegebene Ganzzahlwert stimmt mit dem verglichenen Ganzzahlwert bitweise UND \u00fcberein."
+            "text": "Der gegebene ganzzahlige Wert entspricht dem bitweisen UND des verglichenen ganzzahligen Wertes."
+        },
+        "5bd610060ed9f4ff92d6dbabc797255a": {
+            "text": "Beinhaltet \u00dcbereinstimmung"
         },
         "470da3795c671e23b14b97ec714912bb": {
-            "text": "Enth\u00e4lt \u00dcbereinstimmung expandieren"
+            "text": "Beinhaltet \u00dcbereinstimmung erweitern"
         }
     }
 }
