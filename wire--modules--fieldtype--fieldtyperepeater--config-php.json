@@ -71,21 +71,6 @@
         "9c539ab2317d7056d5d664b083557796": {
             "text": "Es gibt **%d** alte\/ungenutzte Repeater-Elemente. Zum l\u00f6schen diese Box markieren."
         },
-        "06f7e37d7cc093483d98d11772f75837": {
-            "text": "Maximale Anzahl Repeater-Elemente"
-        },
-        "9175b33ed3085ade32188d58a242e0bc": {
-            "text": "Die maximale Anzahl erlaubter Repeater-Elemente."
-        },
-        "8db1e9fd86969c9e9ee4c09365c260a6": {
-            "text": "Falls auf 0 gesetzt, sind beliebig viele Elemente m\u00f6glich."
-        },
-        "f29a8c723be64c58c0e9f4cbd6c32a88": {
-            "text": "Falls auf 1 gesetzt, verh\u00e4lt sich dieses Feld wie ein einzelnes Element [Page] statt wie mehrere Elemente [PageArray]."
-        },
-        "66eb0d45c43394f51bdb0397febc5b4f": {
-            "text": "Hinweis: Falls outputFormatting abgeschaltet wird, wird sich das Feld unabh\u00e4ngig von dieser Einstellung wie ein PageArray verhalten."
-        },
         "8c50c81f9df1bb1d4bc5689f9a6e7204": {
             "text": "Repeater-Typ"
         },
@@ -110,17 +95,11 @@
         "2db718f06a27de2a35a889b205ef0bb4": {
             "text": "Ge\u00f6ffnete Repeater-Elemente beibehalten?"
         },
-        "031e3292fe279734b454896226066dfc": {
-            "text": "Wenn markiert, bleiben ge\u00f6ffnete Repeater-Elemente nach dem Speichern oder neuladen im Seiten-Editor offen (es sei denn, der Benutzer schliesst sie)."
-        },
         "2878ed508d1b136f7b170f593c0ff00f": {
             "text": "Ein Repeater-Element wird als alt bezeichnet, wenn es mindestens 3 Tage alt ist und noch nicht bef\u00fcllt oder ver\u00f6ffentlicht wurde."
         },
         "fc47b04d62211ce6992143d1e92e2fbe": {
             "text": "Akkordeon-Modus verwenden?"
-        },
-        "d608f61f5c7a0e2b84a3ae252a596a48": {
-            "text": "Wenn markiert, wird nur ein Repeater-Element zum Zeitpunkt ge\u00f6ffnet sein."
         },
         "90ed744894b90ce9c561d6a428cad4ee": {
             "text": "Maximale Anzahl von Elementen"
@@ -155,17 +134,89 @@
         "5222d983bada8088d0a86ac0ff1e5871": {
             "text": "Feld \"%1$s\" aus \"%2$s\" entfernt"
         },
+        "adaafad29d53a9d0cd52885adf34e542": {
+            "text": "Repeater Tiefe\/Einr\u00fcckungen"
+        },
         "b88543bf2626f096ed455b862390b4e3": {
-            "text": "Familienfreundliche Artikeltiefe verwenden?"
+            "text": "Familienfreundliche Elementtiefe verwenden?"
         },
         "9b7bbf35ecde2744bc2b120d7a19e425": {
-            "text": "Diese Einstellung bewirkt, dass der Admin-Seiteneditor die Elementtiefe als eine Eltern-Kind-Beziehung behandelt."
+            "text": "Diese Einstellung bewirkt, dass der Editor der Verwaltungsseite die Elementtiefe als eine Eltern\/Kind-Beziehung behandelt."
         },
         "fc26899013e5130bf0f035bcb6645e36": {
-            "text": "Das bedeutet, dass das Verschieben\/Sortieren eines Elements auch untergeordnete Elemente mit einschlie\u00dft."
+            "text": "Dies bedeutet, dass das Verschieben\/Sortieren eines Elements auch untergeordnete Elemente einschlie\u00dft."
         },
         "239509c1f5621ac1d950faf5de9d9111": {
-            "text": "Au\u00dferdem wird verhindert, dass ein untergeordnetes Element so gezogen wird, dass es eine Tiefe hat, die seine \u00fcbergeordnete Ebene um mehr als 1 \u00fcbersteigt."
+            "text": "Au\u00dferdem wird verhindert, dass ein untergeordnetes Element in eine Tiefe gezogen wird, die seine \u00fcbergeordnete Ebene um mehr als 1 \u00fcbersteigt."
+        },
+        "0c5235bde3e119593538bdd38e7d7e9f": {
+            "text": "\"Ja\" empfohlen."
+        },
+        "1037c53410252db4ea92a9851015c46b": {
+            "text": "Einstellungen des Repeater-Editors"
+        },
+        "193b66f657e8f7ca202b160e8e701923": {
+            "text": "Wenn diese Option aktiviert ist, bleiben ge\u00f6ffnete Repeater-Elemente nach dem Speichern oder Neuladen aus dem Seiteneditor ge\u00f6ffnet (es sei denn, der Benutzer schlie\u00dft sie)."
+        },
+        "d0244dd7d1408e009350fb0bef887af2": {
+            "text": "Wenn diese Funktion aktiviert ist, kann jeweils nur ein Repeater-Element ge\u00f6ffnet sein."
+        },
+        "aefc9b4c2d25085021b0a1df54aeff00": {
+            "text": "Wann sollen die Steuerelemente\/Aktionen des Repeater-Elements angezeigt werden"
+        },
+        "68eec46437c384d8dad18d5464ebc35c": {
+            "text": "Immer"
+        },
+        "eee0168be69b854c20621fc6f01cc3fc": {
+            "text": "Beim Dar\u00fcberfahren (Hover)"
+        },
+        "6799fc53119a06c09eecac05d013dbf3": {
+            "text": "Mit der \"Dar\u00fcberfahren\"-Option kann die Oberfl\u00e4che \u00fcbersichtlicher gestaltet werden, indem die Aktionen\/Steuerelemente f\u00fcr Repeater (Klonen, Einf\u00fcgen, L\u00f6schen usw.) nur dann angezeigt werden, wenn der Mauszeiger \u00fcber dem Elementkopf steht."
+        },
+        "9e6025a2fc5d0a32028e42373c622d66": {
+            "text": "Beachten Sie, dass Bedienelemente f\u00fcr Touch-Ger\u00e4te unabh\u00e4ngig von dieser Einstellung immer angezeigt werden."
+        },
+        "ee6e6bb07faa02ed6526f941bc76b535": {
+            "text": "Speicherung von Repeatern"
+        },
+        "a9bc2694fa474ffcd7962d6f71a90f08": {
+            "text": "Weniger Seiten f\u00fcr die Speicherung verwenden?"
+        },
+        "4f0061e295e09ef19a1f549c23b04d0c": {
+            "text": "Wenn diese Option aktiviert ist, werden \u00fcbergeordnete Repeater-Seiten erst dann erstellt, wenn mindestens ein untergeordnetes Repeater-Element vorhanden ist."
+        },
+        "80bb7f5b0c8adda2dbafd0c186d3d162": {
+            "text": "Au\u00dferdem werden Elternseiten von Repeatern, die keine Repeater-Elemente enthalten, gegebenenfalls entfernt."
+        },
+        "ea27ba365637d101a399ee5ee91c95b3": {
+            "text": "Derzeit eine experimentelle Option zum Testen (lazyParents), wird aber sp\u00e4ter zum Standard."
+        },
+        "d99d7ccd3f9f6604af4c37a3368dcac3": {
+            "text": "%d unn\u00f6tige Seiten l\u00f6schen?"
+        },
+        "fe38bd0bebd8cb2322a5fbced275bcc5": {
+            "text": "Ich habe die folgenden \u00fcberfl\u00fcssigen Seiten gefunden:"
+        },
+        "847ec015263f8b4dc8f6065f6b7c3909": {
+            "text": "%d unn\u00f6tige Repeater-Eltern gefunden, die entweder 0 Repeater-Elemente oder keine eigene Seite hatten."
+        },
+        "07077b028489c0f29f7433928bb27c32": {
+            "text": "F\u00fchren Sie vor Massenl\u00f6schungen immer ein Backup durch."
+        },
+        "96508e17d64d763df5bc4f802b25e99b": {
+            "text": "%d unn\u00f6tige Repeater-Elternseiten gefunden"
+        },
+        "8e281790c58e48326e41a303674aab12": {
+            "text": "Keine unn\u00f6tigen Seiten gefunden"
+        },
+        "57939466ad1ae6358cadab32c9b04c15": {
+            "text": "Maximale Anzahl von %d Elementen pro Anfrage erreicht, Sie sollten den Vorgang wiederholen."
+        },
+        "88574909be3f083f32ba1fa6a0e4dcf1": {
+            "text": "%d unn\u00f6tige Seiten gel\u00f6scht"
+        },
+        "421b560a931ce0e4ec1b8018d0205b8e": {
+            "text": "Unn\u00f6tige Seiten finden und optional l\u00f6schen?"
         }
     }
 }

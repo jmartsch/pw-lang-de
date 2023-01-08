@@ -28,6 +28,24 @@
         },
         "d5af3f8c985a3592422462cce67bc86c": {
             "text": "Eine Geschwisterseite (id =%1$d) verwendet bereits den Namen \"%2$s\" f\u00fcr die Sprache: %3$s"
+        },
+        "47a71e39bf348953dfdfb22317c3e29c": {
+            "text": "Verhalten, wenn die Seite nicht in der angeforderten Sprache verf\u00fcgbar ist (aber in der Standardsprache verf\u00fcgbar ist)"
+        },
+        "fdee766baf806159afbcd542efbe9b3d": {
+            "text": "Diese Einstellung gilt nicht, wenn die Seite f\u00fcr den Benutzer bearbeitbar ist, da sie immer als Vorschau verf\u00fcgbar ist."
+        },
+        "34529e0f7f3dd583b0aed3b8a46bff6e": {
+            "text": "Einen 404-Fehler (Seite nicht gefunden) ausgeben - Standardverhalten"
+        },
+        "395c201c2729d5c7c5e9c1c6cbc2889b": {
+            "text": "Erlauben, dass sie trotzdem f\u00fcr die Sprache gerendert wird (wenn der Zugriff direkt \u00fcber die URL erfolgt)"
+        },
+        "ac7c3f2fbc9e8f4fa1d719d6319ee58b": {
+            "text": "Durchf\u00fchren einer 301 (permanenten) Weiterleitung zur Seite in der Standardsprache"
+        },
+        "483bb77bebead8ed45f75192b8ea3d78": {
+            "text": "Eine 302 (tempor\u00e4re) Umleitung zur Seite in der Standardsprache durchf\u00fchren"
         }
     }
 }

@@ -1,0 +1,168 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/ProcessLanguageTranslator.module",
+    "textdomain": "wire--modules--languagesupport--processlanguagetranslator-module",
+    "translations": {
+        "4ec2fa1aa32d93e6fd11a255fc3507bc": {
+            "text": "Speichern + Beenden"
+        },
+        "d5778a8b84efb3233d070016adb93326": {
+            "text": "Speichern"
+        },
+        "2df236e737fce3ea9b2aafd92aefabf8": {
+            "text": "Unbekannte\/ung\u00fcltige Sprache"
+        },
+        "c739fa5cd3140c5f6d9c874c9f7f0c06": {
+            "text": "Sie haben nicht die Berechtigung, diese Sprache zu bearbeiten"
+        },
+        "1cadf174f70d643ae126661933c29496": {
+            "text": "Keine Dateien in dieser Sprache f\u00fcr das Feld %s"
+        },
+        "cf9b6034d657b9e496cf2507c0ed54b2": {
+            "text": "Datei(en) ausw\u00e4hlen"
+        },
+        "97b4a79a9a82063ffc66201622b97961": {
+            "text": "W\u00e4hlen Sie eine Datei (oder mehrere Dateien) und klicken Sie auf Senden, um neue %s-\u00dcbersetzungsdateien zu erstellen."
+        },
+        "7f4f03f8ce0547dc27519ec6aaba5274": {
+            "text": "\u00dcbersetzbare Dateien in %s"
+        },
+        "f6da161610e69fd47285a4fb73023161": {
+            "text": "\u00dcbersetzungsdateien existieren"
+        },
+        "9310f3093e8580c52cbbadc2e4298018": {
+            "text": "Keine \u00dcbersetzungsdateien vorhanden"
+        },
+        "2c1b934717b59076f55e53b7a097efbb": {
+            "text": "Zu \u00fcbersetzende Datei eingeben"
+        },
+        "ad5156526794edff80df65b5362dd4c1": {
+            "text": "Geben Sie den Pfad und den Dateinamen f\u00fcr die \u00dcbersetzung ein. Dieser sollte relativ zum Stammverzeichnis der Website eingegeben werden."
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Beispiel:"
+        },
+        "9a7e6c43d5ae842c6aff819f4853ef76": {
+            "text": "Dateiliste aktualisieren"
+        },
+        "b259a9c95331e8ade9dca22c5fb2062c": {
+            "text": "Hinzugef\u00fcgt %s"
+        },
+        "56ebdb7fbca39f9ec77bf8e994b127ae": {
+            "text": "Diese Datei ist bereits im System vorhanden"
+        },
+        "4ff5d8112871bb3d23262bb8611f507b": {
+            "text": "Diese Datei enth\u00e4lt keine \u00fcbersetzbaren Phrasen"
+        },
+        "e8edb193e1cb171a17efe2765d72af71": {
+            "text": "Die Datei existiert nicht"
+        },
+        "201cd1463929afbbd095c4803262ceae": {
+            "text": "Fallback: wenn un\u00fcbersetzt, wird der Text \"%1$s\" verwendet, der aus \"%2$s\" \u00fcbersetzt wird."
+        },
+        "b2d2f26148deb14bf22ab1fcd1d231a1": {
+            "text": "If no text is provided, the common translation \u201c%s\u201d will be used."
+        },
+        "54380879a24d554e549d4d18f998dfa9": {
+            "text": "Geben Sie oben ein einfaches Pluszeichen \"+\" ein, um auch dieses Feld als \u00fcbersetzt zu markieren."
+        },
+        "c5bd6d3cb3eba13bfb553d4f6cd34d84": {
+            "text": "Die folgenden unbenutzten \u00dcbersetzungen wurden gefunden. Das bedeutet, dass der urspr\u00fcngliche, nicht \u00fcbersetzte Text entweder ge\u00e4ndert oder gel\u00f6scht wurde. Es wird empfohlen, verlassene \u00dcbersetzungen zu l\u00f6schen, es sei denn, Sie m\u00fcssen sie behalten, um sie in eine neue \u00dcbersetzung zu kopieren\/einzuf\u00fcgen."
+        },
+        "1b296d99ce0be35a6e13ff0465794ea0": {
+            "text": "[leer]"
+        },
+        "786a3ffbf64dbd32b887357bfb981ab3": {
+            "text": "L\u00f6schen?"
+        },
+        "cea7ade6fb9d07ee7e46b6c003d3ea0a": {
+            "text": "Textdomain kann nicht geladen werden"
+        },
+        "96847fc3fd81c6824a46038486c7a966": {
+            "text": "Die Datei existiert nicht:"
+        },
+        "620c3d12b2ebf6fba6fc8ca8bd7d5f7e": {
+            "text": "(\u00dcbersetzungsdatei nicht erforderlich? textdomain: %s)"
+        },
+        "048378af50897cd55a4fba47686151da": {
+            "text": "\u00dcbersetze %1$s in %2$s"
+        },
+        "cc3280a236d930bb719b4bbd4e60618b": {
+            "text": "Jede der unten stehenden Eingaben stellt einen zu \u00fcbersetzenden Textblock dar."
+        },
+        "2373d8c961aba6c7a710d9e28796fc94": {
+            "text": "Der unmittelbar \u00fcber jeder Eingabe angezeigte Text ist der Text, der in %s \u00fcbersetzt werden soll."
+        },
+        "2201c8e27207f315872b8dade43506d6": {
+            "text": "Wenn Sie eine Eingabe leer lassen, wird der nicht \u00fcbersetzte Text verwendet."
+        },
+        "28879280857d9ccc118fbd72fc972ad0": {
+            "text": "Wenn die \u00dcbersetzung mit dem Original identisch ist, k\u00f6nnen Sie auch ein einzelnes \"=\" (Gleichheitszeichen) f\u00fcr die \u00dcbersetzung eingeben und sie wird als \u00fcbersetzt markiert."
+        },
+        "24e75fc33422e42d84ba0fc01cdc8579": {
+            "text": "Sie k\u00f6nnen auch eine CSV-Datei mit diesen \u00dcbersetzungen herunterladen oder ansehen, sie bearbeiten und dann hier hochladen."
+        },
+        "45f6644c6b04fc718813131f29eb414f": {
+            "text": "Die Textdom\u00e4ne f\u00fcr diese Datei lautet: %s"
+        },
+        "936fa205069d0afdfda6096184e8479d": {
+            "text": "Nur Bl\u00f6cke anzeigen, die noch nicht \u00fcbersetzt sind"
+        },
+        "fbf51b23dec9d964dea27ac78b55f042": {
+            "text": "Speichern + Weiter"
+        },
+        "6f90a6f3d4f23a403a3ce6988c1ee05b": {
+            "text": "Gespeicherte %s"
+        },
+        "77ee287e7787dda03867ac2f9b312990": {
+            "text": "Es gibt keine n\u00e4chste Datei zu bearbeiten."
+        },
+        "b817c7fc9a774b9a22172e59c228a9cb": {
+            "text": "%s existiert nicht oder ist kein Verzeichnis"
+        },
+        "c5e313f97cfed8076c6f3700a1ebb121": {
+            "text": "="
+        },
+        "569502b1966b126a6efe0caa41995ea1": {
+            "text": "Suchbegriffsindex erstellt"
+        },
+        "4e6dc4bdaf134f7fad78b433b1939a65": {
+            "text": "Sprach\u00fcbersetzer"
+        },
+        "1fee8873d9207b652a71dd813056be96": {
+            "text": "Bietet Sprach\u00fcbersetzungsfunktionen f\u00fcr die ProcessWire-Core und Module."
+        },
+        "8c34ba0c56e244ea1276950be05e92a9": {
+            "text": "Datei"
+        },
+        "d701be1df4973dc762ea09d103d876e4": {
+            "text": "Phrasen"
+        },
+        "2de802188057514240806136db489f15": {
+            "text": "zuletzt ge\u00e4ndert"
+        },
+        "efa359764bf5df35c0cf83f31bae2b03": {
+            "text": "Datei(en) ausw\u00e4hlen"
+        },
+        "35cce6ee9c7d52816335cd71a8cc8bdd": {
+            "text": "%d verlassene \u00dcbersetzung"
+        },
+        "5f26b7cdb0df95ffde976ce9b5aa776c": {
+            "text": "%d verlassene \u00dcbersetzungen"
+        },
+        "1a8046c237a8b5598bdbe32fab01c78a": {
+            "text": "%d \u00dcbersetzung ge\u00e4ndert"
+        },
+        "d551aba9d90e56853a0f2b1c19e57ad1": {
+            "text": "%d \u00dcbersetzungen ge\u00e4ndert"
+        },
+        "958a564da0596b34819d36e7a4c27b0a": {
+            "text": "%d verlassene \u00dcbersetzung entfernt"
+        },
+        "cdaca5c503d1eb7163af5ec57f2e5bc9": {
+            "text": "%d verlassene \u00dcbersetzungen entfernt"
+        },
+        "d0a467da1b045cff8ba333833df858bd": {
+            "text": "Gefunden %s"
+        }
+    }
+}

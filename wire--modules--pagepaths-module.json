@@ -8,8 +8,26 @@
         "b198072961bf47ed9c790c1006f98372": {
             "text": "%d Pfade aktualisiert"
         },
-        "0e620fb070fcc5279681b61f5720fb6e": {
-            "text": "Bitte deinstallieren Sie das Core > PagePaths Modul (es ist nicht kompatibel mit LanguageSupportPageNames)"
+        "c78ef210c4712423d0b4d857718f9bed": {
+            "text": "Neuerstellung in %d Sekunden abgeschlossen"
+        },
+        "197b94887c65d8aa396bb5080f7d66ff": {
+            "text": "Index der Seitenpfade f\u00fcr %d Seiten neu erstellen"
+        },
+        "2eac6090faeb03e3bc9dab9323642864": {
+            "text": "Jetzt neu erstellen"
+        },
+        "db40fb4d30b0f723a429818f05983c74": {
+            "text": "Die gesch\u00e4tzte Zeit f\u00fcr die Neuerstellung betr\u00e4gt bis zu 5 Sekunden pro 1000 Seiten."
+        },
+        "c46d2f416d22eb335a7f85725b516a6d": {
+            "text": "Es sind %d Seiten zu verarbeiten."
+        },
+        "059ede5738edbc41d9d2037e1785f3a9": {
+            "text": "Es gibt derzeit %d Zeilen, die von diesem Modul gespeichert werden (Pfadpfade und Versionen von Pfadpfaden)."
+        },
+        "fff87d4b1b8c614ab3389cb892a53361": {
+            "text": "Bitte w\u00e4hlen Sie die Option \"Jetzt neu erstellen\", um den Index Ihrer Seitenpfade zu erstellen."
         }
     }
 }

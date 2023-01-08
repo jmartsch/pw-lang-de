@@ -55,6 +55,9 @@
         },
         "38dee61bfa5e86e18c76e272c4c830fa": {
             "text": "Den Debug-Modus nicht aktiviert lassen in Live\/Produktions-Umgebungen (siehe $config->debug in Datei \/site\/config.php)."
+        },
+        "38e5588953e5e25cfc5e821ff1128514": {
+            "text": "="
         }
     }
 }

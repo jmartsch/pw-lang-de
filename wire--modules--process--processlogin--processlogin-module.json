@@ -78,10 +78,7 @@
             "text": "E-Mail-Adresse"
         },
         "9e70a5d3dab1960c04b55a29f310331e": {
-            "text": "Entweder E-Mail-Adresse oder Benutzername"
-        },
-        "d619a734f94b65d5137233c7d9a8fe69": {
-            "text": "Um die E-Mail-Anmeldung zu verwenden, m\u00fcssen Sie die \"eindeutig\" Einstellung f\u00fcr Ihr E-Mail-Feld aktivieren."
+            "text": "Entweder , oder"
         },
         "ef8f23f26034e25bcf827a963aa8c8b7": {
             "text": "(zum Konfigurieren anklicken)"
@@ -149,8 +146,20 @@
         "2eeb1b1520e3542ede796b6245e1695a": {
             "text": "Typ"
         },
+        "5682f33e4050198546baa582422d61aa": {
+            "text": "Um die E-Mail-Anmeldung zu verwenden, m\u00fcssen Sie die \"eindeutig\" Einstellung f\u00fcr Ihr E-Mail-Feld aktivieren."
+        },
+        "59a4a5414d86131a42c9e2715b82bb21": {
+            "text": "Alle Superuser m\u00fcssen eine E-Mail-Adresse definiert haben"
+        },
+        "190c0e4ccd74444bc05cda57fa0465fe": {
+            "text": "Siehe nachstehende Hinweise zur Aktivierung"
+        },
+        "0300fd7b40fcdc00704dac9cff1a831f": {
+            "text": "Um die E-Mail-Anmeldung zu benutzen:"
+        },
         "987180bcb4c386f67e0922affbf79d0b": {
-            "text": "Anmelden"
+            "text": "="
         }
     }
 }

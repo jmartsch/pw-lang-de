@@ -41,9 +41,6 @@
         "485c9b5a61ede20a8ccc332f120da1f9": {
             "text": "Klicken um Element ein\/aus zu schalten oder doppel-klicken um alle Elemente zu \u00f6ffnen\/zuklappen"
         },
-        "60f5703a75c6e7fa21be4247f0626dfb": {
-            "text": "Dieses Element klonen?"
-        },
         "b5fab487adaf66b676d31b8fd16af85b": {
             "text": "Alle Elemente \u00f6ffnen?"
         },
@@ -55,6 +52,45 @@
         },
         "2ca001ee3992ee08c53099d65cbde4eb": {
             "text": "Einstellungen anzeigen?"
+        },
+        "36bb6559696dc9124986ae120515984f": {
+            "text": "Einf\u00fcgen"
+        },
+        "b08aa2661c47b855f0d19241bbcd533d": {
+            "text": "Aktionen zum Klonen\/Kopieren\/Einf\u00fcgen"
+        },
+        "28deaa9cdfe4f45e2a939dc59571818f": {
+            "text": "Neues Element vor diesem einf\u00fcgen"
+        },
+        "393953d8fb0ef2812c824d0289a6374f": {
+            "text": "Neues Element nach diesem einf\u00fcgen"
+        },
+        "202f13dbe40c7bc01cc962912fdd9947": {
+            "text": "Neues Element hier einf\u00fcgen"
+        },
+        "2020359603b0f865a5403d499d17cd63": {
+            "text": "W\u00e4hlen Sie eine Aktion f\u00fcr dieses Element"
+        },
+        "12f7a820373a9eaf83b664efcd81cf5b": {
+            "text": "KOPIERE dieses Element in den Speicher um es woanders EINZUF\u00dcGEN"
+        },
+        "f56fa1882f668e5cd2b2eedcc372a4cc": {
+            "text": "Element im in Copy\/Paste Speicher"
+        },
+        "1be669e51975cbb293eb0f681a8231f2": {
+            "text": "Element KLONEN und \u00dcBER diesem einf\u00fcgen"
+        },
+        "e99d82e0ea1ce2a652c0f37bd32535dc": {
+            "text": "Element KLONEN und UNTER diesem einf\u00fcgen"
+        },
+        "644415464da017bcc4ee5387c90f98b6": {
+            "text": "Kopiertes Element \u00dcBER diesem EINF\u00dcGEN"
+        },
+        "36e5afb31c8d93603a1f4a38ae05c342": {
+            "text": "Kopiertes Element UNTER diesem EINF\u00dcGEN"
+        },
+        "b374d8e1bbf5987f273d3e5c49b1086b": {
+            "text": "Copy\/Paste Speicher leeren"
         }
     }
 }

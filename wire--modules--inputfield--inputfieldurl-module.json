@@ -2,20 +2,20 @@
     "file": "wire\/modules\/Inputfield\/InputfieldURL.module",
     "textdomain": "wire--modules--inputfield--inputfieldurl-module",
     "translations": {
-        "34b4cb36f08c1d976a2e58d37d81ce49": {
-            "text": "Beginnen Sie lokale URLs mit \"\/\" and lassen Sie den Teil \"%s\" weg."
-        },
         "31d3da8cb2ee3f26243a6157ce0e5634": {
             "text": "Fehler gefunden - bitte pr\u00fcfen Sie, ob die URL g\u00fcltig ist."
-        },
-        "db04dc8c39e8a426d723ba1c6f8a2cd4": {
-            "text": "Beachten Sie, dass \"http:\/\/\" hinzugef\u00fcgt wurde"
         },
         "1a30197ddff7dc9d65d91f285125cdc2": {
             "text": "URL in g\u00fcltigem Format"
         },
         "e6b391a8d2c4d45902a23a8b6585703d": {
             "text": "="
+        },
+        "5edb7300e25ff8ec5431cabe04c82592": {
+            "text": "Beginnen Sie lokale URLs mit \"\/\" and lassen Sie den \"%s\"-Teil weg."
+        },
+        "d3900709c4f1a95486e071e072d412c5": {
+            "text": "Beachten Sie, dass %s hinzugef\u00fcgt wurde"
         }
     }
 }

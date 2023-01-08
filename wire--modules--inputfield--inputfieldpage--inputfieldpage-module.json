@@ -190,6 +190,21 @@
         },
         "1f6147d9cbae7fa8c3e213824bce6405": {
             "text": "Um unver\u00f6ffentlichte Seiten zuzulassen, bearbeiten Sie das Feld \"%s\" und lesen Sie die Einstellung auf der Registerkarte \"Details\"."
+        },
+        "4475920d50a2c224b86ebf6e79d38dc7": {
+            "text": "Werttyp"
+        },
+        "2486017626b5debfccb828303675e52c": {
+            "text": "="
+        },
+        "0b139983f1e4b0d9c4674e0aa1f965a1": {
+            "text": "(gilt f\u00fcr alle F\u00e4lle, ist aber f\u00fcr die Mehrfachauswahl erforderlich)"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "Seite"
+        },
+        "88bf31e0ab1be50432ec67a96ce41787": {
+            "text": "(optional f\u00fcr die Auswahl einer einzelnen Seite)"
         }
     }
 }

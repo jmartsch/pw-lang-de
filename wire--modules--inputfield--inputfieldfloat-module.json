@@ -10,6 +10,9 @@
         },
         "211efcb1aa9b0567969d0ce5a18d850c": {
             "text": "Anzahl der Dezimalstellen, auf die gerundet werden soll"
+        },
+        "bf8de207806af36f5a5834a4318f7818": {
+            "text": "Oder verwenden Sie eine negative Zahl wie -1, um die Rundung zu deaktivieren."
         }
     }
 }

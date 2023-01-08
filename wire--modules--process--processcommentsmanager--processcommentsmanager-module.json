@@ -2,80 +2,248 @@
     "file": "wire\/modules\/Process\/ProcessCommentsManager\/ProcessCommentsManager.module",
     "textdomain": "wire--modules--process--processcommentsmanager--processcommentsmanager-module",
     "translations": {
-        "98a0736c51255f757cf109bccfa1d7e2": {
-            "text": "Es sind keine Kommentar-Felder installiert"
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "L\u00f6schen"
         },
-        "adf240c38c161d42244e9eb21f515ba2": {
-            "text": "Bitte ein Kommentar-Feld w\u00e4hlen"
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nein"
         },
-        "9f97f1e4ae9c77faa2f4d30bb84dd69b": {
-            "text": "Kein Kommentar-Feld in URL festgelegt"
-        },
-        "4f85d037300d5f7efcf7fdc3f973db7f": {
-            "text": "Feld nicht erkannt"
-        },
-        "6a65e2235642194467bf83001d23639d": {
-            "text": "Antworten auf"
-        },
-        "301fdff99e595b9e55d94b9b51b24277": {
-            "text": "Gel\u00f6schter Kommentar #%d"
-        },
-        "9ee770091bc28969ca49eb8b60826002": {
-            "text": "Aktualisierter Kommentar #%d"
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Abbrechen"
         },
         "de95b43bceeb4b998aed4aed5cef1ae7": {
-            "text": "bearbeiten"
+            "text": "Bearbeiten"
         },
-        "6f9e04c43332fd4945f2c933c8eea611": {
-            "text": "Zitat"
-        },
-        "4dfbb099eafd3c82e033bf92946d3ce6": {
-            "text": "E-Mail"
-        },
-        "b1c94ca2fbc3e78fc30069c8d0f01680": {
-            "text": "Alle"
-        },
-        "aa55eeb3bfe951eb9d56e8a919d80781": {
-            "text": "von %d"
-        },
-        "30f29dc6505d24512de6f3189a5bda62": {
-            "text": "Keine zum anzeigen"
-        },
-        "43ffce869929998c02ec3de3dd218d03": {
-            "text": "%d Antwort"
-        },
-        "af617b357692e5cded9ff1dd859080b3": {
-            "text": "%d Antworten"
+        "15422d54ec0d47000dc86a9820a5237e": {
+            "text": "Ausgew\u00e4hlt"
         },
         "6f8063417ab31f38d864c28302f3de2f": {
-            "text": "Best\u00e4tigt"
+            "text": "Genehmigt"
         },
         "2d13df6f8b5e4c5af9f87e0dc39df69d": {
-            "text": "Wartet"
-        },
-        "d37c550d781bfb93b0088a2470598bcf": {
-            "text": "Sterne"
-        },
-        "b718adec73e04ce3ec720dd11a06a308": {
-            "text": "="
-        },
-        "c6e190b284633c48e39e55049da3cce8": {
-            "text": "="
+            "text": "Ausstehend"
         },
         "e9dfd31cc505d51fc26975250750deab": {
             "text": "="
         },
-        "f2a6c498fb90ee345d997f888fce3b18": {
-            "text": "L\u00f6schen"
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Alle"
+        },
+        "8cc46df5ae23686a6fbb8e132f4aaf26": {
+            "text": "Antworten"
+        },
+        "98a0736c51255f757cf109bccfa1d7e2": {
+            "text": "Es sind keine Kommentarfelder installiert"
+        },
+        "adf240c38c161d42244e9eb21f515ba2": {
+            "text": "Bitte w\u00e4hlen Sie ein Kommentarfeld"
+        },
+        "b718adec73e04ce3ec720dd11a06a308": {
+            "text": "="
+        },
+        "6a65e2235642194467bf83001d23639d": {
+            "text": "Antworten zu"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "Seite"
+        },
+        "d63635a63603e4ef806df97294a902ed": {
+            "text": "Metadaten f\u00fcr Kommentar #%d"
+        },
+        "ca962ca6f37c2772794953e327cd7cb2": {
+            "text": "Kommentar hat derzeit keine Metadaten"
+        },
+        "78159fc614d1e3df7d39aa351f0578e2": {
+            "text": "Meta-JSON-Editor"
+        },
+        "daa6b483e9f6ca081ec7e0b4a352f9e9": {
+            "text": "\u00c4nderungen speichern"
+        },
+        "9f97f1e4ae9c77faa2f4d30bb84dd69b": {
+            "text": "Kein Kommentarfeld in der URL angegeben"
+        },
+        "663cac8a406b356e671fb273a143ab84": {
+            "text": "Speichern nicht m\u00f6glich, da ung\u00fcltiges JSON"
+        },
+        "4f85d037300d5f7efcf7fdc3f973db7f": {
+            "text": "Unbekanntes Feld"
+        },
+        "40fe8d33d2cf8c5f10422b0b229dbcc4": {
+            "text": "Keine \u00c4nderungen festgestellt"
+        },
+        "646282aa96109d00b491937c02c1753a": {
+            "text": "Aktualisierte Metadaten f\u00fcr Kommentar #%d"
+        },
+        "77f942f02a3e44e4d3f2ad6d7fbc973c": {
+            "text": "Fehler beim Aktualisieren der Daten f\u00fcr Kommentar #%d"
+        },
+        "5d25563c1a89451d742876569bc17e1c": {
+            "text": "Bearbeite Kommentar #%d"
+        },
+        "d754a9e8cb640da12849a040f3ca8176": {
+            "text": "Ihre Antwort"
+        },
+        "90f2f5cb0d375a1b5d2ef2888c551e1e": {
+            "text": "Ausgew\u00e4hlte Seite ist nicht bearbeitbar"
+        },
+        "62f6fe8b39b423d3d3c6056557b86f78": {
+            "text": "Die ausgew\u00e4hlte Seite enth\u00e4lt das Feld %s nicht"
+        },
+        "301fdff99e595b9e55d94b9b51b24277": {
+            "text": "Kommentar #%d gel\u00f6scht"
+        },
+        "9ee770091bc28969ca49eb8b60826002": {
+            "text": "Kommentar #%d aktualisiert"
+        },
+        "42c2e3ae4b782ca91970d7420496f69f": {
+            "text": "Kommentar #%d hinzugef\u00fcgt"
+        },
+        "30d34af303a36cdbee9d37d27980cdfe": {
+            "text": "Fehler beim Speichern des Kommentars"
+        },
+        "b692fa2b57872b7a287d9acb6c616828": {
+            "text": "Zitieren \/ Autor"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "E-Mail"
         },
         "ec53a8c4f07baed5d8825072c89799be": {
             "text": "="
         },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Erstellt"
+        },
+        "4c9d8240b71a9037b069004ccaa62aad": {
+            "text": "="
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "="
+        },
+        "63e90287fd383e2e42e4778c0e9d7a71": {
+            "text": "Positive Wertungen"
+        },
+        "b45352aeca3646b5fb15baa385d44224": {
+            "text": "Negative Wertungen"
+        },
+        "d37c550d781bfb93b0088a2470598bcf": {
+            "text": "Sterne"
+        },
+        "5d97927a6eed8f7f5a628428615d1174": {
+            "text": "Benachrichtigen Sie die oben angegebene E-Mail-Adresse, wenn"
+        },
+        "6e7b34fa59e1bd229b207892956dc41c": {
+            "text": "Niemals"
+        },
+        "988c8ef2841b65928303615052466c17": {
+            "text": "Es gibt eine Antwort auf diesen Kommentar"
+        },
+        "67ac3c361b7fe0ebf62c067bf3e31500": {
+            "text": "Jedes Mal, wenn ein neuer Kommentar auf dieser Seite ver\u00f6ffentlicht wird"
+        },
+        "7cc293f9e7daf09af51e3e04210059af": {
+            "text": "Benachrichtigungen f\u00fcr andere zulassen?"
+        },
+        "1a595440a8aebad5a30f09f2fd73cf66": {
+            "text": "Wenn Sie \"Ja\" w\u00e4hlen, werden E-Mails \u00fcber diesen neuen Kommentar an Benutzer gesendet, die sich f\u00fcr den Erhalt von Benachrichtigungen entschieden haben."
+        },
+        "13cda2cfc29efb3f6a7b8b9f7c24acd9": {
+            "text": "Seite %d hat kein Feld: %s"
+        },
+        "36099fd1f86153fbe98d6d09ad5c64fd": {
+            "text": "Kommentar #%1$d von Seite %2$d zur Seite %3$d verschoben"
+        },
+        "1bda80f2be4d3658e0baa43fbe7ae8c1": {
+            "text": "Ansehen"
+        },
+        "e9a23cbc455158951716b440c3d165e0": {
+            "text": "Meta"
+        },
+        "4e97aeeaa8b15ca1180fcd1f3ac478d1": {
+            "text": "Wann"
+        },
+        "004bf6c9a40003140292e97330236c53": {
+            "text": "Aktion"
+        },
+        "6f9e04c43332fd4945f2c933c8eea611": {
+            "text": "Zitieren"
+        },
+        "4dfbb099eafd3c82e033bf92946d3ce6": {
+            "text": "E-Mail"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Keins"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Elternteil"
+        },
+        "b3c5b21d2cb47cc950fd4667edaf404c": {
+            "text": "Wo"
+        },
+        "e84afaab83ecb301b3d97ce4174d2773": {
+            "text": "antworten"
+        },
+        "06d9d9227a6c26ee0148439a24dd351f": {
+            "text": "Antwort an %s"
+        },
         "8c3560971347019d5f97199e943831f0": {
-            "text": "Bewertungen"
+            "text": "Abstimmungen"
+        },
+        "aaf9ed605d0193362321ba0def15c9b7": {
+            "text": "Benachrichtigen"
+        },
+        "9b4a46700a216e7f86402b5a11722f5f": {
+            "text": "Kommentar ID"
+        },
+        "5aee9dbd2a188839105073571bee1b1f": {
+            "text": "Editor"
+        },
+        "2eaf1946befd8d1cec85046ac88324e3": {
+            "text": "d.m.Y g:i a"
+        },
+        "0b5be322b470d22de5cd2ecdf9e9361f": {
+            "text": "ID des Kommentars, auf den dieser Kommentar antwortet."
+        },
+        "e8108834c7ffb39092e8284f6ebeae5d": {
+            "text": "ID der Seite, auf der sich dieser Kommentar befindet."
+        },
+        "824d3f8e2abf1d4d5501516dafa0797c": {
+            "text": "Alle mit Wert anzeigen"
+        },
+        "f64f516a321829f21a8686d7411c184e": {
+            "text": "Seite anzeigen"
+        },
+        "5bcd278346ef0ee9a549bd38478ed1e6": {
+            "text": "Wert bearbeiten"
+        },
+        "3fa4031425bbfdb55a03849422d8d9dc": {
+            "text": "Seite bearbeiten"
+        },
+        "436ab3711aae372f3890d1885f4d4d2a": {
+            "text": "Nur Kommentare von der Seite anzeigen"
+        },
+        "cd8c15f27abadeefe68a23b7333543aa": {
+            "text": "Kommentar-Editor"
+        },
+        "bc9e60a9d89ccff64f5282425aa1374e": {
+            "text": "Antwort auf diesen Kommentar"
+        },
+        "a8232bdb3f7f5bd453b463e79fbf9864": {
+            "text": "Kommentar #%d von %s"
+        },
+        "54370b79c5171298a76fecdc5bb56e8e": {
+            "text": "Seite kann nicht gefunden werden: %d"
+        },
+        "c6e190b284633c48e39e55049da3cce8": {
+            "text": "="
+        },
+        "02334c757771bda658242d624c167dc7": {
+            "text": "Metadaten anzeigen\/bearbeiten"
+        },
+        "a690f09cec7c496921a55201d25b9a09": {
+            "text": "Antwort auf #"
         },
         "d442d63d91aee0c27fffe480c591f6d8": {
-            "text": "Status setzen:"
+            "text": "Status einstellen:"
         },
         "4f5d5f295ddc8fd8673e74dd5fbe114a": {
             "text": "pro Seite"
@@ -87,13 +255,13 @@
             "text": "Es gibt keine ausgew\u00e4hlten Elemente"
         },
         "a46e2270222c49988714ec7916109fc4": {
-            "text": "Aktionen (gew\u00e4hlte Elemente)"
+            "text": "Aktionen (ausgew\u00e4hlte Elemente)"
         },
         "e8eaf777c8e1f5b4e219d2e79cfd755f": {
-            "text": "Zur\u00fccksetzen: Aufwertungen"
+            "text": "Zur\u00fccksetzen: Positive Wertungen"
         },
         "cf2dd3571dc6f61216f9f14785d7e227": {
-            "text": "Zur\u00fccksetzen: Abwertungen"
+            "text": "Zur\u00fccksetzen: Negative Wertungen"
         },
         "dec8ba3ab6e0a24199eb5b6c43a9c846": {
             "text": "Datum (neu-alt)"
@@ -102,94 +270,40 @@
             "text": "Datum (alt-neu)"
         },
         "ff138d55cfc1cb9ad05eff795e830b6c": {
-            "text": "Sterne (hoch-niedrig)"
+            "text": "Sterne (hoch-tief)"
         },
         "5a4745441b4ca1eaecd9d27664d7a667": {
             "text": "Sterne (niedrig-hoch)"
         },
-        "63e90287fd383e2e42e4778c0e9d7a71": {
-            "text": "Aufwertungen"
-        },
-        "b45352aeca3646b5fb15baa385d44224": {
-            "text": "Abwertungen"
-        },
         "a4c295f303bd3ad4c69344a18dc68420": {
-            "text": "Sortieren:"
+            "text": "Sortierung:"
         },
         "eee1a3d85e91b9944c98c7558f706b27": {
             "text": "Sie haben nicht gespeicherte \u00c4nderungen!"
         },
-        "2eaf1946befd8d1cec85046ac88324e3": {
-            "text": "d.m.Y G:i"
+        "aa55eeb3bfe951eb9d56e8a919d80781": {
+            "text": "von %d"
+        },
+        "30f29dc6505d24512de6f3189a5bda62": {
+            "text": "Keine zum Anzeigen"
         },
         "8413c683b4b27cc3f4dbd4c90329d8ba": {
             "text": "Kommentare"
         },
+        "43ffce869929998c02ec3de3dd218d03": {
+            "text": "%d Antwort"
+        },
+        "af617b357692e5cded9ff1dd859080b3": {
+            "text": "%d Antworten"
+        },
+        "a35fa72f9544ae5e79a5ec2fab77a292": {
+            "text": "%d Wert"
+        },
+        "98c29131727c2ed01bf8da85368e996b": {
+            "text": "%d Werte"
+        },
         "37128d5a4c6200152c60cd46c829d635": {
             "text": "Verwalten Sie Kommentare auf Ihrer Website au\u00dferhalb des Seiteneditors."
-        },
-        "193cfc9be3b995831c6af2fea6650e60": {
-            "text": "Seite"
-        },
-        "54370b79c5171298a76fecdc5bb56e8e": {
-            "text": "Die Seite konnte nicht gefunden werden: %d"
-        },
-        "13cda2cfc29efb3f6a7b8b9f7c24acd9": {
-            "text": "Seite %d hat kein Feld: %s"
-        },
-        "36099fd1f86153fbe98d6d09ad5c64fd": {
-            "text": "Kommentar #%1$d von Seite %2$d auf Seite %3$d verschoben"
-        },
-        "1bda80f2be4d3658e0baa43fbe7ae8c1": {
-            "text": "anzeigen"
-        },
-        "4e97aeeaa8b15ca1180fcd1f3ac478d1": {
-            "text": "Wenn"
-        },
-        "6adf97f83acf6453d4a6a4b1070f3754": {
-            "text": "Keiner"
-        },
-        "30269022e9d8f51beaabb52e5d0de2b7": {
-            "text": "Elternteil"
-        },
-        "b3c5b21d2cb47cc950fd4667edaf404c": {
-            "text": "Wo"
-        },
-        "06d9d9227a6c26ee0148439a24dd351f": {
-            "text": "Antwort auf %s"
-        },
-        "9b4a46700a216e7f86402b5a11722f5f": {
-            "text": "Kommentar-ID"
-        },
-        "0b5be322b470d22de5cd2ecdf9e9361f": {
-            "text": "ID des Kommentars, auf den dieser Kommentar antwortet."
-        },
-        "e8108834c7ffb39092e8284f6ebeae5d": {
-            "text": "ID der Seite, auf der dieser Kommentar steht."
-        },
-        "824d3f8e2abf1d4d5501516dafa0797c": {
-            "text": "Alle anzeigen, die Wert haben"
-        },
-        "5bcd278346ef0ee9a549bd38478ed1e6": {
-            "text": "Wert bearbeiten"
-        },
-        "436ab3711aae372f3890d1885f4d4d2a": {
-            "text": "Nur Kommentare von Seite anzeigen"
-        },
-        "a690f09cec7c496921a55201d25b9a09": {
-            "text": "Antwort auf #"
-        },
-        "15422d54ec0d47000dc86a9820a5237e": {
-            "text": "Hervorgehoben"
-        },
-        "bafd7322c6e97d25b6299b5d6fe8920b": {
-            "text": "Nein"
-        },
-        "8cc46df5ae23686a6fbb8e132f4aaf26": {
-            "text": "Antworten"
-        },
-        "aaf9ed605d0193362321ba0def15c9b7": {
-            "text": "Benachrichtigen"
         }
     }
 }

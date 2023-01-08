@@ -103,6 +103,24 @@
         },
         "69ff054adc667458622b780aabe13d60": {
             "text": "Stattdessen Seiten-ID-Nummer anzeigen"
+        },
+        "411cec7236cb829a791512f1b67a0cc8": {
+            "text": "Diese Seiten in Seitenliste(n) ausblenden"
+        },
+        "41df189ac4766e373988ce9c915491bc": {
+            "text": "W\u00e4hlen Sie eine oder mehrere Seiten aus, die nicht in der\/den Seitenliste(n) erscheinen sollen."
+        },
+        "7b4ae78013cd06d78b6b04f15dcbf69c": {
+            "text": "Au\u00dfer wenn (UND-Bedingung)"
+        },
+        "d60116abe437a67aba5ba11a37144d33": {
+            "text": "System im Debug-Modus"
+        },
+        "03ab4ed39b0a2c874ec38105730cad72": {
+            "text": "System im erweiterten (advanced) Modus"
+        },
+        "0f574db5ad2d196b7b0714fb2344a865": {
+            "text": "Aktueller Benutzer ist superuser"
         }
     }
 }

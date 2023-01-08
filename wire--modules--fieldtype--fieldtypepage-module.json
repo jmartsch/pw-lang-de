@@ -50,8 +50,11 @@
         "0a7cd2620545065d49a8ca58f5fc0b28": {
             "text": "Mehr \u00fcber die %s Methode."
         },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "="
+        },
         "147ca86a29ed518210e0864f1e0d49ad": {
-            "text": "Falls aktiviert, k\u00f6nnen unver\u00f6ffentlichte Seiten f\u00fcr die Eingabe ausgew\u00e4hlt und in den *unformatierten* Feldwert aufgenommen werden. Im Feld *Formatiert* sind sie in jedem Fall ausgeschlossen."
+            "text": "Wenn ausgew\u00e4hlt, k\u00f6nnen unver\u00f6ffentlichte Seiten f\u00fcr die Eingabe ausgew\u00e4hlt und in den *unformatierten* Feldwert aufgenommen werden. Im Feld *Formatiert* sind sie in jedem Fall ausgeschlossen."
         }
     }
 }

@@ -71,9 +71,6 @@
         "c1d71aa80e02ee67489431d11e5f58a8": {
             "text": "Pflichtfeld nur wenn"
         },
-        "2d7ff3fa8a1a844b270d96878d358762": {
-            "text": "Lesen Sie mehr dazu [wie man dies anwendet](http:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/)."
-        },
         "b26d2db211d5748ab5ca3f2b5124e63a": {
             "text": "Spaltenbreite (%d%%)"
         },
@@ -83,8 +80,35 @@
         "e20047e93328484a90fd0cf82642d0ff": {
             "text": "Nur f\u00fcr Felder verwenden, die f\u00fcr den Benutzer immer sichtbar sind."
         },
+        "33f354f096583d4fb4c01fa05670c1e6": {
+            "text": "Lesen Sie mehr dazu wie man dies anwendet."
+        },
         "f89871ce31a971990070c480d4c257a6": {
             "text": "Offen + Gesperrt (nicht editierbar)"
+        },
+        "5c6ba25104401c9ee0650230fc6ba413": {
+            "text": "="
+        },
+        "8b046be7dfb9e9164cec9e405df4f690": {
+            "text": "Tab + Laden nur bei Anklicken (AJAX)"
+        },
+        "9e7fc336ff0486af8f5a7ac2f0d99fc8": {
+            "text": "Tab + Gesperrt (nicht editierbar)"
+        },
+        "83461cb3fcdceac6ebb0f4f01018c32b": {
+            "text": "Benutzerdefinierte Klassenattribute"
+        },
+        "aa7206164d3deb8791db7d56477e074f": {
+            "text": "Optionale zum class Attribut hinzuf\u00fcgen, f\u00fcr bestimmte Elemente in diesem Eingabefeld."
+        },
+        "75f9791dccc88ab32c564ebcc8f5e225": {
+            "text": "Das Format ist eine pro Zeile von \"Element:Klasse\", wobei \"Element\" eines der folgenden Elemente ist: \"wrap\", \"header\", \"content\" oder \"input\" und \"class\" ein oder mehrere Klassennamen ist."
+        },
+        "03951db7c965cc772f329c01d37f6449": {
+            "text": "Wenn kein Element angegeben wird, wird das Element \"input\" angenommen."
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Beispiel:"
         }
     }
 }
