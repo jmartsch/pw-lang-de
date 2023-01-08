@@ -9,13 +9,13 @@
             "text": "Text-Einstellungen"
         },
         "41d534244071f567ec8887353f125f86": {
-            "text": "Text-Formatierer"
+            "text": "Textformatierer"
         },
         "9bf6e7e02fcf9320c882455021560f5b": {
             "text": "Wenn Sie eine automatische Formatierung auf das Feld anwenden m\u00f6chten, wenn es f\u00fcr die Ausgabe vorbereitet wird, w\u00e4hlen Sie hier einen oder mehrere Textformatierer aus."
         },
         "8b77c2ae8c7851a0bbc6c4a7914815c2": {
-            "text": "Wenn Sie mehrere ausgew\u00e4hlt haben, ziehen Sie sie in die Reihenfolge, in der sie angewendet werden sollen."
+            "text": "Wenn Sie mehr als einen ausw\u00e4hlen, ziehen Sie sie in die Reihenfolge, in der sie angewendet werden sollen."
         },
         "7c09c7fa6cd2ade15be9247528c4d4e9": {
             "text": "Weitere finden Sie im Verzeichnis der Textformatierungsmodule."
@@ -23,8 +23,11 @@
         "7a1920d61156abc05a60135aefe8bc67": {
             "text": "Standard"
         },
+        "8642da31c9c6a7ef78514cac2276dac9": {
+            "text": "="
+        },
         "9f66b905cac6adfee97389b0d11b2db2": {
-            "text": "Speichern Sie, nachdem Sie diese Einstellung ge\u00e4ndert haben, da es sich auf die Einstellungen auswirken kann, die auf der Registerkarte \"Eingabe\" verf\u00fcgbar sind."
+            "text": "Wenn Sie dies \u00e4ndern, Speichern Sie danach, da sich die \u00c4nderung auf die verf\u00fcgbaren Einstellungen im Reiter \"Eingabe\" auswirken kann."
         },
         "9dffbf69ffba8bc38bc4e01abf4b1675": {
             "text": "="

@@ -20,9 +20,6 @@
         "7b9ea642d1b10d7efc18d2c64a8940f8": {
             "text": "Datum und Uhrzeit werden entsprechend des unten stehenden Formats ausgegeben. Dieses wird automatisch aus den oben gew\u00e4hlten Formaten f\u00fcr Datum\/Uhrzeit erstellt, kann aber nach Ihren W\u00fcnschen angepasst werden."
         },
-        "e606a86ec2852d83f2ea4622de245889": {
-            "text": "Weitere Informationen, wie dieses Format angepasst werden kann, finden Sie in der Funktionsreferenz zu [PHP date](http:\/\/www.php.net\/manual\/de\/function.date.php). Alternativ k\u00f6nnen Sie [PHP strftime](http:\/\/www.php.net\/manual\/de\/function.strftime.php) verwenden, falls Sie lokalisierte Formate ben\u00f6tigen."
-        },
         "c1a326c2753f410fad585781390da97f": {
             "text": "Ausgabeformat f\u00fcr Datum\/Zeit"
         },
@@ -31,6 +28,9 @@
         },
         "b4857dd659bf6e86731ccda0a3b581fb": {
             "text": "(Unix-Zeitstempel)"
+        },
+        "933a4e03586f37e44d1daeff7431cf9b": {
+            "text": "Weitere Informationen \u00fcber die Anpassung dieses Formats finden Sie in der Referenz der Funktion [PHP date](https:\/\/www.php.net\/manual\/en\/function.date.php). Alternativ k\u00f6nnen Sie auch das Format [PHP strftime](https:\/\/www.php.net\/manual\/en\/function.strftime.php) verwenden, wenn Sie es f\u00fcr die Lokalisierung ben\u00f6tigen."
         }
     }
 }

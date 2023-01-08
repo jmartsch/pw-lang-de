@@ -76,6 +76,15 @@
         },
         "0d61f8370cad1d412f80b84d143e1257": {
             "text": "="
+        },
+        "bac4951f14a17b95173f02192629e8b3": {
+            "text": "Ihr PHP memory_limit ist derzeit auf %s gesetzt."
+        },
+        "c57b443779cf3185492a1248dbead5a0": {
+            "text": "Wir empfehlen, den Wert auf mindestens %s zu erh\u00f6hen."
+        },
+        "cec93480f3d9c56dd41deb0dd62594bf": {
+            "text": "Um die Leistung zu optimieren, sollten Sie den Wert auf mindestens %s erh\u00f6hen."
         }
     }
 }

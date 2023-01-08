@@ -8,8 +8,11 @@
         "211efcb1aa9b0567969d0ce5a18d850c": {
             "text": "Anzahl Dezimalstellen auf welche aufgerundet wird"
         },
+        "bf8de207806af36f5a5834a4318f7818": {
+            "text": "Or use a negative number like -1 to disable rounding."
+        },
         "21ddca6ecb798f48a109c2289ff413ec": {
-            "text": "Feld, das eine Flie\u00dfkommazahl speichert"
+            "text": "Feld, das eine (dezimale) Flie\u00dfkomma-Zahl speichert"
         }
     }
 }

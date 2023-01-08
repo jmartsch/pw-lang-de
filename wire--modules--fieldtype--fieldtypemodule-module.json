@@ -41,8 +41,20 @@
         "1177fb816ddc2935c2a8bc55d22b93b1": {
             "text": "Typ f\u00fcr leeren Wert"
         },
+        "17ef61026679e3483b3aebd3e9a2502c": {
+            "text": "Modul vom Typ"
+        },
+        "716de874a0d74f25c0aa8c444c3a7539": {
+            "text": "Pr\u00e4fix"
+        },
+        "e40489cd1e7102e35469c937e05c8bba": {
+            "text": "Vererbung"
+        },
+        "9a90458e160aa0a5d2615a97caec6854": {
+            "text": "Die Pr\u00e4fix-Option wird f\u00fcr eine bessere Leistung empfohlen, es sei denn, sie passt nicht zu einem von Ihnen gew\u00fcnschten Modul."
+        },
         "49ee3087348e8d44e1feda1917443987": {
-            "text": "Name"
+            "text": "="
         }
     }
 }

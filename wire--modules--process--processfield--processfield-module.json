@@ -32,9 +32,6 @@
         "288fc0452049b753c8a75464d299ffe3": {
             "text": "Keine Felder entsprachen Ihrem Filter"
         },
-        "4ac3deb7dc60a1b4770ad126c84171f7": {
-            "text": "*Zeigt Felder an, die derzeit einen Standardwert \u00fcberschreiben. Einstellungen, die Sie in dieser Seite vornehmen \u00fcberschreiben die Standardeinstellungen nur, wenn sie mit dem Template \"%s\" verwendet werden."
-        },
         "c64f8a38fc13441f6cc860a4cbae887a": {
             "text": "Feld l\u00f6schen"
         },
@@ -43,12 +40,6 @@
         },
         "1fa78a97c113bed4e867ec21d9ca918f": {
             "text": "Dieses Feld kann nicht gel\u00f6scht werden, da es von einem oder mehreren Template(s) verwendet wird."
-        },
-        "ab2e4f95a7971ee8077df62efa20d437": {
-            "text": "Nachdem Sie den Feld-Typ gew\u00e4hlt und gespeichert haben, werden Ihnen vielleicht zus\u00e4tzliche spezifische Konfigurationsoptionen zum gew\u00e4hlten Feld-Typ angezeigt."
-        },
-        "219befd28b6f70d6d0a52f13c6b93772": {
-            "text": "Dieses Label erscheint \u00fcber dem Eintragsfeld. Falls leer gelassen wird stattdessen dessen Name verwendet."
         },
         "d421f74dd8c605a337e57a6224f23478": {
             "text": "Zus\u00e4tzliche Informationen, um dieses Feld zu beschreiben und\/oder Anweisungen, wie Inhalte einzugeben sind."
@@ -509,9 +500,6 @@
         "57a9412e7a9b1f328ffef4cd468dabeb": {
             "text": "Als erstes Feld hinzuf\u00fcgen"
         },
-        "927e2bece8a3ee4ce5f53aca157c04ec": {
-            "text": "Nur ASCII-Buchstaben (a-z A-Z), Zahlen (0-9) und Unterstriche verwenden."
-        },
         "760b4bbc37693597edf00f9eeda38cd0": {
             "text": "Derzeit werden keine Einstellungen vom Template \u00fcberschrieben."
         },
@@ -614,20 +602,50 @@
         "e036648db74b48abc2b6af1d56d4596c": {
             "text": "\u00c4nderungen"
         },
-        "6855bfdf44496210543dabeb8f88a1c0": {
-            "text": "="
+        "f9757067733747aed406043e5915f1d7": {
+            "text": "Tag Name"
         },
-        "28ac344e871bb5931c25502670d3e2fd": {
-            "text": "Beschriftung, die oberhalb der Feldeingabe erscheint."
-        },
-        "405231013da488699f3761636027e651": {
-            "text": "Die Beschreibung erscheint hier und sieht so aus."
+        "0056888ec574ec487da813f9c577b27c": {
+            "text": "Sie k\u00f6nnen Buchstaben, Ziffern oder Unterstriche verwenden."
         },
         "133027c82744d7b44344c6d2fdd3cd2e": {
             "text": "(nicht verwendet)"
         },
+        "405231013da488699f3761636027e651": {
+            "text": "Die Beschreibung erscheint hier und sieht wie folgt aus."
+        },
+        "db1620090ae1c6d74219a84f00a71360": {
+            "text": "Label f\u00fcr den Tab"
+        },
+        "4cadbe25399aaee62e9d2f735703a5ec": {
+            "text": "Wenn das Feld in einem eigenen Tab angezeigt wird, geben Sie optional eine alternatives Tab Label an, wenn es sich von der Feldbezeichnung unterscheidet."
+        },
+        "9578890ecca660be2de225f2a4339c8d": {
+            "text": "Das Tab-Label sollte idealerweise sehr kurz (ein Wort) sein."
+        },
+        "c64518704ce0c0d5501a45763f464276": {
+            "text": "Verwendung"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "="
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "="
+        },
+        "4dd35391663d2adc8123a95b3d725399": {
+            "text": "Auf dem Tab \"Aktionen\" finden Sie Informationen zum Hinzuf\u00fcgen\/Entfernen aus Templates."
+        },
+        "f0165e158f427105fe57cb91d5fa53df": {
+            "text": "Dieses Feld wird derzeit nicht verwendet."
+        },
+        "6809fda0cf4fa4c12e63de08c0aa8b45": {
+            "text": "Dies ist ein Systemfeld, die Aktivierung der Zugriffskontrolle wird NICHT empfohlen."
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "="
+        },
         "0151b4b3cfa88e85b9387dc9490961cf": {
-            "text": "eindeutig"
+            "text": "einzigartig"
         },
         "ab17e61adc90fe446ec49fe7cd795864": {
             "text": "\u00dcberschreibungen\/Kontexte"

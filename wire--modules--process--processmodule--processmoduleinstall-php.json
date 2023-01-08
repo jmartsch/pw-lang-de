@@ -72,13 +72,19 @@
             "text": "Diese Installationsoption ist derzeit deaktiviert."
         },
         "d83612969f53282acff312397c6d8fa8": {
-            "text": "Extrahiert: %s"
+            "text": "Entpackt: %s"
+        },
+        "c8d7cc9fd8f6298a8ee52a937c29c97d": {
+            "text": "Ihr %s-Pfad ist derzeit nicht beschreibbar."
+        },
+        "58c9ef751665d75133cd9f06c2e99f71": {
+            "text": "Es muss f\u00fcr ProcessWire beschreibbar gemacht werden, bevor Sie diese Modulinstallationsoption aktivieren k\u00f6nnen."
         },
         "43b2e82a51daa1adee20374e35b3caa9": {
-            "text": "Extrahierte Datei %d"
+            "text": "Dateie %d entpackt"
         },
         "aeb9dc1c219e430958416b2390306776": {
-            "text": "Extrahierte Dateien %d"
+            "text": "%d Dateien entpackt"
         }
     }
 }

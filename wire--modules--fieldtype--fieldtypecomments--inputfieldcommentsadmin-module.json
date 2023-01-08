@@ -76,6 +76,27 @@
         },
         "0cdfb8480c1dfe5241c042249c4d9fae": {
             "text": "Ausgew\u00e4hlt"
+        },
+        "de409f1196a299b23fcbdfaf9efe0740": {
+            "text": "Kommentar-Manager statt In-Page-Editor verwenden?"
+        },
+        "33c3c08ba0fba5a5c7cf3200a45dd907": {
+            "text": "Wenn diese Option aktiviert ist, wird der Benutzer zur Bearbeitung von Kommentaren auf den entsprechenden Kommentar-Manager weitergeleitet."
+        },
+        "3857c404875aaaa89b52103fed3f5af6": {
+            "text": "Dies kann vorzuziehen sein, da der Kommentar-Manager mehr Funktionen hat und eine Paginierung verwendet."
+        },
+        "eebb31a81d2aad4ae64d6dba6909e9eb": {
+            "text": "%d Metawert"
+        },
+        "7ce7f3b84a8535988430017d4c449643": {
+            "text": "%d Metawerte"
+        },
+        "4a964c69ef2c96e042a8fec38dc97850": {
+            "text": "%d Kommentar"
+        },
+        "9c8bfdb79649293332a0195f706f0020": {
+            "text": "%d Kommentare"
         }
     }
 }

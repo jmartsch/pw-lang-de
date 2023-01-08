@@ -227,14 +227,8 @@
         "76ff1156be021b9f8cc2597febd46133": {
             "text": "Greift zu auf"
         },
-        "844ced21eac449bca19cf378ae770720": {
-            "text": "Ung\u00fcltiger Modulname: %s"
-        },
         "8cd0d0c99b062b3d22e8c7188ba33ab2": {
             "text": "Alle anzeigen"
-        },
-        "9e5fd09ae1c89e20aa28deee64d7f631": {
-            "text": "Module des Typs \"%s\" k\u00f6nnen leider nicht im Admin-Interface installiert werden."
         },
         "94e84ea867143991751f06bad2b5da30": {
             "text": "Innerhalb der letzten Stunde"
@@ -353,9 +347,6 @@
         "def68ae90aac3e065c37457bc36d22f8": {
             "text": "="
         },
-        "617650497438099e992520bf3a664ba6": {
-            "text": "="
-        },
         "27a35aaa9bc34010a2a8b5f6e72bc59c": {
             "text": "="
         },
@@ -440,41 +431,110 @@
         "fb61fc284cf893013b55de02da9c9948": {
             "text": "Modul: %s"
         },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Speichern"
+        },
+        "8a59745d5142e82bd08e3d1291f7ab8e": {
+            "text": "Erweitert"
+        },
         "f464b54239700029744e7426935c782b": {
             "text": "Fehlende Moduldatei(en) in: %s"
         },
         "2aee0be2678ee90fd327cc186826438e": {
-            "text": "Fehlend"
+            "text": "Fehlt"
         },
         "95044757c9e0df8925fe4a63a324d3d8": {
-            "text": "Module in der Datenbank, die nicht im Dateisystem gefunden werden. Klicken Sie unten auf einen beliebigen Modulnamen, um Optionen zum Beheben anzuzeigen."
+            "text": "Module in der Datenbank, die im Dateisystem nicht gefunden werden. Klicken Sie unten auf einen Modulnamen, um Optionen zur Behebung anzuzeigen."
+        },
+        "9ce8cbfc28789646dfd5d735f4da3d0b": {
+            "text": "="
+        },
+        "fe7c3111443178661e69b4b83f04bdfd": {
+            "text": "Ung\u00fcltiger Modulname: \"%s\""
+        },
+        "ca400fb4206c743189c906d352bd4830": {
+            "text": "Bitte verwenden Sie Gro\u00dfbuchstaben [A-Z] f\u00fcr das erste Zeichen, Kleinbuchstaben [a-z] f\u00fcr das zweite Zeichen und [a-z A-Z 0-9] f\u00fcr den Rest."
+        },
+        "4b0877a5e7f5ee4cc39e6fdfc4cd00dd": {
+            "text": "Zum Beispiel: \"%s\""
+        },
+        "744cbb13a2d60fe8be0889a49e0bee00": {
+            "text": "Die Modulklasse muss die Schnittstelle \"ProcessWire\\Module\" implementieren."
+        },
+        "d21a932cf85cfc399d6410838ece9e9c": {
+            "text": "Tut mir leid, Module vom Typ \"%s\" k\u00f6nnen nicht \u00fcber den Admin installiert werden."
+        },
+        "6b658422a653aec6309a2e82dab97431": {
+            "text": "%s Modulinformation"
+        },
+        "77abd48d0a4b2599252746283cf415bd": {
+            "text": "Modulinformation"
+        },
+        "a2c1d1243d90b2513936d42ad566ac16": {
+            "text": "(regul\u00e4r)"
+        },
+        "ed1c9d7b961f93beba3c196821a7f26e": {
+            "text": "(ausf\u00fchrlich)"
+        },
+        "e48e0e0aeb991df7402dc118d2567c9b": {
+            "text": "Diese Daten stammen aus dem Modul oder werden zur Laufzeit ermittelt, sind also hier nicht editierbar."
+        },
+        "8c0375d91ede4cf009a02a855d5b5f79": {
+            "text": "%s rohe Konfigurationsdaten"
+        },
+        "baa3355dc6e921ef113ec3a5aed662e0": {
+            "text": "Dieses Modul hat keine Konfigurationsdaten"
+        },
+        "490f8475055b941d956558bdd4184b1f": {
+            "text": "entfernen Sie diese nicht"
+        },
+        "b662bf6fb6b77c6d4fc74b1445ea2362": {
+            "text": "Speichern nicht m\u00f6glich, da JSON nicht geparst werden konnte (ung\u00fcltiges JSON)"
+        },
+        "5f8e05386fa3c540298134279669bd25": {
+            "text": "Speichern nicht m\u00f6glich, da JSON nicht als g\u00fcltig f\u00fcr das Modul erkannt wird"
+        },
+        "fcb02bc2c95c6a16020b5ba42bc7f8f4": {
+            "text": "Aktualisierte Modulkonfigurationsdaten"
+        },
+        "40fe8d33d2cf8c5f10422b0b229dbcc4": {
+            "text": "Keine \u00c4nderungen festgestellt"
+        },
+        "7c5ba2ccfa62e3851cd8896260765e58": {
+            "text": "Unbekanntes Modul"
         },
         "4cd91aa9e2204807c18ccb578305c357": {
             "text": "Moduldatei nicht gefunden"
         },
+        "608c857d1ec057cf85a2776ae9d2e0f1": {
+            "text": "Das Modul \"%s\" existiert in der Datenbank, aber nicht auf dem Dateisystem."
+        },
         "3f7ac7b9e02123a6f7ad6b0a30d22b6d": {
-            "text": "Modul \"%s\" existiert in der Datenbank, aber nicht auf dem Dateisystem."
+            "text": "Erw\u00e4gen Sie, die Moduldateien in %s abzulegen oder das Modul aus der Datenbank zu entfernen."
         },
         "5726ea1babd2fd38df90eb9181ccc652": {
             "text": "Dieses Modul aus der Datenbank entfernen?"
         },
         "20cdc25923bd223a0616adb565cd34c4": {
-            "text": "Modul aus der Datenbank entfernt"
-        },
-        "608c857d1ec057cf85a2776ae9d2e0f1": {
-            "text": "Modul \"%s\" existiert in der Datenbank, aber nicht auf dem Dateisystem."
+            "text": "Dieses Modul aus der Datenbank entfernen?"
         },
         "7d571db09020671aab5f5a8eb76c4b06": {
             "text": "Das Modul %1$s wurde aktualisiert, um die Datei zu verwenden: %2$s"
         },
-        "744cbb13a2d60fe8be0889a49e0bee00": {
-            "text": "Die Modulklasse muss die Schnittstelle \"ProcessWire\\Module\" implementieren."
-        },
         "8569fe11869eab4756b242c9cdc6ad92": {
-            "text": "Installiere \u00dcbersetzungen"
+            "text": "\u00dcbersetzungen installieren"
+        },
+        "03ca76fd12db5f3ef297c5d5fe385fa3": {
+            "text": "Rohkonfiguration"
+        },
+        "9256bf7bb7a45066e51b9d36771ce930": {
+            "text": "Rohdaten"
+        },
+        "d4f92a77a92921fb8ffedd71039834c6": {
+            "text": "Diese Optionen sind nur im erweiterten Modus verf\u00fcgbar."
         },
         "bf07f89fd86a5f3f7e8adb1833ce11bb": {
-            "text": "Keine Sprachdateien f\u00fcr das Modul verf\u00fcgbar"
+            "text": "Keine Modul-\u00dcbersetzungen verf\u00fcgbar"
         },
         "4ba2c3760d90822344a0ef877706ceca": {
             "text": "Modul-\u00dcbersetzungen"
@@ -490,6 +550,9 @@
         },
         "1ce6b5b21ba628d92d00fd22b0c87730": {
             "text": "Sprachen"
+        },
+        "1e99d98a261b2989a7bb70ac5dfeece1": {
+            "text": "Modulkonfiguration (raw\/JSON)"
         }
     }
 }

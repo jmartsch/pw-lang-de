@@ -227,11 +227,41 @@
         "d17026399e4b0283ab382defdc5ac109": {
             "text": "Standardm\u00e4\u00dfig werden hochgeladene Bilder mit der bearbeiteten Seite gespeichert. Wenn Sie stattdessen eine gemeinsame Seite f\u00fcr diese Anlagen verwenden m\u00f6chten, w\u00e4hlen Sie sie hier aus."
         },
+        "c0f3672718e5216548a369b4fa6d8baf": {
+            "text": "Die Einstellungen wurden aus dem Feld \"%s\" importiert."
+        },
+        "dd3cb0e0ae693323923326112f52c5c0": {
+            "text": "\u00dcberpr\u00fcfen Sie die Einstellungen auf dem Tab \"Eingabe\" im Feld \"CKEditor-Einstellungen\" und speichern Sie sie, um sie zu \u00fcbernehmen."
+        },
+        "562a0d4331a8219587e48d0dca0efba5": {
+            "text": "SIE M\u00dcSSEN ERNEUT SPEICHERN, UM DIESE EINSTELLUNGEN ZU \u00dcBERNEHMEN!"
+        },
+        "34cebadb188dcc37e52cd4c7468f94a0": {
+            "text": "\u00c4nderungen: %s"
+        },
+        "55194ee969e62a0c12386b05cc68c8a8": {
+            "text": "Beim Importieren der Einstellungen wurden keine \u00c4nderungen festgestellt."
+        },
+        "8ab1ca6059220b941a20c75c28c3ac55": {
+            "text": "Einstellungen von einem anderen CKE-Feld erben"
+        },
+        "5d35e5c18c01ae09021c67387e6d525e": {
+            "text": "Wenn ein Feld ausgew\u00e4hlt wird, werden die CKEditor-Einstellungen von diesem Feld geerbt und nicht von den hier konfigurierten."
+        },
+        "8a797b000e826cb39b4f8fc54ce59934": {
+            "text": "Nachdem Sie eine Auswahl getroffen und dieses Feld gespeichert haben, werden alle nachfolgenden Einstellungen nicht mehr angezeigt."
+        },
+        "4d354f5b452ecc54b1e8fa44b7d40b14": {
+            "text": "Einstellungen aus einem anderen CKE-Feld importieren"
+        },
+        "45e9c209c6f0967b6a41db728068f04a": {
+            "text": "Die Einstellungen werden beim Speichern aus dem ausgew\u00e4hlten Feld importiert und ersetzen die aktuellen CKEditor-Einstellungen unten."
+        },
         "ddfa2d60092cf3c924e8e03b1d2749ad": {
-            "text": "Inline Editor"
+            "text": "Inline-Editor"
         },
         "cece69f97e96edb257b883fcf95e4230": {
-            "text": "Regul\u00e4rer Editor"
+            "text": "Normaler editor"
         },
         "5876f9779e64d0cac98b54f9885e4f84": {
             "text": "(flexible H\u00f6he, vom Benutzer einstellbar)"
@@ -240,7 +270,7 @@
             "text": "(variable H\u00f6he, entspricht dem Inhalt)"
         },
         "47d8cf2fe51854ad3028ba151ef9f3a1": {
-            "text": "(feste H\u00f6he, verwendet Zeilen Einstellung)"
+            "text": "(feste H\u00f6he, verwendet Zeileneinstellung)"
         }
     }
 }

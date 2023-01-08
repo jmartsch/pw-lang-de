@@ -56,24 +56,6 @@
         "a6cdf6c364498c02bdaa499492780445": {
             "text": "Ein optionales Label, um dieses Template zu beschreiben."
         },
-        "b5b8f523cefee8895f19a223c85f431f": {
-            "text": "Template-Zugriff verwalten"
-        },
-        "7a91f878f0e4c02c502a8d0583b0c6be": {
-            "text": "Optionale Verwendung und Platzierung im Seitenbaum"
-        },
-        "501dba7089bbfb45c7c1a733477bcdc5": {
-            "text": "Optionale Einstellungen f\u00fcr URLs von Seiten, die dieses Template nutzen"
-        },
-        "23f23b8b2e4cc5c8517468a6d001b3fd": {
-            "text": "Caching der Ausgabe"
-        },
-        "244561833b6ce4599891cf9e33fb33d6": {
-            "text": "Optionale erweiterte Template-Einstellungen"
-        },
-        "5dd56426fff182e0610cc0bf9d389437": {
-            "text": "System-spezifische Template-Einstellungen"
-        },
         "0d4ca2b82aa1381b25348c8509009839": {
             "text": "Template l\u00f6schen"
         },
@@ -94,9 +76,6 @@
         },
         "6f8d1b93e4aad53511c85e29ed36b3d0": {
             "text": "(Standard)"
-        },
-        "b6b0afb901a4db116f6b8403cf434280": {
-            "text": "Dies ist eine Liste der Felder, die dieses Template nutzt, zur Referenz. Dieses Template erh\u00e4lt seine Felder vom Template '%s'."
         },
         "6daa35fd97a645b8e37cae080eab3de9": {
             "text": "Feld hinzuf\u00fcgen"
@@ -470,9 +449,6 @@
         "3be3efa6643b5a3f2af79ace0a5145c4": {
             "text": "Erweitert"
         },
-        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
-            "text": "L\u00f6schen"
-        },
         "d5778a8b84efb3233d070016adb93326": {
             "text": "Speichern"
         },
@@ -523,12 +499,6 @@
         },
         "957ba77c721f931f1ad38ed47b98fd0d": {
             "text": "Template wird von %d Seiten verwendet"
-        },
-        "65f037a0e08b94d9e42932b68c5eaf29": {
-            "text": "Die Feld-Gruppe dieses Templates wird von einem weiteren Template verwendet"
-        },
-        "18dec3122ea08276dd94476904bcef7b": {
-            "text": "Die Feld-Gruppe dieses Templates wird von %d weiteren Templates verwendet"
         },
         "dcc07e185c0c88ca7c4439fbaa56e4cb": {
             "text": "Wenn die Template-Ausgabe gecached wird, ist die Standardeinstellung, Variablen dieses Typs zu ignorieren. Sie k\u00f6nnen optional eine oder mehrere Variablennamen angeben, die Caching f\u00fcr diese Anfrage deaktivieren, also daf\u00fcr sorgen, dass die Seite ohne Cache gerendert wird."
@@ -629,14 +599,8 @@
         "ab6b38f8849f9837a2fbb24721ab5e99": {
             "text": "Deaktiviere automatisches voranstellen von Datei: %s"
         },
-        "07bbc1cae53fb8d26759b5564e6a5824": {
-            "text": "Diese Option deaktiviert die Einstellung $config->prependTemplateFile in \/site\/config.php nur f\u00fcr dieses Template."
-        },
         "95dac43782405c335b194c4f4ff28436": {
             "text": "Deaktiviere automatisches anh\u00e4ngen von Datei: %s"
-        },
-        "438f365e84607c69184559ff2e9d974b": {
-            "text": "Diese Option deaktiviert die Einstellung $config->appendTemplateFile in \/site\/config.php nur f\u00fcr dieses Template."
         },
         "f048d404737b6fafd4849b8cd850e983": {
             "text": "Achtung, Datei nicht vorhanden"
@@ -665,23 +629,14 @@
         "e2cbec4ffca6b29170e0a79d38d2b6dd": {
             "text": "Umbenennen des Templates \u00fcbersprungen - bitte nach der laufenden Aktion vervollst\u00e4ndigen"
         },
-        "b0349bb2d18f943c6aa52c5c038850a0": {
-            "text": "Bei Verwendung von [ProCache](%s) sind hier keine Einstellungen zum Cache notwendig."
-        },
         "d3da97e2d9aee5c8fbe03156ad051c99": {
             "text": "Mehr"
         },
         "991dba5ecf8a850b42ffc2e6d0697c2b": {
             "text": "Falls ausgew\u00e4hlt, unterst\u00fctzen Seiten, die dieses Template nutzen, Pagination."
         },
-        "4ee65b65a7329e4d76cce40b69075c2d": {
-            "text": "Aus dem Template auf die aktuelle Seitenzahl zugreifen mittels $input->pageNum."
-        },
         "4295c2949c604273ad18a82924a06684": {
             "text": "Falls ausgew\u00e4hlt, akzeptieren Seiten, die dieses Template nutzen, eigene URL-Segmente nach der Seiten-URL."
-        },
-        "3f967ce93af0de3a0457071f3d743f14": {
-            "text": "Aus dem Template auf die aktuellen URL-Segmente zugreifen mittels $input->urlSegmentStr."
         },
         "85eb71c20f7740fc3bdbf7dfdee2636b": {
             "text": "Welche URL-Segmente sind zul\u00e4ssig?"
@@ -851,9 +806,6 @@
         "2a138a3c1a54958a39f65b80e666b643": {
             "text": "="
         },
-        "27dd547b53bb1b3c67c345f984747010": {
-            "text": "Zum deaktivieren leer lassen. Geben Sie \"title\" (ohne Anf\u00fchrungszeichen) ein zur automatischen Generierung des Namens vom Titel der Seite. Weitere Optionen mit Datumsformaten sind ebenfalls m\u00f6glich. [Mehr](http:\/\/processwire.com\/api\/modules\/process-template\/)"
-        },
         "3797b58404902683867d788211ac5ce2": {
             "text": "Kompilierte Datei verwenden?"
         },
@@ -974,20 +926,38 @@
         "a1fa27779242b4902f7ae3bdd5c6d508": {
             "text": "Typ"
         },
+        "f24acee881db1337b08b7890e294f358": {
+            "text": "Verwenden Sie nicht nur Ziffern."
+        },
         "49ee3087348e8d44e1feda1917443987": {
             "text": "="
         },
         "b021df6aac4654c454f46c77646e745f": {
-            "text": "Beschriftung (Label)"
+            "text": "="
         },
         "9b2692fa9c25a63ff93341c03734c067": {
             "text": "Tags verwalten"
         },
+        "21c9aab0c5b8085a7b4a9267c6db3820": {
+            "text": "Template Name \"%s\" nicht hinzugef\u00fcgt, da er nur Ziffern enth\u00e4lt."
+        },
         "af6397fe799c6883d32c1904e226a176": {
-            "text": "Aus untenstehendem Gr\u00fcnden nicht verf\u00fcgbar"
+            "text": "Nicht verf\u00fcgbar aus unten aufgef\u00fchrten Gr\u00fcnden"
+        },
+        "6a0219d2a4cc5325013a373b1da9fa8f": {
+            "text": "Zu Ihrer Information finden Sie hier eine Liste der von diesem Template verwendeten Felder. Dieses Template bezieht seine Felder aus dem Template \"%s\"."
         },
         "78f0addb345c31ce3601b53076e87281": {
             "text": "Definieren Sie die benutzerdefinierten Felder f\u00fcr \"%s\". Es ist nicht notwendig, hier etwas anderes zu konfigurieren."
+        },
+        "1ee7f0f967f1817a4d0df8dac4105ebc": {
+            "text": "W\u00e4hlen Sie die Felder aus, die von diesem Template verwendet werden, und bringen Sie sie per Drag & Drop in die gew\u00fcnschte Reihenfolge."
+        },
+        "2e5b330cc3f63247217f9a7aff0ba468": {
+            "text": "Sie k\u00f6nnen auch auf den Feldnamen oder die Beschriftung klicken, um sie im Kontext dieses Templates zu bearbeiten, auf die Prozentanzeige klicken\/ziehen, um die Breite anzupassen, oder [ein neues Feld erstellen](%s)."
+        },
+        "5b55d084858290c6852cb1b0bd6be400": {
+            "text": "Speichern Sie dieses Template, damit neu hinzugef\u00fcgte Felder hier bearbeitet werden k\u00f6nnen."
         },
         "6d54a6464afb9baefe6dc9b5bb9407ba": {
             "text": "Template umbenennen"
@@ -996,43 +966,52 @@
             "text": "Duplizieren\/Klonen dieses Templates"
         },
         "6a40b08ae62e68a7c0d75fbe482422bb": {
-            "text": "Felder von einem anderen Template kopieren"
+            "text": "Felder aus einem anderen Template kopieren"
         },
         "8daeee7ba24747388991aebbef424aca": {
-            "text": "Wenn Sie Felder kopieren m\u00f6chten, die von einem anderen Template verwendet werden, w\u00e4hlen Sie es hier aus. Felder, die bereits in diesem Template vorhanden sind, werden beibehalten."
+            "text": "Wenn Sie von einem anderen Template verwendete Felder kopieren m\u00f6chten, w\u00e4hlen Sie diese hier aus. Felder, die bereits in diesem Template vorhanden sind, werden nicht \u00fcbernommen."
+        },
+        "9fbbf36953078c8761263aac49cbcc76": {
+            "text": "Zum Deaktivieren leer lassen. Geben Sie \"title\" (ohne Anf\u00fchrungszeichen) ein, um den Namen automatisch aus dem Seitentitel zu generieren. [Weitere Optionen](%s), einschlie\u00dflich benutzerdefinierter Felder und Datumsformate, sind ebenfalls verf\u00fcgbar."
         },
         "cd0cf5a5ee30d30f0261238f5875a33b": {
-            "text": "Direkten Zugriff auf Datei-Assets verhindern, die zu Seiten geh\u00f6ren, die dieses Template verwenden?"
+            "text": "Verhindern Sie den direkten Zugriff auf Datei-Assets, die zu Seiten geh\u00f6ren, die dieses Template verwenden?"
         },
         "e29fbd4b3ab93bd36ba02701195f7267": {
-            "text": "Wenn der direkte Zugriff auf eine Datei in \/site\/assets\/files\/ blockiert ist, kann ProcessWire die Bereitstellung der Datei anstelle des Apache verwalten."
+            "text": "Wenn der direkte Zugriff auf eine Datei in [u]\/site\/assets\/files\/[\/u] blockiert ist, kann ProcessWire die Bereitstellung der Datei anstelle des Apache \u00fcbernehmen."
         },
         "f0e7c1fdf80a62ce6751727bdba68f47": {
-            "text": "Dadurch kann die Datei auf die gleiche Weise wie die Seite, der sie geh\u00f6rt, zugriffskontrolliert werden, wobei weiterhin die urspr\u00fcngliche Datei-URL verwendet wird."
+            "text": "Dadurch kann der Zugriff auf die Datei auf dieselbe Weise kontrolliert werden wie auf der Seite, der sie geh\u00f6rt, wobei die urspr\u00fcngliche Datei-URL weiterhin verwendet wird."
         },
         "cb3c9250730efdee741ff650f807d56a": {
-            "text": "Beachten Sie, dass es mehr Arbeitsaufwand bedeutet, eine Datei auf diese Weise zuzustellen, w\u00e4hlen Sie die Option \"Ja, immer\" also nur, wenn Sie sie ben\u00f6tigen."
+            "text": "Beachten Sie, dass die \u00dcbermittlung einer Datei auf diese Weise mehr Aufwand bedeutet, w\u00e4hlen Sie die Option \"Ja, immer\" also nur, wenn Sie sie ben\u00f6tigen."
         },
         "09af5db524e775b4a1f701ef67479387": {
             "text": "Testen Sie immer, ob die Zugriffskontrolle so funktioniert, wie Sie es erwarten, indem Sie versuchen, in Ihrem Browser auf die gesch\u00fctzte(n) Datei(en) zuzugreifen."
         },
         "825eaff6cfdbcc09fd32758d056e4742": {
-            "text": "Tun Sie dies, wenn Sie erwarten, dass Sie Zugriff haben (angemeldet) und wenn Sie keinen Zugriff haben (abgemeldet)."
+            "text": "Tun Sie dies, wenn Sie erwarten, dass Sie Zugang haben (angemeldet) und wenn Sie keinen haben (abgemeldet)."
         },
         "eae07a5d655bbc5b0b66030482669d7b": {
-            "text": "(verwendet stattdessen die Website-weite) Konfiguration"
+            "text": "(verwendet stattdessen die site-weite Konfiguration)"
         },
         "60b7601149e4f71061b2518b1fb1369f": {
             "text": "Ja, wenn die Seite unver\u00f6ffentlicht, im Papierkorb oder nicht \u00f6ffentlich zug\u00e4nglich ist"
         },
         "d761f031894f4f6b20d02ac34d62daa7": {
-            "text": "Ja immer, unabh\u00e4ngig vom Seitenstatus oder der Zugriffssteuerung"
+            "text": "Ja, immer, unabh\u00e4ngig von Seitenstatus oder Zugriffskontrolle"
+        },
+        "1ac66e7a4aef92762b695f5d268e693e": {
+            "text": "Umbenannte(r) %d Seitendateipfad(e) f\u00fcr die Option zum Wechsel in \"Sichere Dateien\""
         },
         "06ac19612d34194fee5bcab738cefe62": {
             "text": "Ihre \u00c4nderung der Option \"Sichere Dateien\" wird beim Zugriff auf Datei-\/Bildfelder auf jeder der %d betroffenen Seiten angewendet."
         },
         "b2c26a5234b7fb3fa549883f7c211bd3": {
-            "text": "Beachten Sie, dass dies einige Zeit dauern kann. Um dies nun auf alle anzuwenden, f\u00fchren Sie den folgenden API-Code aus einer Template-Datei aus:"
+            "text": "Beachten Sie, dass dies einige Zeit in Anspruch nehmen kann. F\u00fchren Sie den folgenden API-Code aus einer Template-Datei aus, um ihn jetzt auf alle anzuwenden:"
+        },
+        "f9757067733747aed406043e5915f1d7": {
+            "text": "Tag-Name"
         },
         "8b3a3179c770d5cda3e5d38d7eb45ca2": {
             "text": "W\u00e4hlen Sie alle Templates aus, die dieses Tag haben sollen"
@@ -1044,31 +1023,28 @@
             "text": "Um dieses Tag zu l\u00f6schen, entfernen Sie alle Templates aus ihm."
         },
         "8958860efca6192ab40af3a1f2e17d48": {
-            "text": "Tag \"%1$s\" zur Template hinzugef\u00fcgt: %2$s"
-        },
-        "b8bda8719893c4a385d4025c60c78ec2": {
-            "text": "Tag \"%1$s\" aus Template entfernt: %2$s"
-        },
-        "9fc8691fab39cc1433cd39430edb0501": {
-            "text": "Neues Tag hinzuf\u00fcgen"
-        },
-        "a698a809093ad1c25ea277ff03ae5fc7": {
-            "text": "Aktionen"
-        },
-        "1ac66e7a4aef92762b695f5d268e693e": {
-            "text": "Umbenannte(r) %d Seitendateipfad(e) f\u00fcr Wechsel zur Option \"Sichere Dateien"
+            "text": "Tag \"%1$s\" zu Template hinzugef\u00fcgt: %2$s"
         },
         "7a53b43fab8ccbe670792e7832ef2588": {
             "text": "Tag \"%1$s\" aus Template entfernt: %2$s"
         },
-        "1ee7f0f967f1817a4d0df8dac4105ebc": {
-            "text": "W\u00e4hlen Sie die Felder aus, die von diesem Template verwendet werden, und bringen Sie sie per Drag & Drop in die gew\u00fcnschte Reihenfolge."
+        "b8bda8719893c4a385d4025c60c78ec2": {
+            "text": "Mit Tags k\u00f6nnen Sie Sammlungen von Templates f\u00fcr die Auflistung erstellen."
         },
-        "2e5b330cc3f63247217f9a7aff0ba468": {
-            "text": "Sie k\u00f6nnen auch auf den Feldnamen oder die Beschriftung klicken, um sie im Kontext dieses Templates zu bearbeiten. Klicken\/Ziehen Sie die Prozentanzeige, um die Breite anzupassen, oder [ein neues Feld erstellen](%s)."
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "Neues Tag hinzuf\u00fcgen"
         },
-        "5b55d084858290c6852cb1b0bd6be400": {
-            "text": "Speichern Sie dieses Template, damit neu hinzugef\u00fcgte Felder hier bearbeitet werden k\u00f6nnen."
+        "91f0d9531bc0864da763086363af90e5": {
+            "text": "Sie k\u00f6nnen Buchstaben, Ziffern, Bindestriche und Unterstriche verwenden."
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "Aktionen"
+        },
+        "482957b0d6d5c5d4c8de3dd316750d04": {
+            "text": "Die Feldgruppe dieses Templates wird von einem anderem Template verwendet"
+        },
+        "19403f055f2e2c7f03b5dab680880b3d": {
+            "text": "Die Feldgruppe dieses Templates wird von %d anderen Templates verwendet"
         }
     }
 }

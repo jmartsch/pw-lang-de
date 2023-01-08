@@ -117,7 +117,7 @@
             "text": "Zuletzt ge\u00e4ndert von %1$s am %2$s"
         },
         "ea1a60a080fc428d2c18d9e6d33ded08": {
-            "text": "Falls Sie wollen, dass alle derzeitigen und zuk\u00fcnftigen Unterseiten automatisch nach einem bestimmten Feld sortiert werden, w\u00e4hlen Sie das Feld unten aus und kreuzen Sie ggf. die \"Umgekehrte Sortierreihenfolge?\"-Checkbox an, um eine absteigende Sortierreihenfolge zu nutzen. Ignorieren Sie die Sortiereinstellungen einfach, falls Sie die Seiten per Drag'n'Drop selbst ordnen wollen."
+            "text": "Falls Sie wollen, dass alle derzeitigen und zuk\u00fcnftigen Unterseiten automatisch nach einem bestimmten Feld sortiert werden, w\u00e4hlen Sie das Feld unten aus und kreuzen Sie ggf. die \"Umgekehrte Sortierreihenfolge?\"-Checkbox an, um eine absteigend Sortierreihenfolge zu nutzen. Ignorieren Sie die Sortiereinstellungen einfach, falls Sie die Seiten per Drag'n'Drop selbst ordnen wollen."
         },
         "62a92c8e1a013dc0c9a67f2769642e9f": {
             "text": "Kreuzen sie die Box an, um zu best\u00e4tigen, dass sie dies wollen."
@@ -148,12 +148,6 @@
         },
         "e4c2fcbaac781d00fe1e192a4d94c0e9": {
             "text": "Bitte best\u00e4tigen Sie, dass Sie das obere verstanden haben, in dem Sie die Checkbox unten ankreuzen."
-        },
-        "6b102e11bd33fb8f4be6a6cecf2c491b": {
-            "text": "Sie haben nicht die Berechtigung, das Template zu \u00e4ndern."
-        },
-        "854de5f33bda667c67117b0aaee5a9cf": {
-            "text": "Dieses Template ist nicht erlaubt"
         },
         "d4ad7f8661990f191def1fb3a6accbd9": {
             "text": "Template ge\u00e4ndert zu: \"%s\""
@@ -309,7 +303,7 @@
             "text": "Umleitung %s kann nicht hinzugef\u00fcgt werden, da sie mit einem anderen Pfad in Konflikt zu stehen scheint."
         },
         "0f9445b68a3d6fffc41f65efa9711f6e": {
-            "text": "Aus dem Papierkorb nehmen und am Originalort wiederherstellen"
+            "text": "Aus dem Papierkorb nehmen und an Originalort wiederherstellen"
         },
         "514327d866bf40803bfdf3a678af92ba": {
             "text": "Aktivieren Sie die Checkbox, um zu best\u00e4tigen, dass Sie diese Seite wiederherstellen m\u00f6chten."
@@ -371,17 +365,23 @@
         "c28806887f7038aa8c83cef389bfcec6": {
             "text": "="
         },
+        "a9581db07856efb481fddef1b3e168f8": {
+            "text": "Keine Seite gefunden"
+        },
+        "16e420c38c1ef8f3708d849146207b74": {
+            "text": "Geben Sie die ID des erstellenden Benutzers ein."
+        },
         "802d4ac742bc4c352f14d68f10856b2d": {
-            "text": "Der Zugriff ist durch dieses Template geregelt: %s"
+            "text": "Der Zugang ist im Template dieser Seite definiert: %s"
         },
         "be308063778a2b4976cb94b0e8c7ee84": {
-            "text": "Sichtbar \u00fcber die URL, wenn die Seite eine Templatedatei hat (derzeit ist das nicht der Fall)."
+            "text": "Anhand der URL ansehbar, wenn die Seite eine Templatedatei hat (derzeit ist das nicht der Fall)."
         },
         "f5fafb7927ee3b6486882051f8f1c9b4": {
-            "text": "Status hinzugef\u00fcgt: %s"
+            "text": "Hinzugef\u00fcgter Status: %s"
         },
         "a8e9b386531e893ec224b5712121f1fe": {
-            "text": "Status entfernt: %s"
+            "text": "Entfernter Status: %s"
         }
     }
 }
