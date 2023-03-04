@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--system--systemnotifications--systemnotifications-module",
     "translations": {
         "3228f89d6d7bef8bf9c32fa47cbb82b0": {
-            "text": "404 eingetreten: %s"
+            "text": "404 aufgetreten: %s"
         },
         "f1aac9258ac4fde43df9a1c10945c133": {
             "text": "Benutzer angemeldet: %s"
@@ -69,10 +69,10 @@
             "text": "Min."
         },
         "3ea680550091f52ef7d4f2120a9a0032": {
-            "text": "Achtung: Sie bearbeiten diese Seite in einem anderen Fenster (bearbeiten begonnenn %s)"
+            "text": "Achtung: Sie bearbeiten diese Seite in einem anderen Fenster (Bearbeitung gestartet %s)"
         },
         "187b4dd25b5e8329dfacc1528ac55028": {
-            "text": "Achtung: Benutzer \"%s\" bearbeitet im Moment diese Seite (bearbeiten begonnen %s)"
+            "text": "Achtung: Benutzer \"%s\" bearbeitet im Moment diese Seite (Bearbeitung gestartet %s)"
         }
     }
 }
