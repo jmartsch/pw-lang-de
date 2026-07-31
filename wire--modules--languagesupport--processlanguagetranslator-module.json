@@ -66,7 +66,7 @@
             "text": "Geben Sie oben ein einfaches Pluszeichen \"+\" ein, um auch dieses Feld als \u00fcbersetzt zu markieren."
         },
         "c5bd6d3cb3eba13bfb553d4f6cd34d84": {
-            "text": "Die folgenden unbenutzten \u00dcbersetzungen wurden gefunden. Das bedeutet, dass der urspr\u00fcngliche, nicht \u00fcbersetzte Text entweder ge\u00e4ndert oder gel\u00f6scht wurde. Es wird empfohlen, verlassene \u00dcbersetzungen zu l\u00f6schen, es sei denn, Sie m\u00fcssen sie behalten, um sie in eine neue \u00dcbersetzung zu kopieren\/einzuf\u00fcgen."
+            "text": "Die folgenden unbenutzten \u00dcbersetzungen wurden gefunden. Das bedeutet, dass der urspr\u00fcngliche, nicht \u00fcbersetzte Text entweder ge\u00e4ndert oder gel\u00f6scht wurde. Es wird empfohlen, verworfene \u00dcbersetzungen zu l\u00f6schen, es sei denn, Sie m\u00fcssen sie behalten, um sie in eine neue \u00dcbersetzung zu kopieren\/einzuf\u00fcgen."
         },
         "1b296d99ce0be35a6e13ff0465794ea0": {
             "text": "[leer]"
@@ -99,7 +99,7 @@
             "text": "Wenn die \u00dcbersetzung mit dem Original identisch ist, k\u00f6nnen Sie auch ein einzelnes \"=\" (Gleichheitszeichen) f\u00fcr die \u00dcbersetzung eingeben und sie wird als \u00fcbersetzt markiert."
         },
         "24e75fc33422e42d84ba0fc01cdc8579": {
-            "text": "Sie k\u00f6nnen auch eine CSV-Datei mit diesen \u00dcbersetzungen herunterladen oder ansehen, sie bearbeiten und dann hier hochladen."
+            "text": "Sie k\u00f6nnen auch eine CSV-Datei mit diesen \u00dcbersetzungen [herunterladen](%1$s) oder [ansehen](%2$s), sie bearbeiten und anschlie\u00dfend [hier hochladen](%3$s)."
         },
         "45f6644c6b04fc718813131f29eb414f": {
             "text": "Die Textdom\u00e4ne f\u00fcr diese Datei lautet: %s"
@@ -144,10 +144,10 @@
             "text": "Datei(en) ausw\u00e4hlen"
         },
         "35cce6ee9c7d52816335cd71a8cc8bdd": {
-            "text": "%d verlassene \u00dcbersetzung"
+            "text": "%d verworfene \u00dcbersetzung"
         },
         "5f26b7cdb0df95ffde976ce9b5aa776c": {
-            "text": "%d verlassene \u00dcbersetzungen"
+            "text": "%d verworfene \u00dcbersetzungen"
         },
         "1a8046c237a8b5598bdbe32fab01c78a": {
             "text": "%d \u00dcbersetzung ge\u00e4ndert"
@@ -156,10 +156,10 @@
             "text": "%d \u00dcbersetzungen ge\u00e4ndert"
         },
         "958a564da0596b34819d36e7a4c27b0a": {
-            "text": "%d verlassene \u00dcbersetzung entfernt"
+            "text": "%d verworfene \u00dcbersetzung entfernt"
         },
         "cdaca5c503d1eb7163af5ec57f2e5bc9": {
-            "text": "%d verlassene \u00dcbersetzungen entfernt"
+            "text": "%d verworfene \u00dcbersetzungen entfernt"
         },
         "d0a467da1b045cff8ba333833df858bd": {
             "text": "Gefunden %s"
