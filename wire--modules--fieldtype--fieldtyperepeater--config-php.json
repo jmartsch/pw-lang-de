@@ -217,6 +217,30 @@
         },
         "421b560a931ce0e4ec1b8018d0205b8e": {
             "text": "Unn\u00f6tige Seiten finden und optional l\u00f6schen?"
+        },
+        "329e08faaa82f435d1570a807a5d07de": {
+            "text": "Elemente als Familie \u00f6ffnen\/schlie\u00dfen?"
+        },
+        "683cefb3e294cd3ddcf26b334b6dd982": {
+            "text": "Wenn aktiviert, werden beim \u00d6ffnen (oder Schlie\u00dfen) eines Repeater-Elements auch die nachfolgenden Elemente ge\u00f6ffnet (oder geschlossen), die ihm visuell untergeordnet sind."
+        },
+        "011b09153e93ecdf827b80eedee84b74": {
+            "text": "Dies l\u00e4sst sich am besten mit dem Modus f\u00fcr die Tiefe von Elementfamilien kombinieren."
+        },
+        "8b0903520e5aa78b9cb3e5627016d562": {
+            "text": "Beachten Sie, dass diese Einstellung nicht mit dem Akkordeonmodus kompatibel ist."
+        },
+        "248e638a0f93c14ffe8c5b5d623ff1fe": {
+            "text": "Beim Hinzuf\u00fcgen zu neuem Element scrollen?"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Deaktiviert"
+        },
+        "00d23a76e43b46dae9ec7aa9dcbebb32": {
+            "text": "+"
+        },
+        "e07964b67b838238607488d79ecc00e8": {
+            "text": "Repeater-Felder"
         }
     }
 }

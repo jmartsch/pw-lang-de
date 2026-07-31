@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/Notices.php",
+    "textdomain": "wire--core--notices-php",
+    "translations": {
+        "900eba0c97923d74bd8d9e6190e07264": {
+            "text": "\u2713"
+        },
+        "6b9856fc04ef0697ca753f7a1542bf0f": {
+            "text": "\u21fe"
+        },
+        "0b3a8ba9f6a4fabbbeb145c9a659c62b": {
+            "text": "\u26a0"
+        }
+    }
+}

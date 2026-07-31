@@ -46,6 +46,9 @@
         },
         "9d7f65dc30d669d9000ef19ed549228e": {
             "text": "Benutzer in Rolle anzeigen: %s"
+        },
+        "1cde74a0dce30621ce5a3d6541fb428d": {
+            "text": "Benutzer kann im Seiteneditor Weiterleitungs-URLs hinzuf\u00fcgen\/bearbeiten\/l\u00f6schen"
         }
     }
 }

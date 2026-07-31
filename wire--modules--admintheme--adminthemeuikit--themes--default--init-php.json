@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/themes\/default\/init.php",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--themes--default--init-php",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "+"
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "="
+        },
+        "6c3e844b0ee2993a4802fa3870103d2b": {
+            "text": "Heller Modus"
+        },
+        "3924c958175e666737225e86a68ac4b4": {
+            "text": "Dunkler Modus"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "Automatisch"
+        },
+        "f82616b3299cd1da0e38bbeedbb57bcb": {
+            "text": "Heller\/dunkler Modus"
+        },
+        "98e76f2c4ba5107090e507124dc914ab": {
+            "text": "Hell\/dunkel"
+        },
+        "c682bc2be801dcbd40c22b207bc886e4": {
+            "text": "BITTE BEACHTEN: Diese Einstellung wird derzeit durch das AdminThemeUikit-Theme \u201edefault\u201c \u00fcberschrieben."
+        }
+    }
+}

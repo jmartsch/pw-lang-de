@@ -133,6 +133,57 @@
         },
         "9a2c2c21237a6938a98824b3993a9623": {
             "text": "%d lokale img[src] tags"
+        },
+        "ffb81312066680e472a3392467b06d40": {
+            "text": "Bitte entfernen Sie \u201eHTML Entity Encoder\u201c aus \u201eTextformatierer\u201c, da dieses Feld Markup\/HTML zul\u00e4sst."
+        },
+        "e9d6c26a86350de8002c93886f74249f": {
+            "text": "Wir empfehlen bei der Erstellung neuer Rich-Text-Felder TinyMCE statt CKEditor zu verwenden."
+        },
+        "5bed2fb5d791f65cae338238f04c0ac4": {
+            "text": "Klicken Sie hier, um TinyMCE zu installieren"
+        },
+        "4ea852d9d5dbc8faddfdfe9117bd5c03": {
+            "text": "Verz\u00f6gertes Laden von Bildern:"
+        },
+        "bf5bfe62d66b9634f77dcafa1c3661f0": {
+            "text": "Attribut loading=\"lazy\" zur Laufzeit in img-Tags einf\u00fcgen, wenn die Ausgabeformatierung der Seite aktiviert ist"
+        },
+        "f922a3e683c907dce46a4124ed24f728": {
+            "text": "%d externe a[href]-Tags"
+        },
+        "b35fbde3b11cd60a5d619e5193222e52": {
+            "text": "%d lokale a[href]-Tags"
+        },
+        "d5c590cb6e375eceb2bfe3788de43ff3": {
+            "text": "%d interne\/abstrakte Seitenlinks"
+        },
+        "d1d73d01232f52fa79a0f0c4180d98de": {
+            "text": "%d Datei-\/Asset-Referenzen"
+        },
+        "2aeaf8e585a85767941517c3907ba6a3": {
+            "text": "%d relative a[href]-Tags aktualisiert"
+        },
+        "ade05e8421b724b0d6c4fe551e13179f": {
+            "text": "%d lokale a[href]-Tags, die keine Seiten sind bzw. nicht erkannt wurden"
+        },
+        "5c805ffeb58d23e77c7a3e1ed480c0f8": {
+            "text": "%d nicht-http-a[href]-Links wie mailto, tel usw."
+        },
+        "811b11f056786ab7691c3d085cab58b5": {
+            "text": "%d nicht aufgel\u00f6ste a[href]-Tags"
+        },
+        "18bb50723efef9d96f8e87e8a9b3160b": {
+            "text": "%d lokale img[src]-Tags"
+        },
+        "3251e749794fd42edf6c16f34d9bc87a": {
+            "text": "%d nicht aufgel\u00f6ste img[src]-Tags"
+        },
+        "5a16ad26a0a8d33db075ba480715b454": {
+            "text": "%d nicht aufgel\u00f6ste und korrigierte img[src]-Tags"
+        },
+        "d083e050737e186bdb243c11edcbf05f": {
+            "text": "%d leere img[alt]-Tags, die zur Laufzeit gef\u00fcllt werden"
         }
     }
 }

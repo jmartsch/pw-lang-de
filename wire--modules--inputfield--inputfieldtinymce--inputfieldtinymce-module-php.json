@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTinyMCE\/InputfieldTinyMCE.module.php",
+    "textdomain": "wire--modules--inputfield--inputfieldtinymce--inputfieldtinymce-module-php",
+    "translations": {
+        "b51000000ff730e7cacd10980186c1a4": {
+            "text": "Bild ausw\u00e4hlen"
+        },
+        "221593037a5835ee4689a1042bffdd1b": {
+            "text": "Bild bearbeiten"
+        },
+        "c97c12dea7825a2fa7f2b23032c6aeb4": {
+            "text": "Hier steht Ihr Bildtitel"
+        },
+        "5c0c8c704fe1487a85a1901dec284b1b": {
+            "text": "Bild wird gespeichert"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "+"
+        },
+        "21051abf79012a1b2ee50d13b9731a16": {
+            "text": "Bild einf\u00fcgen"
+        },
+        "073b2b9e8d78b9523c0f1eda1c0c8f8c": {
+            "text": "Anderes ausw\u00e4hlen"
+        },
+        "92987a0bdafb6d7ae317581d48f723a8": {
+            "text": "Link einf\u00fcgen"
+        },
+        "76d1048c452cefa5c6fe82d7edc0a7e0": {
+            "text": "Link bearbeiten"
+        },
+        "c39eaab018e2e16320836a210cab2617": {
+            "text": "ltr"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/ModulesLoader.php",
+    "textdomain": "wire--core--modulesloader-php",
+    "translations": {
+        "7f5ebaf3241ff21764054580a96a3b11": {
+            "text": "Fehler beim Initialisieren des Moduls: %s"
+        },
+        "dc3b5200f4c5fe1739b1bb1946ed22c1": {
+            "text": "Fehler beim Vorbereiten des Moduls: %s"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Pages\/PagesVersions\/PagesVersions.module.php",
+    "textdomain": "wire--modules--pages--pagesversions--pagesversions-module-php",
+    "translations": {
+        "f58b62f73535d235e623829d8f49efb5": {
+            "text": "Teilversion wird nicht unterst\u00fctzt (Dateifelder); vollst\u00e4ndige Version gespeichert"
+        },
+        "46e5303febf0fd42bc75eb6d84f5bcc4": {
+            "text": "Unbekannte Version %s kann nicht wiederhergestellt werden"
+        },
+        "27edffb87c9cbaf975bb85d59d31ccd1": {
+            "text": "Wiederherstellung fehlgeschlagen: Die Seite erlaubt keine Versionen"
+        },
+        "9f66078634fc514b3a80712ccba99216": {
+            "text": "Eines oder mehrere der angeforderten Felder unterst\u00fctzen keine teilweise Wiederherstellung."
+        },
+        "7e93a8f391ec1880dd917548c9d3ef35": {
+            "text": "\u00dcbersprungen, da der Wert nicht kodiert werden konnte"
+        },
+        "f12b727dae181f6ef422bda8b0c59ff3": {
+            "text": "\u00dcbersprungen, da der Wert zu gro\u00df ist, um in einer Version gespeichert zu werden"
+        },
+        "deb746b40b48d5a48a2a01839bd32fd8": {
+            "text": "Ein paginierter Wert kann nicht versioniert werden"
+        },
+        "2a10652c119026e84c5415ebad4eebae": {
+            "text": "Seite %d, Feld %s"
+        },
+        "be80256370788ee6d94e2597c3fd7a75": {
+            "text": "Seite %d"
+        }
+    }
+}
