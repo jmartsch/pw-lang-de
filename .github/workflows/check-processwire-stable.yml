@@ -1,0 +1,89 @@
+name: Check ProcessWire stable
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 9 * * 1"
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - id: stable
+        name: Read official stable version
+        env:
+          DOWNLOAD_URL: https://processwire.com/download/core
+        run: |
+          python3 - <<'PY'
+          import os
+          import re
+          import urllib.request
+
+          with urllib.request.urlopen(os.environ["DOWNLOAD_URL"], timeout=30) as response:
+              page = response.read().decode("utf-8")
+          match = re.search(r"Download master \((3\.0\.\d+)\)", page)
+          if not match:
+              raise SystemExit("Could not find the ProcessWire master version on the official download page")
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+              output.write(f"version={match.group(1)}\n")
+          PY
+
+      - id: comparison
+        name: Compare with this language pack
+        run: |
+          current=$(tr -d '[:space:]' < PROCESSWIRE_STABLE_VERSION)
+          latest='${{ steps.stable.outputs.version }}'
+          echo "current=$current" >> "$GITHUB_OUTPUT"
+          echo "latest=$latest" >> "$GITHUB_OUTPUT"
+          if [ "$current" != "$latest" ]; then
+            echo "update_needed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "update_needed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Publish workflow summary
+        run: |
+          {
+            echo "## ProcessWire stable check"
+            echo
+            echo "- Language pack baseline: \`${{ steps.comparison.outputs.current }}\`"
+            echo "- Official stable: \`${{ steps.comparison.outputs.latest }}\`"
+            echo "- Update needed: \`${{ steps.comparison.outputs.update_needed }}\`"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Open one update issue
+        if: steps.comparison.outputs.update_needed == 'true'
+        uses: actions/github-script@f28e40c7f34bde8b3046d885e986cb6290c5673b # v7
+        env:
+          CURRENT: ${{ steps.comparison.outputs.current }}
+          LATEST: ${{ steps.comparison.outputs.latest }}
+        with:
+          script: |
+            const title = `Update language pack for ProcessWire ${process.env.LATEST}`;
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              per_page: 100,
+            });
+            if (issues.some(issue => issue.title === title)) {
+              core.info(`Open issue already exists: ${title}`);
+              return;
+            }
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body: [
+                `The official ProcessWire download page reports stable **${process.env.LATEST}**.`,
+                `This repository is marked as **${process.env.CURRENT}**.`,
+                '',
+                'Run the repository skill `.agents/skills/processwire-stable-language-pack/SKILL.md` with your own Codex/GPT session. The repository intentionally stores no translation-provider credentials.',
+              ].join('\n'),
+            });

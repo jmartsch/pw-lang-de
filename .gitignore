@@ -5,3 +5,6 @@ node_modules/
 .idea/
 package.json
 package-lock.json
+__pycache__/
+translation-task.json
+translations.json
