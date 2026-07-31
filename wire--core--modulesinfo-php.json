@@ -1,0 +1,27 @@
+{
+    "file": "wire\/core\/ModulesInfo.php",
+    "textdomain": "wire--core--modulesinfo-php",
+    "translations": {
+        "9639e32cab248434a17ab32237cb3b71": {
+            "text": "Anwenden"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Bearbeiten"
+        },
+        "5a2fc11bf796d8311be4cbec0b42de6a": {
+            "text": "%d neue(s) Modul(e) gefunden:"
+        },
+        "c6c027ba8c6c5d40e280070bd29ded16": {
+            "text": "%d verschobene(s) Modul(e) gefunden:"
+        },
+        "6ea5c2eaa01aed58a21b407c8e6dfd98": {
+            "text": "%d Modul(e) mit fehlender Datei gefunden:"
+        },
+        "ad9906aa0524fdfe2d135ea6be8c4a6a": {
+            "text": "%d Modulversions\u00e4nderungen gefunden (werden beim Laden jedes Moduls angewendet):"
+        },
+        "3ba3666c48feabf2f2506e1f835ea92e": {
+            "text": "Modul wird aktualisiert"
+        }
+    }
+}

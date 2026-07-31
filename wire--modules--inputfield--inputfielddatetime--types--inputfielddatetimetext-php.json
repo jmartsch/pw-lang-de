@@ -103,6 +103,51 @@
         },
         "7db50c3ca59f3f55260013a5e3481f47": {
             "text": "timepicker\/i18n\/jquery-ui-timepicker-de.js"
+        },
+        "884a430685af8d28b4ad83b6d266caeb": {
+            "text": "Einstellungen f\u00fcr die Datumsauswahl"
+        },
+        "15fb13b130859de11b6d01f6d1989ba3": {
+            "text": "Animationstyp"
+        },
+        "04e0385c10aefee8e4681617d2f3ef40": {
+            "text": "\u00dcberblenden"
+        },
+        "498f79c4c5bbde77f1bceb6c86fd0f6d": {
+            "text": "Anzeigen"
+        },
+        "6adac929b615be2e0d213eb9d1ad15ba": {
+            "text": "Ausschneiden"
+        },
+        "3e679cff5b3a6f6f8f32aead541a0a12": {
+            "text": "Herabfallen"
+        },
+        "79083698467c2e5753058afc20884569": {
+            "text": "Aufblasen"
+        },
+        "85a7cd587d6142dbfc1a4de05af7b75d": {
+            "text": "Skalieren"
+        },
+        "6160a53ece50ce6d4f5ef4452549835e": {
+            "text": "Gleiten"
+        },
+        "03002d200b45ce8f4d1c760ae108e53a": {
+            "text": "Anzahl der Monate, die in der Datumsauswahl nebeneinander angezeigt werden sollen"
+        },
+        "1c9b99a0d4eb0cab8ac8bdf6033c6c1d": {
+            "text": "Monat als Auswahl statt als Text darstellen?"
+        },
+        "71e339f2d1a245a8449a2997d07e898a": {
+            "text": "Jahr als Auswahl statt als Text darstellen?"
+        },
+        "a98b55b7bbee51487c8abfb97827de3f": {
+            "text": "Schaltfl\u00e4chen \u201eHeute\u201c und \u201eFertig\u201c unter dem Kalender anzeigen?"
+        },
+        "8fc5108cd2206e6d978b39620c286bc1": {
+            "text": "Monat nach dem Jahr anzeigen?"
+        },
+        "73940ede830a37f43f448009d49b8c3f": {
+            "text": "Tage anderer Monate am Anfang\/Ende der Monate anzeigen?"
         }
     }
 }

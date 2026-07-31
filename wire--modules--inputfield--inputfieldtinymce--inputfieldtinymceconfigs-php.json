@@ -1,0 +1,561 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTinyMCE\/InputfieldTinyMCEConfigs.php",
+    "textdomain": "wire--modules--inputfield--inputfieldtinymce--inputfieldtinymceconfigs-php",
+    "translations": {
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Beispiel:"
+        },
+        "e5f7f63d66023847e693fd34bea09d41": {
+            "text": "Standard:"
+        },
+        "d5c9769aa46da4eae9db3661e9b8e07e": {
+            "text": "Geben Sie `default` an, um den Standardwert zu verwenden."
+        },
+        "8b9035807842a4e4dbe009f3f1478127": {
+            "text": "benutzerdefiniert"
+        },
+        "1cb251ec0d568de6a929b520c4aed8d1": {
+            "text": "Text"
+        },
+        "8c7dd922ad47494fc02c388e12c00eac": {
+            "text": "Datei"
+        },
+        "324003a4dfcaf85c9e0824eef031764b": {
+            "text": "TinyMCE"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Mehr"
+        },
+        "3ec365dd533ddb7ef3d1c111186ce872": {
+            "text": "Details"
+        },
+        "ef05c8098cdb2b34e39c80515fc037bd": {
+            "text": "Werkzeugleiste"
+        },
+        "f694e073eb9e67f37e64b4f92bd462ec": {
+            "text": "Aktiviert die Symbolleiste, die Zugriff auf die meisten Rich-Text-Bearbeitungswerkzeuge bietet."
+        },
+        "50c2e8e0ce3810a576d145650a60bfdc": {
+            "text": "Men\u00fcleiste"
+        },
+        "6e80e432881c796d50f54a87dd726cfb": {
+            "text": "Aktiviert eine separate Men\u00fcleiste mit Dropdown-Men\u00fcs und Textbeschriftungen, die oberhalb der Werkzeugleiste angezeigt wird."
+        },
+        "e1d8009677f826c92600706adf4315c8": {
+            "text": "Diese kann optional zus\u00e4tzlich zur oder anstelle der Werkzeugleiste verwendet werden."
+        },
+        "624639e9b35ac69c68613b2dc8685127": {
+            "text": "Statusleiste"
+        },
+        "abe0d9304ce091d84da37d901a0138af": {
+            "text": "Die Statusleiste wird unten im Editor angezeigt und zeigt das aktuelle Element, anklickbare \u00fcbergeordnete Elemente und das Steuerelement zum \u00c4ndern der Editorgr\u00f6\u00dfe."
+        },
+        "3462a6118d45197dc629efde57ec89d4": {
+            "text": "Sie zeigt au\u00dferdem die Wortanzahl an, wenn das wordcount-Plugin aktiviert ist."
+        },
+        "d83ff1fe83b7c45fce50406799a063dc": {
+            "text": "F\u00fcr den normalen Editor erforderlich, f\u00fcr den Inline-Editor optional."
+        },
+        "ad6292f4a1df9a0929e5c7bd7c9be778": {
+            "text": "Fixierte Leisten"
+        },
+        "14af37aa37254a0dcabb802c7be40170": {
+            "text": "Fixiert die Werkzeug- und Men\u00fcleiste beim Scrollen am oberen Bildschirmrand, bis der Editor nicht mehr sichtbar ist."
+        },
+        "a33b45232be3f1e357d94772a3eaa4f1": {
+            "text": "Rechtschreibpr\u00fcfung"
+        },
+        "5f59bbdce5eaa63a0d2c0e71e33a7ecb": {
+            "text": "Die Rechtschreibpr\u00fcfung des Browsers unterstreicht beim Tippen falsch geschriebene oder nicht erkannte W\u00f6rter (rot)."
+        },
+        "bda62012057b9ddaf62c5aeae3a6275a": {
+            "text": "Bereinigung"
+        },
+        "9e75732767f6994561dbec1d2989952c": {
+            "text": "Bereinigt eingegebenes HTML\/Markup mit [htmlpurifier](%s)."
+        },
+        "866f42febaba4acc2a839512df2cf011": {
+            "text": "Hilft dabei, das Speichern potenziell gef\u00e4hrlichen HTMLs zu verhindern und XSS-Exploits zu vermeiden."
+        },
+        "762356662ec1c462f1fc1ff4f5e7e9fd": {
+            "text": "Erh\u00f6ht jedoch das Risiko, beabsichtigtes Markup zu beeintr\u00e4chtigen."
+        },
+        "f7a34228a921543d1889dae31a6d1f80": {
+            "text": "Die Aktivierung wird dringend empfohlen, sofern nicht allen aktuellen und zuk\u00fcnftigen Benutzern ausdr\u00fccklich vertraut wird."
+        },
+        "cf6f1b3647a1c6ff036edabab75fa820": {
+            "text": "Deaktivierung auf eigene Gefahr."
+        },
+        "0945359809dad1fbf3dea1c95a0da951": {
+            "text": "Dokument"
+        },
+        "60e4d5009ff6f1a557dd190cbc61538a": {
+            "text": "\u00dcberschreibt den Standard-Inhaltsstil des Editors, um den Inhaltsstil des Dokuments zu verwenden."
+        },
+        "9ff9a9ddf963999bea4689881a50871a": {
+            "text": "Dies sieht wie ein Blatt Papier aus, \u00e4hnlich der Darstellung in einer Textverarbeitung."
+        },
+        "bee5b0207812bb9c218a68cc27568b0a": {
+            "text": "ImgUpload"
+        },
+        "88ec884112a58f66c778a7fce270a22a": {
+            "text": "Erm\u00f6glicht das automatische Hochladen von Bildern, indem Sie sie per Drag-and-drop in den Editor ziehen."
+        },
+        "1cae0a5855580eedd8a4d772200601a0": {
+            "text": "Erfordert, dass die bearbeitete Seite ein Bilderfeld enth\u00e4lt."
+        },
+        "9d723d04c40bfd81835c0766a698cf63": {
+            "text": "Gr\u00f6\u00dfe \u00e4ndern"
+        },
+        "c9840f8df0795a01571e8710d9701046": {
+            "text": "Erstellt automatisch optimierte Bilddateien, wenn Bilder durch Ziehen ihrer Gr\u00f6\u00dfen\u00e4nderungsgriffe skaliert werden."
+        },
+        "7850329ddaac44bd91ceb775daa322a9": {
+            "text": "Wenn dies nicht aktiviert ist, k\u00f6nnen Bilder weiterhin durch Ziehen ihrer Gr\u00f6\u00dfen\u00e4nderungsgriffe skaliert werden, es werden jedoch keine neuen Bilddateien erzeugt."
+        },
+        "bf3f06eae0ae8d538bbf2c6a6cfc6e7c": {
+            "text": "Sie k\u00f6nnen auch den Bilddialog im Pop-up verwenden, um unabh\u00e4ngig davon Bildgr\u00f6\u00dfen und Zuschnitte zu erstellen."
+        },
+        "4f1ced2092b8f0c040d240eb40279a98": {
+            "text": "Einf\u00fcgefilter"
+        },
+        "9738758347c7e43e1f0c17015eb1527b": {
+            "text": "Reduziert die meisten eingef\u00fcgten Inhalte auf ihr grundlegendes semantisches HTML, damit durch einen Einf\u00fcgevorgang keine un\u00fcbersichtlichen Tags und Attribute im Editor landen."
+        },
+        "ffab43041f34145c09f677c53f958962": {
+            "text": "Zul\u00e4ssige Elemente und Attribute k\u00f6nnen in den Moduleinstellungen von InputfieldTinyMCE konfiguriert werden."
+        },
+        "675041c0688049e3611aeb5a830a0749": {
+            "text": "Der Einf\u00fcgefilter wird nur auf extern kopierte Inhalte angewendet, also Inhalte von au\u00dferhalb des TinyMCE-Felds."
+        },
+        "d5c48f937a78ecb3d8a9ef88e04f0eaf": {
+            "text": "TinyMCE-Editor-Einstellungen"
+        },
+        "6e50a47cad93f586976e7433498d8348": {
+            "text": "Feld, von dem TinyMCE-Einstellungen \u00fcbernommen werden"
+        },
+        "16f547f7396586718c4ccf855bc3784b": {
+            "text": "Wenn Sie hier ein Feld ausw\u00e4hlen, verwenden wir die Einstellungen des ausgew\u00e4hlten Feldes statt der hier konfigurierten Einstellungen."
+        },
+        "daeea6fec3b4998f276dfd0423f284fd": {
+            "text": "Speichern Sie nach \u00c4nderung Ihrer Auswahl, bevor Sie weitere \u00c4nderungen vornehmen, da dadurch ge\u00e4ndert wird, welche Felder unten angezeigt werden."
+        },
+        "d6717f8e8af4b13dee9fe7e9d8af3079": {
+            "text": "Keine (dieses Feld hier konfigurieren)"
+        },
+        "dcf7506e0509678fa1ddf71866c8c164": {
+            "text": "Dieses Feld ben\u00f6tigt ein vorhandenes TinyMCE-Feld, dessen Einstellungen verwendet werden k\u00f6nnen. Derzeit gibt es keine weiteren TinyMCE-Felder."
+        },
+        "4c2f9712147b8f95ef0f6a549899582f": {
+            "text": "Erstellen Sie bitte ein ProcessWire-Feld vom Typ \u201etextarea\u201c, w\u00e4hlen Sie TinyMCE als Inputfield-Typ und konfigurieren Sie es."
+        },
+        "bb2c9c0028e85b422410bd52618a3ec8": {
+            "text": "Kehren Sie anschlie\u00dfend hierher zur\u00fcck, um dieses Feld f\u00fcr die Einstellungen dieses Feldes auszuw\u00e4hlen."
+        },
+        "890174328c0bc96cc8ed0cd6016822de": {
+            "text": "Keine verf\u00fcgbar"
+        },
+        "5999529acab095d8dc9fa1c358b5b7b5": {
+            "text": "Wenn keine Auswahl getroffen wird, werden die Standardeinstellungen verwendet."
+        },
+        "ddfa2d60092cf3c924e8e03b1d2749ad": {
+            "text": "Inline-Editor"
+        },
+        "554235d2e24e6887643f1c49c54b5b6d": {
+            "text": "Normaler Editor"
+        },
+        "419bc6a87d20fed089e1941146458220": {
+            "text": "Editor-Modus"
+        },
+        "ab62958a7864050dd48529e0ac77414e": {
+            "text": "(flexible H\u00f6he, durch Benutzer skalierbar)"
+        },
+        "db14ee6e62f1566d37f19f75a4a34a19": {
+            "text": "(variable H\u00f6he entsprechend dem Inhalt)"
+        },
+        "ff9262141579df9d787973a84f1ca39d": {
+            "text": "(feste H\u00f6he gem\u00e4\u00df H\u00f6heneinstellung)"
+        },
+        "bed749367db56fed396ab1dd2f65df3d": {
+            "text": "Bei Verwendung des Inline-Editors wird der Editor erst geladen (und seine Werkzeugleiste angezeigt), wenn Sie in den Text klicken."
+        },
+        "9d2703cba0eaafb89d14b59cc36bac01": {
+            "text": "Bei Verwendung des normalen Editors k\u00f6nnen Sie unten optional eine Option f\u00fcr verz\u00f6gertes Laden ausw\u00e4hlen."
+        },
+        "80a2ee51249ba53e2d890653da6e9e97": {
+            "text": "Der normale Editor enth\u00e4lt eine Statusleiste und einen Gr\u00f6\u00dfen\u00e4nderungsgriff, der Inline-Editor hingegen nicht."
+        },
+        "9c26c480b685e7c751a5640d394ee760": {
+            "text": "Editorh\u00f6he"
+        },
+        "ad6f1afff50a6c3af1744f29ffece370": {
+            "text": "Geben Sie die anf\u00e4ngliche Editorh\u00f6he in Pixeln ein."
+        },
+        "845a6b1ca72e21100718c7ef9402945d": {
+            "text": "Wann soll der normale Editor geladen und initialisiert werden?"
+        },
+        "403106ad9c41fc4b528c39f7511a1205": {
+            "text": "Durch verz\u00f6gertes Laden kann die Leistung erheblich verbessert werden, insbesondere wenn sich mehrere Editoren auf derselben Seite befinden."
+        },
+        "4ba794c8b8ab662e51506626cafdc772": {
+            "text": "verz\u00f6gertes Laden aus"
+        },
+        "e3aa7546e8069428115c0f67c4181512": {
+            "text": "Editor beim Laden der Seite laden"
+        },
+        "c191b9a529da2038800a9edc8eec3db2": {
+            "text": "Editor laden, wenn er sichtbar wird"
+        },
+        "771b26639d188e429d74f6d0aaf4831f": {
+            "text": "Editor laden, wenn er angeklickt wird"
+        },
+        "98f770b0af18ca763421bac22b4b6805": {
+            "text": "Funktionen"
+        },
+        "727fbf96c43ce67d19204f1aea52088c": {
+            "text": "Geben Sie die Namen der in der Werkzeugleiste zu verwendenden Werkzeuge ein, jeweils durch ein Leerzeichen getrennt."
+        },
+        "48fd51d2d4be9cfcd7ed4eb03b588e50": {
+            "text": "Verwenden Sie f\u00fcr ein Trennzeichen zwischen Werkzeugen das Pipe-Zeichen \u201e|\u201c."
+        },
+        "77bb2cc12fa6815bffc81c73c1c09367": {
+            "text": "erfordert das Plugin \u201e%s\u201c"
+        },
+        "b986144e3eb545524992cbdedc4036e3": {
+            "text": "Optionen der Werkzeugleiste:"
+        },
+        "6d4e9f06ef68ff507b976faf516f5c97": {
+            "text": "Standard-Werkzeugleiste:"
+        },
+        "91dd313aed212cc085d401f0be1280c7": {
+            "text": "W\u00e4hlen Sie die Namen der in der Editor-Werkzeugleiste zu verwendenden Werkzeuge aus oder geben Sie sie ein."
+        },
+        "bb317d81f568f6fcacf58060c2295bf3": {
+            "text": "Beachten Sie beim Hinzuf\u00fcgen neuer Werkzeuge, dass einige Werkzeuge erfordern, weitere Plugins in diesen Einstellungen zu aktivieren."
+        },
+        "d83e13e6168c53db445ff5b4a0794734": {
+            "text": "Bewegen Sie den Mauszeiger \u00fcber die verlinkten Werkzeugnamen am Ende dieses Feldes (oder klicken Sie darauf), um weitere Details zu jedem Werkzeug einschlie\u00dflich ben\u00f6tigter Plugins zu erhalten."
+        },
+        "fb1e3a1f4f04bfa91a845ed918bacb66": {
+            "text": "Details zur Werkzeugleiste:"
+        },
+        "bb38096ab39160dc20d44f3ea6b44507": {
+            "text": "="
+        },
+        "fd6b3b2419adfcbc4d540ea5ec43839c": {
+            "text": "W\u00e4hlen Sie die Plugins aus, die Sie aktivieren m\u00f6chten. Viele Plugins aktivieren bestimmte Werkzeuge, die Sie oben zu Ihrer Werkzeugleiste hinzuf\u00fcgen k\u00f6nnen."
+        },
+        "409c1892b68cb394799262ac57f6d4f1": {
+            "text": "Plugin"
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Beschreibung"
+        },
+        "8625e1de7be14c39b1d14dc03d822497": {
+            "text": "Werkzeuge"
+        },
+        "f23c5f6001b935da226312ad26369232": {
+            "text": "MEHR"
+        },
+        "81611afcc41daeec2bfd32acac782252": {
+            "text": "Dies bestimmt die anf\u00e4ngliche H\u00f6he des Editors."
+        },
+        "7dd3e2b5cd28a3bbc14668fcc346ccf7": {
+            "text": "Zu aktivierende externe Plugins"
+        },
+        "e89eb3751260ffaa56754d09930568fb": {
+            "text": "Externe Plugins k\u00f6nnen in den Einstellungen dieses Moduls hinzugef\u00fcgt und dann hier f\u00fcr dieses Feld aktiviert werden."
+        },
+        "91776d10c5debdc34f167525cd49d4da": {
+            "text": "Derzeit sind keine externen Plugins zum Aktivieren vorhanden"
+        },
+        "f28634ecbf7fcc9dfd37c17f4a0991f5": {
+            "text": "Warnung: Diese Einstellung wird durch eine JSON-Einstellung des Moduls \u00fcberschrieben."
+        },
+        "fe46c03ecd18cad6379dfa2c0bed93f5": {
+            "text": "Diese Einstellung wird derzeit durch eine JSON-Einstellung des Moduls erg\u00e4nzt."
+        },
+        "4938a75a37a9ee512d5103bf1e38f411": {
+            "text": "Markup-Umschalter"
+        },
+        "32cc16dc542ee6932e069e95ad6bbaea": {
+            "text": "Steuert Anpassungen am Markup w\u00e4hrend der Eingabeverarbeitung."
+        },
+        "c512ee8dd684ae9dd667495bb0980f97": {
+            "text": "`<div>`-Tags beim Speichern in `<p>`-Tags umwandeln?"
+        },
+        "e47eb0774916df1e1666a833fd3dd408": {
+            "text": "Leere `<p>`-Tags beim Speichern entfernen?"
+        },
+        "fa5e53120347848173834acad24d6700": {
+            "text": "Gesch\u00fctzte Leerzeichen beim Speichern entfernen?"
+        },
+        "88a4a86e13c0cab2f3a1c49d60cf8550": {
+            "text": "`style`-Attribute aus allen Elementen entfernen"
+        },
+        "4c4054e6dee9fb06480a824ba5b8d1f5": {
+            "text": "Benutzerdefinierte JSON-Einstellungen"
+        },
+        "98d30d5ee02966f55d1378d7cc8544cf": {
+            "text": "JSON-Text"
+        },
+        "7a2630e3476fa14deec546f6cb6afb2f": {
+            "text": "Geben Sie JSON f\u00fcr alle zus\u00e4tzlichen benutzerdefinierten Einstellungen ein, die in den obigen Einstellungen nicht angegeben sind."
+        },
+        "f7baa074492456ff7e544f2f5e57d4bc": {
+            "text": "Geben Sie den Pfad zu einer benutzerdefinierten JSON-Einstellungsdatei relativ zum Stammverzeichnis der ProcessWire-Installation ein."
+        },
+        "833c16bba39931a6c9533a0f04c41f59": {
+            "text": "Verwenden Sie dies, um benutzerdefinierte Einstellungen \u00fcber die oben unterst\u00fctzten hinaus festzulegen."
+        },
+        "9faa9c6ff7f2e2246b90d81c587dd296": {
+            "text": "Eine Beispiel-JSON-Einstellungsdatei finden Sie hier: [defaults.json](%s)."
+        },
+        "ece58438a06945588aa745177f15057b": {
+            "text": "Die URL sollte relativ zum Stammverzeichnis der ProcessWire-Installation sein."
+        },
+        "8ee4a159dda38aeaed9db79550ba41a1": {
+            "text": "UI-Stil\/Skin"
+        },
+        "37912708697e6de284062c710f3c8d3d": {
+            "text": "W\u00e4hlen Sie den Stil aus, der f\u00fcr Werkzeugleiste, Men\u00fcleiste, Statusleiste usw. verwendet werden soll."
+        },
+        "814d03603746c1272bef4eb9edca9068": {
+            "text": "Nicht alle Kombinationen aus UI- und Inhaltsstil funktionieren zwangsl\u00e4ufig gut zusammen; testen Sie diese daher."
+        },
+        "08294acd89b62706142a1b32ff006d2b": {
+            "text": "Geben Sie eine URL\/einen Pfad zu einem Verzeichnis ein, das Ihren benutzerdefinierten Skin enth\u00e4lt."
+        },
+        "7536edf6387debaf13a451e9a1b67f0a": {
+            "text": "Dies ist das Verzeichnis mit einer Datei `skin.css` und weiteren CSS-Dateien."
+        },
+        "ef3d96134230c972b02c17e47386bab1": {
+            "text": "Sie k\u00f6nnen das [TinyMCE-5-Skin-Tool](%s) verwenden, das auch mit TinyMCE 6 funktioniert."
+        },
+        "4ce001f5457c140d0f3576e788f84463": {
+            "text": "Inhaltsstil"
+        },
+        "603516585841c9a1c4a29523ebd97186": {
+            "text": "W\u00e4hlen Sie den Stil aus, der f\u00fcr den Editor-Text\/das Markup verwendet werden soll, den bzw. das Sie bearbeiten."
+        },
+        "6692e5c04e439358dcae17a5d538f8d5": {
+            "text": "Geben Sie eine URL\/einen Pfad zu einer benutzerdefinierten CSS-Datei f\u00fcr Inhalte ein."
+        },
+        "84c50f0685b8852960c905c787fb9bbd": {
+            "text": "Beispiele finden Sie in %s."
+        },
+        "dc51902a83c02999001bfa29f742dc83": {
+            "text": "Externe Plugin-Dateien"
+        },
+        "e00cfc353f54caf41f405272c96577b8": {
+            "text": "Verwenden Sie dies, um benutzerdefinierte\/externe Plugins f\u00fcr Ihre TinyMCE-Felder verf\u00fcgbar zu machen."
+        },
+        "3e55e64bae0899b6fc24f061ca6a9eee": {
+            "text": "Geben Sie zeilenweise URLs zu .js-Dateien relativ zum Stammverzeichnis der ProcessWire-Installation ein."
+        },
+        "f65510b3bfc928ea7b78e9a60452798b": {
+            "text": "Sobald hier Plugins hinterlegt sind, m\u00fcssen Sie diese auch f\u00fcr alle Felder aktivieren, in denen Sie sie verwenden m\u00f6chten."
+        },
+        "bc8ab58bd5bd3b4ca1c467f18bb55c25": {
+            "text": "Plugin \u00fcber die API hinzuf\u00fcgen oder entfernen:"
+        },
+        "7c1b13883e21b27a3e9982bab00f7acc": {
+            "text": "Rufen Sie bei der Installation einmal addPlugin() und bei der Deinstallation einmal removePlugin() auf."
+        },
+        "679eeb3c83a6b824c286ca2fe94ae314": {
+            "text": "Optionale, pro Feld konfigurierbare Einstellungen"
+        },
+        "4baeec3de4ad9f77fc653b33dca4ef7a": {
+            "text": "Aktivieren Sie die Kontrollk\u00e4stchen f\u00fcr zus\u00e4tzliche Einstellungen, die f\u00fcr *jedes einzelne TinyMCE-Feld* individuell konfigurierbar sein sollen."
+        },
+        "395900dfe509cff583cee6792a59e552": {
+            "text": "NICHT aktivierte Einstellungen k\u00f6nnen stattdessen hier (auf diesem Bildschirm) konfiguriert werden; ihre Werte gelten f\u00fcr alle TinyMCE-Felder."
+        },
+        "f9ba843c63e3449d2613142a2723913c": {
+            "text": "Speichern Sie nach \u00c4nderung Ihrer Auswahl, da dadurch zus\u00e4tzliche Felder weiter unten ausgeblendet oder eingeblendet werden."
+        },
+        "0d09b61e85fce5fa7f12769b653a3bee": {
+            "text": "Benutzerdefinierte JSON-Einstellungen"
+        },
+        "95297633d89ae74530071225aadc43c6": {
+            "text": "Erm\u00f6glicht Ihnen, f\u00fcr jedes Feld benutzerdefinierte Einstellungen mit einer JSON-Datei oder Zeichenfolge hinzuzuf\u00fcgen."
+        },
+        "c68f14d84cd668b3c2faf336ea93780a": {
+            "text": "Zus\u00e4tzliche CSS-Stile"
+        },
+        "cd4b018d4326e26cf85657ea7246d88f": {
+            "text": "Geben Sie zus\u00e4tzliche CSS-Stile ein, die Sie in allen Editoren anwenden m\u00f6chten."
+        },
+        "cd50f451cf2e2c61661b11ef653c695e": {
+            "text": "Dadurch wird dem Editor lediglich zus\u00e4tzliches CSS hinzugef\u00fcgt. Es werden keine in der Werkzeugleiste\/Men\u00fcleiste ausw\u00e4hlbaren Stile definiert."
+        },
+        "5d6c3ca4e04158624c3a8f1b9003b188": {
+            "text": "Whitelist des Einf\u00fcgefilters"
+        },
+        "d7933954ef4ad07470b66f9c0382e150": {
+            "text": "Durch Kommas getrennte Zeichenfolge von Regeln, um eine Whitelist von Tags (und optional Attributen) zu definieren, die beim Einf\u00fcgen beibehalten werden sollen."
+        },
+        "916dbff7faf436832332bcfc7f72dba3": {
+            "text": "Diese Einstellung wird verwendet, wenn die Funktion \u201ePastefilter\u201c f\u00fcr ein bestimmtes Feld ausgew\u00e4hlt ist und Benutzer formatierten Text einf\u00fcgen."
+        },
+        "c18b1909828f7a6f7da401eb60d058f1": {
+            "text": "Geben Sie die Zeichenfolge `default` ein, um die Standardkonfiguration des Einf\u00fcgefilters zu verwenden. Geben Sie die Zeichenfolge `text` ein, um als Klartext einzuf\u00fcgen."
+        },
+        "805bd42c7566daeb972b0bb87f58f052": {
+            "text": "Oder geben Sie mehrere durch Kommas getrennte Regeln wie die folgenden an."
+        },
+        "fa520b273b01467697bb1266d9295b3e": {
+            "text": "Geben Sie `tag` an, um ein Tag ohne Attribute zuzulassen, `tag[attribute]`, um ein Tag mit Attribut zuzulassen, oder `tag[attribute1|attribute2|etc]`, um ein Tag mit mehreren Attributen zuzulassen."
+        },
+        "429b9d4cad6f0a56d1bfe0da001400b4": {
+            "text": "Geben Sie `tag[attribute=value]` an, um ein Tag mit einem Attribut mit bestimmtem Wert zuzulassen, oder `tag[attribute=a|b|c]`, um ein Tag mit einem Attribut zuzulassen, das einen von mehreren Werten hat."
+        },
+        "2162fd6359bee89941e74bcb16720b49": {
+            "text": "Geben Sie `foo=bar` an, um Tag `foo` durch Tag `bar` zu ersetzen; `b=strong` und `i=em` sind beispielsweise h\u00e4ufige Beispiele."
+        },
+        "eee218db103007d8634ca32578dcefbf": {
+            "text": "Standard-Whitelist des Einf\u00fcgefilters:"
+        },
+        "a155aae3bff568df077c41236fbc2b37": {
+            "text": "Wenn Sie eine Einstellung erzwingen m\u00f6chten, die eine Feldeinstellung \u00fcberschreibt, stellen Sie ihr \u201ereplace_\u201c voran, z. B. `{ \"replace_toolbar\": \"styles bold italic\" }`."
+        },
+        "a41472eb18fca6e146cb246a9be83e1a": {
+            "text": "Wenn Sie eine vorhandene Feldeinstellung erg\u00e4nzen m\u00f6chten, stellen Sie dem Einstellungsnamen \u201eadd_\u201c voran, z. B. `{ \"add_toolbar\": \"undo redo\" }`"
+        },
+        "d7bd6bb99cf37edac9fb5438b1aae797": {
+            "text": "Details zu allen Einstellungen finden Sie in der [TinyMCE-Dokumentation](%s). Beachten Sie dabei, dass Sie auch die Pr\u00e4fixe \u201ereplace_\u201c oder \u201eadd_\u201c verwenden k\u00f6nnen."
+        },
+        "fdcf3e4e97fb93482564297a19351a7c": {
+            "text": "Die Standard-JSON-Datei finden Sie hier: [defaults.json](%s)."
+        },
+        "4786876dd2c2279b89ec4c19d8cd04a9": {
+            "text": "JSON f\u00fcr \u00dcberschreibungen der Standardeinstellungen"
+        },
+        "db5ff1bdcc20bddb51e416af708dc4f5": {
+            "text": "Geben Sie JSON f\u00fcr alle Standardeinstellungen ein, die Sie gegen\u00fcber den Modulstandards \u00fcberschreiben m\u00f6chten."
+        },
+        "97e54351cbe4f5410bc8a9cd6f597d72": {
+            "text": "Geben Sie den Pfad zu einer benutzerdefinierten JSON-Datei mit Standardeinstellungen relativ zum Stammverzeichnis der ProcessWire-Installation ein."
+        },
+        "86832d7241a2e254ebf8735dc352a9cb": {
+            "text": "TinyMCE-Sprach\u00fcbersetzungen"
+        },
+        "877ce32fb4f6539cc61412d5d330ad7c": {
+            "text": "W\u00e4hlen Sie f\u00fcr jede Sprache das zu verwendende \u00dcbersetzungspaket aus."
+        },
+        "68aa813212a96727dbffca2b46d4d633": {
+            "text": "Debug-Modus?"
+        },
+        "396efe1d6802c9285b67b343ea8f21f8": {
+            "text": "Wenn aktiviert, verwendet InputfieldTinyMCE.js ausf\u00fchrliche console.log()-Meldungen zur Fehlersuche oder Entwicklung."
+        },
+        "6870ae548d25a30a2cf3081ce46864c8": {
+            "text": "CSS f\u00fcr benutzerdefinierte Stilformate"
+        },
+        "757236dd33dc836e66aa0bd0f2a8b85c": {
+            "text": "Erm\u00f6glicht Ihnen, dem Dropdown-Men\u00fc \u201eStile\u201c der Werkzeugleiste zus\u00e4tzliche Eintr\u00e4ge als CSS-Klassen hinzuzuf\u00fcgen."
+        },
+        "af63d4a2ea431651682475b2ec6fddbd": {
+            "text": "Stellen Sie optional `#Headings`, `#Blocks`, `#Inline`, `#Align` oder Ihre eigene `#Id` voran, um ein Untermen\u00fc zum Stile-Dropdown hinzuzuf\u00fcgen."
+        },
+        "03ca409b57152c928209533c8a6889a3": {
+            "text": "Sie k\u00f6nnen einen CSS-Kommentar verwenden, um die Men\u00fcbeschriftung anzugeben, z. B. `\/\\* Red Text \\*\/`."
+        },
+        "37533ad352e22760bfcb3e7b948a7898": {
+            "text": "Sie k\u00f6nnen die Klasse (und optional Stile) weglassen, wenn Sie das Element lediglich in Ihrem Stile-Dropdown verf\u00fcgbar machen m\u00f6chten, z. B. `ins {}`."
+        },
+        "03a686a25a819b4a21095155a5169466": {
+            "text": "Sie k\u00f6nnen beliebige Stile in GROSSBUCHSTABEN angeben, um sie zus\u00e4tzlich als Inline-Stile im Markup zu erzwingen, z. B. `span.alert { COLOR: red; }`."
+        },
+        "7be896cea420ed53a067ce3158b6fdaf": {
+            "text": "Um alle Eintr\u00e4ge mit demselben \u00fcbergeordneten Element zu entfernen (etwa alle unter \u201eAusrichten\u201c), geben Sie `#Align { display:none }` ein."
+        },
+        "0b6b54402d8e1b6fea7c2c720859f3e9": {
+            "text": "Oder um nur \u201eAusrichten > Zentrieren\u201c (beispielsweise) zu entfernen, geben Sie `#Align (Center) { display:none }` ein."
+        },
+        "91dc21e12b539c20d3f45ee703d1e770": {
+            "text": "Verwenden Sie CSS-Klassen, um benutzerdefinierte Stile f\u00fcr das Dropdown \u201eStile\u201c zu erstellen."
+        },
+        "b3fb5872180828949e9a0895da33be9b": {
+            "text": "Beachten Sie, dass dies nur f\u00fcr den Editor gilt."
+        },
+        "05140c46e7f91e85fd2b65da37c04357": {
+            "text": "Sie werden \u00e4hnliche CSS-Klassen (ohne die #IDs) wahrscheinlich zu Ihrem Frontend-Stylesheet hinzuf\u00fcgen wollen, sofern Sie keine Inline-Stile erzwingen."
+        },
+        "e74e55d9cf66793e0f5384a6fc69af6b": {
+            "text": "Ung\u00fcltige Stile"
+        },
+        "a08a8bd6b50ddbbd38083e8b7e27d60b": {
+            "text": "Durch Leerzeichen, Zeilenumbr\u00fcche oder Kommas getrennte Liste von Inline-Stilen, die in Markup-Style-Attributen nicht erlaubt sein sollen."
+        },
+        "3419deb55e1e99da40c72112ac2c7317": {
+            "text": "Jeder Stil wird f\u00fcr alle Elemente deaktiviert."
+        },
+        "6ee573771283310bd80ba372642f8639": {
+            "text": "Um Stile f\u00fcr bestimmte Elemente\/Tags zu deaktivieren, verwenden Sie das Format %s oder %s."
+        },
+        "49cb3afc67961951bceeea20806376da": {
+            "text": "Geben Sie an, welche Inline-Stile nicht im Markup erscheinen d\u00fcrfen (z. B. line-height, font-size usw.)."
+        },
+        "92b7e4f56512a2c11e06c436d1b73419": {
+            "text": "Die Verwendung von Kommas oder Zeilenumbr\u00fcchen ist optional."
+        },
+        "bb4e6e3259950f60940f366145d48925": {
+            "text": "Dropdown-Men\u00fcs der Men\u00fcleiste"
+        },
+        "25c3936c0382b51a9b6be8f0937e39fc": {
+            "text": "Geben Sie an, welche Werkzeuge in den Dropdown-Men\u00fcs der Men\u00fcleiste angezeigt werden sollen."
+        },
+        "5f0a0bb8122fc7d6416715d0c272729d": {
+            "text": "Die in der Men\u00fcleiste anzuzeigenden Dropdown-Eintr\u00e4ge der obersten Ebene."
+        },
+        "1d5b3ae20af924c8b98bec14feddf585": {
+            "text": "Aus der Men\u00fcleiste zu entfernende Werkzeuge"
+        },
+        "19d14dc54ad27e3ae935d568768f6992": {
+            "text": "Geben Sie an, welche Werkzeuge aus der Men\u00fcleiste entfernt werden sollen (wenn diese verwendet wird)."
+        },
+        "55976f368f2aedb064e23afe0a596f46": {
+            "text": "Die Men\u00fcleiste wird anhand der Standardmodul-Einstellungen und installierten Plugins erstellt."
+        },
+        "026e84317d978baed6a1b51efd7cfd11": {
+            "text": "Wenn es Werkzeuge gibt, die nicht in der Men\u00fcleiste angezeigt werden sollen, geben Sie deren Namen hier ein."
+        },
+        "4a1071b7145a51fc978399f397c5fea9": {
+            "text": "Werkzeuge des Kontextmen\u00fcs"
+        },
+        "62d69c683a3a6f4253665d93d3cf6f3f": {
+            "text": "Geben Sie an, welche Werkzeuge in einem Kontextmen\u00fc erscheinen sollen, wenn Sie mit der rechten Maustaste auf ein Element klicken."
+        },
+        "e1924e74f4a8e1afb1e993466fad4fff": {
+            "text": "Werkzeuge, die im Kontextmen\u00fc angezeigt werden sollen, das beim Rechtsklick auf ein Element erscheint."
+        },
+        "17892d841d3e2e983601a24b88f21e8f": {
+            "text": "Beim Rechtsklick werden nur die f\u00fcr das Element relevanten Werkzeuge angezeigt."
+        },
+        "1ee7adf80343edf6b4a14542b0195491": {
+            "text": "\u00dcberschriftenoptionen"
+        },
+        "a75b8263ff0af3c105247bb530a2595a": {
+            "text": "W\u00e4hlen Sie aus, welche \u00dcberschriften in den Dropdown-Men\u00fcs \u201eblocks\u201c und\/oder \u201estyles\u201c verf\u00fcgbar sein sollen."
+        },
+        "2a5892045fc6e7efb0dd9146545a4c4a": {
+            "text": "Bildfelder f\u00fcr ImgUpload"
+        },
+        "1025eca1f57299c5f86462ab71f9ebb4": {
+            "text": "W\u00e4hlen Sie aus, welche Bildfelder unterst\u00fctzt werden sollen (f\u00fcr Uploads), wenn ein Bild in den Editor gezogen wird."
+        },
+        "43fd41c39ed3325cf0eed70bb658e6d9": {
+            "text": "Wenn keine Felder ausgew\u00e4hlt sind, wird zur Laufzeit automatisch ein verf\u00fcgbares Bilderfeld ausgew\u00e4hlt."
+        },
+        "735a7b09d4c797c0801ae198bd08fe6e": {
+            "text": "Wenn die Option \u201eKeine\u201c ausgew\u00e4hlt ist, wird die Funktion deaktiviert."
+        },
+        "6cebed5235cc421e425e099a1e8afb2b": {
+            "text": "Wenn mehrere Bildfelder auf einer bestimmten Seite \u00fcbereinstimmen, gilt die Reihenfolge der obigen Auswahl."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Keine"
+        }
+    }
+}

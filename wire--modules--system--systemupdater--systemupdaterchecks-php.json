@@ -85,6 +85,21 @@
         },
         "cec93480f3d9c56dd41deb0dd62594bf": {
             "text": "Um die Leistung zu optimieren, sollten Sie den Wert auf mindestens %s erh\u00f6hen."
+        },
+        "87d16ab6475fc685c551a3deb26b0314": {
+            "text": "Warnung: Die Datenbankzeit weicht um %s von der PHP-Zeit ab."
+        },
+        "47d93b16dbcd03998421dc17103a206c": {
+            "text": "%s \u2013 Datenbankzeit"
+        },
+        "c43fe72c10f6c324e4f7bbbace58084e": {
+            "text": "%s \u2013 PHP-Zeit"
+        },
+        "ccd3671a8af3a1c2f505db9228bf30b3": {
+            "text": "Bitte bearbeiten Sie Ihre Datei %1$s und aktualisieren Sie %2$s, sodass die Einstellung mit der Ihrer Datenbank \u00fcbereinstimmt."
+        },
+        "0c56b1743edd58151ac157e68e28aed4": {
+            "text": "Liste der PHP-Zeitzonen anzeigen"
         }
     }
 }

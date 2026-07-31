@@ -1,0 +1,120 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/themes\/default\/config.php",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--themes--default--config-php",
+    "translations": {
+        "5033e44261d04e84a76b8366ed44055d": {
+            "text": "Erstellt von Diogo Oliveira und Jan Ploch bei [KONKAT Studio](https:\/\/konkat.studio\/)."
+        },
+        "e43355c02611c14202521ab877114cdc": {
+            "text": "M\u00f6chten Sie standardm\u00e4\u00dfig den hellen oder dunklen Modus verwenden?"
+        },
+        "4b8f07e0f8886f587bfc84987682e99f": {
+            "text": "Der dunkle Modus wurde durch `$config->AdminThemeUikit(\"noDarkMode\")` deaktiviert"
+        },
+        "00f49a4200256d01064bccbd8e112b15": {
+            "text": "Einzelne Benutzer k\u00f6nnen den hellen, dunklen oder automatischen Modus auch \u00fcber das Benutzertools-Men\u00fc ausw\u00e4hlen."
+        },
+        "f6a8e44ed3f84d6773e3cecffa604617": {
+            "text": "Diese Einstellung wird f\u00fcr Benutzer verwendet, die keinen hellen oder dunklen Modus ausgew\u00e4hlt haben."
+        },
+        "f945fda711522a26eef4126a1ef23553": {
+            "text": "Wenn \u201eAutomatisch\u201c ausgew\u00e4hlt ist, wird der Modus anhand der Einstellung im Browser oder Betriebssystem des Benutzers bestimmt."
+        },
+        "9914a0ce04a7b7b6a8e39bec55064b82": {
+            "text": "Hell"
+        },
+        "a18366b217ebf811ad1886e4f4f865b2": {
+            "text": "Dunkel"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "Automatisch"
+        },
+        "2239e2360e61c63d63dc4c01f706515c": {
+            "text": "(Browser-\/Betriebssystemeinstellung verwenden)"
+        },
+        "d4f5ff0ae84492b5ff3adbfbe81dc7bd": {
+            "text": "Umschalter"
+        },
+        "90eb2799e706374b42f9c3b5bae0f3fb": {
+            "text": "Fette \u00dcberschriften f\u00fcr Repeater, Dateien, Bilder usw. verwenden"
+        },
+        "21da914e4182023f41669aae54d9c655": {
+            "text": "Schaltfl\u00e4chen f\u00fcr Aktionslinks in der Seitenliste verwenden"
+        },
+        "8fd11f8840e5a63dcae209670050801f": {
+            "text": "Fokussierte Eingabefelder hervorheben"
+        },
+        "da9bc28168cedde65bf37ec91268a8b7": {
+            "text": "(zus\u00e4tzliche Verdeutlichung f\u00fcr das aktuell fokussierte Eingabefeld)"
+        },
+        "772a8b7ac14b0114cbf86ae5eec5c64a": {
+            "text": "Einstellung f\u00fcr hell\/dunkel\/automatisch im Benutzertools-Men\u00fc deaktivieren?"
+        },
+        "3e301232080f254ae14605e85fe33b28": {
+            "text": "(verhindert, dass Benutzer ihren eigenen dunklen\/hellen Modus ausw\u00e4hlen)"
+        },
+        "6506e713c3e20607e6cca8ac775845c7": {
+            "text": "Kontrollk\u00e4stchen im Umschalter-Stil global verwenden?"
+        },
+        "943e5206fd4057b606497ce7588dae68": {
+            "text": "(Umschalter anstelle von Kontrollk\u00e4stchen im H\u00e4kchen-Stil verwenden)"
+        },
+        "e377110b9864435d061597665db4fc30": {
+            "text": "Separate Hauptfarbw\u00e4hler f\u00fcr den hellen und dunklen Modus definieren"
+        },
+        "a71098307fb38b55fbc63b19317f2c26": {
+            "text": "(f\u00fcr mehr Kontrast im hellen oder dunklen Modus verwenden)"
+        },
+        "4749a4b32ffdaaedd33ca793094a2b62": {
+            "text": "Hauptfarbe"
+        },
+        "ee38e4d5dd68c4e440825018d549cb47": {
+            "text": "Rot"
+        },
+        "d382816a3cbeed082c9e216e7392eed1": {
+            "text": "Gr\u00fcn"
+        },
+        "9594eec95be70e7b1710f730fdda33d9": {
+            "text": "Blau"
+        },
+        "0f86e3bbfdca949fbd71e30393bbe1dc": {
+            "text": "Benutzerdefinierte Farbw\u00e4hler \u2026"
+        },
+        "5a87da33e33ba568704ec39dd12fe083": {
+            "text": "Benutzerdefinierte Hauptfarbe"
+        },
+        "48ced7a1c56fd6d4ca7d0be9523ead4f": {
+            "text": "Benutzerdefinierte Hauptfarbe (dunkler Modus)"
+        },
+        "78f0192ac55eba33ee88d026452952e5": {
+            "text": "Ohne Rahmen"
+        },
+        "06b275f3c50ee6e2a9cfc31127962552": {
+            "text": "Kopfbereich"
+        },
+        "30fc6bbba82125243ecf4ddb27fee645": {
+            "text": "Minimal"
+        },
+        "fd05d7f6bfc90e815087880e8e915b43": {
+            "text": "Beispiele:"
+        },
+        "29e3782415f5b165d896bde27030a252": {
+            "text": "Benutzerdefinierte CSS-Datei"
+        },
+        "8dcabb48188285f97a861ae83d552dfc": {
+            "text": "Geben Sie eine lokale URL (ohne Schema) relativ zum Installationsstamm ein, z. B. `\/site\/templates\/styles\/admin.css`"
+        },
+        "2ec8e8a6300bf521515c0ebaacf0e706": {
+            "text": "F\u00fcgen Sie das Schema (http, https) nicht in Ihre URL ein"
+        },
+        "5f97964fe19d0f41543b9dfd150ff308": {
+            "text": "Datei existiert nicht: %s"
+        },
+        "42e6feb7f76e910efcda54034ecc83ce": {
+            "text": "Benutzerdefiniertes CSS"
+        },
+        "f063acf97920539cd00f4cea4fe83d8b": {
+            "text": "Nur im erweiterten Modus verf\u00fcgbar."
+        }
+    }
+}

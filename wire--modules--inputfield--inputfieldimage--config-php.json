@@ -121,6 +121,9 @@
         },
         "98ebe60c452735dc2ef2249c835eddfe": {
             "text": "Gilt nur f\u00fcr serverseitige Gr\u00f6\u00dfen\u00e4nderungen."
+        },
+        "4a5e1c028e0c6d8925f33b1764db442e": {
+            "text": "Bei Verwendung der clientseitigen Gr\u00f6\u00dfen\u00e4nderung geben Sie bitte in den obigen Feldern eine maximale Breite und\/oder H\u00f6he oder im folgenden Feld maximale Megapixel an."
         }
     }
 }

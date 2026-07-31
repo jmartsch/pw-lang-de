@@ -331,6 +331,45 @@
         },
         "30a61870b0726430151d669fd3459ac1": {
             "text": "Konsistent"
+        },
+        "1bf14ffef5c2b1b59cec6ba434d3323a": {
+            "text": "Uikit-Stildesign"
+        },
+        "fd9ab98c0a6dec118185eab364051d2d": {
+            "text": "Bitte \u00fcbernehmen\/speichern Sie die \u00c4nderung des Stildesigns, bevor Sie es konfigurieren."
+        },
+        "7fbd655eaeab56b4624d4aa614d72e86": {
+            "text": "Bei Verwendung der Anpassung `admin.less` ist der Stil \u201eCore original\u201c erforderlich."
+        },
+        "571368a2e36e9ad6662d00d70c5b0ef7": {
+            "text": "Core original"
+        },
+        "40ebabf1893d4844f8e9432b97336551": {
+            "text": "Stileinstellungen"
+        },
+        "606b51cc1c9d0b4af394419a22f2ff1f": {
+            "text": "Kontur"
+        },
+        "1d565b9e5303987bb1b1938d5d458bca": {
+            "text": "Karte"
+        },
+        "3d971943089a3388c01fb297a32d9ba7": {
+            "text": "Transparent"
+        },
+        "074de7e7c226d5c60f8af14c20725352": {
+            "text": "Prim\u00e4r"
+        },
+        "0c7d6cf19426e01dcfa32434828ed266": {
+            "text": "Sekund\u00e4r"
+        },
+        "0b90582f4589d84be89f5b847d4d1ed1": {
+            "text": "Hervorhebung"
+        },
+        "0eaadb4fcb48a0a0ed7bc9868be9fbaa": {
+            "text": "Warnung"
+        },
+        "990816b607ebf99b1415760965e4d564": {
+            "text": "Gefahr"
         }
     }
 }

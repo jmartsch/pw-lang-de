@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageListSelect\/InputfieldPageListSelectCommon.php",
+    "textdomain": "wire--modules--inputfield--inputfieldpagelistselect--inputfieldpagelistselectcommon-php",
+    "translations": {
+        "3c472536e5f2ba17397ad099bf7bea1f": {
+            "text": "Seite %d kann nicht angezeigt werden"
+        },
+        "417c313c31381894998d5fa72eac82c8": {
+            "text": "Dieses Feld kann nicht gerendert werden, da in den Feldeinstellungen die \u00fcbergeordnete Seite fehlt."
+        }
+    }
+}
