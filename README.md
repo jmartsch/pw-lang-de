@@ -5,6 +5,12 @@ Uses formal language ("Sie").
 
 The repository will (try to) be up to date with the most recent **stable** version of ProcessWire.
 
+## Updating for a new ProcessWire stable release
+
+The currently supported ProcessWire stable version is recorded in [`PROCESSWIRE_STABLE_VERSION`](PROCESSWIRE_STABLE_VERSION). A weekly GitHub Action compares it with the official ProcessWire download page and opens one issue when an update is needed. It never uses an AI provider or stores translation credentials.
+
+The repeatable update workflow is shipped as a repository skill at [`.agents/skills/processwire-stable-language-pack/SKILL.md`](.agents/skills/processwire-stable-language-pack/SKILL.md). Codex discovers that location when run in this repository. Any contributor can follow the same workflow using their own authenticated Codex/GPT session: the included Python tool creates an explicit translation task, applies the answer and validates JSON, keys and protected placeholders.
+
 Language packs for (some) older versions of ProcessWire are available on the [releases page](https://github.com/jmartsch/pw-lang-de/releases) of this repository.
 
 Big thanks to Matthias Mees and Nico Knoll for their initial work.
